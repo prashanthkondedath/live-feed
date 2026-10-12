@@ -1,1 +1,28 @@
-{"report_time_pdt": "10:05 AM PDT", "report_time_ist": "10:35 PM IST", "items": [{"id": "keralam-assembly-resolution-cec-removal-oct12", "event_time_ist": "~1:12 PM IST, Oct 12", "title": "Keralam Assembly passes resolution seeking CEC Gyanesh Kumar's removal", "summary": "Keralam Assembly passed a resolution (moved by CM V.D. Satheesan, backed by LDF; only BJP's 3 MLAs opposed) seeking Chief Election Commissioner Gyanesh Kumar's removal over alleged SIR irregularities. Three demands: rectify SIR irregularities, restore voting rights of wrongfully excluded voters, and initiate CEC removal proceedings; it also calls for reconstituting the Election Commission selection panel to comprise the PM, Leader of Opposition (Lok Sabha) and CJI. Satheesan: 'Keralam makes history' — first such resolution by the state Assembly.", "source_name": "IANS", "source_url": "https://ianslive.in/kerala-assembly-passes-resolution-seeking-removal-of-cec-gyanesh-kumar--20261012131915", "links": ["https://townpost.net/2026/10/12/kerala-assembly-resolution-remove-cec-gyanesh-kumar-sir-row/", "https://www.IndianEconomicObserver.com/news/keralam-assembly-passes-resolution-seeking-cecs-removal-over-sir-irregularities20261012131914//"], "image_urls": ["https://d2lnbwhcsmj8tp.cloudfront.net/ianslive_watermark/20260604122f.jpg"], "confidence": "confirmed", "report_time_pdt": "10:05 AM PDT", "report_time_ist": "10:35 PM IST", "reported_at_utc": "2026-10-12T17:05:00Z", "sentiment": {"india_bloc": "positive", "bjp": "negative"}}]}
+{
+  "report_time_pdt": "10:03 AM PDT, Oct 12",
+  "report_time_ist": "10:33 PM IST, Oct 12",
+  "items": [
+    {
+      "id": "neha-bora-democracy-looks-like-quote-oct12",
+      "event_time_ist": "~4:30 PM IST, Oct 12",
+      "title": "Neha Bora (AISA) at the Dilli Chalo march: 'This is exactly what democracy looks like'",
+      "summary": "AISA president Neha Bora, marching in the Dilli Chalo march to the Supreme Court, said people have not forgotten democracy: 'This is exactly what democracy looks like. Do you think that by blocking roads, closing metro stations, and cancelling trains, you can stop democracy from coming? You may forget democracy, but the people of this country who have shed their blood have not forgotten democracy, which is why we are on the streets.' ANI-wire quote carried by indianeconomicobserver.com and webindia123.com; same wire, so single-sourced. First new statement from Bora since her march participation was confirmed.",
+      "source_name": "indianeconomicobserver.com",
+      "source_url": "https://www.indianeconomicobserver.com/news/india-bloc-leaders-including-rahul-gandhi-akhilesh-yadav-move-supreme-court-against-election-commission20261012194747//",
+      "links": [
+        "https://news.webindia123.com/news/Articles/India/20261012/4510138.html"
+      ],
+      "image_urls": [
+        "https://www.mahanagarstambh.com/wp-content/uploads/2026/08/neha-bora_large_1216_8-laH5Mp.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "10:03 AM PDT, Oct 12",
+      "report_time_ist": "10:33 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T17:03:21Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
+    }
+  ]
+}

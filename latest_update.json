@@ -1,22 +1,22 @@
 {
-  "report_time_pdt": "7:50 AM PDT, Oct 12",
-  "report_time_ist": "8:20 PM IST, Oct 12",
+  "report_time_pdt": "8:00 AM PDT, Oct 12",
+  "report_time_ist": "8:30 PM IST, Oct 12",
   "items": [
     {
-      "id": "air-india-asks-bcas-why-not-kept-in-loop",
-      "event_time_ist": "reported Oct 11–12 (exact event time unknown)",
-      "title": "Air India asks why it wasn't kept in loop before police boarded flight to detain CJP leaders; seeks BCAS protocol guidelines",
-      "summary": "Air India has asked the Bureau of Civil Aviation Security (BCAS) for guidelines covering situations where police personnel enter aircraft to detain people, after Delhi Police boarded the Mumbai-Delhi flight to detain Abhijeet Dipke, Saurav Das and Ashutosh Ranka on Oct 10. The airline also asked why it wasn't informed of the move in advance and under what circumstances police were permitted to board the plane (The Hindu, via inshorts).",
-      "source_name": "The Hindu (via inshorts)",
-      "source_url": "https://inshorts.com/en/news/after-dipke-s-detention-inside-plane--air-india-asks-govt-why-it-wasn-t-kept-in-loop--report-1791707669893",
+      "id": "dipke-mental-torture-full-video-challenge-oct12",
+      "event_time_ist": "~12:15 PM IST, Oct 12",
+      "title": "Dipke accuses Delhi Police of 'mental torture' in custody, challenges them to release the full video",
+      "summary": "From Hingoli (Maharashtra), after reaching home for his grandmother's last rites, CJP founder Abhijeet Dipke accused Delhi Police of mentally torturing him and his family during his Oct 10-11 detention. He alleged cops denied him contact with his lawyers, wouldn't let him use his phone, and did not inform his parents or lawyers of his whereabouts throughout the day. He challenged police to release the ENTIRE custody video rather than an 'edited version' — a direct rebuttal to the police-sourced footage (logged 03:56Z) showing officers informing him of his grandmother's death 'with due sensitivity'. PTI video; via thedailyjagran article updated ~12:15 PM IST Oct 12.",
+      "source_name": "thedailyjagran.com (PTI video)",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/abhijeet-dipke-cjp-protest-delhi-jantar-mantar-delhi-police-mental-torture-manipulating-video-10332376",
       "links": [
-        "https://www.instagram.com/p/DeZZjG5jahH/"
+        "https://www.thedailyjagran.com/lite/india/news/abhijeet-dipke-cjp-protest-delhi-jantar-mantar-delhi-police-mental-torture-manipulating-video-10332376"
       ],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:50 AM PDT, Oct 12",
-      "report_time_ist": "8:20 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T14:50:19Z",
+      "report_time_pdt": "8:00 AM PDT, Oct 12",
+      "report_time_ist": "8:30 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T15:00:14Z",
       "sentiment": {
         "police_govt": "negative"
       }

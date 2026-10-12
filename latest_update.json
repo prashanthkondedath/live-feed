@@ -1,1 +1,24 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~5:16 PM IST, Oct 12","id":"rg-writ-petition-sc-oct12","image_urls":[],"links":[],"report_time_ist":"05:37 PM IST, Oct 12","report_time_pdt":"05:07 AM PDT, Oct 12","reported_at_utc":"2026-10-12T12:07:40Z","sentiment":{"courts":"neutral","india_bloc":"positive"},"source_name":"thedailyjagran.com day-3 live blog (citing LiveLaw)","source_url":"https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353","summary":"Rahul Gandhi filed a writ petition in the Supreme Court against the Election Commission of India challenging the SIR process (per LiveLaw, via the Jagran live blog). This is the petition-filing outcome the watch has been tracking all afternoon; the blog's headline says his legal team filed it after police stopped the foot march at Bhagwan Das Road. Earlier plans (CJI declined a meeting, asked them to file) now executed.","title":"Rahul Gandhi files writ petition in SC against ECI over SIR"},{"confidence":"single-sourced","event_time_ist":"~5:22 PM IST, Oct 12","id":"bhagwan-das-barricades-oct12","image_urls":[],"links":[],"report_time_ist":"05:37 PM IST, Oct 12","report_time_pdt":"05:07 AM PDT, Oct 12","reported_at_utc":"2026-10-12T12:07:40Z","sentiment":{},"source_name":"thedailyjagran.com day-3 live blog","source_url":"https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353","summary":"Police added more barricades on Bhagwan Das Road amid the INDIA bloc's march to the Supreme Court against CEC Gyanesh Kumar. Follows the earlier stoppage of the opposition march at the barricaded Bhagwan Das Road (~4:48 PM IST); security posture tightening even as metro curbs were lifted.","title":"Police add more barricades on Bhagwan Das Road"},{"confidence":"single-sourced","event_time_ist":"~5:06 PM IST, Oct 12","id":"tejashwi-akhilesh-revanth-oct12","image_urls":[],"links":[],"report_time_ist":"05:37 PM IST, Oct 12","report_time_pdt":"05:07 AM PDT, Oct 12","reported_at_utc":"2026-10-12T12:07:40Z","sentiment":{"india_bloc":"positive"},"source_name":"thedailyjagran.com day-3 live blog","source_url":"https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353","summary":"RJD leader Tejashwi Yadav, SP chief Akhilesh Yadav and Telangana CM Revanth Reddy protested against CEC Gyanesh Kumar in Delhi. Tejashwi and Akhilesh were already on the march; Revanth Reddy joining is new.","title":"Tejashwi, Akhilesh and Telangana CM Revanth Reddy protest against CEC"}],"report_time_ist":"05:37 PM IST, Oct 12","report_time_pdt":"05:07 AM PDT, Oct 12"}
+{
+ "report_time_pdt": "5:17 AM PDT, Oct 12",
+ "report_time_ist": "5:47 PM IST, Oct 12",
+ "items": [
+  {
+   "id": "cjp-letter-delhi-police-oct12",
+   "event_time_ist": "~10:30 AM IST, Oct 12",
+   "title": "CJP submits formal letter to Delhi Police seeking a Jantar Mantar protest date; 24-hour ultimatum now in writing",
+   "summary": "CJP submitted a formal representation to the DCP, Parliament Street Police Station, asking police to pick a date of their choosing for a peaceful Jantar Mantar demonstration (flipping the 10-day notice rule back on the police) and to de-escalate law-enforcement presence. The letter alleges 'severe disruption and widespread public distress' with over 55,000 police and paramilitary personnel deployed, citing arbitrary detentions, physical aggression and prolonged custody, plus financial strain on businesses from road closures. It warns that if police do not respond within 24 hours of receipt, CJP will continue protesting peacefully and announce a mass-protest date. Ashutosh Ranka added that the DCP, Additional DCP and SHO were all absent when the delegation arrived. Note: Saurav Das and Ranka handed the letter in during the already-alerted 10 AM IST PS visit; this is the first publication of the letter's full text and claims.",
+   "source_name": "indianeconomicobserver.com",
+   "source_url": "https://www.indianeconomicobserver.com/news/cjp-submits-letter-to-delhi-police-for-jantar-mantar-protest-amid-venue-de-notification20261012144525//",
+   "links": [],
+   "image_urls": [],
+   "confidence": "single-sourced",
+   "report_time_pdt": "5:17 AM PDT, Oct 12",
+   "report_time_ist": "5:47 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T12:17:39Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   }
+  }
+ ]
+}

@@ -298,6 +298,50 @@
         "saudi_govt": "positive",
         "civilians": "neutral"
       }
+    },
+    {
+      "id": "saudi-patriot-shortage-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "Saudi Arabia running low on Patriot interceptors, WSJ reports",
+      "summary": "Saudi officials told the Wall Street Journal the kingdom's stock of Patriot interceptors is running short after two consecutive days of Houthi missile fire on Riyadh airport. The Journal also reports the US has so far resisted Saudi requests for direct help reversing Houthi territorial gains in Yemen \u2014 though on Oct 2 Washington deployed two additional Patriot batteries to the Gulf, one to Saudi Arabia to protect a major oil facility and one to Qatar for a gas installation.",
+      "source_name": "WSJ via JFeed",
+      "source_url": "https://www.jfeed.com/news/saudi-arabia-patriot-interceptors-shortage-houthis",
+      "links": [
+        "https://www.devdiscourse.com/article/international/3990645-saudi-arabia-running-low-on-interceptor-missiles-to-counter-further-houthi-strikes-reports-wsj"
+      ],
+      "image_urls": [
+        "https://urgent.news/img/333826"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:21 PM PDT, Oct 12",
+      "report_time_ist": "12:51 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:21:00Z",
+      "sentiment": {
+        "houthis": "neutral",
+        "saudi_govt": "negative",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "coalition-retaliation-sanaa-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "Saudi-led coalition hits Houthi Red Sea coast positions; Sanaa airstrikes reported",
+      "summary": "The Saudi-led coalition says it struck Houthi military positions along Yemen's Red Sea coast, including weapons depots and facilities allegedly used to store explosive boats and naval mines, and says it thwarted a planned Houthi maritime attack. Airstrikes on Sanaa were also reported. Claims about targets destroyed and fighters killed are not independently verified \u2014 this is the first reported retaliation since the energy minister's vow.",
+      "source_name": "Farsight Nepal",
+      "source_url": "https://farsightnepal.com/news/houthi-attacks-on-saudi-airports-deepen-regional-tensions/",
+      "links": [],
+      "image_urls": [
+        "https://www.flipar.com.br/wp-content/uploads/2022/04/Old_sanaa.jpg?20250702090230"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:21 PM PDT, Oct 12",
+      "report_time_ist": "12:51 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:21:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "neutral"
+      }
     }
   ]
 }

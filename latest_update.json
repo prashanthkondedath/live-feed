@@ -14,7 +14,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:50 AM PDT, Oct 12",
       "report_time_ist": "2:20 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T08:50:00Z"
+      "reported_at_utc": "2026-10-12T08:50:00Z",
+      "sentiment": {}
     },
     {
       "id": "ani-parliament-street-visit-quotes-oct12",
@@ -28,7 +29,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:50 AM PDT, Oct 12",
       "report_time_ist": "2:20 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T08:50:00Z"
+      "reported_at_utc": "2026-10-12T08:50:00Z",
+      "sentiment": {}
     }
   ]
 }

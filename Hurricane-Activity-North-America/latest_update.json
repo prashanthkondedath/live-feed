@@ -1,1 +1,28 @@
-{"items": [{"confidence": "confirmed", "event_time_ist": "Oct 12, 2026 (early-morning PDT report; flooding overnight Oct 11-12)", "id": "simon-cihuatlan-river-alert-oct12", "image_urls": ["https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299189216.jpg?c=16x9&q=w_860,c_fill", "https://watchers.news/wp-content/uploads/2026/10/Satellite-image-of-Hurricane-Simon-at-1040-UTC-on-October-12.-2026.webp"], "links": ["https://rapidtimesngr.com/hurricane-simon-brings-flooding-and-evacuation-fears-to-mexico/", "https://www.virginradiodubai.com/trending/international-news/hurricane-simon-weakens-to-category-3-as-rains-flood-mexicos-pacific-coast/"], "report_time_ist": "3:20 AM IST, Oct 13", "report_time_pdt": "2:50 PM PDT, Oct 12", "reported_at_utc": "2026-10-12T21:50:00Z", "sentiment": {"civilians": "negative", "mexico_govt": "neutral"}, "source_name": "Reuters", "source_url": "https://kelofm.com/2026/10/12/hurricane-simon-crawls-along-mexicos-pacific-coast-bringing-floods-and-evacuations/", "summary": "Reuters on-the-ground reporting Oct 12: rising water levels in the Marabasco River in Cihuatlan, Jalisco (near the Colima border) prompted patrols by the Mexican Army, Civil Protection officials and the Red Cross; floodwater inundated streets and low-lying areas of the town overnight and riverside communities were placed on alert for possible evacuations. In the port city of Manzanillo, Colima, residents waded through flooded homes and streets as navy personnel helped remove water - resident Maria Elena Vazquez said 'Everything got flooded,' with water at ankle level inside homes. Corroborated by Rapid Times NGR (same wire reporting) and Virgin Radio Dubai/AFP (Sunday flooding in Manzanillo). Separately, Fox Weather projects Simon could make landfall near Mazatlan on Wednesday night, earlier than the NHC's Thursday Sinaloa window - a single-outlet forecast, not an official call.", "title": "Simon flooding: Marabasco River rising prompts Army/Red Cross patrols in Cihuatlan; riverside communities on evacuation alert"}], "report_time_ist": "3:20 AM IST, Oct 13", "report_time_pdt": "2:50 PM PDT, Oct 12"}
+{
+  "report_time_pdt": "3:20 PM PDT, Oct 12",
+  "report_time_ist": "3:50 AM IST, Oct 13",
+  "items": [
+    {
+      "id": "fpl-70pct-restoration-target-oct12",
+      "event_time_ist": "Oct 12, 2026 (afternoon local briefing; 2:45 PM local outage counts)",
+      "title": "FPL cuts Monday restoration target to 70% in Escambia/Santa Rosa after 'extensive damage' found",
+      "summary": "FPL President/CEO Scott Bores announced in a Monday operational briefing that Monday-night restoration estimates for Escambia and Santa Rosa counties were lowered to 70% of customers able to safely accept power, down from the earlier 85% (originally 95%) target, after crews reached previously inaccessible communities and found severe tree damage and 700+ power poles snapped by falling timber. FPL showed 55,290 customers without power in Escambia and 34,790 in Santa Rosa at 2:45 Monday afternoon. Remaining customers to be reconnected Tuesday; company-wide 75%+ restored (~330,000 accounts), aiming for 85% overall Monday night. Bores blamed Hurricane Isaias's destructive western eyewall cutting directly over the two counties. 17,000 workers deployed 24/7; 15 customer relief sites handing out ice/water.",
+      "source_name": "NorthEscambia.com",
+      "source_url": "https://www.northescambia.com/2026/10/3fpl-lowers-monday-restoration-target-to-70-in-escambia-santa-rosa-due-to-extensive-damage",
+      "links": [
+        "https://www.northescambia.com/2026/10/3fpl-lowers-monday-restoration-target-to-70-in-escambia-santa-rosa-due-to-extensive-damage",
+        "https://www.pnj.com/story/weather/hurricanes/2026/10/12/fpl-outages-florida-panhandle-isaias/92214152007/"
+      ],
+      "image_urls": [
+        "https://www.northescambia.com/wp-content/uploads/2026/10/boles11-540x307.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:20 PM PDT, Oct 12",
+      "report_time_ist": "3:50 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T22:20:00Z",
+      "sentiment": {
+        "civilians": "negative"
+      }
+    }
+  ]
+}

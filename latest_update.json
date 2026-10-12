@@ -1,26 +1,44 @@
 {
-  "report_time_pdt": "3:28 AM PDT, Oct 12",
-  "report_time_ist": "3:58 PM IST, Oct 12",
-  "items": [
-    {
-      "id": "chalo-dilli-march-to-sc-underway",
-      "event_time_ist": "~3:11-3:23 PM IST, Oct 12",
-      "title": "INDIA bloc's Chalo Dilli march leaves Constitution Club, heads for the Supreme Court",
-      "summary": "First concrete reporting of the march-to-SC phase: a bus carrying Mallikarjun Kharge, Rahul Gandhi and Priyanka Gandhi Vadra plus other INDIA bloc leaders left the Constitution Club ~3:11 PM IST for the Barakhamba Road junction to start the 'March for Democracy' to the Supreme Court (PTI video via the live blog); protesters gathered at Barakhamba Road ~3:20 PM IST; by ~3:23 PM IST Rahul Gandhi was leading the march to the SC, where leaders plan to file the vote-chori petition against CEC Gyanesh Kumar.",
-      "source_name": "The Daily Jagran (day-3 live blog)",
-      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-      "links": [
-        "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-        "https://www.devdiscourse.com/article/politics/3990790-india-bloc-protest-march-gets-underway-in-delhi-leaders-head-to-supreme-court"
-      ],
-      "image_urls": [],
-      "confidence": "confirmed",
-      "report_time_pdt": "3:28 AM PDT, Oct 12",
-      "report_time_ist": "3:58 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T10:28:44Z",
-      "sentiment": {
-        "india_bloc": "positive"
-      }
-    }
-  ]
+ "report_time_pdt": "4:08 AM PDT, Oct 12",
+ "report_time_ist": "4:38 PM IST, Oct 12",
+ "items": [
+  {
+   "id": "dilli-chalo-neha-bora-march-oct12",
+   "event_time_ist": "~4:37 PM IST, Oct 12",
+   "title": "Rahul Gandhi, Priyanka Gandhi Vadra and AISA chief Neha Bora marching in 'Dilli Chalo' protest toward the SC",
+   "summary": "The Jagran day-3 live blog's newest entry (04:37 PM IST, Oct 12) confirms Lok Sabha LoP Rahul Gandhi, Congress MP Priyanka Gandhi Vadra and AISA president Neha Bora are participating in the 'Dilli Chalo' march, demanding action against and the resignation of CEC Gyanesh Kumar. Neha Bora marching alongside the INDIA-bloc leadership is new — she was detained on Saturday evening (released Oct 10, phone returned). A companion 04:26 PM IST entry ('Akhilesh Yadav joins agitation') repeats the already-alerted 12:00 PM IST march confirmation; 04:15 PM IST ANI visuals (Statesman House) and a 03:58 PM IST Mandi House security note are march-in-motion color with no new facts. Petition-filing outcome still not reported.",
+   "source_name": "The Daily Jagran (INDIA-bloc day-3 live blog)",
+   "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [
+    "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353"
+   ],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "4:08 AM PDT, Oct 12",
+   "report_time_ist": "4:38 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:08:31Z",
+   "sentiment": {
+    "india_bloc": "positive"
+   }
+  },
+  {
+   "id": "aap-leaders-detained-cp-oct12-claim",
+   "event_time_ist": "Oct 12 (time unspecified)",
+   "title": "Claim: AAP leaders detained on Oct 12 while marching toward Connaught Place",
+   "summary": "A verified Firstpost Instagram roundup carousel (published 10:58:26Z, ~4:28 PM IST Oct 12) reports that AAP leaders were detained on Oct 12 while marching toward Connaught Place. No names, times or detention locations given, and no other outlet corroborated it in this run — single-sourced, watch for corroboration. The same carousel recaps already-logged facts: ~500 detained in Oct 11 flash protests (student activists, CPI(M) MP John Brittas, journalists), the Jantar Mantar de-notification (Ramlila/Burari/CBD replacement venues), and six metro stations restricted 6 AM-4 PM Oct 12.",
+   "source_name": "Firstpost (verified IG roundup carousel @firstpost)",
+   "source_url": "https://www.instagram.com/p/DeZErmDnVQU/",
+   "links": [
+    "https://www.instagram.com/p/DeZErmDnVQU/"
+   ],
+   "image_urls": [],
+   "confidence": "single-sourced",
+   "report_time_pdt": "4:08 AM PDT, Oct 12",
+   "report_time_ist": "4:38 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:08:31Z",
+   "sentiment": {
+    "police_govt": "negative"
+   }
+  }
+ ]
 }

@@ -1,22 +1,22 @@
 {
-  "report_time_pdt": "12:32 PM PDT, Oct 12",
-  "report_time_ist": "1:02 AM IST, Oct 13",
+  "report_time_pdt": "2:54 PM PDT, Oct 12",
+  "report_time_ist": "3:24 AM IST, Oct 13",
   "items": [
     {
-      "id": "riyadh-ballistic-missile-monday-oct12",
+      "id": "three-missiles-intercepted-monday-oct12",
       "event_time_ist": "Oct 12, 2026",
-      "title": "Saudi Arabia says it intercepted a ballistic missile headed for Riyadh on Monday",
-      "summary": "Saudi Arabia said it intercepted and destroyed a ballistic missile launched toward Riyadh on Monday, as King Khalid airport stayed shut. The past week's Houthi attacks have killed at least 20 people and wounded hundreds, per CNN's tally. Hours earlier, civil aviation said the airport stays closed until further notice (NOTAM: at least Oct 17) pending safety verification.",
+      "title": "Saudi Arabia says it downed three Houthi ballistic missiles Monday",
+      "summary": "Saudi Arabia said it intercepted and destroyed three Houthi ballistic missiles on Monday \u2014 one over Riyadh and two over Khamis Mushait in the southwest. The Houthis claimed responsibility, saying they targeted King Khalid International Airport and a military base, and renewed warnings to airlines against flying to Saudi airports. The week's Houthi attacks have killed at least 20 people and wounded hundreds, per CNN's tally.",
       "source_name": "CNN",
       "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
       "links": [],
       "image_urls": [
-        "https://texty.org.ua/media/images/1_ugFVTXO.original.2e16d0ba.fill-1200x630.jpg"
+        "https://samanews.ps/ar/uploads//images/4fa71ed83c3255eca0b0ab1d655e4c70.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:32 PM PDT, Oct 12",
-      "report_time_ist": "1:02 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "report_time_pdt": "2:54 PM PDT, Oct 12",
+      "report_time_ist": "3:24 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T21:54:00Z",
       "sentiment": {
         "houthis": "negative",
         "saudi_govt": "positive",
@@ -24,45 +24,43 @@
       }
     },
     {
-      "id": "coalition-136-targets-sanaa-oct12",
-      "event_time_ist": "Oct 10-12, 2026 (reported Oct 12)",
-      "title": "Coalition claims 136 Houthi targets destroyed; Sanaa airport hit Sunday",
-      "summary": "The Saudi-led coalition says large-scale airstrikes destroyed 136 Houthi military targets \u2014 missile storage, command centers and depots \u2014 to degrade their ballistic-missile capability; Houthi-run Al-Masirah confirmed strikes in Saada province. Saudi forces also struck Sanaa International Airport on Sunday (no casualty reports yet, per Saba). The Houthis counter-claim 124 Saudi airstrikes over the weekend and say 91 people, mostly women and children, have been killed since Sept 3 (unverified); the UN puts the latest fighting's toll near 1,000 killed and 200,000+ displaced.",
-      "source_name": "Terror Monitor",
-      "source_url": "https://terrormonitor.com/post/saudi-led-coalition-says-it-destroyed-136-houthi-military-targets-in-yemen-airstrikes",
+      "id": "saudi-oil-shipment-cuts-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "Saudi cuts oil shipments to European refineries after pipeline damage; UK sends advisers",
+      "summary": "Saudi Arabia has cut some oil shipments to key European refineries after drone attacks damaged its key export pipeline, The Times reports \u2014 stoking European supply-shock fears, with diesel expected to top \u00a32 a litre in the UK. Separately, PM Andy Burnham agreed Monday evening to RAF Voyager defensive air-to-air refuelling for Saudi jets, with a small team of British military advisers deployed to the kingdom and support beginning within days (expanding the refuelling mission first announced in September).",
+      "source_name": "The Times",
+      "source_url": "https://www.thetimes.com/uk/politics/article/raf-support-saudi-arabia-houthis-yemen-xm3hbkjd2",
       "links": [
-        "https://dailythedestination.com/saudi-coalition-airstrikes-destroy-136-houthi-military-targets-in-yemen/",
-        "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
-        "https://www.dropsitenews.com/p/yemen-sanaa-saudi-coalition-airstrikes-ansarallah-schoolgirl"
+        "https://terrormonitor.com/post/uk-to-provide-defensive-air-refueling-support-to-saudi-arabia-amid-houthi-attacks"
       ],
       "image_urls": [
-        "https://yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+        "https://weaver.com/wp-content/uploads/2024/03/crude-oil-refinery-during-sunset-with-pipeline-conection_AdobeStock_138629429.jpg_Resized-800x900.jpg"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "12:32 PM PDT, Oct 12",
-      "report_time_ist": "1:02 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "2:54 PM PDT, Oct 12",
+      "report_time_ist": "3:24 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T21:54:00Z",
       "sentiment": {
         "houthis": "negative",
-        "saudi_govt": "positive",
+        "saudi_govt": "negative",
         "civilians": "negative"
       }
     },
     {
-      "id": "mbs-pushing-trump-oct12",
+      "id": "us-carriers-gulf-oct12",
       "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
-      "title": "MBS reportedly pushing Trump to take military action against Houthis",
-      "summary": "Crown Prince Mohammed bin Salman has reportedly been pressing President Trump to take military action against the Houthis, who agreed to a ceasefire with the US last year. Trump said Saturday the US may join Saudi strikes \u2014 a reversal after Washington repeatedly declined Riyadh's requests. The decision point lands as the Houthis vow to keep hitting Saudi airports and the coalition vows a strong response.",
-      "source_name": "NY Post",
-      "source_url": "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
+      "title": "USS Theodore Roosevelt moves in; three US carrier groups now near region",
+      "summary": "The USS Theodore Roosevelt is approaching the region, temporarily bringing three US aircraft carrier battle groups to the area, RANE reports \u2014 the biggest US naval concentration there in months. It lands as Trump weighs joining Saudi strikes on the Houthis and MBS lobbies him for action, and as analysts warn Riyadh could be pushed toward ground operations in Yemen.",
+      "source_name": "RANE Worldview",
+      "source_url": "https://worldview.ranenetwork.com/content/situational-report/2026-10-12/saudi-arabia-yemen-deadly-houthi-strikes-may-push-riyadh-into-ground-ops-draw-u-s-intervention/3c6bae1e00ae3e03",
       "links": [],
       "image_urls": [
-        "https://fed.uu.org/system/media_attachments/files/109/364/185/003/100/930/original/b9ba19177e41fc70.jpg"
+        "https://redscroll.site/_next/image?url=https%3A%2F%2Fwww.twz.com%2Fwp-content%2Fuploads%2F2026%2F08%2FGW-CENTCOM1.jpg%3Fquality%3D85&w=1200&q=90"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:32 PM PDT, Oct 12",
-      "report_time_ist": "1:02 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "report_time_pdt": "2:54 PM PDT, Oct 12",
+      "report_time_ist": "3:24 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T21:54:00Z",
       "sentiment": {
         "houthis": "negative",
         "saudi_govt": "positive",

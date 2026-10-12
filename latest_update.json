@@ -1,1 +1,24 @@
-{"report_time_pdt": "10:40 AM PDT", "report_time_ist": "11:10 PM IST", "items": [{"id": "neha-bora-lookalike-rk-ashram-oct11", "event_time_ist": "~2:30-3:00 PM IST, Oct 11 (reported Oct 12)", "title": "'Tale of two Nehas': police detained a lookalike at RK Ashram while the real Neha Bora reached CP", "summary": "On Sunday, AISA president Neha Bora teased on X ('Do I have your attention?... Time & Venue incoming') and announced a 2:30 PM gathering at RK Ashram. Police took into custody there a woman matching her signature look (scarf, black-rimmed glasses, mask) — actually a lookalike; Bora's sister later posted a photo with the lookalike, writing 'The tale of the two Nehas. Not strategy, just coincidence.' Meanwhile the real Bora blockaded Connaught Place ('We have crossed the barricades and reached CP') and was eventually detained at Vijay Chowk. 200+ Sunday protesters were also detained.", "source_name": "thedailyjagran.com (JND)", "source_url": "https://www.thedailyjagran.com/lite/india/news/aisa-neha-bora-how-aisa-leader-tricked-delhi-police-with-a-lookalike-to-dodged-security-perimeter-tale-of-two-nehas-10332381", "links": ["https://sdna.in/2026/10/12/two-women-one-name-lookalike-mix-up-confuses-delhi-police-during-protest/"], "image_urls": ["https://images.thedailyjagran.com/images/2026/10/12/template/image/neha-bora-1791784347904.webp"], "confidence": "confirmed", "report_time_pdt": "10:40 AM PDT", "report_time_ist": "11:10 PM IST", "reported_at_utc": "2026-10-12T17:40:00Z", "sentiment": {"cjp_protesters": "positive", "police_govt": "negative"}}, {"id": "neha-bora-bus-cells-allegation-oct11", "event_time_ist": "Oct 11 evening (reported Oct 11-12)", "title": "Neha Bora posts video alleging cramped police-bus cells; says women packed in, men 'abused and kicked'", "summary": "After her Sunday detention, AISA president Neha Bora posted a video on X describing the police bus as having four cramped cells with no room to breathe, alleging women were packed into a small compartment and male protesters were abused and kicked. Police have not responded to the claims in the reports available. Background: she had recently ended a 23-day hunger strike at the same spot; by ~2:51 PM Sunday she announced reaching Connaught Place before being taken into custody around 3 PM.", "source_name": "7globe.in", "source_url": "https://www.7globe.in/from-a-23-day-hunger-strike-to-a-connaught-place-sprint-meet-neha-bora-delhi-news/", "links": [], "image_urls": ["https://i0.wp.com/sdna.in/wp-content/uploads/2026/08/88c17809-89da-459d-975b-5512489f7e39.png?fit=1254%2C1254&ssl=1"], "confidence": "single-sourced", "report_time_pdt": "10:40 AM PDT", "report_time_ist": "11:10 PM IST", "reported_at_utc": "2026-10-12T17:40:00Z", "sentiment": {"cjp_protesters": "positive", "police_govt": "negative"}}]}
+{
+  "report_time_pdt": "11:30 AM PDT",
+  "report_time_ist": "12:00 AM IST",
+  "items": [
+    {
+      "id": "sc-14-defects-flagged-sir-petition-oct12",
+      "event_time_ist": "~evening IST, Oct 12",
+      "title": "SC registry flags 14 defects in Rahul Gandhi-led SIR writ petition; must be cured before listing",
+      "summary": "The Supreme Court registry flagged 14 defects in the INDIA bloc's SIR writ petition (diary no. 64196/2026), filed by Rahul Gandhi plus 10 other opposition leaders on Oct 12: naming individual Election Commissioners as respondents, missing vakalatnamas from nine petitioners, no copy of an earlier relevant judgment attached, an illegible ID copy of Congress president Mallikarjun Kharge, a Rs 220 court-fee shortfall, and font/legibility issues. Under the SC Rules 2013 the defects must be rectified before the petition can be assigned to a bench and listed for hearing; the timeline for rectification is unclear. The ECI has not publicly responded to the petition's specific allegations.",
+      "source_name": "nationpress.com",
+      "source_url": "https://www.nationpress.com/national/sc-flags-14-defects-in-rahul-gandhis-eci-plea",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:30 AM PDT",
+      "report_time_ist": "12:00 AM IST",
+      "reported_at_utc": "2026-10-12T18:31:00Z",
+      "sentiment": {
+        "india_bloc": "negative",
+        "courts": "neutral"
+      }
+    }
+  ]
+}

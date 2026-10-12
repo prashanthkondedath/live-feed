@@ -1,42 +1,24 @@
 {
-  "report_time_pdt": "2:38 AM PDT, Oct 12",
-  "report_time_ist": "3:08 PM IST, Oct 12",
-  "items": [
-    {
-      "id": "shivraj-chouhan-march-is-drama-oct12",
-      "event_time_ist": "~2:57 PM IST, Oct 12",
-      "title": "Shivraj Singh Chouhan calls INDIA bloc march 'drama'",
-      "summary": "Union minister Shivraj Singh Chouhan called the INDIA bloc's march to the Supreme Court a 'drama', saying Congress is trying to 'create anarchy by spreading falsehood in its bid to come to power'. (The Daily Jagran INDIA-bloc live blog, 02:57 PM IST entry)",
-      "source_name": "The Daily Jagran",
-      "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-      "links": [],
-      "image_urls": [],
-      "confidence": "single-sourced",
-      "report_time_pdt": "2:38 AM PDT, Oct 12",
-      "report_time_ist": "3:08 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T09:38:00Z",
-      "sentiment": {
-        "bjp": "neutral",
-        "india_bloc": "negative"
-      }
-    },
-    {
-      "id": "cji-letter-separation-of-powers-oct12",
-      "event_time_ist": "~2:28 PM IST, Oct 12",
-      "title": "CJI's letter: meeting declined on 'separation of powers' principle",
-      "summary": "Details of CJI Surya Kant's letter declining the INDIA bloc meeting request: the meeting would be 'against the principle of separation of powers', per India Today reporting cited on the Jagran live blog (02:28 PM IST entry). The CJI's response was sent to the opposition leaders' official email on Sunday night.",
-      "source_name": "India Today via The Daily Jagran",
-      "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-      "links": [],
-      "image_urls": [],
-      "confidence": "single-sourced",
-      "report_time_pdt": "2:38 AM PDT, Oct 12",
-      "report_time_ist": "3:08 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T09:38:00Z",
-      "sentiment": {
-        "courts": "neutral",
-        "india_bloc": "neutral"
-      }
-    }
-  ]
+ "report_time_pdt": "2:39 AM PDT, Oct 12",
+ "report_time_ist": "3:09 PM IST, Oct 12",
+ "items": [
+  {
+   "id": "dipke-fascist-dictator-post-oct12",
+   "event_time_ist": "between ~2:47 and ~3:08 PM IST, Oct 12",
+   "title": "Abhijeet Dipke's new personal post: Modi 'a fascist dictator'",
+   "summary": "New top post on @abhijeetdipke (~66K likes, ~780 comments within minutes): 'Waging war against your own countrymen. You’re showing the country exactly what you are: a fascist dictator, @narendramodi.' First direct public statement from the founder since reaching Hingoli for his grandmother's last rites — a personal-rhetoric escalation while Das and Ranka lead from Delhi. Provider returned no post timestamp; ranked newest at the ~3:10 PM IST fetch and absent from the 2:47 PM IST check.",
+   "source_name": "Instagram @abhijeetdipke",
+   "source_url": "https://www.instagram.com/p/DeYnH_oPRVX/",
+   "links": [],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "2:39 AM PDT, Oct 12",
+   "report_time_ist": "3:09 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T09:39:39Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "bjp": "negative"
+   }
+  }
+ ]
 }

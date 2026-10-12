@@ -578,6 +578,44 @@
       "sentiment": {
         "civilians": "negative"
       }
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "3:00 AM IST, Oct 13 (4:30 PM CT, Oct 12)",
+      "id": "fpl-escambia-santarosa-outage-430pm-oct12",
+      "image_urls": [],
+      "links": [],
+      "report_time_ist": "4:55 AM IST, Oct 13",
+      "report_time_pdt": "4:25 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T23:25:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "us_govt": "neutral"
+      },
+      "source_name": "Pensacola News Journal",
+      "source_url": "https://www.pnj.com/story/weather/hurricanes/2026/10/12/how-to-know-if-your-power-was-restored-or-not-after-isaiah/92224296007/",
+      "summary": "Florida Power & Light had restored power to 168,510 customers in Escambia and Santa Rosa counties, with 81,220 still without power, as of 4:30 p.m. CT Monday (Pensacola News Journal, updated <1h before this report). FPL still targets 70% of homes restored by Monday night — including all schools and critical infrastructure — and the remainder by end of Tuesday; the FPL app has falsely shown some customers as restored.",
+      "title": "Isaias outage update: 81,220 still without power in Escambia/Santa Rosa as of Monday 4:30 p.m. CT"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Monday afternoon, Oct 12 (PT)",
+      "id": "rachel-longbeach-redtagged-oct12",
+      "image_urls": [],
+      "links": [
+        "https://mynewsla.com/orange-county/2026/10/12/waves-again-pound-long-beach-waterfront-city-looks-to-recovery-efforts/"
+      ],
+      "report_time_ist": "4:55 AM IST, Oct 13",
+      "report_time_pdt": "4:25 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T23:25:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "us_govt": "neutral"
+      },
+      "source_name": "New York Post",
+      "source_url": "https://nypost.com/2026/10/11/us-news/long-beach-homeowners-devestated-as-tropical-storm-rachel-destroys-homes/",
+      "summary": "Long Beach Mayor Rex Richardson confirmed Monday afternoon that eight buildings (13 residences) on the Alamitos Peninsula remain red-tagged as unsafe and one building yellow-tagged after post-tropical Rachel's surf waves battered the waterfront; no additional buildings were tagged but damage continues to worsen. Mandatory evacuation orders stand for the Seaside Walk 6400/6500 blocks; broader Peninsula advisories have been lifted, and NWS coastal flood warnings were downgraded to an advisory through 2 p.m. Tuesday. (Confirmed by MyNewsLA; ABC7 also carried the 13-red-tagged count.)",
+      "title": "Post-tropical Rachel: 8 buildings (13 homes) red-tagged on Long Beach Peninsula; damage still worsening"
     }
   ]
 }

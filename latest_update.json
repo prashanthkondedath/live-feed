@@ -1,24 +1,65 @@
 {
- "report_time_pdt": "5:17 AM PDT, Oct 12",
- "report_time_ist": "5:47 PM IST, Oct 12",
- "items": [
-  {
-   "id": "cjp-letter-delhi-police-oct12",
-   "event_time_ist": "~10:30 AM IST, Oct 12",
-   "title": "CJP submits formal letter to Delhi Police seeking a Jantar Mantar protest date; 24-hour ultimatum now in writing",
-   "summary": "CJP submitted a formal representation to the DCP, Parliament Street Police Station, asking police to pick a date of their choosing for a peaceful Jantar Mantar demonstration (flipping the 10-day notice rule back on the police) and to de-escalate law-enforcement presence. The letter alleges 'severe disruption and widespread public distress' with over 55,000 police and paramilitary personnel deployed, citing arbitrary detentions, physical aggression and prolonged custody, plus financial strain on businesses from road closures. It warns that if police do not respond within 24 hours of receipt, CJP will continue protesting peacefully and announce a mass-protest date. Ashutosh Ranka added that the DCP, Additional DCP and SHO were all absent when the delegation arrived. Note: Saurav Das and Ranka handed the letter in during the already-alerted 10 AM IST PS visit; this is the first publication of the letter's full text and claims.",
-   "source_name": "indianeconomicobserver.com",
-   "source_url": "https://www.indianeconomicobserver.com/news/cjp-submits-letter-to-delhi-police-for-jantar-mantar-protest-amid-venue-de-notification20261012144525//",
-   "links": [],
-   "image_urls": [],
-   "confidence": "single-sourced",
-   "report_time_pdt": "5:17 AM PDT, Oct 12",
-   "report_time_ist": "5:47 PM IST, Oct 12",
-   "reported_at_utc": "2026-10-12T12:17:39Z",
-   "sentiment": {
-    "cjp_protesters": "positive",
-    "police_govt": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "5:38 AM PDT, Oct 12",
+  "report_time_ist": "6:08 PM IST, Oct 12",
+  "items": [
+    {
+      "id": "police-pushback-barakhamba-oct12",
+      "event_time_ist": "~5:47 PM IST, Oct 12",
+      "title": "Police pushed back protesters near Barakhamba Road during INDIA bloc SC march",
+      "summary": "Delhi Police pushed back protesters near Barakhamba Road during the INDIA bloc's 'March for Democracy' to the Supreme Court against CEC Gyanesh Kumar (thedailyjagran day-3 live blog, 05:47 PM IST entry \u2014 landed after the prior run's full-page check; distinct from the earlier-logged ~4:48 PM IST stoppage at Bhagwan Das Road). No detentions or injuries reported in the entry.",
+      "source_name": "thedailyjagran.com (day-3 live blog)",
+      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+      "links": [
+        "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353"
+      ],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:38 AM PDT, Oct 12",
+      "report_time_ist": "6:08 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T12:38:05Z",
+      "sentiment": {
+        "india_bloc": "negative",
+        "police_govt": "neutral"
+      }
+    },
+    {
+      "id": "mandi-house-traffic-max-force-oct12",
+      "event_time_ist": "~6:06 PM IST, Oct 12",
+      "title": "Traffic police: Mandi House roads affected, 'maximum available force' deployed",
+      "summary": "Amid the INDIA bloc march, Additional Commissioner of Police (Traffic) Dinesh Kumar Gupta said Mandi House and roads in the division are affected: 'substantial force has been deployed. We have deployed our maximum available force; traffic is being properly regulated, and we are issuing advisories accordingly' (thedailyjagran day-3 live blog, 06:06 PM IST entry).",
+      "source_name": "thedailyjagran.com (day-3 live blog)",
+      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+      "links": [
+        "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353"
+      ],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:38 AM PDT, Oct 12",
+      "report_time_ist": "6:08 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T12:38:05Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
+    },
+    {
+      "id": "rathee-unofficial-house-arrest-oct12",
+      "event_time_ist": "~12:58 PM IST, Oct 12",
+      "title": "Dhruv Rathee claims he is 'unofficially under house arrest' with police surveillance",
+      "summary": "YouTuber Dhruv Rathee (released ~3 AM IST Oct 11 after the Jantar Mantar crackdown) claims he is 'unofficially' under house arrest: ~50 police personnel stationed outside his residence, being followed wherever he goes, and threatened with immediate detention if he goes near a protest; he said he wanted to join Monday's INDIA bloc march to the SC but was prevented (reported by thedailyjagran via Lallantop; article published 12:58 PM IST Oct 12 \u2014 pre-baseline but never logged by earlier runs; self-reported, not independently corroborated).",
+      "source_name": "thedailyjagran.com (citing Lallantop)",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/dhruv-rathee-claims-he-is-unofficially-under-house-arrest-police-surveillance-days-after-detention-10332393",
+      "links": [
+        "https://www.thedailyjagran.com/lite/india/news/dhruv-rathee-claims-he-is-unofficially-under-house-arrest-police-surveillance-days-after-detention-10332393"
+      ],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:38 AM PDT, Oct 12",
+      "report_time_ist": "6:08 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T12:38:05Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "india_bloc": "positive"
+      }
+    }
+  ]
 }

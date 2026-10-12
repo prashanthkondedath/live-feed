@@ -1,6 +1,6 @@
 {
-  "generated_at_pdt": "10:22 AM PDT, Oct 12",
-  "generated_at_ist": "10:52 PM IST, Oct 12",
+  "generated_at_pdt": "2:09 PM PDT, Oct 12",
+  "generated_at_ist": "2:39 AM IST, Oct 13",
   "deduplicated": true,
   "dropped_bookkeeping": 4,
   "items": [
@@ -3544,6 +3544,29 @@
       "sentiment": {
         "india_bloc": "negative",
         "courts": "neutral"
+      }
+    },
+    {
+      "id": "revanth-freedom-movement-simon-go-back-oct12",
+      "event_time_ist": "Oct 12, 2026 (meeting held Monday; exact time not stated)",
+      "title": "Revanth Reddy calls anti-SIR fight 'another freedom movement', urges 'Gyanesh Go Back' / 'SIR Go Back' slogans at Delhi meeting",
+      "summary": "Telangana CM A. Revanth Reddy, speaking Monday at Telangana Bhavan in New Delhi as part of the Congress/INDIA bloc 'Vote Bachao... Desh Bachao' (Save Vote... Save Country) campaign, said the struggle to safeguard voting rights is akin to another freedom movement — invoking the historic 'Simon Go Back' stir and urging activists to fight with 'Gyanesh Go Back' and 'SIR Go Back' slogans. Per the CMO statement, he alleged the Modi government conspired with CEC Gyanesh Kumar to delete voters' names under the guise of the SIR ('Vote chori'), said the fight is led by Kharge, Rahul Gandhi and INDIA alliance leaders, and faulted the 2023 change to EC appointments. Meeting attended by Deputy CM Mallu Bhatti Vikramarka, state ministers, TPCC chief Mahesh Kumar Goud, AICC observer Sachin Sawant and MPs/MLAs/MLCs. Corroborated by IANS (hiindia, ianslive) and ANI (devdiscourse) versions of the same statement.",
+      "source_name": "Nation Press",
+      "source_url": "https://www.nationpress.com/national/revanth-reddy-anti-sir-fight-is-new-freedom-struggle",
+      "links": [
+        "https://hiindia.com/anti-sir-struggle-akin-to-another-freedom-movement-telangana-cm/",
+        "https://ianslive.in/anti-sir-struggle-akin-to-another-freedom-movement-says-telangana-cm--20261012220926",
+        "https://www.devdiscourse.com/article/headlines/3991061-telangana-cm-blasts-pm-modi-amit-shah-cec-gyanesh-kumar-calls-fight-against-vote-chori-another-freedom-struggle"
+      ],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "2:09 PM PDT, Oct 12",
+      "report_time_ist": "2:39 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T21:09:38Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "bjp": "negative"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
- "generated_at_pdt": "4:08 AM PDT, Oct 12",
- "generated_at_ist": "4:38 PM IST, Oct 12",
+ "generated_at_pdt": "4:37 AM PDT, Oct 12",
+ "generated_at_ist": "5:07 PM IST, Oct 12",
  "deduplicated": true,
  "dropped_bookkeeping": 4,
  "items": [
@@ -2916,6 +2916,58 @@
    "reported_at_utc": "2026-10-12T11:08:31Z",
    "sentiment": {
     "police_govt": "negative"
+   }
+  },
+  {
+   "id": "dmrc-reopens-all-metro-gates",
+   "event_time_ist": "~4:40 PM IST, Oct 12",
+   "title": "DMRC reopens entry/exit gates at ALL Delhi Metro stations",
+   "summary": "DMRC said entry and exit gates at all stations across the Delhi Metro network have been reopened, hours after security restrictions were imposed at six stations (Rajiv Chowk, Janpath, Mandi House, Patel Chowk, Central Secretariat, Barakhamba Road) due to the INDIA-bloc protest march. First lifting of Monday's transport curbs.",
+   "source_name": "DMRC via thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
+   "sentiment": {
+    "police_govt": "neutral"
+   }
+  },
+  {
+   "id": "march-stopped-bhagwan-das-road",
+   "event_time_ist": "~4:48 PM IST, Oct 12",
+   "title": "Police stop INDIA-bloc march at barricaded Bhagwan Das Road",
+   "summary": "PTI reports police stopped the opposition 'Dilli Chalo' march at the barricaded Bhagwan Das Road as it moved toward the Supreme Court. First police halt on the march route; no detention reporting yet. Follows the earlier reported leaders' bus ride to Barakhamba Road (~3:11 PM IST).",
+   "source_name": "PTI via thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
+   "sentiment": {
+    "india_bloc": "neutral",
+    "police_govt": "neutral"
+   }
+  },
+  {
+   "id": "foot-march-after-bus-stopped",
+   "event_time_ist": "~4:55 PM IST, Oct 12",
+   "title": "Rahul Gandhi, Akhilesh Yadav lead foot march to SC after bus stopped mid-way",
+   "summary": "Visuals show Lok Sabha LoP Rahul Gandhi, Samajwadi Party chief Akhilesh Yadav and other opposition leaders leading the 'Dilli Chalo' march on foot, accompanied by hundreds of supporters, after their bus was stopped mid-way; AISA president Neha Bora also joined the agitation. Advances the march-to-SC phase (previously reported bus movement) into a foot-march phase; SC petition-filing outcome still unreported.",
+   "source_name": "thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
+   "sentiment": {
+    "india_bloc": "positive"
    }
   }
  ]

@@ -1,26 +1,50 @@
 {
-  "report_time_pdt": "10:03 AM PDT, Oct 12",
-  "report_time_ist": "10:33 PM IST, Oct 12",
+  "report_time_pdt": "10:22 AM PDT, Oct 12",
+  "report_time_ist": "10:52 PM IST, Oct 12",
   "items": [
     {
-      "id": "neha-bora-democracy-looks-like-quote-oct12",
-      "event_time_ist": "~4:30 PM IST, Oct 12",
-      "title": "Neha Bora (AISA) at the Dilli Chalo march: 'This is exactly what democracy looks like'",
-      "summary": "AISA president Neha Bora, marching in the Dilli Chalo march to the Supreme Court, said people have not forgotten democracy: 'This is exactly what democracy looks like. Do you think that by blocking roads, closing metro stations, and cancelling trains, you can stop democracy from coming? You may forget democracy, but the people of this country who have shed their blood have not forgotten democracy, which is why we are on the streets.' ANI-wire quote carried by indianeconomicobserver.com and webindia123.com; same wire, so single-sourced. First new statement from Bora since her march participation was confirmed.",
-      "source_name": "indianeconomicobserver.com",
-      "source_url": "https://www.indianeconomicobserver.com/news/india-bloc-leaders-including-rahul-gandhi-akhilesh-yadav-move-supreme-court-against-election-commission20261012194747//",
+      "id": "assam-bjp-rallies-oct13-31-sarma-oct12",
+      "event_time_ist": "~2:43 PM IST, Oct 12",
+      "title": "Assam CM Himanta Biswa Sarma announces BJP rallies at every district HQ, Oct 13-31, to counter Rahul Gandhi's ECI campaign",
+      "summary": "In Guwahati on Monday, Sarma announced peaceful BJP rallies at every district headquarters across Assam from Oct 13 to Oct 31, in direct response to Rahul Gandhi's ECI/SIR campaign and the INDIA bloc's march to the Supreme Court. In an X post he accused Congress of mounting 'an attack on the very foundations of India's vibrant democracy' and trying to pressure constitutional institutions (including the judiciary after the CJI declined a meeting), saying democracy is valid for Congress only when it delivers it victory. He also defended the SIR as necessary against cross-border infiltration (citing Indrajit Gupta's 30-lakh stat) and called for SIR every five years.",
+      "source_name": "hi INDiA (IANS)",
+      "source_url": "https://hiindia.com/assam-bjp-to-hold-rallies-against-rahul-gandhis-eci-campaign-cm-sarma-says-need-to-alert-people/",
       "links": [
-        "https://news.webindia123.com/news/Articles/India/20261012/4510138.html"
+        "https://dy365live.com/assam/assam-cm-accuses-congress-of-pressuring-institutions-as-bjp-plans-rallies-across-state-12668477",
+        "https://www.devdiscourse.com/article/politics/3990694-fadnavis-himanta-sarma-criticise-india-bloc-over-march-to-sc-accuse-opposition-of-undermining-constitutional-institutions"
       ],
       "image_urls": [
-        "https://www.mahanagarstambh.com/wp-content/uploads/2026/08/neha-bora_large_1216_8-laH5Mp.jpg"
+        "https://hiindia.com/wp-content/uploads/2026/10/20261003390F-1.jpg"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "10:03 AM PDT, Oct 12",
-      "report_time_ist": "10:33 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T17:03:21Z",
+      "confidence": "confirmed",
+      "report_time_pdt": "10:22 AM PDT, Oct 12",
+      "report_time_ist": "10:52 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T17:23:40Z",
       "sentiment": {
-        "cjp_protesters": "positive",
+        "india_bloc": "negative",
+        "bjp": "positive"
+      }
+    },
+    {
+      "id": "akhilesh-changing-location-quote-oct12",
+      "event_time_ist": "~6:02 PM IST, Oct 12",
+      "title": "Akhilesh Yadav: 'Changing the protest site will not save the government'",
+      "summary": "Speaking to ANI during the INDIA bloc's march to the Supreme Court on Monday, SP chief Akhilesh Yadav vowed the agitation would continue, accused the BJP of colluding with the Election Commission to destroy the Constitution, and demanded the EC be removed. Reacting to Jantar Mantar's de-notification as a protest site, he said changing the venue would neither save the government nor hide its 'thefts', and called for more protest venues to be provided. In the same coverage, Congress leader Sachin Pilot alleged police used force against protesters during the march (unconfirmed).",
+      "source_name": "Latestly (ANI)",
+      "source_url": "https://www.latestly.com/agency-news/india-news-akhilesh-yadav-vows-to-continue-agitation-says-changing-location-will-not-save-government-7641835.html",
+      "links": [
+        "https://news.webindia123.com/news/Articles/India/20261012/4510038.html"
+      ],
+      "image_urls": [
+        "https://static.langimg.com/vk/thumb/123236361/akhilesh-yadav.jpg?imgsize=163308&width=1600&height=900&resizemode=75"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "10:22 AM PDT, Oct 12",
+      "report_time_ist": "10:52 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T17:23:40Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "bjp": "negative",
         "police_govt": "negative"
       }
     }

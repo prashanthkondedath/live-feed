@@ -1,62 +1,34 @@
 {
-  "report_time_pdt": "12:57 AM PDT, Oct 12",
-  "report_time_ist": "1:27 PM IST, Oct 12",
+  "report_time_pdt": "1:50 AM PDT, Oct 12",
+  "report_time_ist": "2:20 PM IST, Oct 12",
   "items": [
     {
-      "id": "rahul-gandhi-presser-content-20261012",
-      "event_time_ist": "12:11 PM - 1:15 PM, Oct 12",
-      "title": "Rahul Gandhi presser ahead of march: offers CEC to resign and turn approver; says opposition will file SC petition today",
-      "summary": "Speaking at a press conference before the 1:30 PM IST Chalo Dilli march, Rahul Gandhi offered CEC Gyanesh Kumar the chance to resign and turn approver — asking him to admit he erred but is 'not the mind behind the mistake.' He said the CJI declined a meeting but asked the opposition to file a petition, which INDIA bloc leaders will file at the Supreme Court today. Gandhi claimed 50% of Delhi Police privately back the protests and alleged police are being asked to free 'RSS goons' who beat protesters; said anti-'vote chori' resistance has brewed 12 years and is crystallising now. He urged citizens to join at 1:30 PM at Barakhamba Junction, Connaught Place.",
-      "source_name": "The Daily Jagran (live blog, INDIA bloc march to SC)",
-      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+      "id": "fadnavis-himanta-sarma-criticise-india-bloc-march-oct12",
+      "event_time_ist": "~2:00 PM IST, Oct 12",
+      "title": "Fadnavis, Himanta Sarma criticise INDIA bloc march to SC",
+      "summary": "BJP leaders Devendra Fadnavis and Assam CM Himanta Biswa Sarma accused the INDIA bloc of undermining constitutional institutions over the Chalo Dilli march to the Supreme Court. Sarma alleged Rahul Gandhi is trying to exert political pressure on the CJI, claimed Congress rejects electoral outcomes in Assam while welcoming Kerala's, and accused it of blackmailing institutions and opposing SIR to shield illegal infiltrators. Sarma announced BJP Assam will hold peaceful mass rallies at every district headquarters from tomorrow until October 31. (ANI via syndicated feed)",
+      "source_name": "ANI via Devdiscourse",
+      "source_url": "https://www.devdiscourse.com/article/politics/3990694-fadnavis-himanta-sarma-criticise-india-bloc-over-march-to-sc-accuse-opposition-of-undermining-constitutional-institutions",
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "report_time_pdt": "1:50 AM PDT, Oct 12",
+      "report_time_ist": "2:20 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T08:50:00Z"
     },
     {
-      "id": "dmrc-6-stations-closed-march-20261012",
-      "event_time_ist": "9:37 AM, Oct 12 (announced)",
-      "title": "DMRC shuts 6 metro stations 6 AM-4 PM for march; heavy security at Barakhamba/Mandi House",
-      "summary": "DMRC closed entry/exit at six stations — Rajiv Chowk, Janpath, Mandi House, Patel Chowk, Central Secretariat, Barakhamba Road — from 6 AM to 4 PM Monday for the opposition march. Delhi Police barricaded multiple central-Delhi locations; RAF, CRPF and Delhi Police personnel deployed at Barakhamba Road and near Mandi House.",
-      "source_name": "The Daily Jagran (live blog, citing DMRC/Delhi Traffic Police)",
-      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+      "id": "ani-parliament-street-visit-quotes-oct12",
+      "event_time_ist": "~10:00 AM IST, Oct 12",
+      "title": "ANI: fresh quotes from CJP's Parliament Street police-station visit",
+      "summary": "ANI's wire report on the morning Parliament Street PS visit adds attributed quotes: Saurav Das — 'Police tells everyone to approach them 10 days in advance. We are now saying that they have the choice to tell us the date and time (for protest at Jantar Mantar). We are giving them 24-hour ultimatum.' Ashutosh Ranka — 'We are going to ask Delhi Police for a date to hold a protest at Jantar Mantar. We hope the police will give us a date. If they do not, we will make another call within 24 hours.' Advances the already-reported visit with on-record wording.",
+      "source_name": "ANI via APNA MA TV",
+      "source_url": "https://apnamatvchannel.com/india/cjp-gives-delhi-police-24-hour-ultimatum-to-allot-date-for-jantar-mantar-protest/",
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
-    },
-    {
-      "id": "legal-fronts-hc-sc-20261012",
-      "event_time_ist": "11:40 AM, Oct 12",
-      "title": "Two new legal fronts: Delhi HC plea against Jantar Mantar closure; SC plea against alleged hooligan attacks",
-      "summary": "A plea challenging the closure of Jantar Mantar for peaceful protests was mentioned before the Delhi High Court; the bench headed by the Acting Chief Justice agreed to list it on Oct 13. Separately, a plea was mentioned before the Supreme Court seeking action against alleged hooligans attacking protesters and lawyers during the ongoing Delhi protests. CJI Surya Kant separately said the court's doors are open to all.",
-      "source_name": "The Daily Jagran (live blog, INDIA bloc march to SC)",
-      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-      "links": [],
-      "image_urls": [],
-      "confidence": "single-sourced",
-      "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
-    },
-    {
-      "id": "march-lineup-barahamba-20261012",
-      "event_time_ist": "9:37 AM - 12:00 PM, Oct 12",
-      "title": "March to start from Barakhamba Road; Akhilesh Yadav confirmed joining, Mamata expected",
-      "summary": "The opposition's march to the Supreme Court will start from Barakhamba Road. Expected participants: Rahul Gandhi, Mallikarjun Kharge, Priyanka Gandhi, Akhilesh Yadav (confirmed joining), Rajeev Rai, Mamata Banerjee, Manoj Jha, KC Venugopal. Congress MP Jebi Mathur framed it as citizens marching 'not as a political party' to protect democracy.",
-      "source_name": "The Daily Jagran (live blog, INDIA bloc march to SC)",
-      "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-      "links": [],
-      "image_urls": [],
-      "confidence": "single-sourced",
-      "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "report_time_pdt": "1:50 AM PDT, Oct 12",
+      "report_time_ist": "2:20 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T08:50:00Z"
     }
   ]
 }

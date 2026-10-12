@@ -1,25 +1,40 @@
 {
-  "report_time_pdt": "3:20 PM PDT, Oct 12",
-  "report_time_ist": "3:50 AM IST, Oct 13",
+  "report_time_pdt": "4:07 PM PDT, Oct 12",
+  "report_time_ist": "4:37 AM IST, Oct 13",
   "items": [
     {
-      "id": "fpl-70pct-restoration-target-oct12",
-      "event_time_ist": "Oct 12, 2026 (afternoon local briefing; 2:45 PM local outage counts)",
-      "title": "FPL cuts Monday restoration target to 70% in Escambia/Santa Rosa after 'extensive damage' found",
-      "summary": "FPL President/CEO Scott Bores announced in a Monday operational briefing that Monday-night restoration estimates for Escambia and Santa Rosa counties were lowered to 70% of customers able to safely accept power, down from the earlier 85% (originally 95%) target, after crews reached previously inaccessible communities and found severe tree damage and 700+ power poles snapped by falling timber. FPL showed 55,290 customers without power in Escambia and 34,790 in Santa Rosa at 2:45 Monday afternoon. Remaining customers to be reconnected Tuesday; company-wide 75%+ restored (~330,000 accounts), aiming for 85% overall Monday night. Bores blamed Hurricane Isaias's destructive western eyewall cutting directly over the two counties. 17,000 workers deployed 24/7; 15 customer relief sites handing out ice/water.",
-      "source_name": "NorthEscambia.com",
-      "source_url": "https://www.northescambia.com/2026/10/3fpl-lowers-monday-restoration-target-to-70-in-escambia-santa-rosa-due-to-extensive-damage",
+      "id": "rachel-baja-california-casualties-oct12",
+      "event_time_ist": "Weekend of Oct 10-11, 2026 (reported Monday, Oct 12, 2026)",
+      "title": "Tropical Storm Rachel's aftermath: deaths and missing persons in Baja California",
+      "summary": "Baja California Gov. Marina del Pilar said at least 10 people were reported missing and a young girl dead in the aftermath of Tropical Storm Rachel, with more than 50 people in temporary shelters (AP wire). A second outlet, GG North, reports flooding near Ensenada left 1 dead and 7 missing, a partial evacuation of Ensenada's IMSS Bienestar General Hospital (water leaks and electrical failures), more than 4,000 emergency reports and 200+ rescues statewide, and school suspensions Monday. Figures vary between outlets as the situation develops. Earlier in this watch, President Sheinbaum had already noted Rachel's impacts in Baja California were greater than Simon's on the mainland.",
+      "source_name": "Associated Press (via Reflector)",
+      "source_url": "https://www.reflector.com/news/national/storms-leave-2-dead-in-mexico-as-flash-flood-risk-from-rachel-lingers-across-the/article_52abfc89-0e85-599f-a837-df09efadfda1.html",
       "links": [
-        "https://www.northescambia.com/2026/10/3fpl-lowers-monday-restoration-target-to-70-in-escambia-santa-rosa-due-to-extensive-damage",
-        "https://www.pnj.com/story/weather/hurricanes/2026/10/12/fpl-outages-florida-panhandle-isaias/92214152007/"
+        "https://ggnorth.com/2026/10/storm-rachel-leaves-1-dead-7-missing-near-ensenada/"
       ],
-      "image_urls": [
-        "https://www.northescambia.com/wp-content/uploads/2026/10/boles11-540x307.jpg"
-      ],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "4:07 PM PDT, Oct 12",
+      "report_time_ist": "4:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T23:07:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    },
+    {
+      "id": "rachel-dockweiler-surf-death-oct12",
+      "event_time_ist": "Oct 11, 2026 ~9:00 PM IST (Sunday ~8:30 AM PDT)",
+      "title": "Man dies after being pulled from Rachel-fueled surf at Dockweiler Beach, Los Angeles",
+      "summary": "A man was pulled unconscious from the ocean near Tower 42 at Dockweiler Beach, Playa del Rey, on Sunday morning and pronounced dead after about 20 minutes of resuscitation efforts, per Surfer citing KTLA. Police found no indication of foul play. The death was initially reported as a drowning, but the LA County Medical Examiner will determine the official cause; the lifeguard specialist noted a medical emergency was also possible. The incident came amid a High Surf Advisory (5-8 ft breaking waves, powerful rip currents) driven partly by former Hurricane Rachel, plus severe coastal flooding across Southern California.",
+      "source_name": "Surfer",
+      "source_url": "https://www.surfer.com/news/hurricane-rachel-dockweiler-surf-death",
+      "links": [],
+      "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:20 PM PDT, Oct 12",
-      "report_time_ist": "3:50 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T22:20:00Z",
+      "report_time_pdt": "4:07 PM PDT, Oct 12",
+      "report_time_ist": "4:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T23:07:00Z",
       "sentiment": {
         "civilians": "negative"
       }

@@ -342,6 +342,73 @@
         "saudi_govt": "positive",
         "civilians": "neutral"
       }
+    },
+    {
+      "id": "riyadh-ballistic-missile-monday-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "Saudi Arabia says it intercepted a ballistic missile headed for Riyadh on Monday",
+      "summary": "Saudi Arabia said it intercepted and destroyed a ballistic missile launched toward Riyadh on Monday, as King Khalid airport stayed shut. The past week's Houthi attacks have killed at least 20 people and wounded hundreds, per CNN's tally. Hours earlier, civil aviation said the airport stays closed until further notice (NOTAM: at least Oct 17) pending safety verification.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
+      "links": [],
+      "image_urls": [
+        "https://texty.org.ua/media/images/1_ugFVTXO.original.2e16d0ba.fill-1200x630.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "neutral"
+      }
+    },
+    {
+      "id": "coalition-136-targets-sanaa-oct12",
+      "event_time_ist": "Oct 10-12, 2026 (reported Oct 12)",
+      "title": "Coalition claims 136 Houthi targets destroyed; Sanaa airport hit Sunday",
+      "summary": "The Saudi-led coalition says large-scale airstrikes destroyed 136 Houthi military targets \u2014 missile storage, command centers and depots \u2014 to degrade their ballistic-missile capability; Houthi-run Al-Masirah confirmed strikes in Saada province. Saudi forces also struck Sanaa International Airport on Sunday (no casualty reports yet, per Saba). The Houthis counter-claim 124 Saudi airstrikes over the weekend and say 91 people, mostly women and children, have been killed since Sept 3 (unverified); the UN puts the latest fighting's toll near 1,000 killed and 200,000+ displaced.",
+      "source_name": "Terror Monitor",
+      "source_url": "https://terrormonitor.com/post/saudi-led-coalition-says-it-destroyed-136-houthi-military-targets-in-yemen-airstrikes",
+      "links": [
+        "https://dailythedestination.com/saudi-coalition-airstrikes-destroy-136-houthi-military-targets-in-yemen/",
+        "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
+        "https://www.dropsitenews.com/p/yemen-sanaa-saudi-coalition-airstrikes-ansarallah-schoolgirl"
+      ],
+      "image_urls": [
+        "https://yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "mbs-pushing-trump-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "MBS reportedly pushing Trump to take military action against Houthis",
+      "summary": "Crown Prince Mohammed bin Salman has reportedly been pressing President Trump to take military action against the Houthis, who agreed to a ceasefire with the US last year. Trump said Saturday the US may join Saudi strikes \u2014 a reversal after Washington repeatedly declined Riyadh's requests. The decision point lands as the Houthis vow to keep hitting Saudi airports and the coalition vows a strong response.",
+      "source_name": "NY Post",
+      "source_url": "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
+      "links": [],
+      "image_urls": [
+        "https://fed.uu.org/system/media_attachments/files/109/364/185/003/100/930/original/b9ba19177e41fc70.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
     }
   ]
 }

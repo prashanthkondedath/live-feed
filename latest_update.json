@@ -1,1 +1,83 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"~1:38 PM IST, Oct 12","id":"jantar-mantar-denotified","image_urls":[],"links":["https://www.7globe.in/jantar-mantar-no-longer-a-protest-site-three-new-venues-designated-india-news/","https://news89.com/delhi-police-de-notifies-jantar-mantar-as-protest-site-designates-3-alternate-venues/","https://www.instagram.com/reel/DeY1i_3vnsu/"],"report_time_ist":"2:19 PM IST, Oct 12","report_time_pdt":"2:19 AM PDT, Oct 12","reported_at_utc":"2026-10-12T09:19:00Z","sentiment":{"police_govt":"neutral"},"source_name":"The Daily Jagran","source_url":"https://www.thedailyjagran.com/lite/india/news/jantar-mantar-no-longer-a-designated-protest-site-as-govt-notifies-3-new-places-in-delhi-for-agitations-10332399","summary":"MHA constituted a committee to examine alternative protest venues; based on its recommendations, Delhi Police Commissioner Anurag Kumar issued a notice de-notifying Jantar Mantar as a designated protest venue. Three new venues designated: Ramlila Ground (Central Delhi), Burari Ground (North Delhi), CBD Ground (East Delhi); a detailed revised SOP governing protests at the three venues to be issued separately. CJP founder Abhijeet Dipke reacted on his own Instagram reel (~2:16 PM IST, ~140K likes): 'Today, Modi denotified Jantar Mantar as a designated protest site. Tomorrow, he will denotify democracy itself. The dictator's problem was never the protest site. It was the very idea of people protesting.' Corroborated by 7Globe (India News), news89 (citing India Today) and currentaffairs.adda247. Never logged by any earlier run; caught up this run.","title":"Delhi Police officially de-notified Jantar Mantar as a protest site; three new venues designated"},{"confidence":"single-sourced","event_time_ist":"morning IST, Oct 12","id":"delhi-hc-tuesday-petitions","image_urls":[],"links":[],"report_time_ist":"2:19 PM IST, Oct 12","report_time_pdt":"2:19 AM PDT, Oct 12","reported_at_utc":"2026-10-12T09:19:00Z","sentiment":{"courts":"neutral","police_govt":"negative"},"source_name":"News89","source_url":"https://news89.com/delhi-hc-to-hear-plea-on-jantar-mantar-protest-site-closure-tuesday/","summary":"Delhi High Court will hear TWO protest-linked petitions on Tuesday Oct 13: (1) the plea on the alleged closure of Jantar Mantar as a protest site (already tracked); (2) a NEW petition alleging 'outsiders' entered the weekend protest and harassed the demonstrators. The bench of Acting CJ Nitin Wasudeo Sambre and Justice Sanjay Sharma declined an urgent Monday hearing, saying the Supreme Court is 'equally seized' of the matter and has called on the Union to file affidavits. Mentioning counsel: 'Now today Jantar Mantar is also closed. There is no other place which has been earmarked... Peaceful protests are being quelled today... We have faced this in 1975.' Single-sourced (News89); watch for corroboration.","title":"Delhi HC to hear two protest petitions Tuesday: Jantar Mantar closure + 'outsiders harassed protesters' plea"},{"confidence":"confirmed","event_time_ist":"~2:40 PM IST, Oct 12","id":"chalo-dilli-march-in-motion","image_urls":[],"links":["https://www.instagram.com/reel/DeY4tSrIXb2/","https://news89.com/india-bloc-delhi-chalo-protest-cec-resignation-demand-security-surge/"],"report_time_ist":"2:19 PM IST, Oct 12","report_time_pdt":"2:19 AM PDT, Oct 12","reported_at_utc":"2026-10-12T09:19:00Z","sentiment":{"india_bloc":"neutral"},"source_name":"Newslaundry (Sreenivasan Jain)","source_url":"https://www.instagram.com/reel/DeY4EJiPgaz/","summary":"FIRST outcome reporting on the 1:30 PM IST Chalo Dilli march (now ~1.1h in): (a) verified Newslaundry field report by Sreenivasan Jain from outside Constitution House - opposition leaders gathered preparing to march to the Supreme Court; police and paramilitary lines deployed to block the march route; supporters initially kept inside the compound, then moved away; he interviewed Congress MP Renuka Chowdhury. (b) Verified @iycmadhyapradesh reel (~2:44 PM IST) shows thousands of people marching down Barakhamba Road, police observing from the side - the march IS in motion with large turnout. (c) news89 recap: demonstrators sat on roads, traffic ground to a halt around Mandi House Circle; HP CM Sukhvinder Singh Sukhu among those assembled near Himachal Bhavan/Mandi House. The Jagran live blog's newest entry remains 01:52 PM IST (pre-march) with no outcome text yet.","title":"Chalo Dilli march in motion with thousands; blocked cordon at Constitution House"},{"confidence":"single-sourced","event_time_ist":"~2:44 PM IST, Oct 12","id":"mahila-wing-spray-allegation","image_urls":[],"links":[],"report_time_ist":"2:19 PM IST, Oct 12","report_time_pdt":"2:19 AM PDT, Oct 12","reported_at_utc":"2026-10-12T09:19:00Z","sentiment":{"bjp":"negative","police_govt":"negative"},"source_name":"Dainik Bhaskar","source_url":"https://www.instagram.com/reel/DeY4urzlaq3/","summary":"Verified Dainik Bhaskar street interview (4.6M followers) at the Delhi march: a woman leader identifying herself as from Panipat representing the All India Mahila Congress alleged that RSS and BJP workers are attacking women protesters and that police used spray against them; she says the women now carry pepper spray for protection. A single-sourced participant claim via a verified news account; police have not responded. First spray-use allegation of the day.","title":"Mahila Congress leader alleges police used spray against women protesters"}],"report_time_ist":"2:19 PM IST, Oct 12","report_time_pdt":"2:19 AM PDT, Oct 12"}
+{
+  "items": [
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "~1:38 PM IST, Oct 12",
+      "id": "jantar-mantar-denotified",
+      "image_urls": [],
+      "links": [
+        "https://www.7globe.in/jantar-mantar-no-longer-a-protest-site-three-new-venues-designated-india-news/",
+        "https://news89.com/delhi-police-de-notifies-jantar-mantar-as-protest-site-designates-3-alternate-venues/",
+        "https://www.instagram.com/reel/DeY1i_3vnsu/"
+      ],
+      "report_time_ist": "2:49 PM IST, Oct 12",
+      "report_time_pdt": "2:19 AM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T09:19:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      },
+      "source_name": "The Daily Jagran",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/jantar-mantar-no-longer-a-designated-protest-site-as-govt-notifies-3-new-places-in-delhi-for-agitations-10332399",
+      "summary": "MHA constituted a committee to examine alternative protest venues; based on its recommendations, Delhi Police Commissioner Anurag Kumar issued a notice de-notifying Jantar Mantar as a designated protest venue. Three new venues designated: Ramlila Ground (Central Delhi), Burari Ground (North Delhi), CBD Ground (East Delhi); a detailed revised SOP governing protests at the three venues to be issued separately. CJP founder Abhijeet Dipke reacted on his own Instagram reel (~2:16 PM IST, ~140K likes): 'Today, Modi denotified Jantar Mantar as a designated protest site. Tomorrow, he will denotify democracy itself. The dictator's problem was never the protest site. It was the very idea of people protesting.' Corroborated by 7Globe (India News), news89 (citing India Today) and currentaffairs.adda247. Never logged by any earlier run; caught up this run.",
+      "title": "Delhi Police officially de-notified Jantar Mantar as a protest site; three new venues designated"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "morning IST, Oct 12",
+      "id": "delhi-hc-tuesday-petitions",
+      "image_urls": [],
+      "links": [],
+      "report_time_ist": "2:49 PM IST, Oct 12",
+      "report_time_pdt": "2:19 AM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T09:19:00Z",
+      "sentiment": {
+        "courts": "neutral",
+        "police_govt": "negative"
+      },
+      "source_name": "News89",
+      "source_url": "https://news89.com/delhi-hc-to-hear-plea-on-jantar-mantar-protest-site-closure-tuesday/",
+      "summary": "Delhi High Court will hear TWO protest-linked petitions on Tuesday Oct 13: (1) the plea on the alleged closure of Jantar Mantar as a protest site (already tracked); (2) a NEW petition alleging 'outsiders' entered the weekend protest and harassed the demonstrators. The bench of Acting CJ Nitin Wasudeo Sambre and Justice Sanjay Sharma declined an urgent Monday hearing, saying the Supreme Court is 'equally seized' of the matter and has called on the Union to file affidavits. Mentioning counsel: 'Now today Jantar Mantar is also closed. There is no other place which has been earmarked... Peaceful protests are being quelled today... We have faced this in 1975.' Single-sourced (News89); watch for corroboration.",
+      "title": "Delhi HC to hear two protest petitions Tuesday: Jantar Mantar closure + 'outsiders harassed protesters' plea"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "~2:40 PM IST, Oct 12",
+      "id": "chalo-dilli-march-in-motion",
+      "image_urls": [],
+      "links": [
+        "https://www.instagram.com/reel/DeY4tSrIXb2/",
+        "https://news89.com/india-bloc-delhi-chalo-protest-cec-resignation-demand-security-surge/"
+      ],
+      "report_time_ist": "2:49 PM IST, Oct 12",
+      "report_time_pdt": "2:19 AM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T09:19:00Z",
+      "sentiment": {
+        "india_bloc": "neutral"
+      },
+      "source_name": "Newslaundry (Sreenivasan Jain)",
+      "source_url": "https://www.instagram.com/reel/DeY4EJiPgaz/",
+      "summary": "FIRST outcome reporting on the 1:30 PM IST Chalo Dilli march (now ~1.1h in): (a) verified Newslaundry field report by Sreenivasan Jain from outside Constitution House - opposition leaders gathered preparing to march to the Supreme Court; police and paramilitary lines deployed to block the march route; supporters initially kept inside the compound, then moved away; he interviewed Congress MP Renuka Chowdhury. (b) Verified @iycmadhyapradesh reel (~2:44 PM IST) shows thousands of people marching down Barakhamba Road, police observing from the side - the march IS in motion with large turnout. (c) news89 recap: demonstrators sat on roads, traffic ground to a halt around Mandi House Circle; HP CM Sukhvinder Singh Sukhu among those assembled near Himachal Bhavan/Mandi House. The Jagran live blog's newest entry remains 01:52 PM IST (pre-march) with no outcome text yet.",
+      "title": "Chalo Dilli march in motion with thousands; blocked cordon at Constitution House"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "~2:44 PM IST, Oct 12",
+      "id": "mahila-wing-spray-allegation",
+      "image_urls": [],
+      "links": [],
+      "report_time_ist": "2:49 PM IST, Oct 12",
+      "report_time_pdt": "2:19 AM PDT, Oct 12",
+      "reported_at_utc": "2026-10-12T09:19:00Z",
+      "sentiment": {
+        "bjp": "negative",
+        "police_govt": "negative"
+      },
+      "source_name": "Dainik Bhaskar",
+      "source_url": "https://www.instagram.com/reel/DeY4urzlaq3/",
+      "summary": "Verified Dainik Bhaskar street interview (4.6M followers) at the Delhi march: a woman leader identifying herself as from Panipat representing the All India Mahila Congress alleged that RSS and BJP workers are attacking women protesters and that police used spray against them; she says the women now carry pepper spray for protection. A single-sourced participant claim via a verified news account; police have not responded. First spray-use allegation of the day.",
+      "title": "Mahila Congress leader alleges police used spray against women protesters"
+    }
+  ],
+  "report_time_ist": "2:49 PM IST, Oct 12",
+  "report_time_pdt": "2:19 AM PDT, Oct 12"
+}

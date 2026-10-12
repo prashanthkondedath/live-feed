@@ -232,6 +232,72 @@
         "saudi_govt": "positive",
         "us": "neutral"
       }
+    },
+    {
+      "id": "us-declined-urgent-request-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "Saudi Arabia asked Trump for urgent support; he declined, US says",
+      "summary": "Saudi Arabia requested urgent support from President Trump after the weekend airport strikes, but he declined as US forces remain tied up in the simmering conflict with Iran, The Times reports. The nuance matters: Trump is still publicly weighing joining Saudi strikes on the Houthis. Separately, the Houthi coastal offensive has driven up oil prices, and the campaign is believed to have been coordinated with Iran, strengthening Tehran's leverage as it moves to blockade the Strait of Hormuz.",
+      "source_name": "The Times",
+      "source_url": "https://www.thetimes.com/world/middle-east/article/houthis-yemen-saudi-arabia-strait-attacks-5xr9q9h3r",
+      "links": [],
+      "image_urls": [
+        "https://aldarnews1.s3.eu-central-1.amazonaws.com/45436ade74be4d02b0664c461d7c99a8.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "neutral",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "no-monday-strike-no-reopening-date-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "No confirmed fresh airport strike Monday; GACA gives no reopening date",
+      "summary": "Aviation tracker AirMedia24 found no GACA statement or wire report of a fresh strike on Riyadh airport Monday \u2014 viral posts about a new drone attack are unverified, likely recycled footage of Saturday's blast and Sunday's Terminal 4 strike; the most recent confirmed airport deaths remain Oct 11. GACA extended the suspension Monday with no reopening date announced (the Oct 17 NOTAM is provisional and unconfirmed by GACA). Dammam and Abha saw disruption; Dubai, Abu Dhabi, Doha and Jeddah remain open with knock-on delays. The damaged terminals sit inside the $7.2B King Salman International Airport expansion site.",
+      "source_name": "AirMedia24",
+      "source_url": "https://airmedia24.com/news/riyadh-airport-ruh-stays-closed-with-no-reopening-date-after-four-houthi-linked-attack-days",
+      "links": [
+        "https://www.1arabia.com/2026/10/saudi-arabia-prolongs-riyadh-airport.html",
+        "https://www.enr.com/articles/63869-riyadh-airport-attacks-damage-terminals-at-72b-expansion-site"
+      ],
+      "image_urls": [
+        "https://zadra-aviationcharter.ch/wp-content/uploads/2026/04/riyadh_credit.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "neutral",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "overnight-interceptions-abha-oct12",
+      "event_time_ist": "Overnight Oct 11-12, 2026 (reported Oct 12)",
+      "title": "Saudi defences intercept drone over Eastern Province, ballistic missile toward Khamis Mushait",
+      "summary": "Saudi-led coalition forces said air defences intercepted and destroyed a drone in the Eastern Province and a ballistic missile launched toward Khamis Mushait; emergency alerts were issued in Abha early Monday but the danger has since passed, Saudi Civil Defence said. Meanwhile a Saudi ministry says conferences in Riyadh \u2014 including the upcoming Future Investment Initiative \u2014 are going ahead despite the attacks.",
+      "source_name": "TBS News (Reuters)",
+      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/one-dead-new-attack-saudi-airport-day-after-houthi-strike-kills-13-1569891",
+      "links": [],
+      "image_urls": [
+        "https://ts-post.net/wp-content/uploads/2026/03/2680643-2048x1366.webp"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "neutral"
+      }
     }
   ]
 }

@@ -3260,6 +3260,25 @@
       "sentiment": {
         "police_govt": "negative"
       }
+    },
+    {
+      "id": "dipke-mental-torture-full-video-challenge-oct12",
+      "event_time_ist": "~12:15 PM IST, Oct 12",
+      "title": "Dipke accuses Delhi Police of 'mental torture' in custody, challenges them to release the full video",
+      "summary": "From Hingoli (Maharashtra), after reaching home for his grandmother's last rites, CJP founder Abhijeet Dipke accused Delhi Police of mentally torturing him and his family during his Oct 10-11 detention. He alleged cops denied him contact with his lawyers, wouldn't let him use his phone, and did not inform his parents or lawyers of his whereabouts throughout the day. He challenged police to release the ENTIRE custody video rather than an 'edited version' — a direct rebuttal to the police-sourced footage (logged 03:56Z) showing officers informing him of his grandmother's death 'with due sensitivity'. PTI video; via thedailyjagran article updated ~12:15 PM IST Oct 12.",
+      "source_name": "thedailyjagran.com (PTI video)",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/abhijeet-dipke-cjp-protest-delhi-jantar-mantar-delhi-police-mental-torture-manipulating-video-10332376",
+      "links": [
+        "https://www.thedailyjagran.com/lite/india/news/abhijeet-dipke-cjp-protest-delhi-jantar-mantar-delhi-police-mental-torture-manipulating-video-10332376"
+      ],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:00 AM PDT, Oct 12",
+      "report_time_ist": "8:30 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T15:00:14Z",
+      "sentiment": {
+        "police_govt": "negative"
+      }
     }
   ]
 }

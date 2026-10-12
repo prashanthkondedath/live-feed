@@ -13,7 +13,8 @@
       "image_urls": [],
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12"
+      "report_time_ist": "1:27 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T07:57:00Z"
     },
     {
       "id": "dmrc-6-stations-closed-march-20261012",
@@ -26,7 +27,8 @@
       "image_urls": [],
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12"
+      "report_time_ist": "1:27 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T07:57:00Z"
     },
     {
       "id": "legal-fronts-hc-sc-20261012",
@@ -39,7 +41,8 @@
       "image_urls": [],
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12"
+      "report_time_ist": "1:27 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T07:57:00Z"
     },
     {
       "id": "march-lineup-barahamba-20261012",
@@ -52,7 +55,8 @@
       "image_urls": [],
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
-      "report_time_ist": "1:27 PM IST, Oct 12"
+      "report_time_ist": "1:27 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T07:57:00Z"
     }
   ]
 }

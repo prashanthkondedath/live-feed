@@ -1,49 +1,72 @@
 {
-  "report_time_pdt": "12:21 PM PDT, Oct 12",
-  "report_time_ist": "12:51 AM IST, Oct 13",
+  "report_time_pdt": "12:32 PM PDT, Oct 12",
+  "report_time_ist": "1:02 AM IST, Oct 13",
   "items": [
     {
-      "id": "saudi-patriot-shortage-oct12",
-      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
-      "title": "Saudi Arabia running low on Patriot interceptors, WSJ reports",
-      "summary": "Saudi officials told the Wall Street Journal the kingdom's stock of Patriot interceptors is running short after two consecutive days of Houthi missile fire on Riyadh airport. The Journal also reports the US has so far resisted Saudi requests for direct help reversing Houthi territorial gains in Yemen \u2014 though on Oct 2 Washington deployed two additional Patriot batteries to the Gulf, one to Saudi Arabia to protect a major oil facility and one to Qatar for a gas installation.",
-      "source_name": "WSJ via JFeed",
-      "source_url": "https://www.jfeed.com/news/saudi-arabia-patriot-interceptors-shortage-houthis",
-      "links": [
-        "https://www.devdiscourse.com/article/international/3990645-saudi-arabia-running-low-on-interceptor-missiles-to-counter-further-houthi-strikes-reports-wsj"
-      ],
-      "image_urls": [
-        "https://urgent.news/img/333826"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "12:21 PM PDT, Oct 12",
-      "report_time_ist": "12:51 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T19:21:00Z",
-      "sentiment": {
-        "houthis": "neutral",
-        "saudi_govt": "negative",
-        "us": "neutral"
-      }
-    },
-    {
-      "id": "coalition-retaliation-sanaa-oct12",
-      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
-      "title": "Saudi-led coalition hits Houthi Red Sea coast positions; Sanaa airstrikes reported",
-      "summary": "The Saudi-led coalition says it struck Houthi military positions along Yemen's Red Sea coast, including weapons depots and facilities allegedly used to store explosive boats and naval mines, and says it thwarted a planned Houthi maritime attack. Airstrikes on Sanaa were also reported. Claims about targets destroyed and fighters killed are not independently verified \u2014 this is the first reported retaliation since the energy minister's vow.",
-      "source_name": "Farsight Nepal",
-      "source_url": "https://farsightnepal.com/news/houthi-attacks-on-saudi-airports-deepen-regional-tensions/",
+      "id": "riyadh-ballistic-missile-monday-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "Saudi Arabia says it intercepted a ballistic missile headed for Riyadh on Monday",
+      "summary": "Saudi Arabia said it intercepted and destroyed a ballistic missile launched toward Riyadh on Monday, as King Khalid airport stayed shut. The past week's Houthi attacks have killed at least 20 people and wounded hundreds, per CNN's tally. Hours earlier, civil aviation said the airport stays closed until further notice (NOTAM: at least Oct 17) pending safety verification.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
       "links": [],
       "image_urls": [
-        "https://www.flipar.com.br/wp-content/uploads/2022/04/Old_sanaa.jpg?20250702090230"
+        "https://texty.org.ua/media/images/1_ugFVTXO.original.2e16d0ba.fill-1200x630.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:21 PM PDT, Oct 12",
-      "report_time_ist": "12:51 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T19:21:00Z",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
       "sentiment": {
         "houthis": "negative",
         "saudi_govt": "positive",
         "civilians": "neutral"
+      }
+    },
+    {
+      "id": "coalition-136-targets-sanaa-oct12",
+      "event_time_ist": "Oct 10-12, 2026 (reported Oct 12)",
+      "title": "Coalition claims 136 Houthi targets destroyed; Sanaa airport hit Sunday",
+      "summary": "The Saudi-led coalition says large-scale airstrikes destroyed 136 Houthi military targets \u2014 missile storage, command centers and depots \u2014 to degrade their ballistic-missile capability; Houthi-run Al-Masirah confirmed strikes in Saada province. Saudi forces also struck Sanaa International Airport on Sunday (no casualty reports yet, per Saba). The Houthis counter-claim 124 Saudi airstrikes over the weekend and say 91 people, mostly women and children, have been killed since Sept 3 (unverified); the UN puts the latest fighting's toll near 1,000 killed and 200,000+ displaced.",
+      "source_name": "Terror Monitor",
+      "source_url": "https://terrormonitor.com/post/saudi-led-coalition-says-it-destroyed-136-houthi-military-targets-in-yemen-airstrikes",
+      "links": [
+        "https://dailythedestination.com/saudi-coalition-airstrikes-destroy-136-houthi-military-targets-in-yemen/",
+        "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
+        "https://www.dropsitenews.com/p/yemen-sanaa-saudi-coalition-airstrikes-ansarallah-schoolgirl"
+      ],
+      "image_urls": [
+        "https://yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "mbs-pushing-trump-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "MBS reportedly pushing Trump to take military action against Houthis",
+      "summary": "Crown Prince Mohammed bin Salman has reportedly been pressing President Trump to take military action against the Houthis, who agreed to a ceasefire with the US last year. Trump said Saturday the US may join Saudi strikes \u2014 a reversal after Washington repeatedly declined Riyadh's requests. The decision point lands as the Houthis vow to keep hitting Saudi airports and the coalition vows a strong response.",
+      "source_name": "NY Post",
+      "source_url": "https://nypost.com/2026/10/11/world-news/houthis-saudis-launch-back-and-forth-airport-strikes/",
+      "links": [],
+      "image_urls": [
+        "https://fed.uu.org/system/media_attachments/files/109/364/185/003/100/930/original/b9ba19177e41fc70.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:32 PM PDT, Oct 12",
+      "report_time_ist": "1:02 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:32:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
       }
     }
   ]

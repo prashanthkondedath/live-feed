@@ -1,120 +1,71 @@
 {
-  "report_time_pdt": "11:33 AM PDT, Oct 12",
-  "report_time_ist": "12:03 AM IST, Oct 13",
+  "report_time_pdt": "12:08 PM PDT, Oct 12",
+  "report_time_ist": "12:38 AM IST, Oct 13",
   "items": [
     {
-      "id": "trump-weighs-us-intervention-oct12",
-      "event_time_ist": "Oct 10, 2026 (reiterated Oct 12)",
-      "title": "Trump weighs US military intervention after Riyadh airport strikes",
-      "summary": "President Trump said he is evaluating whether the US should join Saudi strikes against the Tehran-backed Houthis in Yemen \u2014 \"We may. We're going to look at it. We just found out about the recent attack. So we'll make a decision. We move very quickly.\" He also plans to speak with Crown Prince Mohammed bin Salman. Secretary of State Marco Rubio condemned the attacks and reaffirmed US support for the kingdom. Context: the US had agreed a ceasefire with the Houthis after a month-long bombing campaign, and neither side appeared eager to resume fighting.",
-      "source_name": "AP via WAMC",
-      "source_url": "https://www.wamc.org/2026-10-10/trump-weighs-joining-the-fight-against-houthis-after-riyadh-airport-attack",
-      "links": [
-        "https://www.thetimes.com/world/middle-east/article/attack-saudi-arabia-airport-houthi-lx2q8kvmn",
-        "https://nypost.com/2026/10/10/world-news/iran-backed-houthis-strike-riyadh-airport-as-trump-weighs-us-says-response/",
-        "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
-      ],
-      "image_urls": [
-        "https://www.yemenonline.info/media/main/news/1739004498019540700.png"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:33 AM PDT, Oct 12",
-      "report_time_ist": "12:03 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T18:33:00Z",
-      "sentiment": {
-        "houthis": "negative",
-        "saudi_govt": "positive",
-        "us": "neutral"
-      }
-    },
-    {
-      "id": "houthi-119-strikes-claim-oct12",
-      "event_time_ist": "Oct 12, 2026",
-      "title": "Houthis claim 119 Saudi attacks in 24 hours killed 11+ civilians, threaten more airport strikes",
-      "summary": "The Houthis said Saudi warplanes and missile units carried out 119 attacks over the past 24 hours, claiming at least 11 civilians including women and children were killed \u2014 a claim CNN notes it cannot independently verify. The group said the airport strikes were a response to the intensified Saudi air campaign in Yemen and threatened to continue targeting airports and other sites inside the kingdom.",
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
-      "links": [],
-      "image_urls": [
-        "https://1-e8259.azureedge.net/wp-content/uploads/2022/01/AP21264625464627.jpg?resize=770%2C513&quality=80"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "11:33 AM PDT, Oct 12",
-      "report_time_ist": "12:03 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T18:33:00Z",
-      "sentiment": {
-        "houthis": "neutral",
-        "saudi_govt": "negative",
-        "civilians": "negative"
-      }
-    },
-    {
-      "id": "aviation-meltdown-airlines-oct12",
-      "event_time_ist": "Oct 12, 2026",
-      "title": "Riyadh airport shut 'until further notice'; Lufthansa, Air France-KLM, Etihad extend suspensions",
-      "summary": "King Khalid International Airport will remain closed until further notice (NOTAM: at least Oct 17) to verify safety of facilities. Cirium data: 99.7% of Sunday's scheduled flights cancelled, ~60% of Monday's expected cancelled; FlightRadar24 put Riyadh cancellations near 78%. Lufthansa cancelled all Riyadh flights until Oct 16, Air France-KLM extended its suspension to the end of the month, and Etihad extended cancellations (~20 flights to Riyadh, Jeddah, Dammam). EASA widened its Saudi airspace warning; the FAA caution stands. New Al Arabiya security footage shows Saturday's terminal blast collapsing part of the ceiling as passengers fled.",
-      "source_name": "Reuters via TBS News",
-      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/skies-over-saudi-capital-empty-after-deadly-houthi-airport-strikes-1570551",
-      "links": [
-        "https://www.reuters.com/world/middle-east/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-2026-10-12/",
-        "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
-      ],
-      "image_urls": [
-        "https://dev.d46xmz47rctcf.amplifyapp.com/_next/image?url=https%3A%2F%2Farchive-files.aleqt.com%2Frbitem%2F2023%2F08%2F23%2F2249116-933732571.jpg&w=828&q=85"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:33 AM PDT, Oct 12",
-      "report_time_ist": "12:03 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T18:33:00Z",
-      "sentiment": {
-        "houthis": "negative",
-        "saudi_govt": "negative",
-        "civilians": "negative"
-      }
-    },
-    {
-      "id": "uk-travel-advisory-oct12",
-      "event_time_ist": "Oct 12, 2026",
-      "title": "UK tells citizens to avoid Jeddah, Dammam and Saudi airports; Thursday jet attack killed pilot",
-      "summary": "The UK Foreign Office advised British citizens to avoid travel to Jeddah and Dammam and to all Saudi airports except Medina's. A Thursday advisory already covered Riyadh after a Houthi attack on a passenger jet killed the pilot and two others \u2014 Saudia confirmed one of its jets was damaged with no passengers aboard. The advisories land as Riyadh prepares to host the Future Investment Initiative ('Davos in the Desert') later this month.",
+      "id": "us-declined-urgent-request-oct12",
+      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+      "title": "Saudi Arabia asked Trump for urgent support; he declined, US says",
+      "summary": "Saudi Arabia requested urgent support from President Trump after the weekend airport strikes, but he declined as US forces remain tied up in the simmering conflict with Iran, The Times reports. The nuance matters: Trump is still publicly weighing joining Saudi strikes on the Houthis. Separately, the Houthi coastal offensive has driven up oil prices, and the campaign is believed to have been coordinated with Iran, strengthening Tehran's leverage as it moves to blockade the Strait of Hormuz.",
       "source_name": "The Times",
-      "source_url": "https://www.thetimes.com/world/middle-east/article/attack-saudi-arabia-airport-houthi-lx2q8kvmn",
+      "source_url": "https://www.thetimes.com/world/middle-east/article/houthis-yemen-saudi-arabia-strait-attacks-5xr9q9h3r",
       "links": [],
       "image_urls": [
-        "https://thetraveler.s3.amazonaws.com/images/hero/riyadh-airport-stranded-travellers-disruption.jpg_1200x675.jpg"
+        "https://aldarnews1.s3.eu-central-1.amazonaws.com/45436ade74be4d02b0664c461d7c99a8.png"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:33 AM PDT, Oct 12",
-      "report_time_ist": "12:03 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
       "sentiment": {
         "houthis": "negative",
-        "saudi_govt": "negative",
+        "saudi_govt": "neutral",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "no-monday-strike-no-reopening-date-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "No confirmed fresh airport strike Monday; GACA gives no reopening date",
+      "summary": "Aviation tracker AirMedia24 found no GACA statement or wire report of a fresh strike on Riyadh airport Monday \u2014 viral posts about a new drone attack are unverified, likely recycled footage of Saturday's blast and Sunday's Terminal 4 strike; the most recent confirmed airport deaths remain Oct 11. GACA extended the suspension Monday with no reopening date announced (the Oct 17 NOTAM is provisional and unconfirmed by GACA). Dammam and Abha saw disruption; Dubai, Abu Dhabi, Doha and Jeddah remain open with knock-on delays. The damaged terminals sit inside the $7.2B King Salman International Airport expansion site.",
+      "source_name": "AirMedia24",
+      "source_url": "https://airmedia24.com/news/riyadh-airport-ruh-stays-closed-with-no-reopening-date-after-four-houthi-linked-attack-days",
+      "links": [
+        "https://www.1arabia.com/2026/10/saudi-arabia-prolongs-riyadh-airport.html",
+        "https://www.enr.com/articles/63869-riyadh-airport-attacks-damage-terminals-at-72b-expansion-site"
+      ],
+      "image_urls": [
+        "https://zadra-aviationcharter.ch/wp-content/uploads/2026/04/riyadh_credit.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "neutral",
         "civilians": "negative"
       }
     },
     {
-      "id": "mecca-pact-deployments-oct12",
-      "event_time_ist": "Oct 5-12, 2026 (reported Oct 12)",
-      "title": "Mecca defence pact activated: Pakistan/Turkey pledged rapid deployment; Houthis hold Bab al-Mandeb",
-      "summary": "Saudi Arabia, Turkey and Pakistan activated the Mecca mutual defence pact on Oct 5 ('collective deterrence'), pledging rapid deployment of forces to the kingdom. Pakistan \u2014 with ~8,000 troops, JF-17 fighters and HQ-9 air defences already in-country \u2014 and Turkey committed to reconnaissance/support roles while Saudi forces lead combat; Turkey's FM ruled out Turkish troop deployment or offensive operations pending parliamentary ratification. Backdrop: a Saudi-backed Yemeni counteroffensive with ~100 coalition jets aims to retake the Bab al-Mandeb strait seized by the Houthis in September, while the rebels tighten their siege of Taiz.",
-      "source_name": "The Conversation via Evening Report",
-      "source_url": "https://eveningreport.nz/2026/10/10/mecca-pact-pakistan-and-turkey-have-answered-saudi-arabias-call-for-help-but-dont-expect-them-to-fight-the-houthis/",
-      "links": [
-        "https://cmio.org/regions/world/europe/863535-saudi-arabia-turkey-and-pakistan-activate-mecca-defence-pact",
-        "https://www.reuters.com/world/asia-pacific/turkey-sending-technical-defensive-support-saudi-arabia-help-fight-houthis-2026-10-07/"
-      ],
+      "id": "overnight-interceptions-abha-oct12",
+      "event_time_ist": "Overnight Oct 11-12, 2026 (reported Oct 12)",
+      "title": "Saudi defences intercept drone over Eastern Province, ballistic missile toward Khamis Mushait",
+      "summary": "Saudi-led coalition forces said air defences intercepted and destroyed a drone in the Eastern Province and a ballistic missile launched toward Khamis Mushait; emergency alerts were issued in Abha early Monday but the danger has since passed, Saudi Civil Defence said. Meanwhile a Saudi ministry says conferences in Riyadh \u2014 including the upcoming Future Investment Initiative \u2014 are going ahead despite the attacks.",
+      "source_name": "TBS News (Reuters)",
+      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/one-dead-new-attack-saudi-airport-day-after-houthi-strike-kills-13-1569891",
+      "links": [],
       "image_urls": [
-        "https://ngtimes.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1f3d737c6cc1b38a1c6442b989b1fa426d99179d/bab-al-mandeb-shipping-hero.jpg"
+        "https://ts-post.net/wp-content/uploads/2026/03/2680643-2048x1366.webp"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:33 AM PDT, Oct 12",
-      "report_time_ist": "12:03 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:08 PM PDT, Oct 12",
+      "report_time_ist": "12:38 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T19:08:00Z",
       "sentiment": {
         "houthis": "negative",
         "saudi_govt": "positive",
-        "us": "neutral"
+        "civilians": "neutral"
       }
     }
   ]

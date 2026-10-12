@@ -6,7 +6,7 @@
   "items": [
     {
       "id": "detention-of-top-leadership",
-      "event_time_ist": "10 AM IST",
+      "event_time_ist": "10 AM IST, Oct 10",
       "title": "Detention of top leadership",
       "summary": "Detention of top leadership (Sat Oct 10 morning, ahead of 10 AM IST protest): Delhi Police boarded Abhijeet Dipke's Mumbai→Delhi flight at IGI Airport and detained Dipke, Saurav Das, and Ashutosh Ranka on landing (reports ~10:15–10:30 AM IST; Dipke: 'I have come here to be arrested...'). Dhruv Rathee detained this morning (sources differ: from Gurugram residence / at protest site). Ratna Singh (CJP legal-cell head) also detained.",
       "source_name": "Reuters",
@@ -14,12 +14,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:30 PM PDT",
-      "report_time_ist": "10 AM IST"
+      "report_time_pdt": "9:30 PM PDT, Oct 9",
+      "report_time_ist": "10 AM IST, Oct 10"
     },
     {
       "id": "delhi-police-on-x-refuted-dipke-s-family-s-delhi-p",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "Delhi Police on X REFUTED Dipke's family's 'Delhi Police is lying' claim",
       "summary": "Delhi Police on X REFUTED Dipke's family's 'Delhi Police is lying' claim (IANS via hiindia.com, Oct 11): said the news of Abhijeet Dipke's grandmother's demise was conveyed to him in detention 'with due sensitivity,' that he was informed of the scheduled funeral time and 'offered all possible assistance' to travel home on humanitarian grounds — 'however he denied to avail the same.' New detail ('denied to avail') vs the earlier-logged Oct 10 humanitarian-travel offer; directly answers parents Bhagwan/Anita Dipke's claim they could not contact him and had put the last rites on hold.",
       "source_name": "IANS",
@@ -27,12 +27,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "criminal-case-mumbai-police-filed-an-fir-against-a",
-      "event_time_ist": "02:35 PM IST",
+      "event_time_ist": "02:35 PM IST, Oct 10",
       "title": "Criminal case — Mumbai Police filed an FIR against actor Imran Khan and others",
       "summary": "criminal case — Mumbai Police filed an FIR against actor Imran Khan and others over Saturday's Mumbai protest at August Kranti Maidan; Khan had been detained and released a couple of hours later. Blog lists the FIR under sections 223, 126(2), 189(2), 189(3) and 189(5), described as of the Indian Penal Code. First criminal case against a named celebrity participant of the protest (02:35 PM IST; thedailyjagran.com day-2 live blog).",
       "source_name": "thedailyjagran.com",
@@ -40,12 +40,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "2:05 AM PDT",
-      "report_time_ist": "02:35 PM IST"
+      "report_time_pdt": "2:05 AM PDT, Oct 10",
+      "report_time_ist": "02:35 PM IST, Oct 10"
     },
     {
       "id": "delhi-police-fir-count-firmed-up-20-firs-registere",
-      "event_time_ist": "03:55 PM IST",
+      "event_time_ist": "03:55 PM IST, Oct 10",
       "title": "Delhi Police FIR count firmed up — 20 FIRs registered in connection with",
       "summary": "Delhi Police FIR count firmed up — 20 FIRs registered in connection with Saturday's CJP protest (PTI via thedailyjagran.com day-2 live blog, 03:55 PM IST / 10:25Z), 'against CEC Gyanesh Kumar over alleged irregularities in the Special Intensive Revision (SIR) of electoral rolls.' Corroborates/fixes the count vs the earlier IANS 'over 20 FIRs' note.",
       "source_name": "thedailyjagran.com",
@@ -53,12 +53,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "3:25 AM PDT",
-      "report_time_ist": "03:55 PM IST"
+      "report_time_pdt": "3:25 AM PDT, Oct 10",
+      "report_time_ist": "03:55 PM IST, Oct 10"
     },
     {
       "id": "aap-streamed-a-press-conference-on-x-on-what-it-ca",
-      "event_time_ist": "~04:03 PM IST",
+      "event_time_ist": "~04:03 PM IST, Oct 11",
       "title": "AAP streamed a press conference on X on what it called the government's 'brutal",
       "summary": "AAP streamed a press conference on X on what it called the government's 'brutal oppression of democratic rights' (~04:03 PM IST). First post-Saturday-crackdown opposition-party presser from AAP (substance not yet captured).",
       "source_name": "CJP watch log",
@@ -66,12 +66,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~3:33 AM PDT",
-      "report_time_ist": "~04:03 PM IST"
+      "report_time_pdt": "~3:33 AM PDT, Oct 11",
+      "report_time_ist": "~04:03 PM IST, Oct 11"
     },
     {
       "id": "injury-report-confirmed-in-detail-two-delhi-police",
-      "event_time_ist": "04:38 PM IST",
+      "event_time_ist": "04:38 PM IST, Oct 10",
       "title": "Injury report confirmed in detail — two Delhi Police personnel, including a",
       "summary": "Injury report confirmed in detail — two Delhi Police personnel, including a Pink Force woman officer, injured Saturday amid the detention of ~1,000 protesters across New Delhi district; the injured officers (Suman and Dheeraj Yadav) taken to a nearby hospital, circumstances being examined (04:38 PM IST; thedailyjagran.com live blog). Confirms/refines the earlier stone-pelting report near the PTI building. Separately, Delhi Police released a video explaining its denial of permission for the CJP protest (05:02 PM IST).",
       "source_name": "thedailyjagran.com",
@@ -79,12 +79,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "4:08 AM PDT",
-      "report_time_ist": "04:38 PM IST"
+      "report_time_pdt": "4:08 AM PDT, Oct 10",
+      "report_time_ist": "04:38 PM IST, Oct 10"
     },
     {
       "id": "tmc-mp-abhishek-banerjee-claimed-2-500-people-deta",
-      "event_time_ist": "05:23 PM IST",
+      "event_time_ist": "05:23 PM IST, Oct 10",
       "title": "TMC MP Abhishek Banerjee claimed ~2,500 people detained across Delhi on",
       "summary": "TMC MP Abhishek Banerjee claimed ~2,500 people detained across Delhi on Saturday — including party activists, supporters, and even bystanders — saying Mamata Banerjee and five TMC MPs were picked up while 'sitting at a bus stop, staging a peaceful protest' against vote theft; also claimed metro stations, railway stations and airports remain shut 'even after the Supreme Court's directives,' and that a ten-member INDIA delegation met the President yesterday with a memorandum (05:23 PM IST; ANI via thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -92,12 +92,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "4:53 AM PDT",
-      "report_time_ist": "05:23 PM IST"
+      "report_time_pdt": "4:53 AM PDT, Oct 10",
+      "report_time_ist": "05:23 PM IST, Oct 10"
     },
     {
       "id": "dmrc-extended-the-closure-of-45-metro-stations-unt",
-      "event_time_ist": "06:28 PM IST",
+      "event_time_ist": "06:28 PM IST, Oct 10",
       "title": "DMRC EXTENDED the closure of 45 metro stations until 10 PM Saturday amid the",
       "summary": "DMRC EXTENDED the closure of 45 metro stations until 10 PM Saturday (was till 6 PM) amid the ongoing protest (06:28 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -105,12 +105,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:58 AM PDT",
-      "report_time_ist": "06:28 PM IST"
+      "report_time_pdt": "5:58 AM PDT, Oct 10",
+      "report_time_ist": "06:28 PM IST, Oct 10"
     },
     {
       "id": "mamata-banerjee-released-after-her-saturday-aftern",
-      "event_time_ist": "08:22 PM IST",
+      "event_time_ist": "08:22 PM IST, Oct 10",
       "title": "Mamata Banerjee RELEASED after her Saturday-afternoon detention by Delhi Police",
       "summary": "Mamata Banerjee RELEASED after her Saturday-afternoon detention by Delhi Police (08:22 PM IST; ANI via thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -118,12 +118,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:52 AM PDT",
-      "report_time_ist": "08:22 PM IST"
+      "report_time_pdt": "7:52 AM PDT, Oct 10",
+      "report_time_ist": "08:22 PM IST, Oct 10"
     },
     {
       "id": "cjp-official-statement",
-      "event_time_ist": "10:40 PM IST",
+      "event_time_ist": "10:40 PM IST, Oct 11",
       "title": "CJP official statement",
       "summary": "CJP official statement (10:40 PM IST; thedailyjagran.com live blog): nationwide protests will continue until CEC Gyanesh Kumar resigns — formal reaffirmation of the demand after Saturday's crackdown (no new facts beyond restatement, supporting the logged Sunday-march plan).",
       "source_name": "thedailyjagran.com",
@@ -131,12 +131,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "10:10 AM PDT",
-      "report_time_ist": "10:40 PM IST"
+      "report_time_pdt": "10:10 AM PDT, Oct 11",
+      "report_time_ist": "10:40 PM IST, Oct 11"
     },
     {
       "id": "india-officially-rejected-the-un-human-rights-offi",
-      "event_time_ist": "11:23 PM IST",
+      "event_time_ist": "11:23 PM IST, Oct 10",
       "title": "India officially rejected the UN Human Rights office's concerns over the mass",
       "summary": "India officially rejected the UN Human Rights office's concerns over the mass detentions during Saturday's CJP protest, calling the remarks 'misplaced' (11:23 PM IST; thedailyjagran.com live blog). First government response to the UN statement (@UNHumanRights had called on authorities to ensure the right to peaceful assembly is respected).",
       "source_name": "thedailyjagran.com",
@@ -144,12 +144,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "10:53 AM PDT",
-      "report_time_ist": "11:23 PM IST"
+      "report_time_pdt": "10:53 AM PDT, Oct 10",
+      "report_time_ist": "11:23 PM IST, Oct 10"
     },
     {
       "id": "all-train-services-suspended-as-part-of-saturday-s",
-      "event_time_ist": "11:23 PM IST",
+      "event_time_ist": "11:23 PM IST, Oct 11",
       "title": "All train services suspended as part of Saturday's security arrangements will",
       "summary": "All train services suspended as part of Saturday's security arrangements will resume their normal schedules from October 11, officials said (11:23 PM IST; thedailyjagran.com live blog). Ends the 4 AM–2 PM Saturday cancellations of Mail/Express trains to New Delhi/Hazrat Nizamuddin. Comes alongside the DMRC reopening of all 45 metro stations.",
       "source_name": "thedailyjagran.com",
@@ -157,8 +157,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "10:53 AM PDT",
-      "report_time_ist": "11:23 PM IST"
+      "report_time_pdt": "10:53 AM PDT, Oct 11",
+      "report_time_ist": "11:23 PM IST, Oct 11"
     },
     {
       "id": "tally-claim-aap-leader-sanjay-singh-said-in-a-pti",
@@ -292,7 +292,7 @@
     },
     {
       "id": "youtuber-dhruv-rathee-remains-in-detention-after-h",
-      "event_time_ist": "12:15 AM IST",
+      "event_time_ist": "12:15 AM IST, Oct 11",
       "title": "YouTuber Dhruv Rathee REMAINS in detention after his Saturday-morning Gurugram",
       "summary": "YouTuber Dhruv Rathee REMAINS in detention after his Saturday-morning Gurugram pickup, police confirmed (12:15 AM IST, Oct 11; thedailyjagran.com live blog) — he was NOT part of the late-night mass release from the temporary detention centres. CJP leaders Dipke, Das, Ranka also still in custody; still no word on Dipke's release or his grandmother's 10 AM Sunday last rites.",
       "source_name": "thedailyjagran.com",
@@ -300,12 +300,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "11:45 AM PDT",
-      "report_time_ist": "12:15 AM IST"
+      "report_time_pdt": "11:45 AM PDT, Oct 10",
+      "report_time_ist": "12:15 AM IST, Oct 11"
     },
     {
       "id": "amnesty-international-joined-the-un-human-rights-o",
-      "event_time_ist": "12:16 AM IST",
+      "event_time_ist": "12:16 AM IST, Oct 11",
       "title": "Amnesty International joined the UN Human Rights Office in condemning the",
       "summary": "Amnesty International joined the UN Human Rights Office in condemning the crackdown, after reports of mass arrests and restrictions on peaceful protests (thedailyjagran.com summary, updated 12:16 AM IST Oct 11). Widens the international-reaction front beyond the previously logged UN statement.",
       "source_name": "thedailyjagran.com",
@@ -313,12 +313,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:46 AM PDT",
-      "report_time_ist": "12:16 AM IST"
+      "report_time_pdt": "11:46 AM PDT, Oct 10",
+      "report_time_ist": "12:16 AM IST, Oct 11"
     },
     {
       "id": "a-habeas-corpus-petition-was-filed-in-the-supreme",
-      "event_time_ist": "1:01 AM IST",
+      "event_time_ist": "1:01 AM IST, Oct 11",
       "title": "A habeas corpus petition was filed in the Supreme Court by Gaurav Bharti",
       "summary": "a habeas corpus petition (Article 32, Diary No. 63926/2026) was filed in the Supreme Court by Gaurav Bharti (CJP Coverage Coordinator) through Advocates Rajesh G. Inamdar and Shashwat Anand, seeking production and release of Abhijeet Dipke, Saurav Das, Ashutosh Ranka and other detained persons; urgent listing was sought alongside Diary No.",
       "source_name": "CJP watch log",
@@ -326,12 +326,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:31 PM PDT",
-      "report_time_ist": "1:01 AM IST"
+      "report_time_pdt": "12:31 PM PDT, Oct 10",
+      "report_time_ist": "1:01 AM IST, Oct 11"
     },
     {
       "id": "release-youtuber-dhruv-rathee-released-around-3-am",
-      "event_time_ist": "3 AM IST",
+      "event_time_ist": "3 AM IST, Oct 11",
       "title": "RELEASE — YouTuber Dhruv Rathee released around 3 AM IST Sunday Oct 11 after",
       "summary": "RELEASE — YouTuber Dhruv Rathee released around 3 AM IST Sunday Oct 11 after his Saturday-morning Gurugram pickup, per Delhi Police sources (thedailyjagran.com day-2 live blog, 09:12 AM IST). Police warned action would be taken again if he attempts to reach Jantar Mantar for Sunday's protest. (Blog entries timestamped 03:38–03:49Z, missed by the 04:00Z run; surfacing now.)",
       "source_name": "thedailyjagran.com",
@@ -339,12 +339,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "2:30 PM PDT",
-      "report_time_ist": "3 AM IST"
+      "report_time_pdt": "2:30 PM PDT, Oct 10",
+      "report_time_ist": "3 AM IST, Oct 11"
     },
     {
       "id": "fresh-official-cjp-statement",
-      "event_time_ist": "5:25 AM IST",
+      "event_time_ist": "5:25 AM IST, Oct 11",
       "title": "Fresh official CJP statement",
       "summary": "Fresh official CJP statement (@cockroachjantaparty IG, 10:25 PM PDT / 5:25 AM IST Oct 11): 'It's been 12 hours. No accountability.' Demands immediate release of Abhijeet Dipke, Saurav Das and Ashutosh Ranka, immediate disclosure of their whereabouts, and immediate access to their lawyers — 'You cannot make people disappear and call it democracy.' First official CJP post since Delhi Police's humanitarian-travel offer and the mass release of other detainees; ~20K likes within minutes. Still no word on Dipke contacting family or attending grandmother's last rites (10 AM Sunday IST).",
       "source_name": "ANI",
@@ -352,12 +352,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "4:55 PM PDT",
-      "report_time_ist": "5:25 AM IST"
+      "report_time_pdt": "4:55 PM PDT, Oct 10",
+      "report_time_ist": "5:25 AM IST, Oct 11"
     },
     {
       "id": "court-production-details-locked-in-cjp-s-legal-hea",
-      "event_time_ist": "08:47 AM IST",
+      "event_time_ist": "08:47 AM IST, Oct 11",
       "title": "Court-production details locked in — CJP's legal head Ratna Singh posted on X",
       "summary": "Court-production details locked in — CJP's legal head Ratna Singh (now free and acting as counsel) posted on X that Abhijeet Dipke, Ashutosh Ranka and Saurav Das will be produced before the EXECUTIVE MAGISTRATE at Delhi Cantt Police Station at 9 AM Sunday Oct 11; she said she will be present with other advocates (IANS via hiindia.com; Jagran day-2 live blog 08:47 AM IST). Refines the earlier logged 'CMM Court' note — the venue is now confirmed as the Executive Magistrate at Delhi Cantt PS. Delhi Police confirmed the preventive arrest; Bar and Bench reports the activists were held under BNSS Sections 126 (security for keeping peace) / 170 (arrest to prevent cognisable offences) — first stated legal basis for the detentions.",
       "source_name": "IANS",
@@ -365,12 +365,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "8:17 PM PDT",
-      "report_time_ist": "08:47 AM IST"
+      "report_time_pdt": "8:17 PM PDT, Oct 10",
+      "report_time_ist": "08:47 AM IST, Oct 11"
     },
     {
       "id": "nighttime-connaught-place-protest-footage-young-wo",
-      "event_time_ist": "8:50 AM IST",
+      "event_time_ist": "8:50 AM IST, Oct 11",
       "title": "Nighttime Connaught Place protest footage — young women physically detained",
       "summary": "(The Lallantop IG reel @thelallantop, posted 03:20:44Z / 8:50 AM IST Mon, covering Sunday-night Oct 11): nighttime Connaught Place protest footage — young women physically detained, pulled to the ground; witnesses allege brutal detention, fear inside police vehicles, police targeting women, phones taken, held for hours near Naresh PS. First visual/reporting detail on the logged 'fresh evening CP action / ~200 detained' Sunday-night episode; adds women-targeting allegation.",
       "source_name": "The Lallantop",
@@ -378,12 +378,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:20 PM PDT",
-      "report_time_ist": "8:50 AM IST"
+      "report_time_pdt": "8:20 PM PDT, Oct 10",
+      "report_time_ist": "8:50 AM IST, Oct 11"
     },
     {
       "id": "status-change-ratna-singh-active-again-cjp-s-legal",
-      "event_time_ist": "08:59 AM IST",
+      "event_time_ist": "08:59 AM IST, Oct 11",
       "title": "STATUS CHANGE — Ratna Singh active again: CJP's legal affairs head, detained",
       "summary": "STATUS CHANGE — Ratna Singh active again: CJP's legal affairs head, detained Saturday morning, is now publicly posting on X as the party's lawyer and will represent Dipke/Das/Ranka at the 9 AM Sunday magistrate production (per IANS/hiindia.com citing her X post). No standalone release report; she is no longer counted among detainees. Also: four journalists' organisations (Press Club of India, Indian Women's Press Corps and two others) condemned the detention and alleged harassment of journalists covering Saturday's protest — several detained despite press ID cards, phones/equipment seized (joint statement Saturday; Jagran day-2 live blog 08:59 AM IST Oct 11).",
       "source_name": "IANS",
@@ -391,12 +391,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:29 PM PDT",
-      "report_time_ist": "08:59 AM IST"
+      "report_time_pdt": "8:29 PM PDT, Oct 10",
+      "report_time_ist": "08:59 AM IST, Oct 11"
     },
     {
       "id": "security-heightened-outside-delhi-cantt-police-sta",
-      "event_time_ist": "9 AM IST",
+      "event_time_ist": "9 AM IST, Oct 11",
       "title": "Security heightened outside Delhi Cantt Police Station ahead of",
       "summary": "Security heightened outside Delhi Cantt Police Station ahead of Dipke/Ranka/Das's 9 AM IST production before the Executive Magistrate (thedailyjagran.com day-2 live blog, 09:19 AM IST Oct 11); Ratna Singh will be present as counsel. Outcome of production not yet reported.",
       "source_name": "thedailyjagran.com",
@@ -404,12 +404,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:30 PM PDT",
-      "report_time_ist": "9 AM IST"
+      "report_time_pdt": "8:30 PM PDT, Oct 10",
+      "report_time_ist": "9 AM IST, Oct 11"
     },
     {
       "id": "ajinkya-shinde-called-for-a-mumbai-protest-at-t-ju",
-      "event_time_ist": "09:08 AM IST",
+      "event_time_ist": "09:08 AM IST, Oct 11",
       "title": "Ajinkya Shinde called for a MUMBAI protest at T Junction, Shivaji Park, 4 PM",
       "summary": "Ajinkya Shinde called for a MUMBAI protest at T Junction, Shivaji Park, 4 PM Sunday Oct 11 — 'Across the country protests have started against the dictatorship... More cities will follow soon' (thedailyjagran.com day-2 live blog, 09:08 AM IST Oct 11). New-city protest call beyond Delhi's 10 AM Jantar Mantar march.",
       "source_name": "thedailyjagran.com",
@@ -417,12 +417,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:38 PM PDT",
-      "report_time_ist": "09:08 AM IST"
+      "report_time_pdt": "8:38 PM PDT, Oct 10",
+      "report_time_ist": "09:08 AM IST, Oct 11"
     },
     {
       "id": "dipke-s-parents-publicly-dispute-police-s-version",
-      "event_time_ist": "09:36 AM IST",
+      "event_time_ist": "09:36 AM IST, Oct 11",
       "title": "Dipke's parents publicly dispute police's version — father Bhagwan Dipke: 'We",
       "summary": "Dipke's parents publicly dispute police's version — father Bhagwan Dipke: 'We tried contacting him but could not succeed. If he had received news of his grandmother's demise, he would have come by now. His friends told me that he has been shifted somewhere else; he is not in Delhi.' Mother Anita Dipke: 'We have not been able to contact him...",
       "source_name": "thedailyjagran.com",
@@ -430,12 +430,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:06 PM PDT",
-      "report_time_ist": "09:36 AM IST"
+      "report_time_pdt": "9:06 PM PDT, Oct 10",
+      "report_time_ist": "09:36 AM IST, Oct 11"
     },
     {
       "id": "aisa-president-neha-bora-posted-on-x-calling-for-s",
-      "event_time_ist": "09:49 AM IST",
+      "event_time_ist": "09:49 AM IST, Oct 11",
       "title": "AISA president Neha Bora posted on X calling for Sunday's agitation to",
       "summary": "AISA president Neha Bora posted on X calling for Sunday's agitation to continue: 'Let a hundred Jantar Mantars bloom! Another part of Delhi will become Jantar Mantar tomorrow.' (thedailyjagran.com day-2 live blog, 09:49 AM IST)",
       "source_name": "thedailyjagran.com",
@@ -443,12 +443,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:19 PM PDT",
-      "report_time_ist": "09:49 AM IST"
+      "report_time_pdt": "9:19 PM PDT, Oct 10",
+      "report_time_ist": "09:49 AM IST, Oct 11"
     },
     {
       "id": "official-cjp-post-claims-they-detained-cjp-s-team",
-      "event_time_ist": "10 AM IST",
+      "event_time_ist": "10 AM IST, Oct 10",
       "title": "Official CJP post claims 'They detained CJP's team from Connaught Place!'",
       "summary": "official CJP post claims 'They detained CJP's team from Connaught Place!' — alleges a detention of CJP's team at CP in the early hours of Sunday, ahead of the 10 AM IST Jantar Mantar march. Single-sourced from CJP itself (caption-only claim, no names/counts), not independently corroborated; pre-dates the logged 12:44 PM IST CP demonstration report, so it likely describes pre-march police action at CP. Surfaces in the same IG-CLI leg that also confirmed @abhijeetdipke has no new posts (newest still 22:53:53Z Oct 10, 'Coward.').",
       "source_name": "PTI",
@@ -456,12 +456,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:30 PM PDT",
-      "report_time_ist": "10 AM IST"
+      "report_time_pdt": "9:30 PM PDT, Oct 9",
+      "report_time_ist": "10 AM IST, Oct 10"
     },
     {
       "id": "first-confirmation-of-dipke-s-post-release-travel",
-      "event_time_ist": "10 AM IST",
+      "event_time_ist": "10 AM IST, Oct 11",
       "title": "FIRST confirmation of Dipke's post-release travel plans",
       "summary": "FIRST confirmation of Dipke's post-release travel plans (CNN article 'India's Cockroach movement founder and leaders released', updated <1h before run / ~07:30Z): after release, Abhijeet Dipke criticized PM Modi, said he was 'returning home to be with family' during 'this moment of grief,' and wrote on X: 'The CJP will neither back down nor be intimidated.' Partially resolves the open 'last-rites travel' question (rites were due 10 AM IST; family had put them on hold) — travel confirmed but not arrival timing. CNN also reports ground detail: only a handful of protesters at Jantar Mantar Sunday with slogan-shouters promptly detained, and cites an anonymous official saying 'more than 2,000 protesters were detained' (already covered by CNN small-turnout log).",
       "source_name": "CNN",
@@ -469,12 +469,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "9:30 PM PDT",
-      "report_time_ist": "10 AM IST"
+      "report_time_pdt": "9:30 PM PDT, Oct 10",
+      "report_time_ist": "10 AM IST, Oct 11"
     },
     {
       "id": "first-turnout-outcome-reporting-on-the-sunday-10-a",
-      "event_time_ist": "10 AM IST",
+      "event_time_ist": "10 AM IST, Oct 11",
       "title": "FIRST turnout/outcome reporting on the Sunday 10 AM IST Jantar Mantar march",
       "summary": "FIRST turnout/outcome reporting on the Sunday 10 AM IST Jantar Mantar march (now ~2.5h in): CNN (updated <1h before this run) reports numbers turning out were small, with central Delhi sealed and heavy police presence continuing on Sunday. Fills the 'no credible turnout reporting' gap flagged by the 06:45Z run. NDTV's single-sourced 'remove all barricades' SC claim (06:37:35Z) still uncorroborated; CNN's 'central Delhi sealed' framing runs against barricade removal.",
       "source_name": "NDTV",
@@ -482,12 +482,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:30 PM PDT",
-      "report_time_ist": "10 AM IST"
+      "report_time_pdt": "9:30 PM PDT, Oct 10",
+      "report_time_ist": "10 AM IST, Oct 11"
     },
     {
       "id": "detention-tally-thedailyjagran-com-day-2-live-blog",
-      "event_time_ist": "12:20 PM IST",
+      "event_time_ist": "12:20 PM IST, Oct 11",
       "title": "Detention tally — thedailyjagran.com day-2 live blog intro",
       "summary": "detention tally — thedailyjagran.com day-2 live blog intro (updated 12:20 PM IST): 'Around 400 suspected protesters were detained from different parts of Delhi overnight by the cops' — new post-midnight Sunday detention tally not in any earlier tally (7,000+ Saturday detentions were already mass-released except CJP leaders). Single-sourced from the blog intro; unclear if distinct from Saturday-night counts, watch for corroboration. Blog has no entries newer than the logged 12:27 PM IST SC contempt-notice item.",
       "source_name": "thedailyjagran.com",
@@ -495,12 +495,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:50 PM PDT",
-      "report_time_ist": "12:20 PM IST"
+      "report_time_pdt": "11:50 PM PDT, Oct 10",
+      "report_time_ist": "12:20 PM IST, Oct 11"
     },
     {
       "id": "court-action-at-the-sunday-special-sitting",
-      "event_time_ist": "12:27 PM IST",
+      "event_time_ist": "12:27 PM IST, Oct 11",
       "title": "Court action at the Sunday special sitting",
       "summary": "Court action at the Sunday special sitting (thedailyjagran.com day-2 live blog, 12:27 PM IST / 06:57Z entry, missed by all earlier runs): the Supreme Court ISSUED NOTICE TO THE CENTRE on the plea seeking initiation of contempt proceedings against authorities over alleged violation of the Oct 9 order on metro/train curbs ('Did Authorities Violate Court Orders?'). First formal court action in Sunday's Bagchi/Mohana special sitting — advances the earlier logged 'will hear all sides, ensure no public trouble' note; no order yet on either the contempt plea or the Guruswamy preventive-detention challenge.",
       "source_name": "thedailyjagran.com",
@@ -508,12 +508,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:57 PM PDT",
-      "report_time_ist": "12:27 PM IST"
+      "report_time_pdt": "11:57 PM PDT, Oct 10",
+      "report_time_ist": "12:27 PM IST, Oct 11"
     },
     {
       "id": "protest-front-demonstrators-staging-a-demonstratio",
-      "event_time_ist": "12:44 PM IST",
+      "event_time_ist": "12:44 PM IST, Oct 11",
       "title": "Protest front — demonstrators staging a demonstration at Connaught Place on",
       "summary": "protest front — demonstrators staging a demonstration at Connaught Place on Sunday demanding CEC Gyanesh Kumar's resignation (12:44 PM IST; thedailyjagran.com day-2 live blog, 'Demonstrations March At CP Demanding CEC's Resignation'). First CP protest report of the day beyond Jantar Mantar; comes with central Delhi sealed and heavy police presence per CNN's small-turnout Sunday-march report.",
       "source_name": "thedailyjagran.com",
@@ -521,12 +521,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:14 AM PDT",
-      "report_time_ist": "12:44 PM IST"
+      "report_time_pdt": "12:14 AM PDT, Oct 11",
+      "report_time_ist": "12:44 PM IST, Oct 11"
     },
     {
       "id": "arrests-delhi-police-arrested-4-men-claiming-to-be",
-      "event_time_ist": "12:48 PM IST",
+      "event_time_ist": "12:48 PM IST, Oct 10",
       "title": "Arrests — Delhi Police arrested 4 men claiming to be members of the right-wing",
       "summary": "arrests — Delhi Police arrested 4 men claiming to be members of the right-wing Hindu Raksha Dal for allegedly assaulting students and pushing and hitting women on Delhi's DDU Marg during the CJP's October 10 protest (thedailyjagran.com day-2 live blog, 12:48 PM IST / 07:18Z entry; police said, Sunday). First arrest-action tied to a reported attack on protesters/students during Saturday's crackdown — advances the Saturday 'two injured police personnel' violence picture and introduces a counter-protest/assault angle. (Blog full-page open this run; entry is the newest on the blog, landing after the prior run's 07:26Z full-page check.)",
       "source_name": "thedailyjagran.com",
@@ -534,12 +534,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:18 AM PDT",
-      "report_time_ist": "12:48 PM IST"
+      "report_time_pdt": "12:18 AM PDT, Oct 10",
+      "report_time_ist": "12:48 PM IST, Oct 10"
     },
     {
       "id": "cp-detention-scope-clarified-day-2-live-blog-intro",
-      "event_time_ist": "01:28 PM IST",
+      "event_time_ist": "01:28 PM IST, Oct 11",
       "title": "CP detention scope clarified — day-2 live blog intro now states CJP workers",
       "summary": "CP detention scope clarified — day-2 live blog intro now states CJP workers were also detained at Connaught Place on Sunday, beyond the logged 01:28 PM IST entry's SFI/AISF/AIYF workers + John Brittas altercation. Resolves the headline/body 'CJP workers at CP' mismatch flagged at 08:50Z.",
       "source_name": "CJP watch log",
@@ -547,12 +547,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:58 AM PDT",
-      "report_time_ist": "01:28 PM IST"
+      "report_time_pdt": "12:58 AM PDT, Oct 11",
+      "report_time_ist": "01:28 PM IST, Oct 11"
     },
     {
       "id": "connaught-place-police-action-delhi-police-detaine",
-      "event_time_ist": "01:28 PM IST",
+      "event_time_ist": "01:28 PM IST, Oct 11",
       "title": "Connaught Place police action: Delhi Police detained workers of left-wing",
       "summary": "Connaught Place police action: Delhi Police detained workers of left-wing student organisations (SFI, AISF, AIYF) as they tried to hold a demonstration in CP's inner circle; police also TRIED to detain CPI(M) MP John Brittas, sparking an altercation (01:28 PM IST / 07:58Z; thedailyjagran.com day-2 live blog — landed after the prior run's 08:10Z full-page check, never logged). Fresh detention/altercation angle in Sunday's CP protest front.",
       "source_name": "thedailyjagran.com",
@@ -560,12 +560,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:58 AM PDT",
-      "report_time_ist": "01:28 PM IST"
+      "report_time_pdt": "12:58 AM PDT, Oct 11",
+      "report_time_ist": "01:28 PM IST, Oct 11"
     },
     {
       "id": "supreme-court-order-on-the-protest-curbs",
-      "event_time_ist": "01:47 PM IST",
+      "event_time_ist": "01:47 PM IST, Oct 11",
       "title": "Supreme Court ORDER on the protest curbs",
       "summary": "Supreme Court ORDER on the protest curbs (Sunday special sitting): day-2 blog headline reads 'SC Directs Govt To Lift All Restrictions'; Senior Advocate / Rajya Sabha MP Kapil Sibal met Dipke, Ranka and Das after the SC hearing on restrictions and detention of protesters, thanking the court for 'passing an order that restores the faith of the Indian people... in the justice system of this country' (01:47 PM IST / 08:17Z; thedailyjagran.com day-2 live blog). Advances the earlier logged 'notice to Centre on contempt plea' and corroborates the previously single-sourced NDTV 'remove all barricades' claim; exact order text not yet detailed.",
       "source_name": "thedailyjagran.com",
@@ -573,12 +573,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:17 AM PDT",
-      "report_time_ist": "01:47 PM IST"
+      "report_time_pdt": "1:17 AM PDT, Oct 11",
+      "report_time_ist": "01:47 PM IST, Oct 11"
     },
     {
       "id": "cjp-posted-on-x-that-five-more-of-its-leaders-anki",
-      "event_time_ist": "~01:55 PM IST",
+      "event_time_ist": "~01:55 PM IST, Oct 11",
       "title": "CJP posted on X that five more of its leaders — Ankit Bharadwaj, Anam, Mukesh",
       "summary": "CJP posted on X that five more of its leaders — Ankit Bharadwaj, Anam, Mukesh, Balakrishna and Sudhir Sangwan — were detained Sunday while protesting peacefully; earlier Bharadwaj had posted they were held at Gate No. 3 near Bangla Sahib (~01:55 PM IST). Sudhir Sangwan already logged via IG reel; the other four names are new.",
       "source_name": "CJP watch log",
@@ -586,12 +586,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "~1:25 AM PDT",
-      "report_time_ist": "~01:55 PM IST"
+      "report_time_pdt": "~1:25 AM PDT, Oct 11",
+      "report_time_ist": "~01:55 PM IST, Oct 11"
     },
     {
       "id": "2-pm-ist-presser-content-ashutosh-ranka-says-prote",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "2 PM IST presser content: Ashutosh Ranka says 'protest still ongoing'",
       "summary": "2 PM IST presser content: Ashutosh Ranka says 'protest still ongoing' (thedailyjagran.com day-2 live blog, 03:35 PM IST / 10:05Z): speaking at the Press Club press conference, Ranka thanked the four former CMs (Kejriwal, Mamata Banerjee, Manik Sarkar, Pinarayi Vijayan) for joining the students/youth, said 'the protests are still ongoing,' and alleged that 'even today, several colleagues from CJP have been detained and subjected to physical assault,' that 'the entire SFI team was detained today,' and that 'many members of AISF have also faced detention and assault over the past few days.' First physical-assault allegation tied to Sunday's detentions; follows Das's 'hit the streets' call at the same presser.",
       "source_name": "thedailyjagran.com",
@@ -599,12 +599,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "release-terms-clarified",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "Release terms clarified",
       "summary": "Release terms clarified (previously single-sourced 'on bond / no disturbing peace for a year' item, now corroborated): the Executive Magistrate released Dipke, Das and Ranka on the condition that they 'can not breach peace' for one year, according to CJP legal head Ratna Singh — reported by journalist Kumkum Binwal's channel (citing Singh), matching the News18 graphic's claim of a one-year peace condition. The 'barred from going to Jantar Mantar' claim remains single-sourced and unconfirmed. Post-release 2 PM IST Sunday press conference still pending; Sunday 10 AM IST Jantar Mantar march underway (~11:20 AM IST) with no credible turnout/outcome reporting yet; Dipke's grandmother's last-rites travel still unconfirmed.",
       "source_name": "News18",
@@ -612,12 +612,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "cjp-national-spokesperson-ashutosh-ranka-announced",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "CJP National Spokesperson Ashutosh Ranka announced the three released leaders",
       "summary": "CJP National Spokesperson Ashutosh Ranka announced the three released leaders — Abhijeet Dipke, Saurav Das and Ashutosh Ranka — will address a press conference at 2 PM IST on Sunday. First formal scheduled media appearance since the ~10:10 AM IST Executive Magistrate release; chance to hear post-release statements and any release terms/conditions (still unreported).",
       "source_name": "CJP watch log",
@@ -625,12 +625,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "first-outcome-reporting-on-the-4-pm-ist-mumbai-shi",
-      "event_time_ist": "4 PM IST",
+      "event_time_ist": "4 PM IST, Oct 11",
       "title": "FIRST outcome reporting on the 4 PM IST Mumbai Shivaji Park call — activist",
       "summary": "FIRST outcome reporting on the 4 PM IST Mumbai Shivaji Park call — activist Anjali Damania and several others were detained by police on arrival at Shivaji Park, Dadar, on Sunday while joining a pro-CJP protest (PTI; protestrecord.com sourced timeline 16:50 IST; Jagran day-2 blog 05:25 PM IST entry). First confirmation the Mumbai front drew police detentions.",
       "source_name": "ANI",
@@ -638,12 +638,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:30 AM PDT",
-      "report_time_ist": "4 PM IST"
+      "report_time_pdt": "3:30 AM PDT, Oct 11",
+      "report_time_ist": "4 PM IST, Oct 11"
     },
     {
       "id": "nsui-workers-detained-by-delhi-police-while-holdin",
-      "event_time_ist": "04:22 PM IST",
+      "event_time_ist": "04:22 PM IST, Oct 11",
       "title": "NSUI workers detained by Delhi Police while holding a protest against CEC",
       "summary": "(catch-up; day-2 live blog NEWEST entry 04:22 PM IST / 10:52Z, landed just before baseline, never logged): NSUI workers detained by Delhi Police while holding a protest against CEC Gyanesh Kumar. First NSUI (Congress student wing) detention report of day 2 — extends the Sunday detention scope beyond the logged SFI/AISF/AIYF/John Brittas Connaught Place detentions. (thedailyjagran.com day-2 live blog)",
       "source_name": "thedailyjagran.com",
@@ -651,12 +651,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:52 AM PDT",
-      "report_time_ist": "04:22 PM IST"
+      "report_time_pdt": "3:52 AM PDT, Oct 11",
+      "report_time_ist": "04:22 PM IST, Oct 11"
     },
     {
       "id": "video-shows-delhi-police-forcibly-detaining-cjp-na",
-      "event_time_ist": "04:32 PM IST",
+      "event_time_ist": "04:32 PM IST, Oct 11",
       "title": "Video shows Delhi Police FORCIBLY DETAINING CJP National Spokesperson Sudhir",
       "summary": "(official @cockroachjantaparty IG reel, posted 04:32 PM IST / 11:02:47Z, ~12.5K likes within minutes): video shows Delhi Police FORCIBLY DETAINING CJP National Spokesperson Sudhir Sangwan and his team — officers grabbing seated protesters by limbs/clothing and dragging them across the road during a daytime sit-down protest; on-screen text: 'Delhi Police dragged CJP National Spokesperson Sudhir Sangwan and his team across the road!' and asks 'When will this brutality against peaceful protesters end?' First named spokesperson-level detention of Sunday; visually documents the force Ranka alleged at the 2 PM presser.",
       "source_name": "@cockroachjantaparty",
@@ -664,12 +664,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "4:02 AM PDT",
-      "report_time_ist": "04:32 PM IST"
+      "report_time_pdt": "4:02 AM PDT, Oct 11",
+      "report_time_ist": "04:32 PM IST, Oct 11"
     },
     {
       "id": "escalation-threat-climate-activist-sonam-wangchuk",
-      "event_time_ist": "05:26 PM IST",
+      "event_time_ist": "05:26 PM IST, Oct 11",
       "title": "Escalation threat — Climate activist Sonam Wangchuk warned of a possible hunger",
       "summary": "Escalation threat — Climate activist Sonam Wangchuk warned of a possible hunger strike (anshan) or foot march (padyatra) if the detained CJP leaders/protesters are not released by Sunday (05:26 PM IST; thedailyjagran.com live blog). Called the situation an 'undeclared emergency'; said he had appealed for unity and peace before the protest but had not anticipated the arrests.",
       "source_name": "thedailyjagran.com",
@@ -677,12 +677,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "4:56 AM PDT",
-      "report_time_ist": "05:26 PM IST"
+      "report_time_pdt": "4:56 AM PDT, Oct 11",
+      "report_time_ist": "05:26 PM IST, Oct 11"
     },
     {
       "id": "cjp-vows-to-intensify-agitation-against-cec-gyanes",
-      "event_time_ist": "07:16 PM IST",
+      "event_time_ist": "07:16 PM IST, Oct 11",
       "title": "CJP vows to intensify agitation against CEC Gyanesh Kumar; ~200 detained while",
       "summary": "CJP vows to intensify agitation against CEC Gyanesh Kumar; ~200 detained while protests were held at several places in the New Delhi area on Sunday evening (day-2 blog, 07:16 PM IST). First Sunday-evening detention figure.",
       "source_name": "CJP watch log",
@@ -690,12 +690,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "6:46 AM PDT",
-      "report_time_ist": "07:16 PM IST"
+      "report_time_pdt": "6:46 AM PDT, Oct 11",
+      "report_time_ist": "07:16 PM IST, Oct 11"
     },
     {
       "id": "fresh-evening-connaught-place-action-delhi-police",
-      "event_time_ist": "08:14 PM IST",
+      "event_time_ist": "08:14 PM IST, Oct 11",
       "title": "Fresh evening Connaught Place action: Delhi Police detained protesters after a",
       "summary": "fresh evening Connaught Place action: Delhi Police detained protesters after a fresh anti-CEC protest at CP on Sunday evening (day-2 blog, 08:14 PM IST). Separate from the logged earlier-day CP detentions (SFI/AISF/AIYF/KYS, John Brittas).",
       "source_name": "CJP watch log",
@@ -703,12 +703,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:44 AM PDT",
-      "report_time_ist": "08:14 PM IST"
+      "report_time_pdt": "7:44 AM PDT, Oct 11",
+      "report_time_ist": "08:14 PM IST, Oct 11"
     },
     {
       "id": "supreme-court-to-hold-a-special-sitting-on-sunday",
-      "event_time_ist": "08:52 PM IST",
+      "event_time_ist": "08:52 PM IST, Oct 11",
       "title": "Supreme Court to hold a special sitting on Sunday to hear a contempt plea",
       "summary": "Supreme Court to hold a special sitting on Sunday to hear a contempt plea against authorities for allegedly violating the Oct 9 order on public-transport restrictions (metro station closures, train curbs continuing despite SC directions) (08:52 PM IST; PTI via thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -716,12 +716,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:22 AM PDT",
-      "report_time_ist": "08:52 PM IST"
+      "report_time_pdt": "8:22 AM PDT, Oct 11",
+      "report_time_ist": "08:52 PM IST, Oct 11"
     },
     {
       "id": "delhi-police-said-on-x-it-offered-detained-founder",
-      "event_time_ist": "09:48 PM IST",
+      "event_time_ist": "09:48 PM IST, Oct 11",
       "title": "Delhi Police said on X it offered detained founder Abhijeet Dipke assistance to",
       "summary": "Delhi Police said on X it offered detained founder Abhijeet Dipke assistance to travel home on 'humanitarian grounds' for his grandmother's last rites (10 AM Sunday). CJP replied: 'Where is Abhijeet? His family wants to talk to him; they're going to perform his grandmother's last rites tomorrow morning.",
       "source_name": "thedailyjagran.com",
@@ -729,12 +729,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "9:18 AM PDT",
-      "report_time_ist": "09:48 PM IST"
+      "report_time_pdt": "9:18 AM PDT, Oct 11",
+      "report_time_ist": "09:48 PM IST, Oct 11"
     },
     {
       "id": "delhi-traffic-police-advisory-for-sunday-oct-11-po",
-      "event_time_ist": "09:59 PM IST",
+      "event_time_ist": "09:59 PM IST, Oct 11",
       "title": "Delhi Traffic Police advisory for Sunday Oct 11: possible traffic diversions at",
       "summary": "Delhi Traffic Police advisory for Sunday Oct 11: possible traffic diversions at ~30 locations from 6 AM amid the law-and-order situation — Dhaula Kuan Flyover, Jhandewalan, Mandi House, Minto Road, Connaught Place, Jantar Mantar Road, Lodhi Road Flyover, Patel Chowk, Rail Bhawan, Gol Dak Khana, Windsor Palace, Jai Singh Road-Sansad Marg crossing (09:59 PM IST; thedailyjagran.com live blog). Restrictions set up ahead of CJP's announced Sunday Jantar Mantar march and the INDIA bloc's Monday mega protest.",
       "source_name": "thedailyjagran.com",
@@ -742,12 +742,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:29 AM PDT",
-      "report_time_ist": "09:59 PM IST"
+      "report_time_pdt": "9:29 AM PDT, Oct 11",
+      "report_time_ist": "09:59 PM IST, Oct 11"
     },
     {
       "id": "mass-release-delhi-police-released-all-detainees-f",
-      "event_time_ist": "10:38 PM IST",
+      "event_time_ist": "10:38 PM IST, Oct 11",
       "title": "MASS RELEASE — Delhi Police released all detainees from the temporary detention",
       "summary": "MASS RELEASE — Delhi Police released all detainees from the temporary detention centres except the CJP leaders; 'due legal process would be followed' for the detained leaders (10:38 PM IST; ANI via thedailyjagran.com live blog). Dipke/Das/Ranka remain in custody; still no word on release or last-rites travel (last rites 10 AM Sunday).",
       "source_name": "thedailyjagran.com",
@@ -755,12 +755,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "10:08 AM PDT",
-      "report_time_ist": "10:38 PM IST"
+      "report_time_pdt": "10:08 AM PDT, Oct 11",
+      "report_time_ist": "10:38 PM IST, Oct 11"
     },
     {
       "id": "sunday-march-now-confirmed-at-10-am-cjp-interim-le",
-      "event_time_ist": "11:55 PM IST",
+      "event_time_ist": "11:55 PM IST, Oct 11",
       "title": "Sunday march now CONFIRMED at 10 AM: CJP interim leader Ajinkya Shinde",
       "summary": "Sunday march now CONFIRMED at 10 AM: CJP interim leader Ajinkya Shinde announced at a post-crackdown press conference that the party will march to Jantar Mantar at 10 AM on Sunday Oct 11 until CEC Gyanesh Kumar resigns — 'The government must have thought we will return home after the detentions today. This fear of Modi, Shah shows we have won half the fight.' (TBS News, published 11:55 PM IST, updated 12:08 AM IST Oct 11). Confirms/times the previously logged Sunday-march plan.",
       "source_name": "CJP watch log",
@@ -768,8 +768,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "11:25 AM PDT",
-      "report_time_ist": "11:55 PM IST"
+      "report_time_pdt": "11:25 AM PDT, Oct 11",
+      "report_time_ist": "11:55 PM IST, Oct 11"
     },
     {
       "id": "resolution-of-prior-run-s-flagged-caption-less-vid",
@@ -981,7 +981,7 @@
     },
     {
       "id": "cjp-24-hour-ultimatum-on-a-protest-date-verified-r",
-      "event_time_ist": "12:23 AM IST",
+      "event_time_ist": "12:23 AM IST, Oct 12",
       "title": "CJP 24-hour ultimatum on a protest date (verified RVCJ Media IG carousel",
       "summary": "CJP 24-hour ultimatum on a protest date (verified RVCJ Media IG carousel, posted 12:23 AM IST Oct 12, reporting official X backup @Cockroachisback post; quote corroborated by thedailyjagran day-2 live blog 10:52 PM IST entry): 'Delhi Police can give us date for Jantar Mantar protest in 24 hours, else CJP will give another protest call.' Ashutosh Ranka, Saurav Das (@SauravDassss) and Ratna Singh (@whattalawyer) will visit PARLIAMENT STREET POLICE STATION at 10 AM Monday Oct 12 to DEMAND a date for their peaceful Jantar Mantar protest; police has 24 hours to respond before CJP issues its own protest call.",
       "source_name": "RVCJ Media",
@@ -989,12 +989,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "11:53 AM PDT",
-      "report_time_ist": "12:23 AM IST"
+      "report_time_pdt": "11:53 AM PDT, Oct 11",
+      "report_time_ist": "12:23 AM IST, Oct 12"
     },
     {
       "id": "congress-posted-a-video-on-x-saying-the-party-will",
-      "event_time_ist": "~12:04 PM IST",
+      "event_time_ist": "~12:04 PM IST, Oct 12",
       "title": "Congress posted a video on X saying the party will meet the Chief Justice of",
       "summary": "Congress posted a video on X saying the party will meet the Chief Justice of India on Monday to brief him on the situation, accusing the PM and HM of an 'undeclared Emergency' (~12:04 PM IST). Links to the INDIA bloc Monday mega-protest watch.",
       "source_name": "CJP watch log",
@@ -1002,12 +1002,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~11:34 PM PDT",
-      "report_time_ist": "~12:04 PM IST"
+      "report_time_pdt": "~11:34 PM PDT, Oct 11",
+      "report_time_ist": "~12:04 PM IST, Oct 12"
     },
     {
       "id": "india-bloc-planning-a-major-protest-on-monday-amid",
-      "event_time_ist": "07:25 PM IST",
+      "event_time_ist": "07:25 PM IST, Oct 12",
       "title": "INDIA bloc planning a major protest on Monday amid the crackdown",
       "summary": "INDIA bloc planning a major protest on Monday amid the crackdown (sources; 07:25 PM IST, thedailyjagran.com live blog). TMC chief Mamata Banerjee cancelled her scheduled return to Kolkata and extended her stay in Delhi to join it — she had been detained Saturday afternoon after a sit-in near the South Avenue bus stand.",
       "source_name": "thedailyjagran.com",
@@ -1015,12 +1015,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "6:55 AM PDT",
-      "report_time_ist": "07:25 PM IST"
+      "report_time_pdt": "6:55 AM PDT, Oct 12",
+      "report_time_ist": "07:25 PM IST, Oct 12"
     },
     {
       "id": "rahul-gandhi-opposition-parties-civil-society-and",
-      "event_time_ist": "08:29 PM IST",
+      "event_time_ist": "08:29 PM IST, Oct 12",
       "title": "Rahul Gandhi: opposition parties, civil society and youth will MARCH TO THE",
       "summary": "Rahul Gandhi: opposition parties, civil society and youth will MARCH TO THE SUPREME COURT ON MONDAY to submit a memorandum to the CJI demanding an end to 'vote chori', CEC Gyanesh Kumar's resignation and halting of SIR (day-2 blog, 08:29 PM IST). First march specifics for the logged Congress 'meet CJI Monday' plan; links to the INDIA bloc Monday mega-protest.",
       "source_name": "CJP watch log",
@@ -1028,8 +1028,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:59 AM PDT",
-      "report_time_ist": "08:29 PM IST"
+      "report_time_pdt": "7:59 AM PDT, Oct 12",
+      "report_time_ist": "08:29 PM IST, Oct 12"
     },
     {
       "id": "cji-surya-kant-rejected-the-india-bloc-leaders-req",
@@ -1046,7 +1046,7 @@
     },
     {
       "id": "delhi-police-released-a-video-of-informing-dipke-a",
-      "event_time_ist": "9:26 AM IST",
+      "event_time_ist": "9:26 AM IST, Oct 12",
       "title": "Delhi Police released a VIDEO of informing Dipke about his grandmother's death",
       "summary": "Delhi Police released a VIDEO of informing Dipke about his grandmother's death in custody (The Daily Jagran IG reel @thedailyjagran, posted 03:56:57Z / 9:26 AM IST Mon): split-screen office-room footage of a female police officer informing a man in a white t-shirt (identified on-screen as Dipke) about the death; he lowers his head into his hands and is offered water. First visual evidence in the disputed informing story — police claiming 'due sensitivity', parents claiming 'Delhi Police is lying', Dipke himself saying he was denied a phone.",
       "source_name": "The Daily Jagran",
@@ -1054,12 +1054,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "8:56 PM PDT",
-      "report_time_ist": "9:26 AM IST"
+      "report_time_pdt": "8:56 PM PDT, Oct 11",
+      "report_time_ist": "9:26 AM IST, Oct 12"
     },
     {
       "id": "leaders-produced-before-the-executive-magistrate-a",
-      "event_time_ist": "~9:36 AM IST",
+      "event_time_ist": "~9:36 AM IST, Oct 11",
       "title": "Leaders PRODUCED before the Executive Magistrate at Delhi Cantt Police Station",
       "summary": "Leaders PRODUCED before the Executive Magistrate at Delhi Cantt Police Station (~9:36 AM IST); court proceedings to begin shortly. First formal production after ~23 hours in custody. Ratna Singh present with other advocates as counsel.",
       "source_name": "thedailyjagran.com",
@@ -1067,12 +1067,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~9:06 PM PDT",
-      "report_time_ist": "~9:36 AM IST"
+      "report_time_pdt": "~9:06 PM PDT, Oct 10",
+      "report_time_ist": "~9:36 AM IST, Oct 11"
     },
     {
       "id": "first-post-release-statement-from-cjp-founder-abhi",
-      "event_time_ist": "~10:10 AM IST",
+      "event_time_ist": "~10:10 AM IST, Oct 11",
       "title": "FIRST post-release statement from CJP founder Abhijeet Dipke — 'Modi, as PM, is",
       "summary": "FIRST post-release statement from CJP founder Abhijeet Dipke — 'Modi, as PM, is an embarrassment to India.' First public words from Dipke since the ~10:10 AM IST Executive Magistrate release. (Also: Dipke's grandmother's last rites were due 10 AM IST; family had put them on hold — still no confirmed word on whether Dipke travelled.)",
       "source_name": "CJP watch log",
@@ -1080,12 +1080,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "~9:40 PM PDT",
-      "report_time_ist": "~10:10 AM IST"
+      "report_time_pdt": "~9:40 PM PDT, Oct 10",
+      "report_time_ist": "~10:10 AM IST, Oct 11"
     },
     {
       "id": "release-terms-refinement",
-      "event_time_ist": "~10:10 AM IST",
+      "event_time_ist": "~10:10 AM IST, Oct 11",
       "title": "Release-terms refinement",
       "summary": "Release-terms refinement (no new event; consolidates the already-reported ~10:10 AM IST release): the Executive Magistrate released Dipke, Das and Ranka via the Special Executive Magistrate (SEM) Court at Delhi Cantt after a Rs 50,000 SURETY BOND was furnished, with a one-year maintain-peace-and-good-behaviour condition (Delhi Police statement via thedailyjagran.com; CJP legal head Ratna Singh corroborated on X). Same one-year condition already logged via journalist Kumkum Binwal's channel; surety amount is new detail only.",
       "source_name": "thedailyjagran.com",
@@ -1093,12 +1093,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "~9:40 PM PDT",
-      "report_time_ist": "~10:10 AM IST"
+      "report_time_pdt": "~9:40 PM PDT, Oct 10",
+      "report_time_ist": "~10:10 AM IST, Oct 11"
     },
     {
       "id": "release-order-an-executive-magistrate-court-at-del",
-      "event_time_ist": "~10:10 AM IST",
+      "event_time_ist": "~10:10 AM IST, Oct 11",
       "title": "RELEASE ORDER: an Executive Magistrate court at Delhi Cantt PS ordered the",
       "summary": "RELEASE ORDER: an Executive Magistrate court at Delhi Cantt PS ordered the RELEASE of CJP leaders Abhijeet Dipke, Saurav Das and Ashutosh Ranka after nearly 24 hours of preventive detention (order ~10:10 AM IST, per Latestly published 10:14 AM IST; announced by CJP legal head Ratna Singh on X @whattalawyer, corroborated by LiveLaw @LiveLawIndia, Bar & Bench, Indian Express, TV9 Bharatvarsh, Zee News, TOI, Sakal, Saam TV, News18, Navbharat Times). Sakal (Marathi) reports the release was on BAIL granted by the magistrate; News18 graphic claims a condition barring the three from going to Jantar Mantar (single-sourced, awaiting corroboration); Apurva Asrani flags unknown release terms and notes Dhruv Rathee hasn't been seen since his 3 AM release.",
       "source_name": "ANI",
@@ -1106,12 +1106,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~9:40 PM PDT",
-      "report_time_ist": "~10:10 AM IST"
+      "report_time_pdt": "~9:40 PM PDT, Oct 10",
+      "report_time_ist": "~10:10 AM IST, Oct 11"
     },
     {
       "id": "arvind-kejriwal-claimed-on-x-that-haryana-police-a",
-      "event_time_ist": "~10:28 AM IST",
+      "event_time_ist": "~10:28 AM IST, Oct 11",
       "title": "Arvind Kejriwal claimed on X that Haryana Police arrested Atul Agarwal",
       "summary": "Arvind Kejriwal claimed on X that Haryana Police arrested Atul Agarwal, editor-in-chief of Hindi Khabar and the Living India group, linking it to the channel's drug-trafficking coverage in Haryana (~10:28 AM IST). Police unconfirmed; not independently verified.",
       "source_name": "CJP watch log",
@@ -1119,12 +1119,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "~9:58 PM PDT",
-      "report_time_ist": "~10:28 AM IST"
+      "report_time_pdt": "~9:58 PM PDT, Oct 10",
+      "report_time_ist": "~10:28 AM IST, Oct 11"
     },
     {
       "id": "sidebar-official-party-celebration-of-the-10-10-am",
-      "event_time_ist": "10:35 AM IST",
+      "event_time_ist": "10:35 AM IST, Oct 11",
       "title": "Sidebar : official party celebration of the ~10:10 AM IST magistrate release",
       "summary": "Sidebar (pre-baseline 10:35 AM IST, never logged; IG post @cockroachjantaparty 'WE ARE BACK' graphic, ~254K likes): official party celebration of the ~10:10 AM IST magistrate release — no new facts beyond the already-alerted release; noted for completeness only.",
       "source_name": "@cockroachjantaparty",
@@ -1132,8 +1132,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "10:05 PM PDT",
-      "report_time_ist": "10:35 AM IST"
+      "report_time_pdt": "10:05 PM PDT, Oct 10",
+      "report_time_ist": "10:35 AM IST, Oct 11"
     },
     {
       "id": "delhi-police-x-statement",
@@ -1150,7 +1150,7 @@
     },
     {
       "id": "first-post-release-statement-from-cjp-co-convener",
-      "event_time_ist": "12:44 PM IST",
+      "event_time_ist": "12:44 PM IST, Oct 11",
       "title": "FIRST post-release statement from CJP co-convener Ashutosh Ranka",
       "summary": "FIRST post-release statement from CJP co-convener Ashutosh Ranka (12:44 PM IST; thedailyjagran.com day-2 live blog quoting his X post): 'Gyanesh Kumar is a traitor. I am even willing to spend my entire life in jail to get such traitors removed.' First public words from Ranka since the ~10:10 AM IST Executive Magistrate release (joins Dipke's post-release 'embarrassment' quote and the three leaders' News Minute interview).",
       "source_name": "thedailyjagran.com",
@@ -1158,12 +1158,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:14 AM PDT",
-      "report_time_ist": "12:44 PM IST"
+      "report_time_pdt": "12:14 AM PDT, Oct 11",
+      "report_time_ist": "12:44 PM IST, Oct 11"
     },
     {
       "id": "two-new-official-handle-reels-from-the-post-releas",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "TWO new official-handle reels from the post-release 2 PM IST Press Club presser",
       "summary": "(catch-up, never logged by earlier runs — CLI parse error at earlier legs mis-sorted posts by rank): TWO new official-handle reels from the post-release 2 PM IST Press Club presser window — (1) @cockroachjantaparty reel 02:30:17 PDT (= 09:30:17Z / 3:00 PM IST, ~355K likes): 'PC After detention! Still finding answers!' (#cjp #peace #press #delhi #election) — first press-conference video posted on the party's own handle, posted ~45 min after the presser began; (2) @cockroachjantaparty reel 02:14:09 PDT (= 09:14:09Z / 2:44 PM IST, ~82K likes): 'हम निहत्थे लोग, तुम्हें हरा कर रहेगी!' ('We, the unarmed people, will defeat you!').",
       "source_name": "@cockroachjantaparty",
@@ -1171,12 +1171,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "presser-details-saurav-das-termed-the-police-actio",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "Presser details : Saurav Das termed the police action 'kidnapping' rather than",
       "summary": "presser details (topindiannews ANI; the 2 PM IST Press Club of India presser by Das/Ranka): Saurav Das termed the police action 'kidnapping' rather than arrest, raised questions on the National Human Rights Commission's silence, and claimed confiscated phones may have been hacked (article flags all unverified); Ashutosh Ranka alleged policemen stayed present with cameras and mics even after being informed of Dipke's grandmother's demise. CJP described the release as 'a major legal victory' and accused the BJP of 'going beyond the Emergency.' First NHRC mention of the day.",
       "source_name": "ANI",
@@ -1184,12 +1184,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "2-pm-ist-press-conference-content-surfaces",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "2 PM IST press conference content surfaces",
       "summary": "2 PM IST press conference content surfaces (thedailyjagran.com day-2 live blog, 02:51 PM IST / 09:21Z entry, landed at the last run's baseline, never logged): co-convener Saurav Das alleged the detention was ILLEGAL — 'they were detained without any formal notice and their phones were seized' and they were denied access to lawyers during detention; said the police action 'is all being done to protect one person,' and asked why PM Modi and Home Minister Amit Shah are protecting CEC Gyanesh Kumar. First substantive statements out of the long-awaited Press Club of India presser (began ~2:05 PM IST).",
       "source_name": "thedailyjagran.com",
@@ -1197,12 +1197,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "2-pm-ist-press-conference-beginning",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "2 PM IST press conference BEGINNING",
       "summary": "2 PM IST press conference BEGINNING (thedailyjagran.com day-2 live blog, 02:05 PM IST / 08:35Z entry): 'After their release from the preventive arrest, the CJP leadership is set to address the media at a press conference shortly. Abhijit Dipke will address the media.' This CONFLICTS with the earlier logged IANS note (hiindia.com, ~2:00 PM IST) that Dipke would NOT attend — he was heading to Maharashtra for his grandmother's last rites, with Das and Ranka addressing instead. Either plans changed or the blog's 'Dipke will address' line is inaccurate — watch the presser content for who actually speaks.",
       "source_name": "thedailyjagran.com",
@@ -1210,12 +1210,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "first-post-release-sit-down-interview-with-the-thr",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 11",
       "title": "FIRST post-release sit-down interview with the three freed CJP leaders",
       "summary": "FIRST post-release sit-down interview with the three freed CJP leaders — founder Abhijeet Dipke, Saurav Das and Ashutosh Ranka (patio setting, full video on The News Minute YouTube). They compare the policing of Jantar Mantar to the India-Pakistan border, say the 'biggest achievement of Jantar Mantar 1.0' was that people no longer fear the regime, and Dipke directly appeals to BJP supporters to join the protest, warning their votes could be deleted if 'Modi is displeased'; new slogan teased — 'Gyanu it's done bro'. First substantive post-release remarks from all three beyond Dipke's one-line quote and the 2 PM IST presser (still pending ~1h15m out).",
       "source_name": "CJP watch log",
@@ -1223,12 +1223,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 11",
+      "report_time_ist": "2 PM IST, Oct 11"
     },
     {
       "id": "2-pm-ist-press-conference-detail",
-      "event_time_ist": "2 PM IST",
+      "event_time_ist": "2 PM IST, Oct 10",
       "title": "2 PM IST press conference detail",
       "summary": "2 PM IST press conference detail (India Today / The Lallantop YouTube video, crawled <1h before run; IANS via hiindia.com, ~2:00 PM IST): venue confirmed as the Press Club of India, New Delhi. Crucially, Dipke himself will NOT attend — he is heading to his hometown in Maharashtra for his grandmother's last rites; co-conveners Saurav Das and Ashutosh Ranka will address the press instead. New Dipke quote: 'October 10 will go down as the beginning of the end of this dictatorship.' Advances the previously logged '2 PM press conference pending' — Dipke's absence is new.",
       "source_name": "India Today",
@@ -1236,12 +1236,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "1:30 AM PDT",
-      "report_time_ist": "2 PM IST"
+      "report_time_pdt": "1:30 AM PDT, Oct 10",
+      "report_time_ist": "2 PM IST, Oct 10"
     },
     {
       "id": "ex-attorney-general-kk-venugopal-told-the-supreme",
-      "event_time_ist": "~02:03 PM IST",
+      "event_time_ist": "~02:03 PM IST, Oct 11",
       "title": "Ex-Attorney General KK Venugopal told the Supreme Court his former junior",
       "summary": "ex-Attorney General KK Venugopal told the Supreme Court his former junior colleague was 'arbitrarily lifted by the Delhi Police and dumped 11 kilometres away without any explanation' by personnel without badges (~02:03 PM IST).",
       "source_name": "CJP watch log",
@@ -1249,12 +1249,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~1:33 AM PDT",
-      "report_time_ist": "~02:03 PM IST"
+      "report_time_pdt": "~1:33 AM PDT, Oct 11",
+      "report_time_ist": "~02:03 PM IST, Oct 11"
     },
     {
       "id": "police-statement-delhi-police-dcp-sachin-sharma-to",
-      "event_time_ist": "02:05 PM IST",
+      "event_time_ist": "02:05 PM IST, Oct 11",
       "title": "Police statement : Delhi Police DCP Sachin Sharma told ANI 'The situation is",
       "summary": "police statement (02:05 PM IST / 08:35Z; thedailyjagran.com day-2 live blog): Delhi Police DCP Sachin Sharma told ANI 'The situation is under control; we are trying to maintain peace and tranquility.' First on-record senior-officer situation assessment of day 2, landing as the press conference begins.",
       "source_name": "thedailyjagran.com",
@@ -1262,12 +1262,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:35 AM PDT",
-      "report_time_ist": "02:05 PM IST"
+      "report_time_pdt": "1:35 AM PDT, Oct 11",
+      "report_time_ist": "02:05 PM IST, Oct 11"
     },
     {
       "id": "first-personal-post-release-instagram-post-from-cj",
-      "event_time_ist": "2:07 PM IST",
+      "event_time_ist": "2:07 PM IST, Oct 11",
       "title": "FIRST personal post-release Instagram post from CJP founder Abhijeet Dipke",
       "summary": "(catch-up; landed in the 08:19–08:31Z gap when IG-CLI legs were skipped, never logged): FIRST personal post-release Instagram post from CJP founder Abhijeet Dipke — @abhijeetdipke image post at 2:07 PM IST (~08:37:41Z) captioned 'I'm sorry.' with a black-and-white photo of his late grandmother (rural churning-milk portrait) — a tribute/apology for missing her last rites; ~146K likes, 5.5K comments, condolence-heavy replies. Lands as the 2 PM IST Press Club presser (being addressed by Das and Ranka instead, per Dipke's own X post) was beginning — confirms his absence is the last-rites trip.",
       "source_name": "PTI",
@@ -1275,12 +1275,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "1:37 AM PDT",
-      "report_time_ist": "2:07 PM IST"
+      "report_time_pdt": "1:37 AM PDT, Oct 11",
+      "report_time_ist": "2:07 PM IST, Oct 11"
     },
     {
       "id": "presser-footage-speaker-at-the-press-club-of-india",
-      "event_time_ist": "2:43 PM IST",
+      "event_time_ist": "2:43 PM IST, Oct 11",
       "title": "Presser footage : speaker at the Press Club of India press conference recounts",
       "summary": "Presser footage (News24 @news24official IG reel, posted 2:43 PM IST / 09:13:21Z, 5.4M-follower verified account): speaker at the Press Club of India press conference recounts the detention ordeal — on-screen quotes 'we were kidnapped from the plane,' 'the government is scared,' 'these people have made the country hostage,' 'I had heard of Emergency, today I saw it too'; the speaker describes being told of his grandmother's death while police remained stationed outside his house and being barred from contacting his elderly heart-patient parents.",
       "source_name": "IANS",
@@ -1288,12 +1288,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "2:13 AM PDT",
-      "report_time_ist": "2:43 PM IST"
+      "report_time_pdt": "2:13 AM PDT, Oct 11",
+      "report_time_ist": "2:43 PM IST, Oct 11"
     },
     {
       "id": "post-presser-rallying-call-from-co-convener-saurav",
-      "event_time_ist": "02:57 PM IST",
+      "event_time_ist": "02:57 PM IST, Oct 11",
       "title": "Post-presser rallying call from co-convener Saurav Das",
       "summary": "Post-presser rallying call from co-convener Saurav Das (thedailyjagran.com day-2 live blog, 02:57 PM IST / 09:27Z entry, surfaced after the 09:50Z check): Das said CJP 'will not be intimidated and will not return' until CEC Gyanesh Kumar resigns, and explicitly asked people to 'hit the streets in protest.' Follow-on from the same 2 PM IST Press Club presser already logged for his 'illegal detention' claims — first on-record post-release street-protest call from Das (Dipke is heading to Maharashtra for last rites, so Das/Ranka are now the public voice).",
       "source_name": "thedailyjagran.com",
@@ -1301,12 +1301,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "2:27 AM PDT",
-      "report_time_ist": "02:57 PM IST"
+      "report_time_pdt": "2:27 AM PDT, Oct 11",
+      "report_time_ist": "02:57 PM IST, Oct 11"
     },
     {
       "id": "delhi-police-formally-informed-dipke-in-custody-of",
-      "event_time_ist": "03:01 PM IST",
+      "event_time_ist": "03:01 PM IST, Oct 10",
       "title": "Delhi Police formally informed Dipke in custody of his grandmother's demise",
       "summary": "Delhi Police formally informed Dipke in custody of his grandmother's demise (03:01 PM IST); former Delhi CM / AAP convenor Arvind Kejriwal detained by Delhi Police with Saurabh Bhardwaj and Sanjay Singh (~03:05 PM IST) — Kejriwal later posted a 'We have been detained' video (03:45 PM IST); former West Bengal CM Mamata Banerjee and TMC MPs detained (02:30 PM IST, per ANI); FIRST injury/violence report of the day — two police officials allegedly injured in stone-pelting near the PTI building (01:17 PM IST, per India Today via Jagran live blog), contradicting the earlier 'no injuries' picture; AISA President Neha Bora + Yogendra Yadav protest near INA; SFI workers toppled police barricades at Imtiaz Khan Marg.",
       "source_name": "thedailyjagran.com",
@@ -1314,12 +1314,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "2:31 AM PDT",
-      "report_time_ist": "03:01 PM IST"
+      "report_time_pdt": "2:31 AM PDT, Oct 10",
+      "report_time_ist": "03:01 PM IST, Oct 10"
     },
     {
       "id": "presser-video-footage-of-the-press-club-of-india-p",
-      "event_time_ist": "3:03 PM IST",
+      "event_time_ist": "3:03 PM IST, Oct 11",
       "title": "Presser video : footage of the Press Club of India press conference — a CJP",
       "summary": "presser video (The Caravan Magazine IG, posted 09:33:07Z / 3:03 PM IST, landed in-window, never logged): footage of the Press Club of India press conference — a CJP leader (young man, curly hair, glasses, blue t-shirt; identity unconfirmed) details the detention in Hindi: taken without papers, phones seized, denied access to lawyers, refused documentation, moved between locations including PRIVATE VEHICLES — and alleges phones may have been HACKED OR CLONED. Claims 'violates fundamental rights'. Adds 'private vehicles' and 'phone hacking/cloning' allegations beyond Saurav Das's logged 'no notice / phones seized / lawyer access denied' claims.",
       "source_name": "The Caravan",
@@ -1327,12 +1327,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "unconfirmed",
-      "report_time_pdt": "2:33 AM PDT",
-      "report_time_ist": "3:03 PM IST"
+      "report_time_pdt": "2:33 AM PDT, Oct 11",
+      "report_time_ist": "3:03 PM IST, Oct 11"
     },
     {
       "id": "cjp-disputes-the-release-bond-interpretation",
-      "event_time_ist": "03:45 PM IST",
+      "event_time_ist": "03:45 PM IST, Oct 11",
       "title": "CJP disputes the release-bond interpretation",
       "summary": "CJP disputes the release-bond interpretation (thedailyjagran.com day-2 live blog, 03:45 PM IST / 10:15Z): in an X post, CJP said 'No CJP leader has signed any bond that says they will not protest any more. The bond refers to refraining of breach of peace. But participating in a peaceful protest is a Constitutional right and DOES NOT breach peace.' First official post-release pushback on the SEM one-year peace/good-behaviour condition (Rs 50,000 surety) — signals the party intends to keep protesting despite the bond; sets up the next confrontation point.",
       "source_name": "thedailyjagran.com",
@@ -1340,12 +1340,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:15 AM PDT",
-      "report_time_ist": "03:45 PM IST"
+      "report_time_pdt": "3:15 AM PDT, Oct 11",
+      "report_time_ist": "03:45 PM IST, Oct 11"
     },
     {
       "id": "indian-youth-congress-launched-a-legal-helpline-fo",
-      "event_time_ist": "03:55 PM IST",
+      "event_time_ist": "03:55 PM IST, Oct 10",
       "title": "Indian Youth Congress launched a legal helpline for detained protesters amid",
       "summary": "Indian Youth Congress launched a legal helpline (9582223884) for detained protesters amid the CJP agitation — receiving complaints of intimidation/harassment linked to the demonstrations and facilitating legal assistance (03:55 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1353,12 +1353,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:25 AM PDT",
-      "report_time_ist": "03:55 PM IST"
+      "report_time_pdt": "3:25 AM PDT, Oct 10",
+      "report_time_ist": "03:55 PM IST, Oct 10"
     },
     {
       "id": "cjp-s-interim-protest-leader-ajinkya-shinde-urged",
-      "event_time_ist": "04:06 PM IST",
+      "event_time_ist": "04:06 PM IST, Oct 10",
       "title": "CJP's interim protest leader Ajinkya Shinde urged people to march towards",
       "summary": "CJP's interim protest leader Ajinkya Shinde urged people to march towards Jantar Mantar to join the demonstration, in an X post: 'If Delhi Police tries to stop you, wherever they stop you will become your Jantar Mantar' (04:06 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1366,12 +1366,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "3:36 AM PDT",
-      "report_time_ist": "04:06 PM IST"
+      "report_time_pdt": "3:36 AM PDT, Oct 10",
+      "report_time_ist": "04:06 PM IST, Oct 10"
     },
     {
       "id": "first-action-reporting-from-mumbai-s-4-pm-shivaji",
-      "event_time_ist": "4:14 PM IST",
+      "event_time_ist": "4:14 PM IST, Oct 11",
       "title": "FIRST action reporting from Mumbai's 4 PM Shivaji Park protest — verified",
       "summary": "(catch-up, never logged by earlier runs; posted 10:44:23Z = 4:14 PM IST, ~6 min before baseline): FIRST action reporting from Mumbai's 4 PM Shivaji Park protest — verified SaamTV News (@saamtvnews, 3.1M followers) 'BIG BREAKING' Marathi reel (IG): large Mumbai police contingent surrounding and detaining several protesters near Shivaji Park, leading them to a police bus; a female protester on camera alleges female police forcibly took her phone. Ticker references CJP press conference, PM Modi, Ashutosh Rane remarks. Fills the 'NO outcome/turnout reporting' gap on the 4 PM IST Mumbai call flagged by the 10:24Z/10:26Z/10:30Z runs.",
       "source_name": "@saamtvnews",
@@ -1379,12 +1379,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "3:44 AM PDT",
-      "report_time_ist": "4:14 PM IST"
+      "report_time_pdt": "3:44 AM PDT, Oct 11",
+      "report_time_ist": "4:14 PM IST, Oct 11"
     },
     {
       "id": "cjp-posted-a-video-on-x-alleging-delhi-police-beat",
-      "event_time_ist": "~04:16 PM IST",
+      "event_time_ist": "~04:16 PM IST, Oct 11",
       "title": "CJP posted a video on X alleging Delhi Police beat its leaders who were",
       "summary": "CJP posted a video on X (credited to Apoorv Kumar) alleging Delhi Police beat its leaders who were protesting peacefully (~04:16 PM IST). Police have not responded (Claim). New video-form accusation; substance overlaps Ranka's presser assault allegation.",
       "source_name": "CJP watch log",
@@ -1392,12 +1392,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~3:46 AM PDT",
-      "report_time_ist": "~04:16 PM IST"
+      "report_time_pdt": "~3:46 AM PDT, Oct 11",
+      "report_time_ist": "~04:16 PM IST, Oct 11"
     },
     {
       "id": "pib-fact-check-flagged-a-crowd-video-shared-as-the",
-      "event_time_ist": "~04:21 PM IST",
+      "event_time_ist": "~04:21 PM IST, Oct 11",
       "title": "PIB Fact Check flagged a crowd video shared as the Delhi protest as OLD footage",
       "summary": "PIB Fact Check flagged a crowd video shared as the Delhi protest as OLD footage from Assam, October 2025 (~04:21 PM IST); separately pinned a warning about old incidents, unrelated visuals and AI-generated videos being shared as the current protest, urging source-checking before sharing (govt comms).",
       "source_name": "CJP watch log",
@@ -1405,12 +1405,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~3:51 AM PDT",
-      "report_time_ist": "~04:21 PM IST"
+      "report_time_pdt": "~3:51 AM PDT, Oct 11",
+      "report_time_ist": "~04:21 PM IST, Oct 11"
     },
     {
       "id": "counter-litigation-a-lawyers-body-moved-the-suprem",
-      "event_time_ist": "~04:22 PM IST",
+      "event_time_ist": "~04:22 PM IST, Oct 11",
       "title": "Counter-litigation — a lawyers' body moved the Supreme Court asking it to stop",
       "summary": "counter-litigation — a lawyers' body moved the Supreme Court asking it to stop the successive CJP demonstrations, arguing they are aimed at media attention and are 'paralysing' Delhi / disrupting lawyers' livelihoods (LiveLaw, ~04:22 PM IST). First plea AGAINST the protest itself.",
       "source_name": "PTI",
@@ -1418,12 +1418,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~3:52 AM PDT",
-      "report_time_ist": "~04:22 PM IST"
+      "report_time_pdt": "~3:52 AM PDT, Oct 11",
+      "report_time_ist": "~04:22 PM IST, Oct 11"
     },
     {
       "id": "delhi-police-served-a-fresh-notice-to-cjp-leaders",
-      "event_time_ist": "~04:33 PM IST",
+      "event_time_ist": "~04:33 PM IST, Oct 11",
       "title": "Delhi Police served a FRESH NOTICE to CJP leaders after their release from",
       "summary": "Delhi Police served a FRESH NOTICE to CJP leaders after their release from detention, following the Press Club of India press briefing (NDTV video, ~04:33 PM IST). Details of the notice unclear — initial reports suggest legal or social media-related compliance issues (single-sourced NDTV).",
       "source_name": "NDTV",
@@ -1431,12 +1431,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~4:03 AM PDT",
-      "report_time_ist": "~04:33 PM IST"
+      "report_time_pdt": "~4:03 AM PDT, Oct 11",
+      "report_time_ist": "~04:33 PM IST, Oct 11"
     },
     {
       "id": "first-statement-of-day-2-from-congress-national-pr",
-      "event_time_ist": "04:36 PM IST",
+      "event_time_ist": "04:36 PM IST, Oct 11",
       "title": "First statement of day 2 from Congress National President Mallikarjun Kharge",
       "summary": "first statement of day 2 from Congress National President Mallikarjun Kharge (ANI, 04:36 PM IST; thedailyjagran.com day-2 live blog entry, landed after the prior run's 11:41:30Z baseline): 'PM Modi and Shah have made up their minds to remove democracy.' Kharge tied it to the vote-chori framing — claimed two CEC members 'exposed how mismanaged the system is' and wrote to Gyanesh Kumar without response, and said the INDIA alliance is now united behind Rahul Gandhi's agitation. First Congress president-level statement of the protest.",
       "source_name": "thedailyjagran.com",
@@ -1444,12 +1444,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "4:06 AM PDT",
-      "report_time_ist": "04:36 PM IST"
+      "report_time_pdt": "4:06 AM PDT, Oct 11",
+      "report_time_ist": "04:36 PM IST, Oct 11"
     },
     {
       "id": "interim-leader-ajinkya-shinde-posted-a-video-on-x",
-      "event_time_ist": "~04:47 PM IST",
+      "event_time_ist": "~04:47 PM IST, Oct 11",
       "title": "Interim leader Ajinkya Shinde posted a video on X from what he called the",
       "summary": "Interim leader Ajinkya Shinde posted a video on X from what he called the Surajmal detention centre (~04:47 PM IST), saying in Hindi they will not leave until all demands are met. Police have NOT confirmed his detention (single-sourced Claim). If confirmed, this changes Shinde's status from active to detained.",
       "source_name": "CJP watch log",
@@ -1457,12 +1457,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "~4:17 AM PDT",
-      "report_time_ist": "~04:47 PM IST"
+      "report_time_pdt": "~4:17 AM PDT, Oct 11",
+      "report_time_ist": "~04:47 PM IST, Oct 11"
     },
     {
       "id": "first-detailed-substance-of-delhi-police-s-05-34-p",
-      "event_time_ist": "05:34 PM IST",
+      "event_time_ist": "05:34 PM IST, Oct 11",
       "title": "First detailed substance of Delhi Police's 05:34 PM IST media briefing",
       "summary": "first detailed substance of Delhi Police's 05:34 PM IST media briefing (News18 India IG clip, 13:29:18Z): officer says protest organisers gave written undertakings to follow lawful directions but did not comply; no permission was granted for a Jantar Mantar demo; FIRs registered under BNS sections incl. 163 and 173 against named individuals such as Dipke and his associates plus Congress party workers for unlawful assembly; mentions violence, fire and damage to public property. Parallel News24 Digital carousel (13:06:07Z) quotes DCP PRO Neha Yadav in Hindi on why Jantar Mantar permission was denied (prior protest non-compliance, stone-pelting, arson, violence; inset photo of bloodstained-shirt injured man).",
       "source_name": "ANI",
@@ -1470,12 +1470,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:04 AM PDT",
-      "report_time_ist": "05:34 PM IST"
+      "report_time_pdt": "5:04 AM PDT, Oct 11",
+      "report_time_ist": "05:34 PM IST, Oct 11"
     },
     {
       "id": "congress-leader-rahul-gandhi-publicly-backed-the-d",
-      "event_time_ist": "05:45 PM IST",
+      "event_time_ist": "05:45 PM IST, Oct 10",
       "title": "Congress leader Rahul Gandhi publicly backed the detained Delhi protesters in",
       "summary": "Congress leader Rahul Gandhi publicly backed the detained Delhi protesters in an X post, accusing PM Modi and the RSS of attacking the Constitution and urging youth to 'keep protesting' — 'We are going to defend our Constitution... Youth of India, I am proud of you. Keep protesting.' (05:45 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1483,12 +1483,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:15 AM PDT",
-      "report_time_ist": "05:45 PM IST"
+      "report_time_pdt": "5:15 AM PDT, Oct 10",
+      "report_time_ist": "05:45 PM IST, Oct 10"
     },
     {
       "id": "actor-imran-khan-detained-by-mumbai-police-at-augu",
-      "event_time_ist": "05:58 PM IST",
+      "event_time_ist": "05:58 PM IST, Oct 10",
       "title": "Actor Imran Khan detained by Mumbai Police at August Kranti Maidan , among ~400",
       "summary": "Actor Imran Khan detained by Mumbai Police at August Kranti Maidan (proposed protest venue in support of CJP's call), among ~400 detained in Mumbai (05:58 PM IST; ANI via thedailyjagran.com live blog). Live blog headline tally now reads '3 Ex-CMs, Actor Imran Khan and Dipke among 3000 detainees.'",
       "source_name": "thedailyjagran.com",
@@ -1496,12 +1496,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:28 AM PDT",
-      "report_time_ist": "05:58 PM IST"
+      "report_time_pdt": "5:28 AM PDT, Oct 10",
+      "report_time_ist": "05:58 PM IST, Oct 10"
     },
     {
       "id": "institutional-pushback-on-cjp-s-core-claim-124-for",
-      "event_time_ist": "06:04 PM IST",
+      "event_time_ist": "06:04 PM IST, Oct 10",
       "title": "Institutional pushback on CJP's core claim — 124 former IAS, IFS and",
       "summary": "Institutional pushback on CJP's core claim — 124 former IAS, IFS and allied-services officers signed an open letter backing the Election Commission and its SIR of electoral rolls, questioning vote-rigging claims as lacking credible evidence (06:04 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1509,12 +1509,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:34 AM PDT",
-      "report_time_ist": "06:04 PM IST"
+      "report_time_pdt": "5:34 AM PDT, Oct 10",
+      "report_time_ist": "06:04 PM IST, Oct 10"
     },
     {
       "id": "dipke-via-x-haven-t-signed-any-bond-that-says-we-w",
-      "event_time_ist": "06:22 PM IST",
+      "event_time_ist": "06:22 PM IST, Oct 11",
       "title": "— Dipke via X : 'Haven't signed any bond that says we won't protest",
       "summary": "(catch-up, in-window) — Dipke via X (day-2 blog, 06:22 PM IST): 'Haven't signed any bond that says we won't protest. We will hit the streets again.' His own voice on the logged SEM bond dispute (Rs 50,000 surety, 1-yr peace condition); CJP X had made the same constitutional point earlier.",
       "source_name": "CJP watch log",
@@ -1522,12 +1522,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:52 AM PDT",
-      "report_time_ist": "06:22 PM IST"
+      "report_time_pdt": "5:52 AM PDT, Oct 11",
+      "report_time_ist": "06:22 PM IST, Oct 11"
     },
     {
       "id": "four-former-cms-now-confirmed-detained-by-delhi-po",
-      "event_time_ist": "06:36 PM IST",
+      "event_time_ist": "06:36 PM IST, Oct 10",
       "title": "FOUR former CMs now confirmed detained by Delhi Police: Kejriwal, Mamata",
       "summary": "FOUR former CMs now confirmed detained by Delhi Police: Kejriwal, Mamata Banerjee, Pinarayi Vijayan and Manik Sarkar (06:36 PM IST; thedailyjagran.com live blog) — adds Tripura ex-CM Manik Sarkar to the previously logged 3 ex-CMs.",
       "source_name": "thedailyjagran.com",
@@ -1535,12 +1535,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "6:06 AM PDT",
-      "report_time_ist": "06:36 PM IST"
+      "report_time_pdt": "6:06 AM PDT, Oct 10",
+      "report_time_ist": "06:36 PM IST, Oct 10"
     },
     {
       "id": "delhi-cm-rekha-gupta-accused-rahul-gandhi-and-arvi",
-      "event_time_ist": "06:39 PM IST",
+      "event_time_ist": "06:39 PM IST, Oct 10",
       "title": "Delhi CM Rekha Gupta accused Rahul Gandhi and Arvind Kejriwal of trying to turn",
       "summary": "Delhi CM Rekha Gupta (BJP) accused Rahul Gandhi and Arvind Kejriwal of trying to turn the capital into a \"battleground\" with CJP as their \"B-Team\"; asserted Delhi would not be held hostage amid the protests (06:39 PM IST; thedailyjagran.com live blog). First direct statement from the Delhi CM on the protest.",
       "source_name": "thedailyjagran.com",
@@ -1548,12 +1548,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "6:09 AM PDT",
-      "report_time_ist": "06:39 PM IST"
+      "report_time_pdt": "6:09 AM PDT, Oct 10",
+      "report_time_ist": "06:39 PM IST, Oct 10"
     },
     {
       "id": "dipke-personally-rebuts-delhi-police",
-      "event_time_ist": "6:46 PM IST",
+      "event_time_ist": "6:46 PM IST, Oct 11",
       "title": "Dipke personally rebuts Delhi Police",
       "summary": "Dipke personally rebuts Delhi Police (IG post @abhijeetdipke 06:16:30 PDT / 13:16:30Z / 6:46 PM IST, ~254K likes; also posted on X): says police denied him his phone 'even for a couple of minutes' to get his cousin's number, denied his request to call a lawyer, and at 3:30 AM made him call his father to say he would 'go to jail for a long time' — the same father who had just lost his mother. Directly counters the logged Delhi Police X claim that he was informed 'with due sensitivity' and denied humanitarian travel (day-2 blog 07:36 PM IST entry; verified via instagram-cli + media-understanding).",
       "source_name": "ANI",
@@ -1561,12 +1561,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "6:16 AM PDT",
-      "report_time_ist": "6:46 PM IST"
+      "report_time_pdt": "6:16 AM PDT, Oct 11",
+      "report_time_ist": "6:46 PM IST, Oct 11"
     },
     {
       "id": "mumbai-police-detained-shiv-sena-mla-varun-sardesa",
-      "event_time_ist": "06:59 PM IST",
+      "event_time_ist": "06:59 PM IST, Oct 10",
       "title": "Mumbai Police detained Shiv Sena MLA Varun Sardesai and Kasturi Gandhi",
       "summary": "Mumbai Police detained Shiv Sena (UBT) MLA Varun Sardesai and Kasturi Gandhi, daughter of Tushar Gandhi (06:59 PM IST; thedailyjagran.com live blog). Earlier in the evening Tushar Gandhi himself was detained in Mumbai. Cracks down now hitting Sena (UBT) leaders and Gandhi-family members in Mumbai.",
       "source_name": "thedailyjagran.com",
@@ -1574,12 +1574,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "6:29 AM PDT",
-      "report_time_ist": "06:59 PM IST"
+      "report_time_pdt": "6:29 AM PDT, Oct 10",
+      "report_time_ist": "06:59 PM IST, Oct 10"
     },
     {
       "id": "official-directive-this-is-just-the-beginning-repo",
-      "event_time_ist": "7:19 PM IST",
+      "event_time_ist": "7:19 PM IST, Oct 11",
       "title": "Official directive : 'This is just the beginning!' — reposts the party X",
       "summary": "official directive (06:49:46 PDT / 7:19 PM IST; @cockroachjantaparty image post, ~140K likes): 'This is just the beginning!' — reposts the party X statement telling all Delhi supporters to 'stay back' because the 'next call' is on its way, and noting 'for Cockroaches outside Delhi, the trains are running again'. First post-release mobilization directive from the official handle (verified via instagram-cli). Two official stories also posted 06:27/06:32 PDT (one captioned 'Icon!",
       "source_name": "PTI",
@@ -1587,12 +1587,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "confirmed",
-      "report_time_pdt": "6:49 AM PDT",
-      "report_time_ist": "7:19 PM IST"
+      "report_time_pdt": "6:49 AM PDT, Oct 11",
+      "report_time_ist": "7:19 PM IST, Oct 11"
     },
     {
       "id": "aisa-president-neha-bora-released-got-her-phone-ba",
-      "event_time_ist": "07:39 PM IST",
+      "event_time_ist": "07:39 PM IST, Oct 10",
       "title": "AISA president Neha Bora released / got her phone back after police detention",
       "summary": "AISA president Neha Bora released / got her phone back after police detention: 'My phone had been taken away by the police. Women have also been released from Maidan Garhi PS.' (07:39 PM IST; thedailyjagran.com live blog, quoting her X post @neha_aisa).",
       "source_name": "thedailyjagran.com",
@@ -1600,12 +1600,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:09 AM PDT",
-      "report_time_ist": "07:39 PM IST"
+      "report_time_pdt": "7:09 AM PDT, Oct 10",
+      "report_time_ist": "07:39 PM IST, Oct 10"
     },
     {
       "id": "over-7-000-protesters-detained-in-delhi-up-from-th",
-      "event_time_ist": "07:43 PM IST",
+      "event_time_ist": "07:43 PM IST, Oct 10",
       "title": "Over 7,000 protesters detained in Delhi , up from the ~3,000 headline tally",
       "summary": "Over 7,000 protesters detained in Delhi (PTI citing officials), up from the ~3,000 headline tally; police also likely to register an FIR over the alleged assault on police personnel during the demonstration (07:43 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1613,12 +1613,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:13 AM PDT",
-      "report_time_ist": "07:43 PM IST"
+      "report_time_pdt": "7:13 AM PDT, Oct 10",
+      "report_time_ist": "07:43 PM IST, Oct 10"
     },
     {
       "id": "yashaswinee-raje-singh-daughter-of-former-up-bjp-m",
-      "event_time_ist": "08:07 PM IST",
+      "event_time_ist": "08:07 PM IST, Oct 10",
       "title": "Yashaswinee Raje Singh — daughter of former UP BJP MLA Vikram Singh — detained",
       "summary": "Yashaswinee Raje Singh — daughter of former UP BJP MLA Vikram Singh — detained in Delhi 'near Bangla Sahib for sitting in a park'; being held at Keshav Puram police station (08:07 PM IST; thedailyjagran.com live blog, quoting her X post).",
       "source_name": "thedailyjagran.com",
@@ -1626,12 +1626,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:37 AM PDT",
-      "report_time_ist": "08:07 PM IST"
+      "report_time_pdt": "7:37 AM PDT, Oct 10",
+      "report_time_ist": "08:07 PM IST, Oct 10"
     },
     {
       "id": "mumbai-front-escalates-aaditya-thackeray-and-mns-l",
-      "event_time_ist": "08:14 PM IST",
+      "event_time_ist": "08:14 PM IST, Oct 11",
       "title": "Mumbai front escalates: Aaditya Thackeray and MNS leader Amit Thackeray staged",
       "summary": "Mumbai front escalates: Aaditya Thackeray (Shiv Sena UBT) and MNS leader Amit Thackeray staged a protest OUTSIDE SHIVAJI PARK POLICE STATION against the detention of protesters (day-2 blog, 08:14 PM IST). Follows the logged 4 PM Shivaji Park detentions incl. Anjali Damania and the Mumbai FIR against Imran Khan.",
       "source_name": "ANI",
@@ -1639,12 +1639,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:44 AM PDT",
-      "report_time_ist": "08:14 PM IST"
+      "report_time_pdt": "7:44 AM PDT, Oct 11",
+      "report_time_ist": "08:14 PM IST, Oct 11"
     },
     {
       "id": "un-human-rights-office-expressed-concern-over-mass",
-      "event_time_ist": "08:20 PM IST",
+      "event_time_ist": "08:20 PM IST, Oct 10",
       "title": "UN Human Rights office expressed concern over 'mass detention' of",
       "summary": "UN Human Rights office expressed concern over 'mass detention' of demonstrators, protest leaders, civil society members, lawyers and journalists before and during the Delhi demonstrations; called on authorities to ensure the right to peaceful assembly is respected (08:20 PM IST; thedailyjagran.com live blog, quoting @UNHumanRights).",
       "source_name": "thedailyjagran.com",
@@ -1652,12 +1652,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "7:50 AM PDT",
-      "report_time_ist": "08:20 PM IST"
+      "report_time_pdt": "7:50 AM PDT, Oct 10",
+      "report_time_ist": "08:20 PM IST, Oct 10"
     },
     {
       "id": "he-could-have-come-says-dipke-s-father",
-      "event_time_ist": "08:39 PM IST",
+      "event_time_ist": "08:39 PM IST, Oct 11",
       "title": "'He Could Have Come', says Dipke's father",
       "summary": "'He Could Have Come', says Dipke's father (Bhagwan Dipke to ANI, 08:39 PM IST / 15:09Z entry, thedailyjagran day-2 blog): if Delhi Police had released Dipke on time — or on condition he return after the funeral — he could have seen his grandmother; 'I just saw on Instagram that he had reached Nagpur... The police made a mistake; they shouldn't have mentioned things that weren't meant to be disclosed... they should have given him some time — time for the final viewing of his grandmother.' New statement; 'reached Nagpur' corroborates the single-sourced Hingoli arrival and moves Dipke's homeward journey past Nagpur.",
       "source_name": "ANI",
@@ -1665,12 +1665,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:09 AM PDT",
-      "report_time_ist": "08:39 PM IST"
+      "report_time_pdt": "8:09 AM PDT, Oct 11",
+      "report_time_ist": "08:39 PM IST, Oct 11"
     },
     {
       "id": "arvind-kejriwal-released-after-over-five-hours-in",
-      "event_time_ist": "08:54 PM IST",
+      "event_time_ist": "08:54 PM IST, Oct 10",
       "title": "Arvind Kejriwal RELEASED after over five hours in detention — he had been",
       "summary": "Arvind Kejriwal RELEASED after over five hours in detention — he had been detained in central Delhi in the afternoon and taken to Jafarpur police station (08:54 PM IST; thedailyjagran.com live blog).",
       "source_name": "thedailyjagran.com",
@@ -1678,12 +1678,12 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:24 AM PDT",
-      "report_time_ist": "08:54 PM IST"
+      "report_time_pdt": "8:24 AM PDT, Oct 10",
+      "report_time_ist": "08:54 PM IST, Oct 10"
     },
     {
       "id": "delhi-cm-rekha-gupta-second-statement-of-the-day",
-      "event_time_ist": "10:04 PM IST",
+      "event_time_ist": "10:04 PM IST, Oct 10",
       "title": "Delhi CM Rekha Gupta second statement of the day",
       "summary": "Delhi CM Rekha Gupta second statement of the day (10:04 PM IST; thedailyjagran.com live blog): called the protest situation 'extremely unfortunate,' accused Congress, AAP, Left and CJP protesters of creating a confrontational atmosphere under the guise of agitation, thanked Delhi residents for patience, and praised Delhi Police/security personnel for handling it professionally and prioritizing public safety; said the law would take its course firmly. First follow-up CM statement after the 7,000+ detention tally; earlier (06:39 PM IST) she had called CJP Congress/AAP's 'B-Team'.",
       "source_name": "thedailyjagran.com",
@@ -1691,8 +1691,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:34 AM PDT",
-      "report_time_ist": "10:04 PM IST"
+      "report_time_pdt": "9:34 AM PDT, Oct 10",
+      "report_time_ist": "10:04 PM IST, Oct 10"
     },
     {
       "id": "bjp-rajya-sabha-mp-sudhanshu-trivedi-at-a-bjp-head",
@@ -1901,8 +1901,8 @@
       "source_url": "https://www.instagram.com/reel/DeYoWDEzYq2/",
       "summary": "Ranka, Das and Ratna Singh visited Parliament Street Police Station ~10 AM IST Monday demanding a Jantar Mantar protest date under CJP's 24-hour ultimatum. Surrounded by police and media, Saurabh Das flipped the 10-day permission rule back: 'Police tells everyone to approach them 10 days in advance. We are now saying that they have the choice to tell us the date and time (for protest at Jantar Mantar). We are giving them 24-hour ultimatum.' Ranka: 'We are going to ask Delhi Police for a date... We hope the police will give us a date. If they do not, we will make another call within 24 hours.' No police decision reported yet; the 24-hour clock is running. (First outcome reporting of the planned 10 AM visit; on-screen Aaj Tak Hindi text: 'CJP की दिल्ली पुलिस से मांग, सौरभ दास ने कहा- प्रदर्शन की तारीख बता दीजिए..')",
       "title": "PS-visit outcome: Das flips the 10-day rule back on police — 'you tell us the date and time'",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "Monday, Oct 12 ~10:00 AM IST (visit); first outcome footage/reporting ~12:21 PM IST"
+      "report_time_pdt": "12:24 AM PDT, Oct 12",
+      "report_time_ist": "12:54 PM IST, Oct 12"
     },
     {
       "confidence": "confirmed",
@@ -1914,8 +1914,8 @@
       "source_url": "https://apnamatvchannel.com/india/cjp-gives-delhi-police-24-hour-ultimatum-to-allot-date-for-jantar-mantar-protest/",
       "summary": "LoP Rahul Gandhi raised the pitch for Monday's 'Chalo Dilli' march from Connaught Place to the Supreme Court against the Election Commission — even though CJI Surya Kant declined the Congress meeting request. Gandhi also called for a news conference on the protest; X post: 'March for Democracy. March for Justice. Chalo Dilli.' (The march-to-SC plan was already logged; the press-conference call and 'Chalo Dilli' framing are new.)",
       "title": "Rahul Gandhi calls 'Chalo Dilli' presser + afternoon CP→SC march",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "Monday, Oct 12 (afternoon)"
+      "report_time_pdt": "12:24 AM PDT, Oct 12",
+      "report_time_ist": "12:54 PM IST, Oct 12"
     },
     {
       "id": "rahul-gandhi-presser-content-20261012",
@@ -1927,8 +1927,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "12:11 PM - 1:15 PM, Oct 12"
+      "report_time_pdt": "12:57 AM PDT, Oct 12",
+      "report_time_ist": "1:27 PM IST, Oct 12"
     },
     {
       "id": "dmrc-6-stations-closed-march-20261012",
@@ -1940,8 +1940,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "9:37 AM, Oct 12 (announced)"
+      "report_time_pdt": "12:57 AM PDT, Oct 12",
+      "report_time_ist": "1:27 PM IST, Oct 12"
     },
     {
       "id": "legal-fronts-hc-sc-20261012",
@@ -1953,8 +1953,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "11:40 AM, Oct 12"
+      "report_time_pdt": "12:57 AM PDT, Oct 12",
+      "report_time_ist": "1:27 PM IST, Oct 12"
     },
     {
       "id": "march-lineup-barahamba-20261012",
@@ -1966,8 +1966,8 @@
       "links": [],
       "image_urls": [],
       "confidence": "single-sourced",
-      "report_time_pdt": "12:02 AM, Oct 12",
-      "report_time_ist": "9:37 AM - 12:00 PM, Oct 12"
+      "report_time_pdt": "12:57 AM PDT, Oct 12",
+      "report_time_ist": "1:27 PM IST, Oct 12"
     }
   ]
 }

@@ -16,7 +16,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:30 PM PDT, Oct 9",
       "report_time_ist": "10 AM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T04:30:00Z"
+      "reported_at_utc": "2026-10-10T04:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-police-on-x-refuted-dipke-s-family-s-delhi-p",
@@ -30,7 +34,10 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "police_govt": "positive"
+      }
     },
     {
       "id": "criminal-case-mumbai-police-filed-an-fir-against-a",
@@ -44,7 +51,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "2:05 AM PDT, Oct 10",
       "report_time_ist": "02:35 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T09:05:00Z"
+      "reported_at_utc": "2026-10-10T09:05:00Z",
+      "sentiment": {
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-police-fir-count-firmed-up-20-firs-registere",
@@ -58,7 +68,8 @@
       "confidence": "confirmed",
       "report_time_pdt": "3:25 AM PDT, Oct 10",
       "report_time_ist": "03:55 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T10:25:00Z"
+      "reported_at_utc": "2026-10-10T10:25:00Z",
+      "sentiment": {}
     },
     {
       "id": "aap-streamed-a-press-conference-on-x-on-what-it-ca",
@@ -72,7 +83,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~3:33 AM PDT, Oct 11",
       "report_time_ist": "~04:03 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:33:00Z"
+      "reported_at_utc": "2026-10-11T10:33:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "injury-report-confirmed-in-detail-two-delhi-police",
@@ -86,7 +102,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "4:08 AM PDT, Oct 10",
       "report_time_ist": "04:38 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T11:08:00Z"
+      "reported_at_utc": "2026-10-10T11:08:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "positive"
+      }
     },
     {
       "id": "tmc-mp-abhishek-banerjee-claimed-2-500-people-deta",
@@ -100,7 +120,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "4:53 AM PDT, Oct 10",
       "report_time_ist": "05:23 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T11:53:00Z"
+      "reported_at_utc": "2026-10-10T11:53:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "dmrc-extended-the-closure-of-45-metro-stations-unt",
@@ -114,7 +139,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:58 AM PDT, Oct 10",
       "report_time_ist": "06:28 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T12:58:00Z"
+      "reported_at_utc": "2026-10-10T12:58:00Z",
+      "sentiment": {}
     },
     {
       "id": "mamata-banerjee-released-after-her-saturday-aftern",
@@ -128,7 +154,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:52 AM PDT, Oct 10",
       "report_time_ist": "08:22 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T14:52:00Z"
+      "reported_at_utc": "2026-10-10T14:52:00Z",
+      "sentiment": {}
     },
     {
       "id": "cjp-official-statement",
@@ -142,7 +169,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "10:10 AM PDT, Oct 11",
       "report_time_ist": "10:40 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T17:10:00Z"
+      "reported_at_utc": "2026-10-11T17:10:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "india-officially-rejected-the-un-human-rights-offi",
@@ -156,7 +186,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "10:53 AM PDT, Oct 10",
       "report_time_ist": "11:23 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T17:53:00Z"
+      "reported_at_utc": "2026-10-10T17:53:00Z",
+      "sentiment": {}
     },
     {
       "id": "all-train-services-suspended-as-part-of-saturday-s",
@@ -170,7 +201,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "10:53 AM PDT, Oct 11",
       "report_time_ist": "11:23 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T17:53:00Z"
+      "reported_at_utc": "2026-10-11T17:53:00Z",
+      "sentiment": {}
     },
     {
       "id": "tally-claim-aap-leader-sanjay-singh-said-in-a-pti",
@@ -184,7 +216,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "first-ruling-party-president-level-statement-of-th",
@@ -198,7 +235,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "bjp": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "delhi-sikh-gurdwara-management-committee-president",
@@ -212,7 +253,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "india_bloc": "negative",
+        "police_govt": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "a-delhi-court-dismissed-an-application-moved-on-be",
@@ -226,7 +272,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "courts": "neutral",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "escalation-framing-at-a-saturday-evening-press-con",
@@ -240,7 +290,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "after-delhi-police-informed-detained-founder-abhij",
@@ -254,7 +307,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {}
     },
     {
       "id": "cjp-founder-abhijeet-dipke-s-paternal-grandmother",
@@ -268,7 +322,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "cpi-leaders-detained-on-arrival-at-jantar-mantar-p",
@@ -282,7 +339,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "supreme-court-urgent-hearing-on-delhi-lockdown-ahe",
@@ -296,7 +357,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "courts": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "supreme-court-bar-association-appealed-to-the-chie",
@@ -310,7 +375,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "negative"
+      }
     },
     {
       "id": "youtuber-dhruv-rathee-remains-in-detention-after-h",
@@ -324,7 +392,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "11:45 AM PDT, Oct 10",
       "report_time_ist": "12:15 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-10T18:45:00Z"
+      "reported_at_utc": "2026-10-10T18:45:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "amnesty-international-joined-the-un-human-rights-o",
@@ -338,7 +410,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "11:46 AM PDT, Oct 10",
       "report_time_ist": "12:16 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-10T18:46:00Z"
+      "reported_at_utc": "2026-10-10T18:46:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "a-habeas-corpus-petition-was-filed-in-the-supreme",
@@ -352,7 +428,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:31 PM PDT, Oct 10",
       "report_time_ist": "1:01 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-10T19:31:00Z"
+      "reported_at_utc": "2026-10-10T19:31:00Z",
+      "sentiment": {
+        "courts": "neutral",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "release-youtuber-dhruv-rathee-released-around-3-am",
@@ -366,7 +446,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "2:30 PM PDT, Oct 10",
       "report_time_ist": "3 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-10T21:30:00Z"
+      "reported_at_utc": "2026-10-10T21:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "fresh-official-cjp-statement",
@@ -380,7 +464,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "4:55 PM PDT, Oct 10",
       "report_time_ist": "5:25 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-10T23:55:00Z"
+      "reported_at_utc": "2026-10-10T23:55:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "court-production-details-locked-in-cjp-s-legal-hea",
@@ -394,7 +482,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "8:17 PM PDT, Oct 10",
       "report_time_ist": "08:47 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T03:17:00Z"
+      "reported_at_utc": "2026-10-11T03:17:00Z",
+      "sentiment": {
+        "courts": "neutral"
+      }
     },
     {
       "id": "nighttime-connaught-place-protest-footage-young-wo",
@@ -408,7 +499,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:20 PM PDT, Oct 10",
       "report_time_ist": "8:50 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T03:20:00Z"
+      "reported_at_utc": "2026-10-11T03:20:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "status-change-ratna-singh-active-again-cjp-s-legal",
@@ -422,7 +517,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:29 PM PDT, Oct 10",
       "report_time_ist": "08:59 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T03:29:00Z"
+      "reported_at_utc": "2026-10-11T03:29:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "security-heightened-outside-delhi-cantt-police-sta",
@@ -436,7 +535,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:30 PM PDT, Oct 10",
       "report_time_ist": "9 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T03:30:00Z"
+      "reported_at_utc": "2026-10-11T03:30:00Z",
+      "sentiment": {}
     },
     {
       "id": "ajinkya-shinde-called-for-a-mumbai-protest-at-t-ju",
@@ -450,7 +550,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:38 PM PDT, Oct 10",
       "report_time_ist": "09:08 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T03:38:00Z"
+      "reported_at_utc": "2026-10-11T03:38:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "dipke-s-parents-publicly-dispute-police-s-version",
@@ -464,7 +568,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:06 PM PDT, Oct 10",
       "report_time_ist": "09:36 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:06:00Z"
+      "reported_at_utc": "2026-10-11T04:06:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "aisa-president-neha-bora-posted-on-x-calling-for-s",
@@ -478,7 +586,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:19 PM PDT, Oct 10",
       "report_time_ist": "09:49 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:19:00Z"
+      "reported_at_utc": "2026-10-11T04:19:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "official-cjp-post-claims-they-detained-cjp-s-team",
@@ -492,7 +603,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:30 PM PDT, Oct 9",
       "report_time_ist": "10 AM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T04:30:00Z"
+      "reported_at_utc": "2026-10-10T04:30:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "first-confirmation-of-dipke-s-post-release-travel",
@@ -506,7 +621,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "9:30 PM PDT, Oct 10",
       "report_time_ist": "10 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:30:00Z"
+      "reported_at_utc": "2026-10-11T04:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "bjp": "negative"
+      }
     },
     {
       "id": "first-turnout-outcome-reporting-on-the-sunday-10-a",
@@ -520,7 +639,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:30 PM PDT, Oct 10",
       "report_time_ist": "10 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:30:00Z"
+      "reported_at_utc": "2026-10-11T04:30:00Z",
+      "sentiment": {}
     },
     {
       "id": "detention-tally-thedailyjagran-com-day-2-live-blog",
@@ -534,7 +654,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "11:50 PM PDT, Oct 10",
       "report_time_ist": "12:20 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T06:50:00Z"
+      "reported_at_utc": "2026-10-11T06:50:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "court-action-at-the-sunday-special-sitting",
@@ -548,7 +672,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "11:57 PM PDT, Oct 10",
       "report_time_ist": "12:27 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T06:57:00Z"
+      "reported_at_utc": "2026-10-11T06:57:00Z",
+      "sentiment": {
+        "courts": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "protest-front-demonstrators-staging-a-demonstratio",
@@ -562,7 +690,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:14 AM PDT, Oct 11",
       "report_time_ist": "12:44 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T07:14:00Z"
+      "reported_at_utc": "2026-10-11T07:14:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "arrests-delhi-police-arrested-4-men-claiming-to-be",
@@ -576,7 +707,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:18 AM PDT, Oct 10",
       "report_time_ist": "12:48 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T07:18:00Z"
+      "reported_at_utc": "2026-10-10T07:18:00Z",
+      "sentiment": {
+        "police_govt": "positive",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "cp-detention-scope-clarified-day-2-live-blog-intro",
@@ -590,7 +725,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:58 AM PDT, Oct 11",
       "report_time_ist": "01:28 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T07:58:00Z"
+      "reported_at_utc": "2026-10-11T07:58:00Z",
+      "sentiment": {}
     },
     {
       "id": "connaught-place-police-action-delhi-police-detaine",
@@ -604,7 +740,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:58 AM PDT, Oct 11",
       "report_time_ist": "01:28 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T07:58:00Z"
+      "reported_at_utc": "2026-10-11T07:58:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "supreme-court-order-on-the-protest-curbs",
@@ -618,7 +758,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:17 AM PDT, Oct 11",
       "report_time_ist": "01:47 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:17:00Z"
+      "reported_at_utc": "2026-10-11T08:17:00Z",
+      "sentiment": {
+        "courts": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-posted-on-x-that-five-more-of-its-leaders-anki",
@@ -632,7 +776,11 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "~1:25 AM PDT, Oct 11",
       "report_time_ist": "~01:55 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:25:00Z"
+      "reported_at_utc": "2026-10-11T08:25:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "2-pm-ist-presser-content-ashutosh-ranka-says-prote",
@@ -646,7 +794,12 @@
       "confidence": "confirmed",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "india_bloc": "positive",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "release-terms-clarified",
@@ -660,7 +813,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {}
     },
     {
       "id": "cjp-national-spokesperson-ashutosh-ranka-announced",
@@ -674,7 +828,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {}
     },
     {
       "id": "first-outcome-reporting-on-the-4-pm-ist-mumbai-shi",
@@ -688,7 +843,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "3:30 AM PDT, Oct 11",
       "report_time_ist": "4 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:30:00Z"
+      "reported_at_utc": "2026-10-11T10:30:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "nsui-workers-detained-by-delhi-police-while-holdin",
@@ -702,7 +861,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "3:52 AM PDT, Oct 11",
       "report_time_ist": "04:22 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:52:00Z"
+      "reported_at_utc": "2026-10-11T10:52:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "india_bloc": "positive"
+      }
     },
     {
       "id": "video-shows-delhi-police-forcibly-detaining-cjp-na",
@@ -716,7 +879,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "4:02 AM PDT, Oct 11",
       "report_time_ist": "04:32 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T11:02:00Z"
+      "reported_at_utc": "2026-10-11T11:02:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "escalation-threat-climate-activist-sonam-wangchuk",
@@ -730,7 +897,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "4:56 AM PDT, Oct 11",
       "report_time_ist": "05:26 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T11:56:00Z"
+      "reported_at_utc": "2026-10-11T11:56:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-vows-to-intensify-agitation-against-cec-gyanes",
@@ -744,7 +915,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "6:46 AM PDT, Oct 11",
       "report_time_ist": "07:16 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T13:46:00Z"
+      "reported_at_utc": "2026-10-11T13:46:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "fresh-evening-connaught-place-action-delhi-police",
@@ -758,7 +933,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:44 AM PDT, Oct 11",
       "report_time_ist": "08:14 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T14:44:00Z"
+      "reported_at_utc": "2026-10-11T14:44:00Z",
+      "sentiment": {
+        "cjp_protesters": "neutral",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "supreme-court-to-hold-a-special-sitting-on-sunday",
@@ -772,7 +951,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:22 AM PDT, Oct 11",
       "report_time_ist": "08:52 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T15:22:00Z"
+      "reported_at_utc": "2026-10-11T15:22:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "delhi-police-said-on-x-it-offered-detained-founder",
@@ -786,7 +969,10 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "9:18 AM PDT, Oct 11",
       "report_time_ist": "09:48 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T16:18:00Z"
+      "reported_at_utc": "2026-10-11T16:18:00Z",
+      "sentiment": {
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-traffic-police-advisory-for-sunday-oct-11-po",
@@ -800,7 +986,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:29 AM PDT, Oct 11",
       "report_time_ist": "09:59 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T16:29:00Z"
+      "reported_at_utc": "2026-10-11T16:29:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "mass-release-delhi-police-released-all-detainees-f",
@@ -814,7 +1003,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "10:08 AM PDT, Oct 11",
       "report_time_ist": "10:38 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T17:08:00Z"
+      "reported_at_utc": "2026-10-11T17:08:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "sunday-march-now-confirmed-at-10-am-cjp-interim-le",
@@ -828,7 +1021,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "11:25 AM PDT, Oct 11",
       "report_time_ist": "11:55 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T18:25:00Z"
+      "reported_at_utc": "2026-10-11T18:25:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "bjp": "negative"
+      }
     },
     {
       "id": "resolution-of-prior-run-s-flagged-caption-less-vid",
@@ -842,7 +1039,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {}
     },
     {
       "id": "sfi-alleged-mistreatment-of-detained-women-student",
@@ -856,7 +1054,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "protest-front-over-3-000-students-rallied-in-kolka",
@@ -870,7 +1072,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "official-cockroachjantaparty-image-post",
@@ -884,7 +1090,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cpi-rajya-sabha-mp-john-brittas-claims-he-was-manh",
@@ -898,7 +1108,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "sunday-special-sitting-specifics",
@@ -912,7 +1127,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "sc-sunday-special-sitting-order-directions-now-spe",
@@ -926,7 +1145,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "delhi-police-detained-cpi-mp-john-brittas-plus-100",
@@ -940,7 +1163,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "refinement-cpi-mp-john-brittas-was-taken-into-cust",
@@ -954,7 +1182,8 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {}
     },
     {
       "id": "first-reported-development-from-the-supreme-court",
@@ -968,7 +1197,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "courts": "neutral"
+      }
     },
     {
       "id": "cjp-s-first-official-reaction-to-the-morning-relea",
@@ -982,7 +1214,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-police-registered-over-20-firs-in-connection",
@@ -996,7 +1232,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "mea-statement-rathee-release-condition",
@@ -1010,7 +1250,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "negative"
+      }
     },
     {
       "id": "dmrc-lifted-the-restriction-on-entry-exit-of-all-4",
@@ -1024,7 +1267,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "sc-sunday-special-sitting-detail-two-matters-befor",
@@ -1038,7 +1284,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "neutral",
+        "courts": "neutral"
+      }
     },
     {
       "id": "cjp-announced-via-its-x-backup-handle-cockroachisb",
@@ -1052,7 +1303,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-24-hour-ultimatum-on-a-protest-date-verified-r",
@@ -1066,7 +1321,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "11:53 AM PDT, Oct 11",
       "report_time_ist": "12:23 AM IST, Oct 12",
-      "reported_at_utc": "2026-10-11T18:53:00Z"
+      "reported_at_utc": "2026-10-11T18:53:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "congress-posted-a-video-on-x-saying-the-party-will",
@@ -1080,7 +1338,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~11:34 PM PDT, Oct 11",
       "report_time_ist": "~12:04 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T06:34:00Z"
+      "reported_at_utc": "2026-10-12T06:34:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "bjp": "negative"
+      }
     },
     {
       "id": "india-bloc-planning-a-major-protest-on-monday-amid",
@@ -1094,7 +1356,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "6:55 AM PDT, Oct 11",
       "report_time_ist": "07:25 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T13:55:00Z"
+      "reported_at_utc": "2026-10-11T13:55:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "rahul-gandhi-opposition-parties-civil-society-and",
@@ -1108,7 +1374,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:59 AM PDT, Oct 11",
       "report_time_ist": "08:29 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T14:59:00Z"
+      "reported_at_utc": "2026-10-11T14:59:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cji-surya-kant-rejected-the-india-bloc-leaders-req",
@@ -1122,7 +1392,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "india_bloc": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "delhi-police-released-a-video-of-informing-dipke-a",
@@ -1136,7 +1410,11 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "8:56 PM PDT, Oct 11",
       "report_time_ist": "9:26 AM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T03:56:00Z"
+      "reported_at_utc": "2026-10-12T03:56:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "leaders-produced-before-the-executive-magistrate-a",
@@ -1150,7 +1428,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~9:06 PM PDT, Oct 10",
       "report_time_ist": "~9:36 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:06:00Z"
+      "reported_at_utc": "2026-10-11T04:06:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "courts": "neutral"
+      }
     },
     {
       "id": "first-post-release-statement-from-cjp-founder-abhi",
@@ -1164,7 +1446,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "~9:40 PM PDT, Oct 10",
       "report_time_ist": "~10:10 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:40:00Z"
+      "reported_at_utc": "2026-10-11T04:40:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "bjp": "negative"
+      }
     },
     {
       "id": "release-terms-refinement",
@@ -1178,7 +1464,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "~9:40 PM PDT, Oct 10",
       "report_time_ist": "~10:10 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:40:00Z"
+      "reported_at_utc": "2026-10-11T04:40:00Z",
+      "sentiment": {
+        "cjp_protesters": "neutral"
+      }
     },
     {
       "id": "release-order-an-executive-magistrate-court-at-del",
@@ -1192,7 +1481,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~9:40 PM PDT, Oct 10",
       "report_time_ist": "~10:10 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:40:00Z"
+      "reported_at_utc": "2026-10-11T04:40:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "arvind-kejriwal-claimed-on-x-that-haryana-police-a",
@@ -1206,7 +1500,11 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "~9:58 PM PDT, Oct 10",
       "report_time_ist": "~10:28 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T04:58:00Z"
+      "reported_at_utc": "2026-10-11T04:58:00Z",
+      "sentiment": {
+        "india_bloc": "neutral",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "sidebar-official-party-celebration-of-the-10-10-am",
@@ -1220,7 +1518,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "10:05 PM PDT, Oct 10",
       "report_time_ist": "10:35 AM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T05:05:00Z"
+      "reported_at_utc": "2026-10-11T05:05:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "delhi-police-x-statement",
@@ -1234,7 +1535,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~11:04 PM PDT",
       "report_time_ist": "~11:34 AM IST",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "positive"
+      }
     },
     {
       "id": "first-post-release-statement-from-cjp-co-convener",
@@ -1248,7 +1552,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:14 AM PDT, Oct 11",
       "report_time_ist": "12:44 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T07:14:00Z"
+      "reported_at_utc": "2026-10-11T07:14:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "two-new-official-handle-reels-from-the-post-releas",
@@ -1262,7 +1570,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "presser-details-saurav-das-termed-the-police-actio",
@@ -1276,7 +1587,12 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative",
+        "bjp": "negative"
+      }
     },
     {
       "id": "2-pm-ist-press-conference-content-surfaces",
@@ -1290,7 +1606,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative",
+        "bjp": "negative"
+      }
     },
     {
       "id": "2-pm-ist-press-conference-beginning",
@@ -1304,7 +1625,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {}
     },
     {
       "id": "first-post-release-sit-down-interview-with-the-thr",
@@ -1318,7 +1640,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:30 AM PDT, Oct 11",
       "report_time_ist": "2 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:30:00Z"
+      "reported_at_utc": "2026-10-11T08:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative",
+        "bjp": "negative"
+      }
     },
     {
       "id": "2-pm-ist-press-conference-detail",
@@ -1332,7 +1659,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "1:30 AM PDT, Oct 10",
       "report_time_ist": "2 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T08:30:00Z"
+      "reported_at_utc": "2026-10-10T08:30:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "ex-attorney-general-kk-venugopal-told-the-supreme",
@@ -1346,7 +1677,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~1:33 AM PDT, Oct 11",
       "report_time_ist": "~02:03 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:33:00Z"
+      "reported_at_utc": "2026-10-11T08:33:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "courts": "neutral"
+      }
     },
     {
       "id": "police-statement-delhi-police-dcp-sachin-sharma-to",
@@ -1360,7 +1695,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "1:35 AM PDT, Oct 11",
       "report_time_ist": "02:05 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:35:00Z"
+      "reported_at_utc": "2026-10-11T08:35:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "first-personal-post-release-instagram-post-from-cj",
@@ -1374,7 +1712,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "1:37 AM PDT, Oct 11",
       "report_time_ist": "2:07 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T08:37:00Z"
+      "reported_at_utc": "2026-10-11T08:37:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "presser-footage-speaker-at-the-press-club-of-india",
@@ -1388,7 +1729,11 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "2:13 AM PDT, Oct 11",
       "report_time_ist": "2:43 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T09:13:00Z"
+      "reported_at_utc": "2026-10-11T09:13:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "post-presser-rallying-call-from-co-convener-saurav",
@@ -1402,7 +1747,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "2:27 AM PDT, Oct 11",
       "report_time_ist": "02:57 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T09:27:00Z"
+      "reported_at_utc": "2026-10-11T09:27:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-police-formally-informed-dipke-in-custody-of",
@@ -1416,7 +1765,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "2:31 AM PDT, Oct 10",
       "report_time_ist": "03:01 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T09:31:00Z"
+      "reported_at_utc": "2026-10-10T09:31:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "negative",
+        "india_bloc": "positive"
+      }
     },
     {
       "id": "presser-video-footage-of-the-press-club-of-india-p",
@@ -1430,7 +1784,11 @@
       "confidence": "unconfirmed",
       "report_time_pdt": "2:33 AM PDT, Oct 11",
       "report_time_ist": "3:03 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T09:33:00Z"
+      "reported_at_utc": "2026-10-11T09:33:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-disputes-the-release-bond-interpretation",
@@ -1444,7 +1802,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "3:15 AM PDT, Oct 11",
       "report_time_ist": "03:45 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:15:00Z"
+      "reported_at_utc": "2026-10-11T10:15:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "indian-youth-congress-launched-a-legal-helpline-fo",
@@ -1458,7 +1819,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "3:25 AM PDT, Oct 10",
       "report_time_ist": "03:55 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T10:25:00Z"
+      "reported_at_utc": "2026-10-10T10:25:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "india_bloc": "positive"
+      }
     },
     {
       "id": "cjp-s-interim-protest-leader-ajinkya-shinde-urged",
@@ -1472,7 +1837,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "3:36 AM PDT, Oct 10",
       "report_time_ist": "04:06 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T10:36:00Z"
+      "reported_at_utc": "2026-10-10T10:36:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "first-action-reporting-from-mumbai-s-4-pm-shivaji",
@@ -1486,7 +1854,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "3:44 AM PDT, Oct 11",
       "report_time_ist": "4:14 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:44:00Z"
+      "reported_at_utc": "2026-10-11T10:44:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-posted-a-video-on-x-alleging-delhi-police-beat",
@@ -1500,7 +1872,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~3:46 AM PDT, Oct 11",
       "report_time_ist": "~04:16 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:46:00Z"
+      "reported_at_utc": "2026-10-11T10:46:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "pib-fact-check-flagged-a-crowd-video-shared-as-the",
@@ -1514,7 +1890,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~3:51 AM PDT, Oct 11",
       "report_time_ist": "~04:21 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:51:00Z"
+      "reported_at_utc": "2026-10-11T10:51:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "counter-litigation-a-lawyers-body-moved-the-suprem",
@@ -1528,7 +1907,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~3:52 AM PDT, Oct 11",
       "report_time_ist": "~04:22 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T10:52:00Z"
+      "reported_at_utc": "2026-10-11T10:52:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "courts": "neutral"
+      }
     },
     {
       "id": "delhi-police-served-a-fresh-notice-to-cjp-leaders",
@@ -1542,7 +1925,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~4:03 AM PDT, Oct 11",
       "report_time_ist": "~04:33 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T11:03:00Z"
+      "reported_at_utc": "2026-10-11T11:03:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "first-statement-of-day-2-from-congress-national-pr",
@@ -1556,7 +1942,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "4:06 AM PDT, Oct 11",
       "report_time_ist": "04:36 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T11:06:00Z"
+      "reported_at_utc": "2026-10-11T11:06:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "bjp": "negative",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "interim-leader-ajinkya-shinde-posted-a-video-on-x",
@@ -1570,7 +1961,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "~4:17 AM PDT, Oct 11",
       "report_time_ist": "~04:47 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T11:17:00Z"
+      "reported_at_utc": "2026-10-11T11:17:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "first-detailed-substance-of-delhi-police-s-05-34-p",
@@ -1584,7 +1979,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:04 AM PDT, Oct 11",
       "report_time_ist": "05:34 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T12:04:00Z"
+      "reported_at_utc": "2026-10-11T12:04:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "positive"
+      }
     },
     {
       "id": "congress-leader-rahul-gandhi-publicly-backed-the-d",
@@ -1598,7 +1997,13 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:15 AM PDT, Oct 10",
       "report_time_ist": "05:45 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T12:15:00Z"
+      "reported_at_utc": "2026-10-10T12:15:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "bjp": "negative",
+        "police_govt": "negative",
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "actor-imran-khan-detained-by-mumbai-police-at-augu",
@@ -1612,7 +2017,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:28 AM PDT, Oct 10",
       "report_time_ist": "05:58 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T12:28:00Z"
+      "reported_at_utc": "2026-10-10T12:28:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "institutional-pushback-on-cjp-s-core-claim-124-for",
@@ -1626,7 +2035,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:34 AM PDT, Oct 10",
       "report_time_ist": "06:04 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T12:34:00Z"
+      "reported_at_utc": "2026-10-10T12:34:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "positive"
+      }
     },
     {
       "id": "dipke-via-x-haven-t-signed-any-bond-that-says-we-w",
@@ -1640,7 +2053,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "5:52 AM PDT, Oct 11",
       "report_time_ist": "06:22 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T12:52:00Z"
+      "reported_at_utc": "2026-10-11T12:52:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "four-former-cms-now-confirmed-detained-by-delhi-po",
@@ -1654,7 +2070,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "6:06 AM PDT, Oct 10",
       "report_time_ist": "06:36 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T13:06:00Z"
+      "reported_at_utc": "2026-10-10T13:06:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-cm-rekha-gupta-accused-rahul-gandhi-and-arvi",
@@ -1668,7 +2088,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "6:09 AM PDT, Oct 10",
       "report_time_ist": "06:39 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T13:09:00Z"
+      "reported_at_utc": "2026-10-10T13:09:00Z",
+      "sentiment": {
+        "bjp": "negative",
+        "india_bloc": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "dipke-personally-rebuts-delhi-police",
@@ -1682,7 +2107,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "6:16 AM PDT, Oct 11",
       "report_time_ist": "6:46 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T13:16:00Z"
+      "reported_at_utc": "2026-10-11T13:16:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "mumbai-police-detained-shiv-sena-mla-varun-sardesa",
@@ -1696,7 +2125,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "6:29 AM PDT, Oct 10",
       "report_time_ist": "06:59 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T13:29:00Z"
+      "reported_at_utc": "2026-10-10T13:29:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "official-directive-this-is-just-the-beginning-repo",
@@ -1710,7 +2143,10 @@
       "confidence": "confirmed",
       "report_time_pdt": "6:49 AM PDT, Oct 11",
       "report_time_ist": "7:19 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T13:49:00Z"
+      "reported_at_utc": "2026-10-11T13:49:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "aisa-president-neha-bora-released-got-her-phone-ba",
@@ -1724,7 +2160,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:09 AM PDT, Oct 10",
       "report_time_ist": "07:39 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T14:09:00Z"
+      "reported_at_utc": "2026-10-10T14:09:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "over-7-000-protesters-detained-in-delhi-up-from-th",
@@ -1738,7 +2178,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:13 AM PDT, Oct 10",
       "report_time_ist": "07:43 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T14:13:00Z"
+      "reported_at_utc": "2026-10-10T14:13:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "yashaswinee-raje-singh-daughter-of-former-up-bjp-m",
@@ -1752,7 +2196,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:37 AM PDT, Oct 10",
       "report_time_ist": "08:07 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T14:37:00Z"
+      "reported_at_utc": "2026-10-10T14:37:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "mumbai-front-escalates-aaditya-thackeray-and-mns-l",
@@ -1766,7 +2214,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:44 AM PDT, Oct 11",
       "report_time_ist": "08:14 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T14:44:00Z"
+      "reported_at_utc": "2026-10-11T14:44:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "un-human-rights-office-expressed-concern-over-mass",
@@ -1780,7 +2232,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "7:50 AM PDT, Oct 10",
       "report_time_ist": "08:20 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T14:50:00Z"
+      "reported_at_utc": "2026-10-10T14:50:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "he-could-have-come-says-dipke-s-father",
@@ -1794,7 +2250,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:09 AM PDT, Oct 11",
       "report_time_ist": "08:39 PM IST, Oct 11",
-      "reported_at_utc": "2026-10-11T15:09:00Z"
+      "reported_at_utc": "2026-10-11T15:09:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "arvind-kejriwal-released-after-over-five-hours-in",
@@ -1808,7 +2268,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "8:24 AM PDT, Oct 10",
       "report_time_ist": "08:54 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T15:24:00Z"
+      "reported_at_utc": "2026-10-10T15:24:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "delhi-cm-rekha-gupta-second-statement-of-the-day",
@@ -1822,7 +2286,13 @@
       "confidence": "single-sourced",
       "report_time_pdt": "9:34 AM PDT, Oct 10",
       "report_time_ist": "10:04 PM IST, Oct 10",
-      "reported_at_utc": "2026-10-10T16:34:00Z"
+      "reported_at_utc": "2026-10-10T16:34:00Z",
+      "sentiment": {
+        "bjp": "negative",
+        "police_govt": "positive",
+        "india_bloc": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "bjp-rajya-sabha-mp-sudhanshu-trivedi-at-a-bjp-head",
@@ -1836,7 +2306,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "bjp": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "delhi-police-began-a-media-briefing-on-the-protest",
@@ -1850,7 +2324,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "first-confirmation-dipke-reached-home-for-last-rit",
@@ -1864,7 +2341,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "founder-abhijeet-dipke-s-post-release-remarks-to-r",
@@ -1878,7 +2359,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "sidebar-claims-the-sem-release-order-included-a-no",
@@ -1892,7 +2377,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "courts": "neutral"
+      }
     },
     {
       "id": "sidebar-police-sources-claim-the-released-trio-lef",
@@ -1906,7 +2394,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "first-post-release-statement-from-youtuber-dhruv-r",
@@ -1920,7 +2411,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-founder-abhijeet-dipke-s-father-bhagwan-dipke",
@@ -1934,7 +2429,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "bjp": "negative",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "dozens-of-cjp-protesters-students-took-shelter-at",
@@ -1948,7 +2448,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "bjp-national-spokesperson-mp-sambit-patra-s-press",
@@ -1962,7 +2466,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "bjp": "negative",
+        "cjp_protesters": "negative",
+        "india_bloc": "negative"
+      }
     },
     {
       "id": "defence-minister-rajnath-singh-speaking-at-the-dai",
@@ -1976,7 +2485,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "bjp": "negative",
+        "cjp_protesters": "negative"
+      }
     },
     {
       "id": "cjp-official-statement-on-instagram",
@@ -1990,7 +2503,11 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "cjp-named-successor-organization-in-charge-ajinkya",
@@ -2004,7 +2521,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "id": "detention-location-refinement-for-the-detained-lea",
@@ -2018,7 +2538,8 @@
       "confidence": "single-sourced",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {}
     },
     {
       "id": "cjp-national-spokesperson-north-zone-in-charge-dee",
@@ -2032,7 +2553,11 @@
       "confidence": "confirmed",
       "report_time_pdt": "unknown",
       "report_time_ist": "unknown",
-      "reported_at_utc": null
+      "reported_at_utc": null,
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "confidence": "confirmed",
@@ -2048,7 +2573,10 @@
       "title": "PS-visit outcome: Das flips the 10-day rule back on police — 'you tell us the date and time'",
       "report_time_pdt": "12:24 AM PDT, Oct 12",
       "report_time_ist": "12:54 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:24:00Z"
+      "reported_at_utc": "2026-10-12T07:24:00Z",
+      "sentiment": {
+        "cjp_protesters": "positive"
+      }
     },
     {
       "confidence": "confirmed",
@@ -2062,7 +2590,12 @@
       "title": "Rahul Gandhi calls 'Chalo Dilli' presser + afternoon CP→SC march",
       "report_time_pdt": "12:24 AM PDT, Oct 12",
       "report_time_ist": "12:54 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:24:00Z"
+      "reported_at_utc": "2026-10-12T07:24:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "courts": "negative"
+      }
     },
     {
       "id": "rahul-gandhi-presser-content-20261012",
@@ -2076,7 +2609,13 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
       "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "reported_at_utc": "2026-10-12T07:57:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "bjp": "negative",
+        "police_govt": "negative",
+        "courts": "positive"
+      }
     },
     {
       "id": "dmrc-6-stations-closed-march-20261012",
@@ -2090,7 +2629,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
       "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "reported_at_utc": "2026-10-12T07:57:00Z",
+      "sentiment": {
+        "police_govt": "neutral"
+      }
     },
     {
       "id": "legal-fronts-hc-sc-20261012",
@@ -2104,7 +2646,12 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
       "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "reported_at_utc": "2026-10-12T07:57:00Z",
+      "sentiment": {
+        "courts": "positive",
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
     },
     {
       "id": "march-lineup-barahamba-20261012",
@@ -2118,7 +2665,10 @@
       "confidence": "single-sourced",
       "report_time_pdt": "12:57 AM PDT, Oct 12",
       "report_time_ist": "1:27 PM IST, Oct 12",
-      "reported_at_utc": "2026-10-12T07:57:00Z"
+      "reported_at_utc": "2026-10-12T07:57:00Z",
+      "sentiment": {
+        "india_bloc": "positive"
+      }
     }
   ]
 }

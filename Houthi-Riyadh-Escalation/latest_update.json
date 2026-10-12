@@ -14,7 +14,9 @@
         "https://nypost.com/2026/10/10/world-news/iran-backed-houthis-strike-riyadh-airport-as-trump-weighs-us-says-response/",
         "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
       ],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.yemenonline.info/media/main/news/1739004498019540700.png"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:33 AM PDT, Oct 12",
       "report_time_ist": "12:03 AM IST, Oct 13",
@@ -33,7 +35,9 @@
       "source_name": "CNN",
       "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://1-e8259.azureedge.net/wp-content/uploads/2022/01/AP21264625464627.jpg?resize=770%2C513&quality=80"
+      ],
       "confidence": "single-sourced",
       "report_time_pdt": "11:33 AM PDT, Oct 12",
       "report_time_ist": "12:03 AM IST, Oct 13",
@@ -55,7 +59,9 @@
         "https://www.reuters.com/world/middle-east/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-2026-10-12/",
         "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
       ],
-      "image_urls": [],
+      "image_urls": [
+        "https://dev.d46xmz47rctcf.amplifyapp.com/_next/image?url=https%3A%2F%2Farchive-files.aleqt.com%2Frbitem%2F2023%2F08%2F23%2F2249116-933732571.jpg&w=828&q=85"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:33 AM PDT, Oct 12",
       "report_time_ist": "12:03 AM IST, Oct 13",
@@ -74,7 +80,9 @@
       "source_name": "The Times",
       "source_url": "https://www.thetimes.com/world/middle-east/article/attack-saudi-arabia-airport-houthi-lx2q8kvmn",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://thetraveler.s3.amazonaws.com/images/hero/riyadh-airport-stranded-travellers-disruption.jpg_1200x675.jpg"
+      ],
       "confidence": "single-sourced",
       "report_time_pdt": "11:33 AM PDT, Oct 12",
       "report_time_ist": "12:03 AM IST, Oct 13",
@@ -96,7 +104,9 @@
         "https://cmio.org/regions/world/europe/863535-saudi-arabia-turkey-and-pakistan-activate-mecca-defence-pact",
         "https://www.reuters.com/world/asia-pacific/turkey-sending-technical-defensive-support-saudi-arabia-help-fight-houthis-2026-10-07/"
       ],
-      "image_urls": [],
+      "image_urls": [
+        "https://ngtimes.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjMyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--1f3d737c6cc1b38a1c6442b989b1fa426d99179d/bab-al-mandeb-shipping-hero.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:33 AM PDT, Oct 12",
       "report_time_ist": "12:03 AM IST, Oct 13",

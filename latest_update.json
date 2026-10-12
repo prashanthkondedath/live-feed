@@ -1,1 +1,42 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~6:17 PM IST, Oct 12","id":"rahul-priyanka-reach-supreme-court","image_urls":[],"links":[],"report_time_ist":"6:51 PM IST, Oct 12","report_time_pdt":"6:21 AM PDT, Oct 12","reported_at_utc":"2026-10-12T13:21:25Z","sentiment":{"courts":"neutral","india_bloc":"positive"},"source_name":"thedailyjagran.com (day-3 live blog)","source_url":"https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353","summary":"Rahul Gandhi and Priyanka Gandhi Vadra reached the Supreme Court after the INDIA bloc's legal team filed the writ petition against the ECI, CEC Gyanesh Kumar and the two ECs over alleged irregularities in the SIR of electoral rolls. This closes out the day's march arc: foot march from the barricaded Bhagwan Das Road to the court itself.","title":"Rahul Gandhi and Priyanka Gandhi reach Supreme Court after legal team files SIR writ petition against ECI"},{"confidence":"single-sourced","event_time_ist":"~6:47 PM IST, Oct 12","id":"kharge-petitioner-inside-sc-dk-shivakumar-baghel","image_urls":[],"links":[],"report_time_ist":"6:51 PM IST, Oct 12","report_time_pdt":"6:21 AM PDT, Oct 12","reported_at_utc":"2026-10-12T13:21:25Z","sentiment":{"courts":"neutral","india_bloc":"positive"},"source_name":"thedailyjagran.com (day-3 live blog)","source_url":"https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353","summary":"Mallikarjun Kharge, who is one of the petitioners in the SIR writ plea, reached the Supreme Court along with several other Congress and opposition leaders; visuals show Kharge inside the court with Karnataka CM DK Shivakumar, former Chhattisgarh CM Bhupesh Baghel and others. Rahul Gandhi, Priyanka Gandhi Vadra and Akhilesh Yadav were also reported at the SC. The petition names the ECI, CEC Gyanesh Kumar and the two Election Commissioners as respondents.","title":"Kharge, a named petitioner in the SIR writ plea, reaches SC and is seen inside the court with DK Shivakumar and Bhupesh Baghel"}],"report_time_ist":"6:51 PM IST, Oct 12","report_time_pdt":"6:21 AM PDT, Oct 12"}
+{
+  "report_time_pdt": "6:40 AM PDT, Oct 12",
+  "report_time_ist": "7:10 PM IST, Oct 12",
+  "items": [
+    {
+      "id": "sc-rejects-sit-probe-pil-vote-chori",
+      "event_time_ist": "time unknown, Oct 12",
+      "title": "Supreme Court rejects PIL seeking SIT probe into vote-chori allegations",
+      "summary": "The Supreme Court on Monday rejected a public interest litigation by a lawyer seeking a Special Investigation Team probe into Rahul Gandhi's allegations of anomalies in voter lists (duplicate/invalid entries, e.g. 40,000+ invalid and 10,000+ duplicates cited in Bengaluru's Mahadevapura alone). A bench of CJI Surya Kant and Justice Joymalya Bagchi said a PIL in public interest would not be entertained and the petitioner is at liberty to pursue alternate remedies.",
+      "source_name": "barandbench.com",
+      "source_url": "https://www.barandbench.com/news/supreme-court-rejects-pil-by-lawyer-seeking-sit-probe-into-rahul-gandhis-vote-chori-allegations",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "6:40 AM PDT, Oct 12",
+      "report_time_ist": "7:10 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T13:40:09Z",
+      "sentiment": {
+        "courts": "neutral",
+        "india_bloc": "negative"
+      }
+    },
+    {
+      "id": "india-bloc-writ-petition-11-petitioners",
+      "event_time_ist": "~6:51 PM IST, Oct 12",
+      "title": "Full details of INDIA bloc's SC writ petition: 11 named petitioners, alleges ~13 crore voter deletions",
+      "summary": "The day-3 live blog's 6:51 PM IST update names all 11 petitioners on the SIR writ petition filed ~5:16 PM IST: Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav, Saugata Roy, Tejashwi Yadav, Sanjay Raut, MA Baby, D Raja, Mahua Majhi, Supriya Sule and ET Mohammed Basheer - versus the ECI, CEC Gyanesh Kumar and ECs Vivek Joshi and Sukhbir Singh Sandhu. The plea alleges large-scale deletion of nearly 13 crore voters during the SIR; its contents are not yet public and the SC is expected to take it up on Tuesday.",
+      "source_name": "thedailyjagran.com (day-3 live blog)",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "6:40 AM PDT, Oct 12",
+      "report_time_ist": "7:10 PM IST, Oct 12",
+      "reported_at_utc": "2026-10-12T13:40:09Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "courts": "neutral"
+      }
+    }
+  ]
+}

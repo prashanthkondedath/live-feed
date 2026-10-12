@@ -2800,6 +2800,65 @@
     "cjp_protesters": "positive",
     "bjp": "negative"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~2:05 PM IST, Oct 12",
+   "id": "chalo-dilli-constitution-club-arrival",
+   "image_urls": [],
+   "links": [
+    "https://www.IndianEconomicObserver.com/news/india-bloc-leaders-reach-constitution-club-in-delhi-rahul-gandhi-calls-for-action-against-vote-theft20261012140557/"
+   ],
+   "report_time_ist": "3:28 PM IST, Oct 12",
+   "report_time_pdt": "2:58 AM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T09:58:42Z",
+   "sentiment": {
+    "india_bloc": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "ANI (via indianeconomicobserver.com)",
+   "source_url": "https://www.IndianEconomicObserver.com/news/india-bloc-leaders-reach-constitution-club-in-delhi-rahul-gandhi-calls-for-action-against-vote-theft20261012140557/",
+   "summary": "First outcome reporting on the 'Chalo Dilli' march (which began ~1:30 PM IST from Connaught Place toward the Supreme Court): a large INDIA bloc demonstration made its way through central Delhi and reached the Constitution Club of India by ~2:05 PM IST. Rahul Gandhi, Priyanka Gandhi Vadra, Mallikarjun Kharge and Mamata Banerjee arrived at the venue. KC Venugopal called it the 'biggest andolan' against the Election Commission and said the alliance will also file its Supreme Court petition. RJD's Tejashwi Yadav joined with sharp remarks ('Democracy is being crushed... Elections must be fair'), and Himachal CM Sukhvinder Singh Sukhu said the Congress will submit memoranda to constitutional bodies. Heavy security (Delhi Police, RAF) continued around the route; march to the SC still in motion at report time.",
+   "title": "Chalo Dilli march reaches Constitution Club; Rahul, Kharge, Mamata, Tejashwi join"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, time unreported",
+   "id": "fadnavis-himanta-march-criticism",
+   "image_urls": [],
+   "links": [
+    "https://www.devdiscourse.com/article/politics/3990694-fadnavis-himanta-sarma-criticise-india-bloc-over-march-to-sc-accuse-opposition-of-undermining-constitutional-institutions"
+   ],
+   "report_time_ist": "3:28 PM IST, Oct 12",
+   "report_time_pdt": "2:58 AM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T09:58:42Z",
+   "sentiment": {
+    "bjp": "positive",
+    "india_bloc": "negative"
+   },
+   "source_name": "ANI (via devdiscourse.com)",
+   "source_url": "https://www.devdiscourse.com/article/politics/3990694-fadnavis-himanta-sarma-criticise-india-bloc-over-march-to-sc-accuse-opposition-of-undermining-constitutional-institutions",
+   "summary": "Two BJP chief ministers hit out at the INDIA bloc's march to the Supreme Court on Monday. Maharashtra CM Devendra Fadnavis told ANI the opposition was trying to 'undermine public trust in judicial institutions,' asking 'Where does the Constitution state that the Chief Justice of India has to meet a protest march?' and calling the opposition 'anti-constitutional.' Assam CM Himanta Biswa Sarma, in an X post, accused Rahul Gandhi and Congress of questioning electoral outcomes selectively ('When PM Modi is elected Prime Minister, Rahul Gandhi calls it manipulation, yet his own election to Parliament... is beyond question'). First CM-level ruling-party counter to Monday's march beyond the logged Chouhan 'drama' remark.",
+   "title": "Fadnavis, Himanta Sarma slam INDIA bloc's SC march as anti-constitutional"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Oct 12, time unreported",
+   "id": "aap-weeklong-protest-meeting",
+   "image_urls": [],
+   "links": [
+    "https://inshorts.com/en/news/aap--india-bloc-hold--chalo-dilli--march-against-cec-1791786539525"
+   ],
+   "report_time_ist": "3:28 PM IST, Oct 12",
+   "report_time_pdt": "2:58 AM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T09:58:42Z",
+   "sentiment": {
+    "india_bloc": "positive"
+   },
+   "source_name": "inshorts.com",
+   "source_url": "https://inshorts.com/en/news/aap--india-bloc-hold--chalo-dilli--march-against-cec-1791786539525",
+   "summary": "AAP called a meeting of its Delhi MLAs and councillors to plan week-long protests against Chief Election Commissioner Gyanesh Kumar, alongside the INDIA bloc's 'Chalo Dilli' march from Connaught Place to the Supreme Court. The same report notes high security across central Delhi with metro station entry/exit restricted until 4 PM on Oct 12. First report of a multi-day protest plan from AAP.",
+   "title": "AAP calls meeting to plan week-long protests against CEC"
   }
  ]
 }

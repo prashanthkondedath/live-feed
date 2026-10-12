@@ -1,1 +1,111 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 12, 2026","id":"houthi-oct12-fresh-wave-airport-closed","image_urls":[],"links":["https://nypost.com/2026/10/12/world-news/saudi-arabia-faces-new-missile-drone-strikes-after-houthi-airport-attacks/","https://www.reuters.com/commentary/breakingviews/riyadh-attacks-hit-core-saudis-economic-pivot-2026-10-12/"],"report_time_ist":"11:50 PM IST, Oct 12","report_time_pdt":"11:20 AM PDT, Oct 12","reported_at_utc":"2026-10-12T18:20:00Z","sentiment":{"civilians":"negative","houthis":"negative","saudi_govt":"negative"},"source_name":"NY Post / Reuters","source_url":"https://nypost.com/2026/10/12/world-news/saudi-arabia-faces-new-missile-drone-strikes-after-houthi-airport-attacks/","summary":"A fresh Houthi drone and cruise-missile wave targeted the kingdom's key oil and gas facilities; several were intercepted. King Khalid airport stays closed until at least Oct 17 (NOTAM) with 46% of flights cancelled across Saudi airports; the FAA warned US airlines on Saudi routes. The World Petroleum Congress in Riyadh was disrupted — the CEOs of ExxonMobil, TotalEnergies, Shell and BP withdrew. Saudi Energy Minister Prince Abdul Aziz bin Salman vowed a serious retaliation.","title":"Oct 12: Fresh Houthi wave targets Saudi oil/gas sites; Riyadh airport shut till Oct 17, energy summit disrupted"},{"confidence":"confirmed","event_time_ist":"Oct 12, 2026","id":"houthi-oct12-r4-condemnation-pact","image_urls":[],"links":["https://www.reuters.com/world/asia-pacific/turkey-pakistan-egypt-saudi-arabia-condemn-houthi-attacks-riyadh-airport-2026-10-12/"],"report_time_ist":"11:50 PM IST, Oct 12","report_time_pdt":"11:20 AM PDT, Oct 12","reported_at_utc":"2026-10-12T18:20:00Z","sentiment":{"houthis":"negative","saudi_govt":"positive","us":"neutral"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/asia-pacific/turkey-pakistan-egypt-saudi-arabia-condemn-houthi-attacks-riyadh-airport-2026-10-12/","summary":"Turkey, Pakistan, Egypt and Saudi Arabia (the 'R4') jointly condemned the Houthi airport attacks as a 'dangerous escalation', backing all legitimate Saudi countermeasures and holding the Houthi militia fully accountable. The four signed a joint defence pact in August under which an attack on one is an attack on all; Turkey is assessing defensive/technical support for Riyadh but ruled out troop deployment and offensive operations.","title":"Oct 12: Turkey, Pakistan, Egypt, Saudi Arabia jointly condemn attacks under defence pact"}],"report_time_ist":"11:50 PM IST, Oct 12","report_time_pdt":"11:20 AM PDT, Oct 12"}
+{
+  "report_time_pdt": "11:33 AM PDT, Oct 12",
+  "report_time_ist": "12:03 AM IST, Oct 13",
+  "items": [
+    {
+      "id": "trump-weighs-us-intervention-oct12",
+      "event_time_ist": "Oct 10, 2026 (reiterated Oct 12)",
+      "title": "Trump weighs US military intervention after Riyadh airport strikes",
+      "summary": "President Trump said he is evaluating whether the US should join Saudi strikes against the Tehran-backed Houthis in Yemen \u2014 \"We may. We're going to look at it. We just found out about the recent attack. So we'll make a decision. We move very quickly.\" He also plans to speak with Crown Prince Mohammed bin Salman. Secretary of State Marco Rubio condemned the attacks and reaffirmed US support for the kingdom. Context: the US had agreed a ceasefire with the Houthis after a month-long bombing campaign, and neither side appeared eager to resume fighting.",
+      "source_name": "AP via WAMC",
+      "source_url": "https://www.wamc.org/2026-10-10/trump-weighs-joining-the-fight-against-houthis-after-riyadh-airport-attack",
+      "links": [
+        "https://www.thetimes.com/world/middle-east/article/attack-saudi-arabia-airport-houthi-lx2q8kvmn",
+        "https://nypost.com/2026/10/10/world-news/iran-backed-houthis-strike-riyadh-airport-as-trump-weighs-us-says-response/",
+        "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
+      ],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:33 AM PDT, Oct 12",
+      "report_time_ist": "12:03 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "houthi-119-strikes-claim-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "Houthis claim 119 Saudi attacks in 24 hours killed 11+ civilians, threaten more airport strikes",
+      "summary": "The Houthis said Saudi warplanes and missile units carried out 119 attacks over the past 24 hours, claiming at least 11 civilians including women and children were killed \u2014 a claim CNN notes it cannot independently verify. The group said the airport strikes were a response to the intensified Saudi air campaign in Yemen and threatened to continue targeting airports and other sites inside the kingdom.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:33 AM PDT, Oct 12",
+      "report_time_ist": "12:03 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "sentiment": {
+        "houthis": "neutral",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "aviation-meltdown-airlines-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "Riyadh airport shut 'until further notice'; Lufthansa, Air France-KLM, Etihad extend suspensions",
+      "summary": "King Khalid International Airport will remain closed until further notice (NOTAM: at least Oct 17) to verify safety of facilities. Cirium data: 99.7% of Sunday's scheduled flights cancelled, ~60% of Monday's expected cancelled; FlightRadar24 put Riyadh cancellations near 78%. Lufthansa cancelled all Riyadh flights until Oct 16, Air France-KLM extended its suspension to the end of the month, and Etihad extended cancellations (~20 flights to Riyadh, Jeddah, Dammam). EASA widened its Saudi airspace warning; the FAA caution stands. New Al Arabiya security footage shows Saturday's terminal blast collapsing part of the ceiling as passengers fled.",
+      "source_name": "Reuters via TBS News",
+      "source_url": "https://www.tbsnews.net/worldbiz/middle-east/skies-over-saudi-capital-empty-after-deadly-houthi-airport-strikes-1570551",
+      "links": [
+        "https://www.reuters.com/world/middle-east/skies-over-saudi-capital-riyadh-largely-empty-after-deadly-houthi-strikes-2026-10-12/",
+        "https://www.cnn.com/2026/10/10/middleeast/riyadh-airport-saudi-houthis-intl?cid=external-feeds_iluminar_meta"
+      ],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:33 AM PDT, Oct 12",
+      "report_time_ist": "12:03 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "uk-travel-advisory-oct12",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "UK tells citizens to avoid Jeddah, Dammam and Saudi airports; Thursday jet attack killed pilot",
+      "summary": "The UK Foreign Office advised British citizens to avoid travel to Jeddah and Dammam and to all Saudi airports except Medina's. A Thursday advisory already covered Riyadh after a Houthi attack on a passenger jet killed the pilot and two others \u2014 Saudia confirmed one of its jets was damaged with no passengers aboard. The advisories land as Riyadh prepares to host the Future Investment Initiative ('Davos in the Desert') later this month.",
+      "source_name": "The Times",
+      "source_url": "https://www.thetimes.com/world/middle-east/article/attack-saudi-arabia-airport-houthi-lx2q8kvmn",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:33 AM PDT, Oct 12",
+      "report_time_ist": "12:03 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "mecca-pact-deployments-oct12",
+      "event_time_ist": "Oct 5-12, 2026 (reported Oct 12)",
+      "title": "Mecca defence pact activated: Pakistan/Turkey pledged rapid deployment; Houthis hold Bab al-Mandeb",
+      "summary": "Saudi Arabia, Turkey and Pakistan activated the Mecca mutual defence pact on Oct 5 ('collective deterrence'), pledging rapid deployment of forces to the kingdom. Pakistan \u2014 with ~8,000 troops, JF-17 fighters and HQ-9 air defences already in-country \u2014 and Turkey committed to reconnaissance/support roles while Saudi forces lead combat; Turkey's FM ruled out Turkish troop deployment or offensive operations pending parliamentary ratification. Backdrop: a Saudi-backed Yemeni counteroffensive with ~100 coalition jets aims to retake the Bab al-Mandeb strait seized by the Houthis in September, while the rebels tighten their siege of Taiz.",
+      "source_name": "The Conversation via Evening Report",
+      "source_url": "https://eveningreport.nz/2026/10/10/mecca-pact-pakistan-and-turkey-have-answered-saudi-arabias-call-for-help-but-dont-expect-them-to-fight-the-houthis/",
+      "links": [
+        "https://cmio.org/regions/world/europe/863535-saudi-arabia-turkey-and-pakistan-activate-mecca-defence-pact",
+        "https://www.reuters.com/world/asia-pacific/turkey-sending-technical-defensive-support-saudi-arabia-help-fight-houthis-2026-10-07/"
+      ],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:33 AM PDT, Oct 12",
+      "report_time_ist": "12:03 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T18:33:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
+    }
+  ]
+}

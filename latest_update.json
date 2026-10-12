@@ -1,43 +1,57 @@
 {
- "report_time_pdt": "4:08 AM PDT, Oct 12",
- "report_time_ist": "4:38 PM IST, Oct 12",
+ "report_time_pdt": "4:37 AM PDT, Oct 12",
+ "report_time_ist": "5:07 PM IST, Oct 12",
  "items": [
   {
-   "id": "dilli-chalo-neha-bora-march-oct12",
-   "event_time_ist": "~4:37 PM IST, Oct 12",
-   "title": "Rahul Gandhi, Priyanka Gandhi Vadra and AISA chief Neha Bora marching in 'Dilli Chalo' protest toward the SC",
-   "summary": "The Jagran day-3 live blog's newest entry (04:37 PM IST, Oct 12) confirms Lok Sabha LoP Rahul Gandhi, Congress MP Priyanka Gandhi Vadra and AISA president Neha Bora are participating in the 'Dilli Chalo' march, demanding action against and the resignation of CEC Gyanesh Kumar. Neha Bora marching alongside the INDIA-bloc leadership is new — she was detained on Saturday evening (released Oct 10, phone returned). A companion 04:26 PM IST entry ('Akhilesh Yadav joins agitation') repeats the already-alerted 12:00 PM IST march confirmation; 04:15 PM IST ANI visuals (Statesman House) and a 03:58 PM IST Mandi House security note are march-in-motion color with no new facts. Petition-filing outcome still not reported.",
-   "source_name": "The Daily Jagran (INDIA-bloc day-3 live blog)",
-   "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
-   "links": [
-    "https://www.thedailyjagran.com/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353"
-   ],
+   "id": "dmrc-reopens-all-metro-gates",
+   "event_time_ist": "~4:40 PM IST, Oct 12",
+   "title": "DMRC reopens entry/exit gates at ALL Delhi Metro stations",
+   "summary": "DMRC said entry and exit gates at all stations across the Delhi Metro network have been reopened, hours after security restrictions were imposed at six stations (Rajiv Chowk, Janpath, Mandi House, Patel Chowk, Central Secretariat, Barakhamba Road) due to the INDIA-bloc protest march. First lifting of Monday's transport curbs.",
+   "source_name": "DMRC via thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
    "image_urls": [],
    "confidence": "confirmed",
-   "report_time_pdt": "4:08 AM PDT, Oct 12",
-   "report_time_ist": "4:38 PM IST, Oct 12",
-   "reported_at_utc": "2026-10-12T11:08:31Z",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
    "sentiment": {
-    "india_bloc": "positive"
+    "police_govt": "neutral"
    }
   },
   {
-   "id": "aap-leaders-detained-cp-oct12-claim",
-   "event_time_ist": "Oct 12 (time unspecified)",
-   "title": "Claim: AAP leaders detained on Oct 12 while marching toward Connaught Place",
-   "summary": "A verified Firstpost Instagram roundup carousel (published 10:58:26Z, ~4:28 PM IST Oct 12) reports that AAP leaders were detained on Oct 12 while marching toward Connaught Place. No names, times or detention locations given, and no other outlet corroborated it in this run — single-sourced, watch for corroboration. The same carousel recaps already-logged facts: ~500 detained in Oct 11 flash protests (student activists, CPI(M) MP John Brittas, journalists), the Jantar Mantar de-notification (Ramlila/Burari/CBD replacement venues), and six metro stations restricted 6 AM-4 PM Oct 12.",
-   "source_name": "Firstpost (verified IG roundup carousel @firstpost)",
-   "source_url": "https://www.instagram.com/p/DeZErmDnVQU/",
-   "links": [
-    "https://www.instagram.com/p/DeZErmDnVQU/"
-   ],
+   "id": "march-stopped-bhagwan-das-road",
+   "event_time_ist": "~4:48 PM IST, Oct 12",
+   "title": "Police stop INDIA-bloc march at barricaded Bhagwan Das Road",
+   "summary": "PTI reports police stopped the opposition 'Dilli Chalo' march at the barricaded Bhagwan Das Road as it moved toward the Supreme Court. First police halt on the march route; no detention reporting yet. Follows the earlier reported leaders' bus ride to Barakhamba Road (~3:11 PM IST).",
+   "source_name": "PTI via thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
    "image_urls": [],
-   "confidence": "single-sourced",
-   "report_time_pdt": "4:08 AM PDT, Oct 12",
-   "report_time_ist": "4:38 PM IST, Oct 12",
-   "reported_at_utc": "2026-10-12T11:08:31Z",
+   "confidence": "confirmed",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
    "sentiment": {
-    "police_govt": "negative"
+    "india_bloc": "neutral",
+    "police_govt": "neutral"
+   }
+  },
+  {
+   "id": "foot-march-after-bus-stopped",
+   "event_time_ist": "~4:55 PM IST, Oct 12",
+   "title": "Rahul Gandhi, Akhilesh Yadav lead foot march to SC after bus stopped mid-way",
+   "summary": "Visuals show Lok Sabha LoP Rahul Gandhi, Samajwadi Party chief Akhilesh Yadav and other opposition leaders leading the 'Dilli Chalo' march on foot, accompanied by hundreds of supporters, after their bus was stopped mid-way; AISA president Neha Bora also joined the agitation. Advances the march-to-SC phase (previously reported bus movement) into a foot-march phase; SC petition-filing outcome still unreported.",
+   "source_name": "thedailyjagran.com (India bloc march live blog)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/news/india-bloc-march-to-supreme-court-live-rahul-gandhi-gyanesh-kumar-kharge-akhilesh-mamata-delhi-police-security-latest-lb-30000353",
+   "links": [],
+   "image_urls": [],
+   "confidence": "confirmed",
+   "report_time_pdt": "4:37 AM PDT, Oct 12",
+   "report_time_ist": "5:07 PM IST, Oct 12",
+   "reported_at_utc": "2026-10-12T11:37:55Z",
+   "sentiment": {
+    "india_bloc": "positive"
    }
   }
  ]

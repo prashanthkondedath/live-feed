@@ -1,0 +1,101 @@
+{
+  "report_time_pdt": "11:07 PM PDT, Oct 12",
+  "report_time_ist": "11:37 AM IST, Oct 13",
+  "items": [
+    {
+      "id": "irgc-mine-claims-three-tankers",
+      "event_time_ist": "Oct 10-12, 2026 (claimed; Iran time)",
+      "title": "IRGC Navy claims three tankers struck naval mines on 'unauthorized routes'",
+      "summary": "The IRGC Navy said three crude supertankers struck naval mines while attempting to exit Hormuz via unauthorized routes with navigation systems switched off — one each on Oct 10, Oct 11, and Oct 12 morning, all engulfed in flames. It warned any vessel cooperating with US forces or switching off AIS would be treated as 'hostile' and face a 'decisive response.' Vessel names and nationalities were not independently confirmed.",
+      "source_name": "IRGC Navy via PressTV/Tasnim; Anadolu Ajansi",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "unconfirmed",
+      "report_time_pdt": "11:07 PM PDT, Oct 12",
+      "report_time_ist": "11:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T12:00:00Z",
+      "sentiment": {
+        "us": "negative",
+        "iran": "positive",
+        "markets": "negative"
+      }
+    },
+    {
+      "id": "petro-dolphin-drone-sohar",
+      "event_time_ist": "Oct 11, 2026 (Oman/IST)",
+      "title": "MT Petro Dolphin drone attack at Sohar (Oman): 2 Indian seafarers missing",
+      "summary": "MT Petro Dolphin was hit by a drone at Sohar anchorage, Oman; of 11 Indian crew, 9 were rescued and 2 remain missing. India's MEA condemned the attacks; the Indian embassy in Muscat is coordinating with Omani authorities. Separately, MT Valthera (Marshall Islands-flagged) was struck by an unknown projectile near Hormuz, caught fire, with its 11 Indian crew reported safe.",
+      "source_name": "Indian MEA; UKMTO; Forbes Europe/Bloomberg",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:07 PM PDT, Oct 12",
+      "report_time_ist": "11:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-11T12:00:00Z",
+      "sentiment": {
+        "us": "negative",
+        "iran": "negative",
+        "markets": "negative"
+      }
+    },
+    {
+      "id": "iran-calls-us-reply-inadequate",
+      "event_time_ist": "Oct 11, 2026 (Iran time)",
+      "title": "Iran calls US response to its seven Hormuz conditions 'inadequate'",
+      "summary": "Supreme National Security Council secretary Mohsen Rezaei said the US had accepted some of Iran's seven conditions for reopening Hormuz and returning to talks, but the response was 'inadequate' — the strait stays closed to the US until all are met. Iran had presented the proposal at the UNGA (reopen within seven days if conditions met); the US replied via Qatari intermediaries.",
+      "source_name": "Reuters; The Hindu BusinessLine",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:07 PM PDT, Oct 12",
+      "report_time_ist": "11:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-11T12:00:00Z",
+      "sentiment": {
+        "us": "neutral",
+        "iran": "negative",
+        "markets": "negative"
+      }
+    },
+    {
+      "id": "baghaei-reviewing-us-reply",
+      "event_time_ist": "Oct 12, 2026 (Iran time)",
+      "title": "Tehran reviewing US reply; Qatar and Pakistan mediating; FM rejects US 'open strait' claim",
+      "summary": "FM spokesman Esmaeil Baghaei said Iran is still reviewing the US response and will reply via intermediaries; Qatar and Pakistan are among the mediators. He rejected Trump's normalcy claim: 'security would not return to the Strait of Hormuz as long as the United States continues its naval blockade and economic war against Iran.' Reuters noted the core impasse: Washington wants Iran's nuclear program addressed from the outset; Tehran wants Hormuz reopening and security first.",
+      "source_name": "Reuters; PressTV",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:07 PM PDT, Oct 12",
+      "report_time_ist": "11:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T12:00:00Z",
+      "sentiment": {
+        "us": "neutral",
+        "iran": "neutral",
+        "markets": "negative"
+      }
+    },
+    {
+      "id": "brent-105-106-goldman",
+      "event_time_ist": "Oct 12, 2026",
+      "title": "Brent hits ~$105-106.65; Goldman raises Dec Brent forecast to $90",
+      "summary": "Brent crude rose to ~$105-106.65/bbl on Oct 12 (WTI ~$92.5-93.7) on the tanker-attack wave and Riyadh airport strikes — up >70% this year. Goldman Sachs raised its December Brent forecast $5 to $90/bbl, estimating >$20/bbl of current price is geopolitical/supply-disruption risk premium.",
+      "source_name": "Reuters; Forbes Europe/Bloomberg; OilMonster",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:07 PM PDT, Oct 12",
+      "report_time_ist": "11:37 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-12T12:00:00Z",
+      "sentiment": {
+        "us": "negative",
+        "iran": "positive",
+        "markets": "negative"
+      }
+    }
+  ]
+}

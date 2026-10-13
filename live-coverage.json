@@ -74,17 +74,11 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:49:49Z",
+      "trend_updated_at_utc": "2026-10-13T18:55:02Z",
       "sentiment_summary": {
         "window": "7d",
         "items_in_window": 29,
         "sides": {
-          "civilians": {
-            "positive": 0,
-            "negative": 14,
-            "neutral": 5,
-            "overall": "negative"
-          },
           "houthis": {
             "positive": 1,
             "negative": 23,
@@ -104,7 +98,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-13T18:49:49Z"
+        "updated_at_utc": "2026-10-13T18:55:02Z"
       }
     },
     {
@@ -278,5 +272,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T18:49:57Z"
+  "updated_at_utc": "2026-10-13T18:55:02Z"
 }

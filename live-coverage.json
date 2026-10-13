@@ -240,14 +240,14 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T20:30:42Z",
+      "trend_updated_at_utc": "2026-10-13T20:34:10Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 26,
+        "items_in_window": 27,
         "sides": {
           "russia": {
             "positive": 3,
-            "negative": 13,
+            "negative": 14,
             "neutral": 8,
             "overall": "negative"
           },
@@ -265,7 +265,7 @@
           },
           "civilians": {
             "positive": 2,
-            "negative": 7,
+            "negative": 8,
             "neutral": 1,
             "overall": "negative"
           },
@@ -282,7 +282,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T20:30:42Z"
+        "updated_at_utc": "2026-10-13T20:34:10Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry made its first claim of no energy targets hit overnight Oct 12-13, but Zelensky says Russia still used 100+ weapons and 4 people were killed in Kharkiv; Trump shrugged that 'they're both a little bit off.' France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
@@ -330,12 +330,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 26,
-        "confirmed": 24,
+        "items_in_window": 27,
+        "confirmed": 25,
         "single-sourced": 2,
         "unconfirmed": 0,
-        "confirmed_rate": 0.92,
-        "updated_at_utc": "2026-10-13T20:30:42Z"
+        "confirmed_rate": 0.93,
+        "updated_at_utc": "2026-10-13T20:34:10Z"
       },
       "phase": "contested-ceasefire"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T20:30:59Z"
+  "updated_at_utc": "2026-10-13T20:34:10Z"
 }

@@ -74,7 +74,38 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
+      "trend_updated_at_utc": "2026-10-13T18:49:49Z",
+      "sentiment_summary": {
+        "window": "7d",
+        "items_in_window": 29,
+        "sides": {
+          "civilians": {
+            "positive": 0,
+            "negative": 14,
+            "neutral": 5,
+            "overall": "negative"
+          },
+          "houthis": {
+            "positive": 1,
+            "negative": 23,
+            "neutral": 3,
+            "overall": "negative"
+          },
+          "saudi_govt": {
+            "positive": 10,
+            "negative": 10,
+            "neutral": 6,
+            "overall": "mixed"
+          },
+          "us": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 7,
+            "overall": "neutral"
+          }
+        },
+        "updated_at_utc": "2026-10-13T18:49:49Z"
+      }
     },
     {
       "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
@@ -148,5 +179,5 @@
       "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T18:49:47Z"
+  "updated_at_utc": "2026-10-13T18:49:49Z"
 }

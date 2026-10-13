@@ -135,8 +135,8 @@
           "label": "Dammam"
         }
       ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T20:30:38Z",
+      "trend": "emerging",
+      "trend_updated_at_utc": "2026-10-13T22:07:05Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 29,
@@ -166,7 +166,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-13T20:30:38Z"
+        "updated_at_utc": "2026-10-13T22:07:05Z"
       },
       "current_summary": "The Saudi-led coalition ordered a Sanaa fuel-site evacuation on Oct 13 ahead of a new operation and says it downed three drones over northern Riyadh on Tuesday; Houthi spokesman Yahya Saree threatened Riyadh retaliation and warned Aramco staff to evacuate. Coalition airstrikes on Al-Jawf killed 9 civilians including 5 children, and King Khalid airport remains closed till Oct 17.",
       "watch_for": [
@@ -211,7 +211,7 @@
         "single-sourced": 14,
         "unconfirmed": 0,
         "confirmed_rate": 0.52,
-        "updated_at_utc": "2026-10-13T20:30:38Z"
+        "updated_at_utc": "2026-10-13T22:07:05Z"
       },
       "phase": "escalation"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T22:06:31Z"
+  "updated_at_utc": "2026-10-13T22:07:05Z"
 }

@@ -252,20 +252,20 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T20:34:10Z",
+      "trend_updated_at_utc": "2026-10-13T23:04:24Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 27,
+        "items_in_window": 28,
         "sides": {
           "russia": {
             "positive": 3,
-            "negative": 14,
+            "negative": 15,
             "neutral": 8,
             "overall": "negative"
           },
           "ukraine": {
             "positive": 6,
-            "negative": 7,
+            "negative": 8,
             "neutral": 6,
             "overall": "negative"
           },
@@ -277,7 +277,7 @@
           },
           "civilians": {
             "positive": 2,
-            "negative": 8,
+            "negative": 9,
             "neutral": 1,
             "overall": "negative"
           },
@@ -294,7 +294,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T20:34:10Z"
+        "updated_at_utc": "2026-10-13T23:04:24Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry says no energy targets were hit overnight Oct 12-13, but Zelensky says Russia used 100+ weapons with 4 killed in Kharkiv, Tuesday-morning drones struck an educational institution in Rivne (up to 25 injured) and homes near Lviv, and Russian drones sank a cargo ship off Bulgaria with 11 sailors missing. Trump shrugged that 'they're both a little bit off' while denying any cutoff of US intelligence to Kyiv; France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
@@ -342,12 +342,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 27,
-        "confirmed": 25,
+        "items_in_window": 28,
+        "confirmed": 26,
         "single-sourced": 2,
         "unconfirmed": 0,
         "confirmed_rate": 0.93,
-        "updated_at_utc": "2026-10-13T20:34:10Z"
+        "updated_at_utc": "2026-10-13T23:04:24Z"
       },
       "phase": "contested-ceasefire"
     },
@@ -624,5 +624,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T23:03:54Z"
+  "updated_at_utc": "2026-10-13T23:04:24Z"
 }

@@ -8,7 +8,10 @@
       "source_name": "Bloomberg via gcaptain; Axios via ANI",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/01/29/4336503-uss-theodore-roosevelt-1.jpg",
+        "https://dailygulfnews.com/wp-content/uploads/2026/02/image-1771014602-780x470.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -27,7 +30,10 @@
       "source_name": "Reuters (via The Business Standard)",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://object.pomegra.io/public/fro-nat-dht-lead-2026-as-hormuz-attacks-escalate.webp",
+        "https://english.capitalnewspoint.com/wp-content/uploads/2026/05/949641_61502179.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -46,7 +52,9 @@
       "source_name": "The Atlantic; Axios",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2604/1001820/DOD_111612908.0000900/2000w_q95.jpg"
+      ],
       "confidence": "single-sourced",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -65,7 +73,10 @@
       "source_name": "UNB via TBS News; ScanX News",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://troopinsight.com/wp-content/uploads/2026/04/strait-of-hormuz-satellite-view-scaled.webp",
+        "https://image.idn.media/post/20260816/selat-hormuz_9feac4fd-4827-4822-a38c-05bae99dfc65.jpg"
+      ],
       "confidence": "single-sourced",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -84,7 +95,10 @@
       "source_name": "Reuters; AP",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-226.jpg",
+        "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -103,7 +117,10 @@
       "source_name": "AP (WAMC); NRI Page",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-208.jpg",
+        "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -122,7 +139,9 @@
       "source_name": "USA Today; Truth Social",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://anewz.tv/data/images/2026-04-02/26544_2026-04-02t015604z-1972436967-rc2pgka6wfv6-rtrmadp-3-iran-crisis-trump-address_f.JPG?t=1779974213"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -141,7 +160,9 @@
       "source_name": "PressTV; devdiscourse",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.studentnewsdaily.com/wp-content/uploads/2021/04/natanz-iran-nuclear-site.jpg"
+      ],
       "confidence": "single-sourced",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -160,7 +181,10 @@
       "source_name": "Reuters (energy desk)",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://regtechtimes.com/wp-content/uploads/2026/02/1200675-2026-02-07T113450.044.png",
+        "https://www.libyanexpress.com/wp-content/uploads/2025/10/IMG_1411-800x450.jpeg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -179,7 +203,10 @@
       "source_name": "UKMTO via DefconLevel; Eagle Intel maritime desk",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://img.ien.com/files/base/indm/ien/image/2019/06/Gulf_Tanker_Attack_AP.5d0b960c2a195.png?auto=format%2Ccompress&fit=crop&h=432&q=70&rect=0%2C53%2C1024%2C576&w=768",
+        "https://www.dmnsa.com/wp-content/plugins/wp-o-matic/cache/7f5714efb8_ddaecd438b48e663779c434812de9493.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -198,7 +225,10 @@
       "source_name": "IRGC Navy via PressTV/Tasnim; Anadolu Ajansi",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg",
+        "https://i0.wp.com/heisenbergreport.com/wp-content/uploads/2026/03/IraqTankerFireMar2026.png?fit=1152%2C665&ssl=1"
+      ],
       "confidence": "unconfirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -217,7 +247,10 @@
       "source_name": "Indian MEA; UKMTO; Forbes Europe/Bloomberg",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://publisher.tbsnews.net/bangla/sites/default/files/styles/big_3/public/images/2026/03/10/tanker_at_oman.jpg",
+        "https://d1epq84pwgteub.cloudfront.net/a354a601ba774775b3c91a640ae130cc.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -236,7 +269,10 @@
       "source_name": "Reuters; The Hindu BusinessLine",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://castlejournalnews.com/wp-content/uploads/2026/08/IMG_6421.webp",
+        "https://d2wqffb2bc8st5.cloudfront.net/images/1787514315_kurdistan24.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -255,7 +291,9 @@
       "source_name": "Reuters; PressTV",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://igmtv.net/wp-content/uploads/2026/03/Esmaeil-Baghaei.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -274,7 +312,10 @@
       "source_name": "Reuters; Forbes Europe/Bloomberg; OilMonster",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://fastpip.com/wp-content/uploads/2026/05/WTIPrice.png",
+        "https://westminsterpimliconews.co.uk/wp-content/uploads/2026/03/task_01kmzt33z9fdk9efz0n07t1r70_1774889070_img_1-395x263.webp"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",

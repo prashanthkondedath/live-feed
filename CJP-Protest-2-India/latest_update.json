@@ -1,24 +1,25 @@
 {
-  "report_time_pdt": "11:09 PM PDT, Oct 12",
-  "report_time_ist": "11:39 AM IST, Oct 13",
+  "report_time_pdt": "11:15 PM PDT, Oct 12",
+  "report_time_ist": "11:45 AM IST, Oct 13",
   "items": [
     {
-      "id": "ma-baby-no-demo-tuesday-oct13",
-      "event_time_ist": "~6:39 AM IST, Oct 13",
-      "title": "INDIA bloc: no large-scale Delhi demonstration on Tuesday; strategy day pivots to high tea + joint presser",
-      "summary": "CPI(M) general secretary MA Baby said Congress informed INDIA allies that after Monday's successful March for Democracy and the SC petition filing, there is 'no need for another march or demonstrations on Tuesday' (Oct 13) in Delhi. TMC's Derek O'Brien said leaders have festival plans, while Youth Congress and Seva Dal may hold protests in multiple states. Rahul Gandhi hosts the invited high tea at 5, Sunehri Bagh Road at 4 PM IST followed by a joint presser, where Congress will unveil its next strategy; senior Congress leader Abhishek Manu Singhvi will separately address a press conference on the filed SIR petition.",
-      "source_name": "The Daily Jagran (attributed to Hindustan Times)",
-      "source_url": "https://www.thedailyjagran.com/lite/india/news/sir-protest-congress-rahul-gandhi-tea-meeting-press-conference-india-bloc-plans-petition-against-cec-gyanesh-kumar-delhi-protests-updates-10332498",
+      "id": "cjp-official-tiranga-defiance-posts-oct13",
+      "event_time_ist": "~10:46–11:19 AM IST, Oct 13",
+      "title": "Official @cockroachjantaparty post-burst after the morning re-detention",
+      "summary": "Three never-reported official-handle posts surfaced in this run's IG-CLI pull, all tied to the already-alerted Tuesday-morning gate-climb re-detention of Das/Ranka/Shinde: (1) image post 'No one can stop us from waving the Tiranga at Jantar Mantar!' (~60K likes); (2) reel 'We are here to Reclaim our rights! Gyanesh Kumar must Go!' (~136K likes); (3) reel 'You cannot denotify the resistance!' (~67K likes). Missed by the 06:09Z run (its CLI leg returned no output). Defiance restatement; no new facts beyond the already-alerted reclaim/re-detention arc. No second outlet covers these specific posts -> single-sourced.",
+      "source_name": "Instagram @cockroachjantaparty (official)",
+      "source_url": "https://www.instagram.com/p/DebF7LQzFF7/",
       "links": [],
       "image_urls": [
-        "https://cf-images.assettype.com/newindianexpress%2F2026-06-06%2Ft6bvkjyc%2FMA-Baby.jpg?rect=0%2C0%2C4169%2C2189&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:09 PM PDT, Oct 12",
-      "report_time_ist": "11:39 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T06:09:58Z",
+      "report_time_pdt": "11:15 PM PDT, Oct 12",
+      "report_time_ist": "11:45 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T06:15:16Z",
       "sentiment": {
-        "india_bloc": "neutral"
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
       }
     }
   ]

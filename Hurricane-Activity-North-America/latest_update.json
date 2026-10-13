@@ -1,26 +1,49 @@
 {
-  "report_time_pdt": "5:50 PM PDT, Oct 12",
-  "report_time_ist": "6:20 AM IST, Oct 13",
+  "report_time_pdt": "6:42 PM PDT, Oct 12",
+  "report_time_ist": "7:12 AM IST, Oct 13",
   "items": [
     {
-      "id": "simon-guerrero-victim-named-oct12",
-      "event_time_ist": "Date uncertain — reported by officials Monday, Oct 12 (wall collapsed during Simon's weekend rains)",
-      "title": "First Hurricane Simon fatality in Mexico identified: Albino Moreno Jimenez, 71",
-      "summary": "Guerrero governor Evelyn Salgado's Monday briefing confirmed the Simon death was 71-year-old Albino Moreno Jimenez, killed when a retaining wall collapsed on him in the western outskirts of Chilpancingo, Guerrero while he was feeding his animals. The detail traces to Guerrero-based news agency IRZA. Simon death toll in Mexico remains 1 (plus 1 Rachel death in Baja California and 1 cliff-diver death in Mazatlan, both previously reported).",
-      "source_name": "The World Now (via IRZA)",
-      "source_url": "https://www.the-world-now.com/news/hurricane-tracker-shows-simon-weakening-near-mexico-after-two-deaths-reported-mv5x4mlf",
-      "links": [
-        "https://dominicanrepublicpost.com/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast/"
-      ],
+      "id": "isaias-desantis-recovery-aid-oct12",
+      "event_time_ist": "Oct 12, 2026, Monday (DeSantis press conference; exact time not stated)",
+      "title": "DeSantis Monday briefing: ~400 FL State Guard soldiers deployed for Isaias recovery; $10M zero-interest business loans; Walmart $1M",
+      "summary": "Gov. DeSantis' Monday press conference: Florida State Guard deployed nearly 400 soldiers (1,700 miles of roadway cleared; 4,000 cases of water, 1,700 meals, 2,600 bags of ice, 2,200 tarps distributed; 20+ flight hours on search/rescue and damage assessment). FloridaCommerce made $10M available in short-term, zero-interest loans for impacted businesses; Walmart committed $1M in funding and supplies for Panhandle recovery; the state insurance assistance hub opened Monday. DeSantis said 'more than 70% of the accounts have been restored' and that 'probably about 500,000' accounts lost power at one point or another.",
+      "source_name": "The Center Square (via WPGX Fox 28)",
+      "source_url": "https://www.wpgxfox28.com/news/state/122-000-still-without-power-in-florida-after-hurricane-isaias/article_38181f5e-4cd1-51f4-bcba-7f6ac7219dd8.html",
+      "links": [],
       "image_urls": [
-        "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299189216.jpg?c=16x9&q=w_860,c_fill"
+        "https://www.northescambia.com/wp-content/uploads/2026/10/boles11-540x307.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "5:50 PM PDT, Oct 12",
-      "report_time_ist": "6:20 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T00:50:00Z",
+      "report_time_pdt": "6:42 PM PDT, Oct 12",
+      "report_time_ist": "7:12 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T01:42:00Z",
       "sentiment": {
-        "civilians": "negative"
+        "civilians": "positive",
+        "us_govt": "positive"
+      }
+    },
+    {
+      "id": "simon-port-closures-sinaloa-oct12",
+      "event_time_ist": "Oct 12, 2026, Monday (announced; exact time not stated)",
+      "title": "Mexico's Navy (Semar) closed Pacific ports across Sinaloa, Nayarit, Jalisco and Michoacan to navigation ahead of Simon",
+      "summary": "Semar announced preventive navigation closures Monday ahead of Cat-2 Simon's Wednesday-Thursday approach to Mexico's west-central coast. Minor vessels: Topolobampo and Teacapan (Sinaloa); San Blas, La Cruz de Huanacaxtle, Nuevo Vallarta, Chacala (Nayarit); Puerto Vallarta and Barra de Navidad (Jalisco); Lazaro Cardenas (Michoacan). Major vessels: San Blas (Nayarit) and Puerto Vallarta (Jalisco). Sinaloa port closures are new (PVR/Manzanillo were already shut Sunday). Conagua flagged high surf, landslide, river-overflow and flooding risk across the watch zone.",
+      "source_name": "Grupo Animal (Cuartoscuro photo)",
+      "source_url": "https://grupoanimal.mx/estados/semar-cierra-puertos-pacifico-huracan-simon",
+      "links": [
+        "https://lado.mx/noticia/22040251/",
+        "https://www.instagram.com/p/DeaobvDjyf6/"
+      ],
+      "image_urls": [
+        "https://storage.googleapis.com/bucket-ga/uploads/2026/10/semar-cierra-puertos-pacifico-huracan-simon-3.webp",
+        "https://storage.googleapis.com/bucket-ga/uploads/2026/10/semar-cierra-puertos-pacifico-huracan-simon-2.webp"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "6:42 PM PDT, Oct 12",
+      "report_time_ist": "7:12 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T01:42:00Z",
+      "sentiment": {
+        "mexico_govt": "positive",
+        "civilians": "neutral"
       }
     }
   ]

@@ -53,7 +53,7 @@
         },
         "updated_at_utc": "2026-10-13T22:43:02Z"
       },
-      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police instead registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification and proposed an early-November Ramlila Maidan rally. CJP's official handle claimed Ranka, Das and Shinde were 'illegally kidnapped' for 14+ hours, posting a photo from inside Jaffarpur Kalan police station before deleting the post within an hour; founder Abhijeet Dipke is expected in Delhi on Oct 14.",
+      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress.",
       "watch_for": [
         {
           "event": "Dipke reaches Delhi to join the protest",
@@ -106,7 +106,7 @@
           "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
+      "curation_updated_at_utc": "2026-10-13T23:03:54Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -172,7 +172,7 @@
         },
         "updated_at_utc": "2026-10-13T22:41:33Z"
       },
-      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa, while Houthi strikes on Taiz killed 6 and injured 18. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences', Egypt pressed Iran to halt the attacks, and airlines began ferrying aircraft out of Riyadh. King Khalid airport remains closed till Oct 17.",
+      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17.",
       "watch_for": [
         {
           "event": "Riyadh airport NOTAM expiry; reopening decision",
@@ -213,7 +213,7 @@
           "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
+      "curation_updated_at_utc": "2026-10-13T23:03:54Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -624,5 +624,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T22:55:02Z"
+  "updated_at_utc": "2026-10-13T23:03:54Z"
 }

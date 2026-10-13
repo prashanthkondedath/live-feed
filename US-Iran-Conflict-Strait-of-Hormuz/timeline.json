@@ -746,6 +746,29 @@
    "source_url": "https://www.jfeed.com/latest-news/initial-reports-of-ballistic-missile-launch-from-yazd-iran-54537",
    "summary": "JFeed reported Monday afternoon (Oct 12) on initial, limited-details reports of a ballistic missile launched from Yazd, Iran. It is unclear whether this is a distinct launch or part of the IRGC's large missile/drone exercise on Oct 11; no second outlet has confirmed a separate Yazd launch.",
    "title": "Initial reports of a ballistic missile launch from Yazd, Iran"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026 (individual incident times unknown; warnings issued Oct 11-12)",
+   "id": "six-vessels-struck-oct11",
+   "image_urls": [
+    "https://www.marineinsight.com/wp-content/uploads/2026/07/oil-tanker-struck-by-projectile-768x402.jpg"
+   ],
+   "links": [
+    "https://splash247.com/iran-threatens-ships-going-dark-in-hormuz/",
+    "https://famagusta-gazette.com/six-vessels-came-under-attack-on-sunday-in-the-strait-of-hormuz/"
+   ],
+   "report_time_ist": "7:12 PM IST, Oct 13, 2026",
+   "report_time_pdt": "6:42 AM PDT, Oct 13, 2026",
+   "reported_at_utc": "2026-10-13T13:42:00Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   },
+   "source_name": "gCaptain",
+   "source_url": "https://gcaptain.com/new-reports-reveal-five-more-ships-hit-near-hormuz/",
+   "summary": "UKMTO warnings 164-26 through 169-26 now document SIX commercial vessels struck on Sunday, Oct 11 — five tankers (an outbound tanker, an outbound crude tanker, an outbound product tanker, plus the MT Petro Dolphin UAV strike near Sohar anchorage, Oman) and one inbound container ship — the highest single-day total since the war began. Four of the reports were time-late, meaning official incident counts had been undercounting the wave. The warning-164 tanker suffered steering-gear-room and port-water-tank damage and proceeded to Fujairah; the Sohar tanker was first classified as suspicious activity before UKMTO upgraded it to a UAV attack, with local authorities evacuating the crew. Splash247 adds UKMTO has now logged at least 18 reported attacks region-wide this month. This materially upgrades the three-vessel Oct 11 count reported overnight.",
+   "title": "UKMTO: six vessels struck Oct 11 (five tankers + a container ship) — highest single-day total of the war"
   }
  ],
  "last_updated_pdt": "3:54 AM PDT, Oct 13, 2026",

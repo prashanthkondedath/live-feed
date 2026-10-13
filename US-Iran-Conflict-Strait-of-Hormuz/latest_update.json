@@ -1,1 +1,29 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 13, 2026 (trading session; Monday settle Oct 12 was $106.65)","id":"brent-pullback-tue-oct13","image_urls":["https://www.sbhnews.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fsensorstudio-assets%2Fuploads%2Fgenerated-covers%2Ffinal%2Fhormuz-strait-ship-traffic-plummets-878cb47d-2026-08-13-am-01-33-709f9717.jpg&w=3840&q=75"],"links":["https://www.reuters.com/business/energy/oil-ticks-lower-russia-diesel-supply-prospects-counter-gulf-supply-risks-2026-10-13/","https://northlandnewsradio.com/2026/10/12/oil-ticks-lower-as-russia-diesel-supply-prospects-counter-gulf-supply-risks/"],"report_time_ist":"1:38 PM IST","report_time_pdt":"1:08 AM PDT","reported_at_utc":"2026-10-13T08:08:55Z","sentiment":{"iran":"negative","markets":"negative","us":"neutral"},"source_name":"Wall Street Journal","source_url":"https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-weigh-middle-east-risks-russian-diesel-supplies-53840a01","summary":"Brent fell roughly 1% to about $105-$106/bbl on Tuesday and WTI to about $92-$93, pulling back after Monday's $106.65 close (highest since Sep 15). Traders weighed possible additional Russian diesel supplies against Gulf supply risks; ANZ said further downside is limited by escalating tensions. Fresh Kpler data showed confirmed Hormuz flows crashed to just 2M bpd on Saturday (vs 6.7M Friday, 22.8M Thursday), with the seven-day average at 10.5M bpd, ~38% below the prewar 17.1M bpd baseline. Separately, OPEC+ ministers said Monday that shipping and insurance costs have surged to unprecedented levels - over a third of the value of the commodities being moved.","title":"Oil pulls back Tuesday: Brent ~$105-$106 as Russian diesel hopes meet Gulf supply risk; Hormuz flows collapsed to 2M bpd Saturday (Kpler)"},{"confidence":"single-sourced","event_time_ist":"Oct 12, 2026 (published in WSJ liveblog)","id":"citi-brent-2027-outlook","image_urls":["https://www.sbhnews.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fsensorstudio-assets%2Fuploads%2Fgenerated-covers%2Ffinal%2Fhormuz-strait-ship-traffic-plummets-878cb47d-2026-08-13-am-01-33-709f9717.jpg&w=3840&q=75"],"links":[],"report_time_ist":"1:38 PM IST","report_time_pdt":"1:08 AM PDT","reported_at_utc":"2026-10-13T08:08:55Z","sentiment":{"iran":"neutral","markets":"neutral","us":"neutral"},"source_name":"Wall Street Journal (citing Citi Research)","source_url":"https://www.wsj.com/finance/commodities-futures/oil-futures-decline-on-possible-technical-correction-a4fa2f4b","summary":"Citi Research's base case (60% probability) assumes Hormuz flows recover in Q4 with no lasting infrastructure damage: Brent falls to $70/bbl in Q1 2027 and toward $65 from Q2 2027. But it assigns a 30% probability to prolonged disruption or further infrastructure damage, which would keep Brent averaging $120 through 2027. The bank says the timing of any normalization remains unusually uncertain.","title":"Citi: Brent could slide to $65 in 2027 if Hormuz normalizes (60% base case), or average $120 if disruption persists (30% case)"}],"report_time_ist":"1:38 PM IST","report_time_pdt":"1:08 AM PDT"}
+{
+ "report_time_pdt": "02:24 AM PDT, Oct 13",
+ "report_time_ist": "02:54 PM IST, Oct 13",
+ "items": [
+  {
+   "id": "gem-no2-drone-sharjah-oct9",
+   "event_time_ist": "Oct 9, 2026 (time of attack unknown); confirmed by India’s shipping minister on Oct 10, 2026",
+   "title": "MT GEM NO. 2 hit by drone at Sharjah Anchorage, Oct 9 — all 22 Indian crew safe",
+   "summary": "The Panama-flagged crude tanker MT GEM NO. 2 was struck by a drone while at anchorage off Sharjah (UAE) on Oct 9, 2026. India’s Minister Sarbananda Sonowal confirmed the incident and said all 22 Indian crew members are completely safe; his ministry is monitoring the situation and in contact with the ship manager. No perpetrator has been named. The incident marks a drone attack deep inside UAE coastal waters at the mouth of the Gulf of Oman — a notable geographic escalation beyond the strait’s transit corridors. This Oct 9 attack predates the Oct 11 Petro Dolphin/Valthera incidents but was missed by earlier checks; it is now in the timeline.",
+   "source_name": "ANI",
+   "source_url": "https://www.latestly.com/agency-news/world-news-indian-crew-of-22-safe-after-drone-attack-on-panama-flagged-oil-tanker-at-sharjah-anchorage-sonowal-7639175.html",
+   "links": [
+    "https://www.nationpress.com/national/all-22-indian-crew-safe-after-sharjah-tanker-attack",
+    "https://thepurbottar.in/oil-tanker-with-22-indian-nationals-comes-under-drone-attack-at-sharjah-anchorage-sonowal/"
+   ],
+   "image_urls": [
+    "https://www.rudaw.net/_next/image?url=https%3A%2F%2Fimages.rudaw.net%2Fimages%2Fasset%2Fnews%2F20261013075328_R37HYB7K5NA5ZBFLVAFRFP5BZU.avif&w=3840&q=88"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "02:24 AM PDT, Oct 13",
+   "report_time_ist": "02:54 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:24:13Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   }
+  }
+ ]
+}

@@ -1,1 +1,29 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Monday Oct 12 (announced at the presidential morning presser, Oct 12)","id":"simon-colima-damage-tally-oct12","image_urls":["https://watchers.news/wp-content/uploads/2026/10/Satellite-image-of-Hurricane-Simon-at-1040-UTC-on-October-12.-2026.webp"],"links":["https://meridianocolima.mx/informa-indira-vizcaino-a-presidenta-sheinbaum-del-saldo-blanco-tras-paso-de-huracan-simon/","https://www.deluna.com.mx/nacional/huracan-simon-deja-danos-en-el-pacifico-y-mantiene-en-alerta-a-sinaloa/"],"report_time_ist":"1:25 PM IST, Oct 13","report_time_pdt":"12:55 AM PDT, Oct 13","reported_at_utc":"2026-10-13T07:55:00Z","sentiment":{"civilians":"negative","mexico_govt":"neutral"},"source_name":"CentralND / Meridiano Colima (via Monday mañanera presser)","source_url":"https://centralnd.com/2026/10/12/indira-informa-a-presidenta-sheinbaum-saldo-blanco-en-el-estado-de-colima-tras-el-paso-del-huracan-simon-categoria-4/","summary":"Colima Gov. Indira Vizcaino Silva told President Sheinbaum at Monday's morning presser that Simon's weekend rains caused flooding and landslides affecting 71 homes and 35 businesses, plus roads, schools and medical units across Colima — though the track change spared the state a direct hit. Saldo blanco: zero deaths, injuries or missing in the state; 177 people housed in 10 temporary shelters. SMN rainfall totals: up to 500 mm regionally, 272 mm in Colima, 155 mm in Manzanillo; CFE power 100% restored. The state also logged 73 fallen trees, 67 flood spots, 6 landslides and 11 school buildings damaged (9 in Manzanillo).","title":"Colima damage tally: 71 homes, 35 businesses damaged by Simon rains; no casualties"},{"confidence":"confirmed","event_time_ist":"Sunday night, Oct 11 (announced); Monday Oct 12 (in effect)","id":"simon-sinaloa-school-suspensions-oct12","image_urls":["https://watchers.news/wp-content/uploads/2026/10/Satellite-image-of-Hurricane-Simon-at-1040-UTC-on-October-12.-2026.webp"],"links":["http://primeranota.com.mx/cierran-escuelas-ante-el-paso-del-huracan-simon-sinaloa-jalisco-nayarit-y-colima-suspenden-clases/","https://rinoticias.com/2026/10/11/uas-suspende-clases-presenciales-en-siete-municipios-de-sinaloa-por-huracan-simon/","https://www.clarosports.com/actualidad/huracan-simon-frente-frio-mexico/"],"report_time_ist":"1:25 PM IST, Oct 13","report_time_pdt":"12:55 AM PDT, Oct 13","reported_at_utc":"2026-10-13T07:55:00Z","sentiment":{"civilians":"neutral","mexico_govt":"neutral"},"source_name":"MiBolsillo / Primera Nota / Claro Sports","source_url":"https://www.mibolsillo.com/noticias/oficial-y-confirmado-sinaloa-suspende-clases-en-siete-municipios-por-huracan-simon-20261011-0014.html","summary":"Interim Gov. Graciela Dominguez Nava suspended classes for both shifts Monday Oct 12 in seven southern Sinaloa municipalities — Mazatlan, Escuinapa, Rosario, Concordia, Cosala, Elota and San Ignacio — as Simon approached; the Autonomous University of Sinaloa (UAS) suspended its campuses in the same seven. Separately Monday: Nayarit suspended classes in 12 municipalities, Colima in 4 (Manzanillo, Tecoman, Armeria, Minatitlan, morning shift), and Baja California statewide under Rachel; Jalisco reopens schools Tuesday Oct 13.","title":"Sinaloa suspended classes in 7 southern municipalities Monday ahead of Simon"}],"report_time_ist":"1:25 PM IST, Oct 13","report_time_pdt":"12:55 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "2:05 AM PDT, Oct 13",
+  "report_time_ist": "2:35 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "isaias-ag-loan-program-oct12",
+      "event_time_ist": "Oct 12, 2026 (announcement date; exact time unknown)",
+      "title": "Florida opens interest-free disaster recovery loans for farmers hit by Isaias",
+      "summary": "Florida Agriculture Commissioner Wilton Simpson announced (Oct 12) interest-free loans of up to $500,000 for farmers, ranchers and aquaculture producers with Hurricane Isaias damage in 30 Florida counties (incl. Escambia, Santa Rosa, Okaloosa), covering fences, equipment, greenhouses, buildings, debris removal and aquaculture restocking. Producers urged to photograph damage and save receipts. Program sits in a revolving state loan fund ($75M from 2023 special session + $40M more in 2025).",
+      "source_name": "Central Florida Ag News",
+      "source_url": "https://centralfloridaagnews.com/florida-farmers-impacted-by-hurricane-isaias-can-apply-for-interest-free-loans/",
+      "links": [
+        "https://centralfloridaagnews.com/florida-farmers-impacted-by-hurricane-isaias-can-apply-for-interest-free-loans/",
+        "https://fox49.tv/news/local/florida-hurricane-recovery-gains-ground-70-of-power-restored-but-other-problems-persist"
+      ],
+      "image_urls": [
+        "https://www.electric.coop/wp-content/uploads/2026/10/chelco-2-1024x768.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "2:05 AM PDT, Oct 13",
+      "report_time_ist": "2:35 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T09:05:00Z",
+      "sentiment": {
+        "civilians": "positive",
+        "us_govt": "positive"
+      }
+    }
+  ]
+}

@@ -1,1 +1,70 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Poll published Oct 13, 2026; annual Governance poll conducted Sept 1-17, 2026","id":"gallup-party-image-advantage-oct13","image_urls":["https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"],"links":["https://politicalwire.com/2026/10/13/more-americans-view-democrats-favorably/"],"report_time_ist":"4:58 AM IST, Oct 14","report_time_pdt":"4:28 PM PDT, Oct 13","reported_at_utc":"2026-10-13T23:28:08Z","sentiment":{"democrats":"positive","republicans":"negative","trump":"negative"},"source_name":"Gallup (reported by Semafor/Political Wire)","source_url":"https://news.gallup.com/poll/715523/democrats-advantage-party-image-issues.aspx","summary":"Gallup's annual Governance poll finds the Democratic Party viewed favorably by 43% of Americans vs 35% for Republicans — an 8-point gap, above the 5-point long-run average. Democrats lead 44-33 on handling the nation's most important problem (a reversal from GOP +11 in 2022) and 51-37 on keeping the country prosperous, their largest edge since 2007. On protecting the U.S. from foreign threats, Democrats lead 46-42 — only the third time since 2002 the GOP has not led there. 59% call GOP views 'too extreme' vs 43% for Democrats. Independents drive the shift: 40% view Dems favorably vs 27% GOP; 50% of independents say Dems would keep the country prosperous vs 32% GOP. Gallup notes a majority still views the Democratic Party unfavorably overall.","title":"Gallup: Democrats now hold the advantage on party image and the economy"}],"report_time_ist":"4:58 AM IST, Oct 14","report_time_pdt":"4:28 PM PDT, Oct 13"}
+{
+ "report_time_pdt": "4:44 PM PDT, Oct 13",
+ "report_time_ist": "5:14 AM IST, Oct 14",
+ "items": [
+  {
+   "id": "ms-now-senate-ratings-kansas-minnesota-oct13",
+   "event_time_ist": "Ratings released Oct 13, 2026 (~12:54 PM IST, Oct 13)",
+   "title": "MS NOW shifts Kansas Senate to 'lean Republican,' Minnesota to 'lean Democratic' in new ratings",
+   "summary": "With three weeks to Election Day, MS NOW moved two formerly secure Senate seats into competitive territory: Kansas (Likely R -> Lean R) and Minnesota (Likely D -> Lean D). In Kansas, Democrat Adam Hamilton is neck-and-neck with incumbent Republican Sen. Roger Marshall - polls show them tied or Hamilton occasionally ahead in a state Trump carried by 16 points in 2024. The Senate Leadership Fund has reserved $8.2M+ in Kansas ads while pulling back from North Carolina, and VP JD Vance visited Kansas last month. RCP's polling average has the Kansas race a tie. Only MS NOW's own reporting plus republishers were found, so this is single-sourced.",
+   "source_name": "MS NOW (via ms.now)",
+   "source_url": "https://www.youtube.com/shorts/V0QNIJdD59s",
+   "links": [
+    "https://biztoc.com/x/37779cc0952686ae",
+    "https://news-usa.today/ms-now-shifts-kansas-senate-race-to-lean-republican-in-new-ratings/"
+   ],
+   "image_urls": [
+    "https://npr.brightspotcdn.com/dims4/default/205135d/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5c%2F93%2Fe79579fc45bb86aa6117a860d839%2Fphoto-collage-png1.png"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "4:44 PM PDT, Oct 13",
+   "report_time_ist": "5:14 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T23:44:42Z",
+   "sentiment": {
+    "republicans": "neutral",
+    "democrats": "neutral"
+   }
+  },
+  {
+   "id": "silver-bulletin-dummymander-analysis-oct13",
+   "event_time_ist": "Published Oct 13, 2026",
+   "title": "Silver Bulletin asks whether recent Republican gerrymanders have become 'dummymanders'",
+   "summary": "In its Oct 13 FLIPR forecast refresh, Silver Bulletin said the model has held steady for two weeks: Democrats remain strong House favorites and lead the polling averages of all six likeliest Senate tipping-point states (ME D+2.6, TX D+3.4, OH D+3.7, IA D+1.5, MI D+3.3, AK D+3.4) - with even Kansas at Dem +1.2. The same day, Silver Bulletin published a new post examining whether recent Republican gerrymanders have become 'dummymanders' - redrawn maps that backfire on the party that drew them. No second outlet has covered the post yet, so this is single-sourced.",
+   "source_name": "Silver Bulletin",
+   "source_url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+   "links": [],
+   "image_urls": [
+    "https://substack-post-media.s3.amazonaws.com/public/images/ee3e8011-02f9-4176-89bb-363c9d6cb2c5_1456x109.webp"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "4:44 PM PDT, Oct 13",
+   "report_time_ist": "5:14 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T23:44:42Z",
+   "sentiment": {
+    "democrats": "positive",
+    "republicans": "negative"
+   }
+  },
+  {
+   "id": "texas-voter-registration-backlog-lawsuit-oct13",
+   "event_time_ist": "Lawsuit filed last week; reported Oct 13, 2026 (~6:10 AM IST, Oct 13)",
+   "title": "Voting groups sue Texas over ~600,000 backlogged voter-registration applications",
+   "summary": "The League of Women Voters of Texas and MOVE Texas Civic Fund sued the Texas Secretary of State and the Department of Public Safety in Bexar County last week over a backlog of nearly 600,000 unprocessed online voter-registration applications, seeking a permanent injunction to fix processing before Nov. 3. The groups say the backlog violates a 2021 settlement guaranteeing voters can register when renewing a driver's license; DPS blamed a third-party vendor software glitch and says it fixed the issue Sept. 13. Texas early voting begins Oct 19, and the Senate race (Talarico vs. Paxton) is among the tightest in the country. The filing itself is single-sourced to Democracy Docket (wire/AP only covered the underlying Sept 23 backlog story).",
+   "source_name": "Democracy Docket",
+   "source_url": "https://www.democracydocket.com/news-alerts/texas-backlog-of-voter-registrations-needs-immediate-fix-voting-groups-say-in-lawsuit/",
+   "links": [
+    "https://990theanswer.com/news/national/state-error-in-texas-creates-huge-backlog-in-voter-registration-applications-as/09d7eba234cfdbc42a8ac17f2fdeae55"
+   ],
+   "image_urls": [
+    "https://www.democracydocket.com/wp-content/uploads/2026/10/AP26278719245977-1024x685.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "4:44 PM PDT, Oct 13",
+   "report_time_ist": "5:14 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T23:44:42Z",
+   "sentiment": {
+    "voters": "negative"
+   }
+  }
+ ]
+}

@@ -1,1 +1,31 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 12 (during court hours)","id":"nadeem-khan-delhi-hc-notice-oct12","image_urls":["https://www.livelaw.in/h-upload/2024/12/03/1500x900_574254-nadeem-khan-and-delhi-hc.webp"],"links":["https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-apcr-nadeem-khan-detention-protest-554224","https://maktoobmedia.com/post?id=116683&slug=how-can-you-enter-his-house-delhi-hc-questions-police-over-confinement-of-rights-activist-nadeem-khan","https://indialegallive.com/constitutional-law-news/courts-news/delhi-high-court-questions-police-over-alleged-confinement-of-activist-nadeem-khan-ahead-of-jantar-mantar-protest/"],"report_time_ist":"10:44 AM IST, Oct 13","report_time_pdt":"10:14 PM PDT, Oct 12","reported_at_utc":"2026-10-13T05:14:49Z","sentiment":{"courts":"positive","police_govt":"negative"},"source_name":"LiveLaw","source_url":"https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-apcr-nadeem-khan-detention-protest-554224","summary":"Delhi High Court bench of Acting CJ Nitin Wasudeo Sambre and Justice Sanjay Sharma issued notice to Delhi Police on APCR national secretary Nadeem Khan's plea alleging he was confined at the Jamaat-e-Islami Hind HQ (9:30 AM-5:30 PM on Sept 29) by Shaheen Bagh PS officers to keep him from a Jantar Mantar SIR/places-of-worship protest, with continued surveillance since. The bench orally asked 'How can you enter his house? ... Denying permission is your right. Show us where is in law.' Police counsel denied detention, saying officers only inquired and left at 5:30 PM. The court directed a status report within two weeks, recorded the SHO's statement that Khan will get no more police phone calls, and issued notice anyway after ASG Chetan Sharma argued it 'may be misconstrued.' Khan also challenges Delhi Police's undated prohibitory order banning gatherings of five or more across all of New Delhi District.","title":"Delhi HC issues notice to police over alleged Sept 29 confinement of APCR's Nadeem Khan ahead of Jantar Mantar SIR protest"}],"report_time_ist":"10:44 AM IST, Oct 13","report_time_pdt":"10:14 PM PDT, Oct 12"}
+{
+ "report_time_pdt": "10:51 PM PDT, Oct 12",
+ "report_time_ist": "11:21 AM IST, Oct 13",
+ "items": [
+  {
+   "id": "rahul-gandhi-high-tea-presser-oct13",
+   "event_time_ist": "invite sent Monday, Oct 12; joint presser + high tea 4:00 PM IST, Oct 13",
+   "title": "Rahul Gandhi invites INDIA bloc MPs, civil society and student groups for high tea Tuesday 4 PM; joint press conference before it",
+   "summary": "Rahul Gandhi has invited INDIA bloc MPs, civil society members and student organisations for high tea at his residence (5 Sunehri Bagh Road, New Delhi) at 4:00 PM IST Tuesday, Oct 13. A joint press conference of INDIA leaders will be held Tuesday afternoon before the tea, to discuss the joint protest strategy against 'vote chori' and the next phase of action against the EC, including pressing for CEC Gyanesh Kumar's resignation. Congress leader Abhishek Manu Singhvi is expected to address the press conference. Separately, CPIM's MA Baby says Congress told allies there will be NO large-scale demonstration in Delhi on Tuesday after the successful march and petition filing; TMC's Derek O'Brien notes festival-season plans, while Youth Congress and Seva Dal may hold protests in multiple states.",
+   "source_name": "PTI via reporterworldnews.com (invite details)",
+   "source_url": "https://reporterworldnews.com/news/india/2026/10/13/india-bloc-leaders-to-visit-rahul-gandhi-residence",
+   "links": [
+    "https://reporterworldnews.com/news/india/2026/10/13/india-bloc-leaders-to-visit-rahul-gandhi-residence",
+    "https://apnamatvchannel.com/india/after-protest-march-rahul-gandhi-invites-opposition-mps-for-high-tea-next-phase-of-action-against-ec-on-agenda/",
+    "https://news89.com/rahul-gandhi-calls-india-bloc-tea-meet-after-march-for-democracy/",
+    "https://www.thedailyjagran.com/lite/india/news/sir-protest-congress-rahul-gandhi-tea-meeting-press-conference-india-bloc-plans-petition-against-cec-gyanesh-kumar-delhi-protests-updates-10332498"
+   ],
+   "image_urls": [
+    "https://reporterworldnews.com/storage/gallery/2026/10/12/rahul-gandhi-cec-row.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:51 PM PDT, Oct 12",
+   "report_time_ist": "11:21 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T05:51:02Z",
+   "sentiment": {
+    "india_bloc": "positive",
+    "police_govt": "neutral"
+   }
+  }
+ ]
+}

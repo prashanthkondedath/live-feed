@@ -1,1 +1,55 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Early afternoon IST, Oct 13","id":"mamata-banerjee-leads-kolkata-anti-sir-march-oct13","image_urls":["https://cf-images.assettype.com/nationalherald%2F2025-11-04%2Fdbfm1w95%2Fmamata-sir.jpeg?rect=0%2C0%2C1022%2C575&auto=format%2Ccompress&fmt=webp&w=1200"],"links":["https://www.newspointapp.com/english/india/mamata-leads-tmc-anti-sir-stir-in-kolkata-suvendu-dares-cm-to-stop-exercise-siasat/articleshow/14504820604b3870b056f615dac983c959358a19","https://madhyamamonline.com/india/mamata-leads-tmc-rally-kolkata-against-sir-bengal-1464004"],"report_time_ist":"2:55 PM IST, Oct 13","report_time_pdt":"2:25 AM PDT, Oct 13","reported_at_utc":"2026-10-13T09:25:05Z","sentiment":{"bjp":"negative","india_bloc":"positive","police_govt":"negative"},"source_name":"Siasat via NewsPointApp","source_url":"https://www.newspointapp.com/english/india/mamata-leads-tmc-anti-sir-stir-in-kolkata-suvendu-dares-cm-to-stop-exercise-siasat/articleshow/14504820604b3870b056f615dac983c959358a19","summary":"West Bengal Chief Minister Mamata Banerjee personally led a massive ~4-km anti-SIR march through Kolkata on Tuesday afternoon — the march her TMC faction had announced for Rajabazar to Park Circus at ~2 PM — walking with a copy of the Indian Constitution, accompanied by TMC national general secretary Abhishek Banerjee and city religious/community leaders and celebrities. She accused the BJP and the Election Commission of colluding to disenfranchise two crore Bengal voters via SIR as 'silent, invisible rigging', mockingly called CEC Gyanesh Kumar 'kursi babu', and warned the Modi government's fall would be 'inevitable' if even one eligible voter is deleted. Counter-side: BJP's Suvendu Adhikari led a rival 'Parivartan Yatra' (Sodepur to Agarpara, 2 km), daring the TMC to stop the exercise and demanding every infiltrator be deported. Context: the SIR rollout formally began in Bengal the same day — 80,000+ booth-level officers, 16 lakh+ enumeration forms distributed on day one.","title":"Mamata Banerjee personally leads massive anti-SIR rally through Kolkata as Bengal's SIR rollout begins"},{"confidence":"single-sourced","event_time_ist":"Tuesday, Oct 13","id":"bengal-alleged-sir-panic-suicides-oct13","image_urls":[],"links":["https://www.newspointapp.com/english/india/mamata-leads-tmc-anti-sir-stir-in-kolkata-suvendu-dares-cm-to-stop-exercise-siasat/articleshow/14504820604b3870b056f615dac983c959358a19"],"report_time_ist":"2:55 PM IST, Oct 13","report_time_pdt":"2:25 AM PDT, Oct 13","reported_at_utc":"2026-10-13T09:25:05Z","sentiment":{"bjp":"negative","police_govt":"negative"},"source_name":"Siasat via NewsPointApp","source_url":"https://www.newspointapp.com/english/india/mamata-leads-tmc-anti-sir-stir-in-kolkata-suvendu-dares-cm-to-stop-exercise-siasat/articleshow/14504820604b3870b056f615dac983c959358a19","summary":"The same report says at least two deaths by suicide were reported in Bengal on Tuesday and linked by families to SIR panic: Jahir Mal of Khalisani, Uluberia (found hanging; family says he was under severe stress over a spelling error in an official document) and farmer Mohan Sheikh of Kandi (pesticide; family says his name was missing from the 2002 rolls and he feared deportation). Mamata Banerjee claimed seven people have died in connection with the exercise so far; Adhikari countered that the TMC is falsely linking deaths to derail the EC's process and said the CM should be held responsible for deaths from 'misplaced panic'. Single-sourced and uncorroborated — treat as unverified.","title":"Reports allege SIR-panic suicides in Bengal on Tuesday (unverified)"}],"report_time_ist":"2:55 PM IST, Oct 13","report_time_pdt":"2:25 AM PDT, Oct 13"}
+{
+ "report_time_pdt": "2:45 AM PDT, Oct 13",
+ "report_time_ist": "3:15 PM IST, Oct 13",
+ "items": [
+  {
+   "id": "four-firs-india-bloc-march-oct13",
+   "event_time_ist": "Tuesday, Oct 13",
+   "title": "Delhi Police filed four FIRs over Monday's INDIA bloc march to the Supreme Court",
+   "summary": "Delhi Police registered four FIRs in connection with the INDIA bloc's 'March for Democracy' to the Supreme Court, police sources said Tuesday. Cases were registered at Connaught Place, Tilak Marg (two FIRs), Mandir Marg, and Barakhamba police stations, all under BNSS Section 163; ANI separately reports the FIRs cite alleged barricade-breaking and graffiti on roads. Separately, Congress claimed on social media that 2.5 lakh people joined the march (unverified claim). Rahul Gandhi has invited INDIA bloc leaders, civil society members and student groups for a high tea at his residence at 4 PM Tuesday, with a joint press conference scheduled before it.",
+   "source_name": "IANS",
+   "source_url": "https://ianslive.in/delhi-police-register-multiple-firs-over-oppn-march-to-sc-detain-ashutosh-ranka-saurav-das-from-jantar-mantar--20261013094859",
+   "links": [
+    "https://hiindia.com/delhi-police-file-4-firs-over-india-bloc-march-to-sc-detain-ashutosh-ranka-saurav-das-from-jantar-mantar/",
+    "https://andhravilas.net/delhi-police-file-4-firs-over-india-bloc-march-to-sc-detain-ashutosh-ranka/",
+    "https://www.dailyprabhat.com/delhi-police-registers-firs-under-bnss-section-163-for-violation-during-opposition-protest/",
+    "https://townpost.net/2026/10/13/delhi-police-four-firs-india-bloc-march-supreme-court-jantar-mantar/"
+   ],
+   "image_urls": [
+    "https://cdn.pathanamthittamedia.com/wp-content/uploads/2026/07/cjp-pro-2.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "2:45 AM PDT, Oct 13",
+   "report_time_ist": "3:15 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:45:13Z",
+   "sentiment": {
+    "police_govt": "neutral",
+    "india_bloc": "negative"
+   }
+  },
+  {
+   "id": "jindal-contempt-plea-congress-kerala-cji-oct13",
+   "event_time_ist": "~2:14 PM IST, Oct 13",
+   "title": "Advocate Vineet Jindal urged CJI Surya Kant to consider suo motu contempt over deleted Congress Kerala post",
+   "summary": "Supreme Court advocate Vineet Jindal wrote to CJI Surya Kant seeking consideration of suo motu criminal contempt proceedings over a now-deleted X post by Congress Kerala that read: 'Dear Surya Kant, If law and order is not your domain, resign now. We will find your replacement who can handle it.' Jindal also asked the CJI to examine reported sloganeering and a demonstration inside the SC premises during Monday's petition filing by Rahul Gandhi and other INDIA bloc leaders, and to preserve CCTV footage, access-control logs and security deployment records. Separately, the Supreme Court Bar Association (SCBA) and the Supreme Court Advocates-on-Record Association (SCAORA) condemned statements calling for the CJI's resignation. When senior advocate Gaurav Bhatia sought to mention related matters on Tuesday, the CJI asked whether it was on the mentioning list and directed him to raise it the following day.",
+   "source_name": "IANS",
+   "source_url": "https://ianslive.in/sc-urged-to-initiate-suo-motu-contempt-action-over-post-targeting-cji-opposition-march--20261013120656",
+   "links": [
+    "https://dailyworld.in/breaking-news-/sc-urged-to-initiate-suo-motu-contempt-action-over-social-media-post-targeting-cji-india-bloc-protest-703447.html",
+    "https://www.ghanamma.com/2026/10/13/sc-lawyer-seeks-suo-motu-contempt-action-over-post-targeting-cji-india-bloc-protest/",
+    "https://www.nationpress.com/national/contempt-plea-over-congress-kerala-x-post-on-cji"
+   ],
+   "image_urls": [
+    "https://images.bhaskarassets.com/web2images/1884/2026/05/17/supremecourtindiausa-ezgifcom-webp-to-jpg-converte_1779013775.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "2:45 AM PDT, Oct 13",
+   "report_time_ist": "3:15 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:45:13Z",
+   "sentiment": {
+    "india_bloc": "negative",
+    "courts": "neutral"
+   }
+  }
+ ]
+}

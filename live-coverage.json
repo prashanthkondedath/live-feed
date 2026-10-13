@@ -371,21 +371,21 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T22:20:40Z",
+      "trend_updated_at_utc": "2026-10-13T23:36:32Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 67,
+        "items_in_window": 68,
         "sides": {
           "civilians": {
             "positive": 11,
-            "negative": 40,
+            "negative": 41,
             "neutral": 10,
             "overall": "negative"
           },
           "mexico_govt": {
             "positive": 6,
             "negative": 0,
-            "neutral": 27,
+            "neutral": 28,
             "overall": "neutral"
           },
           "us_govt": {
@@ -401,7 +401,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T22:20:40Z"
+        "updated_at_utc": "2026-10-13T23:36:32Z"
       },
       "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 drifting offshore with mainland Mexico hurricane/TS watches lifted (Advisory 26) and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
@@ -434,15 +434,15 @@
       ],
       "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-12T20:05:00Z",
-      "trend_direction": "rising",
+      "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 67,
+        "items_in_window": 68,
         "confirmed": 40,
-        "single-sourced": 27,
+        "single-sourced": 28,
         "unconfirmed": 0,
-        "confirmed_rate": 0.6,
-        "updated_at_utc": "2026-10-13T22:20:40Z"
+        "confirmed_rate": 0.59,
+        "updated_at_utc": "2026-10-13T23:36:32Z"
       },
       "phase": "intensifying"
     },
@@ -630,5 +630,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T23:28:52Z"
+  "updated_at_utc": "2026-10-13T23:36:32Z"
 }

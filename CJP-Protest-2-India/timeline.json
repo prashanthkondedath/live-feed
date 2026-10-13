@@ -5171,6 +5171,28 @@
    "report_time_ist": "12:23 AM IST, Oct 14",
    "reported_at_utc": "2026-10-13T18:53:25Z",
    "sentiment": {}
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 13 (exact time unconfirmed)",
+   "id": "dipke-cji-will-you-tell-modi-quip-oct13",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/12/template/image/Dipke-(1)-1791785248624.webp"
+   ],
+   "links": [
+    "https://kashmirpost.org/2026/10/cjp-leaders-detained-again-sc-hearing-protest-pleas-october-15/"
+   ],
+   "report_time_ist": "1:56 AM IST, Oct 14",
+   "report_time_pdt": "1:26 PM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T20:26:33Z",
+   "sentiment": {
+    "bjp": "negative",
+    "courts": "negative"
+   },
+   "source_name": "Hindustan Times",
+   "source_url": "",
+   "summary": "CJP founder Abhijeet Dipke publicly challenged CJI Surya Kant over remarks attributed to the CJI that law-and-order matters were outside his domain, asking: 'Will you tell Modi the same thing?' The quip, made on Tuesday, adds a direct political edge to the debate over the judiciary's response to the Delhi protest crackdown and SIR dispute — days after Congress Kerala's similar 'not your domain' post drew a contempt complaint. Corroborating outlets: Hindustan Times (Arya Mishra), Kashmir Post.",
+   "title": "'Will you tell Modi the same thing?': Dipke publicly challenges CJI Surya Kant over 'law and order not my domain' remark"
   }
  ]
 }

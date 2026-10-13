@@ -359,21 +359,21 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T21:07:24Z",
+      "trend_updated_at_utc": "2026-10-13T21:35:27Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 64,
+        "items_in_window": 65,
         "sides": {
           "civilians": {
             "positive": 11,
-            "negative": 37,
+            "negative": 38,
             "neutral": 10,
             "overall": "negative"
           },
           "mexico_govt": {
             "positive": 6,
             "negative": 0,
-            "neutral": 24,
+            "neutral": 25,
             "overall": "neutral"
           },
           "us_govt": {
@@ -389,7 +389,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T21:07:24Z"
+        "updated_at_utc": "2026-10-13T21:35:27Z"
       },
       "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon weakened to Category 1 off Mexico's Pacific coast with its warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
@@ -425,12 +425,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 64,
-        "confirmed": 37,
+        "items_in_window": 65,
+        "confirmed": 38,
         "single-sourced": 27,
         "unconfirmed": 0,
         "confirmed_rate": 0.58,
-        "updated_at_utc": "2026-10-13T21:07:24Z"
+        "updated_at_utc": "2026-10-13T21:35:27Z"
       },
       "phase": "intensifying"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T21:07:24Z"
+  "updated_at_utc": "2026-10-13T21:35:27Z"
 }

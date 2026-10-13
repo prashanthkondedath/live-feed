@@ -250,8 +250,33 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
+      "trend_updated_at_utc": "2026-10-13T18:49:57Z",
+      "sentiment_summary": {
+        "window": "7d",
+        "items_in_window": 39,
+        "sides": {
+          "us": {
+            "positive": 5,
+            "negative": 12,
+            "neutral": 8,
+            "overall": "negative"
+          },
+          "iran": {
+            "positive": 6,
+            "negative": 19,
+            "neutral": 8,
+            "overall": "negative"
+          },
+          "markets": {
+            "positive": 2,
+            "negative": 24,
+            "neutral": 3,
+            "overall": "negative"
+          }
+        },
+        "updated_at_utc": "2026-10-13T18:49:57Z"
+      }
     }
   ],
-  "updated_at_utc": "2026-10-13T18:49:55Z"
+  "updated_at_utc": "2026-10-13T18:49:57Z"
 }

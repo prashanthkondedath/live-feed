@@ -651,6 +651,162 @@
       "source_url": "https://en.sedaily.com/international/2026/10/13/saudi-led-coalition-says-it-downs-3-drones-over-northern",
       "summary": "Coalition spokesman Turki al-Malki said on X that Saudi forces shot down three drones over northern Riyadh on Tuesday, Oct 13; no attribution or damage detail given (also noted in Reuters' reporting). Same report adds: Houthi-run Al Masirah says coalition jets struck Saada province at least three times Tuesday morning after hitting northern/western areas overnight; Saree claims the Houthis downed a Saudi armed drone over Saada (unverified); and Yemen's government says Taiz clashes continued through the morning with fighter jets hitting rebel facilities nine times.",
       "title": "Coalition says it downed 3 drones over northern Riyadh on Tuesday; Saada hit overnight, Taiz fighting continues"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday evening, Oct 13, 2026 (Saudi local time)",
+      "id": "aramco-dhahran-hq-fire-oct13",
+      "image_urls": [
+        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+      ],
+      "links": [
+        "https://www.jfeed.com/news/houthi-attack-aramco-headquarters-dhahran-fire",
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "houthis": "positive",
+        "saudi_govt": "negative"
+      },
+      "source_name": "Associated Press / JFeed",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "The Saudi-led coalition said it downed three Houthi ballistic missiles and two drones aimed at Riyadh and Saudi Aramco's headquarters in Dhahran on Tuesday night; a source told Reuters the HQ was struck despite the interceptions. Loud explosions rang out near the complex, the building caught fire and an evacuation order was issued, with missile fragments coming down in a nearby residential area. Saudi Arabia's Ministry of Energy confirmed a 'limited fire' broke out in an administrative building in Aramco's Eastern Province compound and said no injuries were reported. This is the first officially confirmed fire at an Aramco facility in this escalation.",
+      "title": "Aramco HQ in Dhahran struck Tuesday night; limited fire in administrative building, no injuries, evacuation issued"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "trump-iran-blame-postelection-threat-oct13",
+      "image_urls": [
+        "https://www.yemenonline.info/media/main/news/1739004498019540700.png"
+      ],
+      "links": [
+        "https://www.newsmax.com/newsfront/trump-houthis-saudi-arabia/2026/10/13/id/1272624",
+        "https://www.washingtonexaminer.com/news/white-house/4764245/trump-houthis-drive-oil-prices-help-iran/",
+        "https://en.sedaily.com/international/2026/10/14/trump-says-houthis-attack-saudi-arabia-to-lift-oil-prices"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "houthis": "negative",
+        "us": "positive"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.newsmax.com/newsfront/trump-houthis-saudi-arabia/2026/10/13/id/1272624",
+      "summary": "President Trump posted on Truth Social that the Houthis are 'behaving very badly' and have emerged again 'probably at the behest of Iran,' accusing them of hitting Saudi Arabia 'purposefully trying to drive up Oil Prices' ahead of the Nov 3 US midterms, and warned: 'I will never forget!' — hinting at possible military action after the vote. Before departing the White House he told reporters the rebels were 'behaving very badly.' He also derided Iran as a 'Failing Nation' with 'No Navy, No Airforce, the World's Worst Economy, and 301% Inflation.'",
+      "title": "Trump blames Iran for Houthi attacks on Saudi Arabia, hints at military action after midterms"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "coalition-sanaa-strikes-tuesday-oct13",
+      "image_urls": [
+        "https://agsi.org/wp-content/uploads/2025/01/SanaaStrikes-487080440_705.jpg"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "Following through on the morning's evacuation warning for the Yemen Oil Company site, the Saudi-led coalition carried out new airstrikes on the Houthi-held Yemeni capital Sanaa on Tuesday, per Houthi-run Al Masirah and residents. Witnesses reported strong explosions hours after the Subaha fuel facility west of the city was struck. The Houthi oil company said its storage facilities were empty and the strike would not affect supplies; witnesses said lines of cars formed at some gas stations amid shortage fears.",
+      "title": "Coalition carries out airstrikes on Sanaa Tuesday after fuel-site evacuation warning"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "saudi-cabinet-consequences-warning-oct13",
+      "image_urls": [
+        "https://parliamentnews.co.uk/wp-content/uploads/430744-480x319.jpg"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "Saudi Arabia's Cabinet warned the Houthis on Tuesday that they would 'face consequences' for their repeated attacks on the kingdom, saying 'the Kingdom will not allow any threat to its security or to freedom of maritime navigation in the Red Sea and Bab al-Mandab Strait,' in a statement carried by state-owned Al-Ekhbariya television.",
+      "title": "Saudi Cabinet warns Houthis will 'face consequences' for repeated attacks"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "taiz-fighting-casualties-oct13",
+      "image_urls": [
+        "https://www.yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "civilians": "negative",
+        "houthis": "negative"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "Yemen's interior ministry said Tuesday that Houthi strikes on Taiz over the past day killed six people and injured 18 amid ongoing battles; a Saudi-backed commander said rebels had reached the edges of the city and some had entered it, with the fiercest fighting over the Kahboub mountains overlooking Bab al-Mandab. UN spokesman Stephane Dujarric said Tuesday the fighting is driving large-scale displacement, cooking gas is largely unavailable and food prices have reportedly risen about 50%.",
+      "title": "Taiz fighting intensifies: 6 killed, 18 injured in Houthi strikes over past day"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "airlines-ferry-planes-riyadh-oct13",
+      "image_urls": [
+        "https://dev.d46xmz47rctcf.amplifyapp.com/_next/image?url=https%3A%2F%2Farchive-files.aleqt.com%2Frbitem%2F2023%2F08%2F23%2F2249116-933732571.jpg&w=828&q=85"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "civilians": "negative"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "Airlines moved a number of their planes out of Riyadh on Tuesday on the advice of insurers and government officials because of the threat of additional Houthi attacks, transferring them to other airports in the country so they can keep flying passengers to their destinations, per Osprey Flight Solutions chief intelligence officer Matthew Borie. He called the move 'not abnormal' for conflict-zone situations.",
+      "title": "Airlines ferry aircraft out of Riyadh on insurers' and officials' advice"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026",
+      "id": "egypt-fm-iran-call-oct13",
+      "image_urls": [
+        "https://framerusercontent.com/images/zvXSxzc6q9GSc1vPEm1hJbCmdPE.jpeg?width=1000&height=550"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html"
+      ],
+      "report_time_ist": "3:53 AM IST, Oct 14",
+      "report_time_pdt": "3:23 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T22:23:48Z",
+      "sentiment": {
+        "civilians": "positive",
+        "houthis": "negative"
+      },
+      "source_name": "Associated Press",
+      "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
+      "summary": "Egyptian Foreign Minister Badr Abdelatty called Iran's Foreign Minister Abbas Araghchi on Tuesday, demanding the Houthis immediately halt attacks on Saudi Arabia — 'there is no justification for these attacks, and they cannot be accepted' — and urging diplomacy and a political solution to the Iran-US conflict to avert further escalation and instability, per the Egyptian readout.",
+      "title": "Egypt's FM tells Iran's FM the Houthis must halt attacks on Saudi Arabia immediately"
     }
   ]
 }

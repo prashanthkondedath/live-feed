@@ -542,7 +542,49 @@
         "updated_at_utc": "2026-10-13T20:30:49Z"
       },
       "phase": "standoff"
+    },
+    {
+      "id": "us-midterms-2026",
+      "title": "2026 US Midterm Elections",
+      "description": "Polls, early voting, key House/Senate/gubernatorial races, and campaign moves ahead of the Nov 3, 2026 US midterm elections.",
+      "location": "United States",
+      "folder": "US-Midterms-2026",
+      "status": "active",
+      "map_points": [
+        {
+          "latitude": 38.9072,
+          "longitude": -77.0369,
+          "label": "Washington, DC"
+        }
+      ],
+      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats lead the generic congressional ballot by 8-9 points and are strong favorites to retake the House; the Senate is competitive with Democrats narrowly ahead in tipping-point states (Maine, Texas, Ohio, Iowa, Michigan, Alaska); the GOP is in triage mode as Trump's net approval sits near -22 amid voter anger over the Iran war and cost of living.",
+      "watch_for": [
+        {
+          "event": "Election Day",
+          "date": "2026-11-03"
+        },
+        {
+          "event": "Final pre-election polls and forecast updates",
+          "date": null
+        },
+        {
+          "event": "Archive this tracker",
+          "date": "2026-11-04"
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Donald Trump",
+          "role": "President; called the midterms a referendum on his presidency"
+        },
+        {
+          "name": "James Talarico",
+          "role": "Democratic Senate candidate, Texas; leading the Trump-backed Republican in polls"
+        }
+      ],
+      "phase": "final-stretch",
+      "curation_updated_at_utc": "2026-10-13T22:54:50Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T22:43:02Z"
+  "updated_at_utc": "2026-10-13T22:54:50Z"
 }

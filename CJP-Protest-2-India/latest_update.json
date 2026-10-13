@@ -1,32 +1,26 @@
 {
- "report_time_pdt": "2:54 AM PDT, Oct 13",
- "report_time_ist": "3:24 PM IST, Oct 13",
- "items": [
-  {
-   "id": "mamata-old-list-demand-oct13",
-   "event_time_ist": "Tuesday, Oct 13 (time unknown)",
-   "title": "Mamata Banerjee demands elections on old voter rolls amid anti-SIR protest; BJP hits back",
-   "summary": "Mamata Banerjee said Tuesday that elections should be conducted using the existing electoral rolls until all eligible voters' names are included, amid the opposition's protest against CEC Gyanesh Kumar over alleged SIR irregularities: 'as long as their names are not included in the list, we think the election should be conducted using the old list.' Kerala CM V.D. Satheesan called the Rahul Gandhi-led march 'the biggest struggle... to protect democracy'; Kerala minister P.K. Kunhalikutty demanded the CEC's resignation. BJP counter: Assam BJP chief Dilip Saikia accused opposition parties of trying to create instability and targeting democratic institutions; Union minister Giriraj Singh said Congress questions ECI/EVMs only where it loses; BJP announced a counter public-awareness rally in Assam Tuesday.",
-   "source_name": "ANI (via syndication)",
-   "source_url": "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
-   "links": [
-    "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
-    "https://apnamatvchannel.com/india/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition/",
-    "https://www.indianeconomicobserver.com/news/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
-    "https://www.indiannewsnetwork.net/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
-    "https://legal.industriesnews.net/news/279370095/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition"
-   ],
-   "image_urls": [
-    "https://reporterworldnews.com/storage/resized/320x180/gallery/2026/10/13/tmc-protest-march.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "2:54 AM PDT, Oct 13",
-   "report_time_ist": "3:24 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T09:54:50Z",
-   "sentiment": {
-    "india_bloc": "positive",
-    "bjp": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "3:45 AM PDT, Oct 13",
+  "report_time_ist": "4:15 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "dipke-khel-samjho-ig-post-oct13",
+      "event_time_ist": "~4:11 PM IST, Oct 13",
+      "title": "Dipke posts 'Khel samjho!' — warns against conspiracy theories dividing CJP and INDIA bloc",
+      "summary": "Fresh text-image post from CJP founder Abhijeet Dipke (@abhijeetdipke, posted ~4:11 PM IST Oct 13; ~3.8K likes within minutes): argues that when CJP was allowed to protest, rumors spread that they were BJP plants, while the INDIA bloc's large Oct 12 march faced no similar crackdown; frames the differential treatment as a government tactic to pit movements against each other and sow mistrust; urges activists not to let conspiracy theories divide people; says the fight is against CEC Gyanesh Kumar and those protecting him.",
+      "source_name": "Abhijeet Dipke (Instagram @abhijeetdipke)",
+      "source_url": "https://www.instagram.com/p/DebnhqYvpNY/",
+      "links": [],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:45 AM PDT, Oct 13",
+      "report_time_ist": "4:15 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T10:45:01Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
+    }
+  ]
 }

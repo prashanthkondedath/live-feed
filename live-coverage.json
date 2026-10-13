@@ -373,7 +373,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:58:00Z",
+      "trend_updated_at_utc": "2026-10-13T19:08:56Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 39,
@@ -397,7 +397,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T18:58:00Z"
+        "updated_at_utc": "2026-10-13T19:08:56Z"
       },
       "current_summary": "The Strait of Hormuz remains contested with tanker transits all but stopped; Iran is reviewing the US reply to its seven conditions via Qatari and Pakistani mediation, IRGC mine claims stay unverified, the USS Theodore Roosevelt is deploying, and Brent holds around $105-106.",
       "watch_for": [
@@ -428,8 +428,9 @@
           "role": "Confirmed Oct 10 tanker strike inside the strait"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:06:56Z"
+  "updated_at_utc": "2026-10-13T19:08:56Z"
 }

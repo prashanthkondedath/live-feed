@@ -356,7 +356,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T19:04:04Z",
+      "trend_updated_at_utc": "2026-10-13T20:30:46Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 63,
@@ -386,7 +386,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T19:04:04Z"
+        "updated_at_utc": "2026-10-13T20:30:46Z"
       },
       "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded, and Puerto Vallarta airport reopened. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
@@ -418,7 +418,17 @@
         }
       ],
       "curation_updated_at_utc": "2026-10-13T20:04:19Z",
-      "started_at_utc": "2026-10-12T20:05:00Z"
+      "started_at_utc": "2026-10-12T20:05:00Z",
+      "trend_direction": "rising",
+      "verification": {
+        "window": "7d",
+        "items_in_window": 63,
+        "confirmed": 36,
+        "single-sourced": 27,
+        "unconfirmed": 0,
+        "confirmed_rate": 0.57,
+        "updated_at_utc": "2026-10-13T20:30:46Z"
+      }
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -507,5 +517,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T20:30:42Z"
+  "updated_at_utc": "2026-10-13T20:30:46Z"
 }

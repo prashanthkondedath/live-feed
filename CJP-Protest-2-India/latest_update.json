@@ -1,24 +1,65 @@
 {
-  "report_time_pdt": "11:15 PM PDT, Oct 12",
-  "report_time_ist": "11:45 AM IST, Oct 13",
+  "report_time_pdt": "11:33 PM PDT, Oct 12",
+  "report_time_ist": "12:03 PM IST, Oct 13",
   "items": [
     {
-      "id": "cjp-official-tiranga-defiance-posts-oct13",
-      "event_time_ist": "~10:46–11:19 AM IST, Oct 13",
-      "title": "Official @cockroachjantaparty post-burst after the morning re-detention",
-      "summary": "Three never-reported official-handle posts surfaced in this run's IG-CLI pull, all tied to the already-alerted Tuesday-morning gate-climb re-detention of Das/Ranka/Shinde: (1) image post 'No one can stop us from waving the Tiranga at Jantar Mantar!' (~60K likes); (2) reel 'We are here to Reclaim our rights! Gyanesh Kumar must Go!' (~136K likes); (3) reel 'You cannot denotify the resistance!' (~67K likes). Missed by the 06:09Z run (its CLI leg returned no output). Defiance restatement; no new facts beyond the already-alerted reclaim/re-detention arc. No second outlet covers these specific posts -> single-sourced.",
-      "source_name": "Instagram @cockroachjantaparty (official)",
-      "source_url": "https://www.instagram.com/p/DebF7LQzFF7/",
+      "id": "tmc-kolkata-march-tue-oct13",
+      "event_time_ist": "~2:00 PM IST, Oct 13",
+      "title": "Mamata-faction TMC calls 'massive' Kolkata march Tuesday 2 PM demanding CEC resignation",
+      "summary": "The Mamata Banerjee faction of the Trinamool Congress announced a 'massive' protest march in Kolkata on Tuesday, Oct 13 (Rajabazar to Park Circus, starts ~2:00 PM IST), with the primary demand being CEC Gyanesh Kumar's resignation over the SIR; the march also protests the reported detention of Mamata Banerjee in Delhi and what the party calls 'oppression' of opposition and new-generation protesters. Party spokesperson Kunal Ghosh confirmed he will join and that student/youth wings organised it; Mamata Banerjee's presence is tentative (she was still in Delhi Monday) and Ghosh said police permission was uncertain. BJP countered: CM Suvendu Adhikari termed the Delhi movement a 'deep state conspiracy' that would 'achieve nothing.'",
+      "source_name": "The Times of Bengal",
+      "source_url": "https://www.thetimesofbengal.com/general/mamata-aitc-planning-massive-protest-march-in-kolkata-against-centre-election-commission-today/",
+      "links": [
+        "https://www.nationpress.com/national/tmcs-kolkata-rally-mamata-may-lead-cec-protest",
+        "https://hiindia.com/trinamool-to-stage-rally-in-kolkata-tomorrow-on-cec-issue-mamata-banerjee-likely-to-lead/"
+      ],
+      "image_urls": [
+        "https://reporterworldnews.com/storage/resized/320x180/gallery/2026/10/13/tmc-protest-march.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:33 PM PDT, Oct 12",
+      "report_time_ist": "12:03 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T06:33:00Z",
+      "sentiment": {
+        "india_bloc": "positive",
+        "police_govt": "negative",
+        "bjp": "negative"
+      }
+    },
+    {
+      "id": "nagpur-lawyers-students-protest-oct12",
+      "event_time_ist": "Monday, Oct 12",
+      "title": "Lawyers and student organisations stage separate demonstrations in Nagpur against Delhi mass detentions",
+      "summary": "Lawyers and student organisations staged separate demonstrations in Nagpur on Monday, Oct 12, against the mass detentions during the Delhi protests seeking CEC Gyanesh Kumar's resignation; advocates demonstrated around the Nagpur District and Sessions Court in solidarity with lawyers allegedly illegally detained in the national capital. First surfaced Tuesday morning in a PTI line on the reporterworldnews live blog; no second outlet coverage found yet (watch for corroboration).",
+      "source_name": "reporterworldnews.com (PTI)",
+      "source_url": "",
+      "links": [],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:33 PM PDT, Oct 12",
+      "report_time_ist": "12:03 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T06:33:00Z",
+      "sentiment": {
+        "police_govt": "negative"
+      }
+    },
+    {
+      "id": "cji-lawyer-peaceful-protest-remark-oct12",
+      "event_time_ist": "Monday, Oct 12",
+      "title": "CJI Surya Kant: 'every lawyer has the right to be a part of peaceful protests'",
+      "summary": "During a mentioning before a CJI-led bench on Monday, Senior Advocate Gopal Sankaranarayanan alleged lawyers had been subjected to police action during the Delhi CEC protests, no Section 163 BNSS order was available in the public domain, and senior advocates had been dragged through the streets, asking the bench to ask police to exercise restraint and to take the matter up Tuesday with the connected CEC-protest matter. CJI Surya Kant said: 'every lawyer, every member of the bar has the right to be a part of the peaceful protests, wherever the identified locations are there.'",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/every-lawyer-has-right-to-be-part-of-peaceful-protests-cji-surya-kant-amid-protests-against-cec-gyanesh-kumar-554209",
       "links": [],
       "image_urls": [
-        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
+        "https://www.livelaw.in/h-upload/2026/10/12/705906-cji-surya-kant-gopal-sankaranarayanan.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:15 PM PDT, Oct 12",
-      "report_time_ist": "11:45 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T06:15:16Z",
+      "report_time_pdt": "11:33 PM PDT, Oct 12",
+      "report_time_ist": "12:03 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T06:33:00Z",
       "sentiment": {
-        "cjp_protesters": "positive",
+        "courts": "neutral",
         "police_govt": "negative"
       }
     }

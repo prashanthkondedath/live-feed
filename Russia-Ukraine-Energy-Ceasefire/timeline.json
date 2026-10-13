@@ -374,6 +374,53 @@
       "source_url": "https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
       "summary": "On Monday Oct 12, Deputy PM Alexander Novak told Rossiya-24 that Russia can return diesel exports to 3.0-3.5M metric tons per month by year-end - above the roughly 4.8M-ton schedule Trump outlined Friday under the US-Russia deal - saying global diesel prices had already fallen about 5-6%. He said Moscow is discussing supplies with Washington through energy departments and companies, and noted the government cleared 500,000 tons of diesel for export after the Friday Putin-Trump call.",
       "title": "Russia says diesel exports could exceed Trump's outlined volumes; Novak targets 3-3.5M tons/month by year-end"
+    },
+    {
+      "id": "merz-diesel-deal-out-of-the-question-oct12",
+      "event_time_ist": "Oct 12, 2026 (afternoon Berlin time)",
+      "title": "Merz: Trump's Russian diesel deal 'out of the question' for Europe",
+      "summary": "German Chancellor Friedrich Merz said at a Berlin press conference Monday that the US-brokered arrangement for Russian diesel exports is 'out of the question' for Germany and Europe; Berlin will keep its sanctions on Moscow and continue supporting Ukraine. Merz argued Russia negotiates 'seriously' only under pressure, noted Russia kept hitting Ukraine's civilian energy infrastructure after Trump's 'energy ceasefire' claim, and said EU leaders will coordinate strategy at the Brussels summit Thursday-Friday.",
+      "source_name": "Xinhua",
+      "source_url": "https://www.belgiumnews.net/news/279368637/1st-ld-writethru-diesel-deal-with-russia-out-of-the-question-merz",
+      "links": [
+        "https://www.newspointapp.com/english/trending/diesel-deal-with-russia-out-of-the-question-merz-ianslive/articleshow/145048201784976cc7a1a3afae450ad6cfc9b1ed",
+        "https://www.youtube.com/watch?v=sr2QoPkn_kQ"
+      ],
+      "image_urls": [
+        "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:36 AM PDT, Oct 13",
+      "report_time_ist": "4:06 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T10:36:00Z",
+      "sentiment": {
+        "eu": "positive",
+        "us": "negative",
+        "russia": "negative"
+      }
+    },
+    {
+      "id": "merz-zelensky-call-russia-ceasefire-responsibility-oct12",
+      "event_time_ist": "Evening, Oct 12, 2026",
+      "title": "Merz-Zelensky call: responsibility for energy ceasefire 'rests with Russia'",
+      "summary": "German Chancellor Friedrich Merz held a telephone call with Ukrainian President Volodymyr Zelensky on Monday evening. Zelensky briefed him on the weekend's massive Russian aerial attacks on civilian areas and energy infrastructure; Merz reaffirmed Germany's solidarity, and both agreed the responsibility for establishing a ceasefire over all energy infrastructure now rests with Russia. They also agreed to keep coordinating closely with European and transatlantic partners on peace efforts.",
+      "source_name": "German government (spokesman Stefan Kornelius) via Osna.FM",
+      "source_url": "https://news.osna.fm/?p=67605",
+      "links": [
+        "https://www.fananews.com/language/en/german-chancellor-ukrainian-president-say-russia-must-agree-to-energy-ceasefire/"
+      ],
+      "image_urls": [
+        "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:36 AM PDT, Oct 13",
+      "report_time_ist": "4:06 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T10:36:00Z",
+      "sentiment": {
+        "ukraine": "positive",
+        "eu": "positive",
+        "russia": "negative"
+      }
     }
   ]
 }

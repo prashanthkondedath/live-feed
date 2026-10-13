@@ -1,1 +1,31 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Tuesday, Oct 13 (exact release hour unreported)","id":"hindu-raksha-dal-released-garlanded-oct13","image_urls":[],"links":["https://www.airnews.in/articles/d3b9be9396-hindu-raksha-dal-worker-released-garlanded-after-jantar-mantar-protest-assault"],"report_time_ist":"1:26 PM IST, Oct 13","report_time_pdt":"12:56 AM PDT, Oct 13","reported_at_utc":"2026-10-13T07:56:05Z","sentiment":{"cjp_protesters":"negative","police_govt":"negative"},"source_name":"airnews.in","source_url":"https://www.airnews.in/articles/d3b9be9396-hindu-raksha-dal-worker-released-garlanded-after-jantar-mantar-protest-assault","summary":"Delhi Police on Tuesday released the four Hindu Raksha Dal workers it had arrested ~48 hours earlier for the Oct 10 DDU Marg assault on protesters (videos showed them beating a young man and dragging a woman across the street; police had acted suo motu). A viral clip of the release shows supporters — including Hindu Raksha Dal president Pinki Chaudhary — garlanding one accused with flowers, who shouted that 'the cockroaches will be dealt with in the same way again.' Congress accused the state of shielding 'RSS-BJP goons,' citing the police's inaction during the original assault. Lands on the day the Delhi HC hears the hooligans/NSUI plea on attacks against protesters.","title":"Delhi Police releases the four Hindu Raksha Dal men arrested for the Oct-10 assault on protesters; supporters garland them"}],"report_time_ist":"1:26 PM IST, Oct 13","report_time_pdt":"12:56 AM PDT, Oct 13"}
+{
+ "report_time_pdt": "1:25 AM PDT, Oct 13",
+ "report_time_ist": "1:55 PM IST, Oct 13",
+ "items": [
+  {
+   "id": "jindal-contempt-complaint-cji-oct13",
+   "event_time_ist": "~morning IST, Oct 13",
+   "title": "SC lawyer seeks suo motu contempt over Congress Kerala's deleted X post targeting CJI",
+   "summary": "Advocate Vineet Jindal wrote to CJI Surya Kant seeking consideration of suo motu criminal contempt proceedings over a now-deleted Congress Kerala X post — \"Dear Surya Kant, If law and order is not your domain, resign now. We will find your replacement who can handle it\" — and examination of the reported demonstration/slogan-shouting inside SC premises during the INDIA bloc petition filing (Diary No. 64196/2026), seeking preservation of CCTV footage, access-control logs and security deployment records. KPCC president Sunny Joseph removed the staffer responsible, saying the post was made without KPCC leadership's knowledge; Union Minister Kiren Rijiju slammed the Congress over it. When senior advocate Gaurav Bhatia mentioned the matter Tuesday, the CJI said \"Just mention tomorrow\" — no proceedings initiated as of Oct 13. SCBA and SCAORA condemned calls for the CJI's resignation.",
+   "source_name": "IANS",
+   "source_url": "https://ianslive.in/sc-urged-to-initiate-suo-motu-contempt-action-over-post-targeting-cji-opposition-march--20261013120656",
+   "links": [
+    "https://sambadenglish.com/politics/sc-lawyer-seeks-suo-motu-contempt-proceedings-over-congress-keralas-deleted-post-targeting-cji-12671309",
+    "https://www.nationpress.com/national/contempt-plea-over-congress-kerala-x-post-on-cji",
+    "https://mumbaipress.com/200-people-detained-in-delhi-ahead-of-cjp-jantar-mantar-protest/"
+   ],
+   "image_urls": [
+    "https://www.livelaw.in/h-upload/2022/06/27/750x450_423545-justice-surya-kant-and-sc.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "1:25 AM PDT, Oct 13",
+   "report_time_ist": "1:55 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T08:25:24Z",
+   "sentiment": {
+    "courts": "negative",
+    "india_bloc": "negative",
+    "bjp": "positive"
+   }
+  }
+ ]
+}

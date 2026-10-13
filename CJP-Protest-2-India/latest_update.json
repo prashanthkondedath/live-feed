@@ -1,30 +1,53 @@
 {
- "report_time_pdt": "11:44 PM PDT, Oct 12",
- "report_time_ist": "12:14 PM IST, Oct 13",
- "items": [
-  {
-   "id": "dipke-hingoli-presser-redetention-reaction-oct13",
-   "event_time_ist": "~11:30 AM IST, Oct 13",
-   "title": "Dipke breaks silence from Hingoli on the morning re-detention: 'hoisting the flag is not a crime'",
-   "summary": "CJP founder Abhijeet Dipke gave a press interaction to reporters in Hingoli, Maharashtra on Tuesday morning, his first on-camera statement since Delhi Police re-detained co-conveners Saurav Das and Ashutosh Ranka (and Ajinkya Shinde) for climbing the Jantar Mantar gate with the tricolour. Dipke asked 'since when did hoisting the national flag become a crime', called anyone who treats flag-hoisting as a violation a 'deshdrohi' (traitor), described the action as the biggest example of a dictatorial mentality, declared Jantar Mantar belongs to all 140 crore Indians, and vowed they will continue to hoist the flag there until CEC Gyanesh Kumar resigns - closing with a prediction of escalation: 'Now, there will be movements across the entire country, and there will be movements throughout Delhi.' Corroborated by The Hindu (PTI video), IANS and Deccan Chronicle.",
-   "source_name": "The Hindu (PTI video)",
-   "source_url": "https://www.instagram.com/reel/DebG551CsbR/",
-   "links": [
-    "https://www.instagram.com/reel/DebKuz3igJU/",
-    "https://www.instagram.com/reel/DebKANlR2sj/"
-   ],
-   "image_urls": [
-    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "11:44 PM PDT, Oct 12",
-   "report_time_ist": "12:14 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T06:44:43Z",
-   "sentiment": {
-    "cjp_protesters": "positive",
-    "police_govt": "negative",
-    "bjp": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "12:05 AM PDT, Oct 13",
+  "report_time_ist": "12:35 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "fadnavis-paid-content-jantar-mantar-claim-oct12",
+      "event_time_ist": "Oct 12, time unreported",
+      "title": "Fadnavis alleges paid, possibly foreign, money boosted Jantar Mantar protest content",
+      "summary": "Maharashtra CM Devendra Fadnavis (speaking Oct 12) claimed money was given to boost content at Jantar Mantar, possibly from foreign sources, and pointed to past agitations where social media algorithms were manipulated to spread chaos — while accusing the INDIA bloc/protesters of targeting constitutional bodies and backing the CJI's stance.",
+      "source_name": "BBC News Marathi (verified IG graphic)",
+      "source_url": "https://www.instagram.com/reel/DebKP0LFYH2/",
+      "links": [
+        "https://www.instagram.com/reel/DebKP0LFYH2/",
+        "https://mumbaipress.com/cm-fadnavis-criticises-protesters-for-targeting-constitutional-bodies-backs-cjis-stance/"
+      ],
+      "image_urls": [
+        "https://mumbaipress.com/wp-content/uploads/2026/10/Untitled-20-10.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:05 AM PDT, Oct 13",
+      "report_time_ist": "12:35 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:05:07Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "india_bloc": "negative",
+        "courts": "positive",
+        "bjp": "positive"
+      }
+    },
+    {
+      "id": "dipke-rebuttal-fadnavis-foreign-money-oct13",
+      "event_time_ist": "Oct 13, reported ~11:56 AM IST",
+      "title": "Dipke dares Fadnavis: act through police, ED, CBI and jail those responsible",
+      "summary": "CJP founder Abhijeet Dipke responded (Oct 13, PTI footage) to Fadnavis's paid/foreign-money claim about Jantar Mantar protest content, asking what Fadnavis was waiting for and daring him to have the police, ED and CBI take action and jail whoever is responsible.",
+      "source_name": "BBC News Marathi (verified IG graphic)",
+      "source_url": "https://www.instagram.com/reel/DebKP0LFYH2/",
+      "links": [
+        "https://www.instagram.com/reel/DebKP0LFYH2/"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:05 AM PDT, Oct 13",
+      "report_time_ist": "12:35 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:05:07Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "bjp": "negative"
+      }
+    }
+  ]
 }

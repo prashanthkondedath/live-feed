@@ -15,10 +15,10 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T21:56:02Z",
+      "trend_updated_at_utc": "2026-10-13T22:06:31Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 228,
+        "items_in_window": 229,
         "sides": {
           "cjp_protesters": {
             "positive": 85,
@@ -29,19 +29,19 @@
           "police_govt": {
             "positive": 8,
             "negative": 111,
-            "neutral": 20,
+            "neutral": 21,
             "overall": "negative"
           },
           "india_bloc": {
             "positive": 50,
-            "negative": 22,
+            "negative": 23,
             "neutral": 6,
             "overall": "positive"
           },
           "courts": {
             "positive": 9,
             "negative": 3,
-            "neutral": 34,
+            "neutral": 35,
             "overall": "neutral"
           },
           "bjp": {
@@ -51,7 +51,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T21:56:02Z"
+        "updated_at_utc": "2026-10-13T22:06:31Z"
       },
       "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police instead registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification and proposed an early-November Ramlila Maidan rally. CJP's official handle claimed Ranka, Das and Shinde were 'illegally kidnapped' for 14+ hours, posting a photo from inside Jaffarpur Kalan police station before deleting the post within an hour; founder Abhijeet Dipke is expected in Delhi on Oct 14.",
       "watch_for": [
@@ -107,12 +107,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 228,
-        "confirmed": 82,
+        "items_in_window": 229,
+        "confirmed": 83,
         "single-sourced": 138,
         "unconfirmed": 8,
         "confirmed_rate": 0.36,
-        "updated_at_utc": "2026-10-13T21:56:02Z"
+        "updated_at_utc": "2026-10-13T22:06:31Z"
       },
       "phase": "standoff"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T21:56:02Z"
+  "updated_at_utc": "2026-10-13T22:06:31Z"
 }

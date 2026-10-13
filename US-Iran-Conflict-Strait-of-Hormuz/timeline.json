@@ -1,467 +1,531 @@
 {
-  "items": [
-    {
-      "id": "pentagon-surges-third-carrier",
-      "event_time_ist": "Oct 2-3, 2026 (reported; ET)",
-      "title": "Pentagon surges a third carrier and 10,000+ troops toward the Mideast",
-      "summary": "The USS Theodore Roosevelt sailed from San Diego for the Middle East, giving the US the potential for three carrier strike groups in the region (first time since the 2003 Iraq invasion); the USS Makin Island group (2,200 Marines) also deployed, with USS Boxer already near Hormuz. Axios separately reported two extra Patriot batteries positioned in Saudi Arabia and Qatar to protect oil/gas facilities.",
-      "source_name": "Bloomberg via gcaptain; Axios via ANI",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/01/29/4336503-uss-theodore-roosevelt-1.jpg",
-        "https://dailygulfnews.com/wp-content/uploads/2026/02/image-1771014602-780x470.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-03T12:00:00Z",
-      "sentiment": {
-        "us": "neutral",
-        "iran": "negative",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "tanker-attacks-peak-week",
-      "event_time_ist": "Week of Sep 28 - Oct 5, 2026 (reported Oct 7)",
-      "title": "Tanker attacks in Hormuz hit their highest weekly level since the war began",
-      "summary": "Reuters reported at least 12 attacks, attempted attacks, or harassment incidents hit oil, LNG, and LPG tankers around Hormuz in the week of Sep 28 - Oct 5 — the most in any week since the war began Feb 28. The US Navy-led JMIC said Iran's actions show 'intent to assert presence along key transit lanes.'",
-      "source_name": "Reuters (via The Business Standard)",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://object.pomegra.io/public/fro-nat-dht-lead-2026-as-hormuz-attacks-escalate.webp",
-        "https://english.capitalnewspoint.com/wp-content/uploads/2026/05/949641_61502179.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-07T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "positive",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "atlantic-pre-midterm-strike-options",
-      "event_time_ist": "Oct 7, 2026 (published; ET)",
-      "title": "Atlantic: White House asked Pentagon for pre-midterm Iran strike options",
-      "summary": "The Atlantic reported (citing two administration officials) that the White House directed the Pentagon to develop limited Iran strike options usable before the Nov 3 midterms, with bigger post-election options also under discussion. Axios separately reported CENTCOM was told to prepare for a possible resumption of major combat. Advocates reportedly conceded limited strikes would not reopen Hormuz or lower gas prices pre-election.",
-      "source_name": "The Atlantic; Axios",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2604/1001820/DOD_111612908.0000900/2000w_q95.jpg"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-07T12:00:00Z",
-      "sentiment": {
-        "us": "neutral",
-        "iran": "negative",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "naqdi-hormuz-unauthorized-routes",
-      "event_time_ist": "Oct 7, 2026 (Iran time)",
-      "title": "IRGC adviser: Iran will 'soon' close 'unauthorized routes' in Hormuz",
-      "summary": "IRGC commander adviser Mohammad-Reza Naqdi said Iran's armed forces fully control the strait, that it stays closed until Iran's 'legitimate' demands are met, and that 'passages created by violators through the explosion or destruction of some rocky routes... will soon be closed.' He added Iran's weapon ranges are capped only by policy decisions and can be extended whenever authorized.",
-      "source_name": "UNB via TBS News; ScanX News",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://troopinsight.com/wp-content/uploads/2026/04/strait-of-hormuz-satellite-view-scaled.webp",
-        "https://image.idn.media/post/20260816/selat-hormuz_9feac4fd-4827-4822-a38c-05bae99dfc65.jpg"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-07T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "positive",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "hegseth-lincoln-visit-combat-stats",
-      "event_time_ist": "Oct 7, 2026 (ET)",
-      "title": "Hegseth visits USS Lincoln, releases Iran-war combat stats",
-      "summary": "Defense Secretary Pete Hegseth flew to the USS Abraham Lincoln, presented a Presidential Unit Citation from Trump, and disclosed the strike group's Iran-war tally: 64 Iranian warships sunk, 21 anti-ship cruise missiles destroyed, 3,693 combat sorties, 450 Tomahawk launches, 1.37M lbs of ordnance. The Navy confirmed 8 suicide attempts (no deaths) across the group during a 264-day stretch without a port call.",
-      "source_name": "Reuters; AP",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-226.jpg",
-        "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-07T12:00:00Z",
-      "sentiment": {
-        "us": "positive",
-        "iran": "negative",
-        "markets": "neutral"
-      }
-    },
-    {
-      "id": "lincoln-returns-san-diego",
-      "event_time_ist": "Oct 8, 2026 (EDT)",
-      "title": "USS Lincoln returns to San Diego after record 321-day deployment",
-      "summary": "USS Abraham Lincoln docked at San Diego after 321 days deployed, including 264-265 uninterrupted days at sea (a modern Navy record), spent supporting the Iran war after starting in the Indo-Pacific. It is the second record-length carrier return of the war (USS Gerald R. Ford returned in May after 326 days).",
-      "source_name": "AP (WAMC); NRI Page",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-208.jpg",
-        "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-08T12:00:00Z",
-      "sentiment": {
-        "us": "neutral",
-        "iran": "neutral",
-        "markets": "neutral"
-      }
-    },
-    {
-      "id": "trump-rules-out-pre-midterm-strikes",
-      "event_time_ist": "Oct 8, 2026 (ET)",
-      "title": "Trump rules out striking Iran before the Nov 3 midterms",
-      "summary": "In a Truth Social post, Trump said the US 'will not be attacking Iran at any time prior to the Midterm Elections,' while claiming oil is flowing in record volumes through Hormuz (22M bbl 'last night alone') and that the blockade remains 'in full force and effect.' He said talks with Iran were 'productive.' Analysts noted his Hormuz flow claim is disputed.",
-      "source_name": "USA Today; Truth Social",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://anewz.tv/data/images/2026-04-02/26544_2026-04-02t015604z-1972436967-rc2pgka6wfv6-rtrmadp-3-iran-crisis-trump-address_f.JPG?t=1779974213"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-08T12:00:00Z",
-      "sentiment": {
-        "us": "positive",
-        "iran": "neutral",
-        "markets": "positive"
-      }
-    },
-    {
-      "id": "eslami-enrichment-indispensable",
-      "event_time_ist": "Oct 8, 2026 (primary; reinforced Oct 11)",
-      "title": "Iran's nuclear chief: enrichment 'indispensable,' won't be surrendered",
-      "summary": "AEOI head Mohammad Eslami called uranium enrichment 'an indispensable part' of the nuclear process and dismissed renewed US demands — VP Vance had said Iran must make 'meaningful' enrichment reductions as a war precondition — as 'a mere bunch of lies aimed at deception.' On Oct 11 he added Iran will not give up nuclear technology under foreign pressure. AEOI spokesman Kamalvandi said Iran would secure its interests 'through diplomacy or on the battlefield.'",
-      "source_name": "PressTV; devdiscourse",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://www.studentnewsdaily.com/wp-content/uploads/2021/04/natanz-iran-nuclear-site.jpg"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-08T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "positive",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "us-sanctions-17-vessels",
-      "event_time_ist": "Oct 8, 2026 (reported Oct 9; ET)",
-      "title": "US imposes fresh sanctions on 17 vessels moving Iranian crude",
-      "summary": "The US imposed new sanctions on individuals, networks, and 17 vessels transporting Iranian crude, oil products, and petrochemicals — continuing economic pressure alongside the naval blockade, even as Trump paused strikes.",
-      "source_name": "Reuters (energy desk)",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://regtechtimes.com/wp-content/uploads/2026/02/1200675-2026-02-07T113450.044.png",
-        "https://www.libyanexpress.com/wp-content/uploads/2025/10/IMG_1411-800x450.jpeg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-09T02:20:00Z",
-      "sentiment": {
-        "us": "positive",
-        "iran": "negative",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "ukmto-tanker-struck-oct10",
-      "event_time_ist": "Oct 10, 2026, 19:20 UTC (event)",
-      "title": "UKMTO: outbound tanker struck by projectile inside Hormuz",
-      "summary": "UKMTO reported that the master of an outbound tanker in the Strait of Hormuz was hit on the port side by an unknown projectile, causing a fire; crew safe. The same day, masters near Ras Al Khaimah (UAE) reported being ordered off anchorages via VHF broadcast. Authorities are investigating.",
-      "source_name": "UKMTO via DefconLevel; Eagle Intel maritime desk",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://img.ien.com/files/base/indm/ien/image/2019/06/Gulf_Tanker_Attack_AP.5d0b960c2a195.png?auto=format%2Ccompress&fit=crop&h=432&q=70&rect=0%2C53%2C1024%2C576&w=768",
-        "https://www.dmnsa.com/wp-content/plugins/wp-o-matic/cache/7f5714efb8_ddaecd438b48e663779c434812de9493.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-10T19:20:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "neutral",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "irgc-mine-claims-three-tankers",
-      "event_time_ist": "Oct 10-12, 2026 (claimed; Iran time)",
-      "title": "IRGC Navy claims three tankers struck naval mines on 'unauthorized routes'",
-      "summary": "The IRGC Navy said three crude supertankers struck naval mines while attempting to exit Hormuz via unauthorized routes with navigation systems switched off — one each on Oct 10, Oct 11, and Oct 12 morning, all engulfed in flames. It warned any vessel cooperating with US forces or switching off AIS would be treated as 'hostile' and face a 'decisive response.' Vessel names and nationalities were not independently confirmed.",
-      "source_name": "IRGC Navy via PressTV/Tasnim; Anadolu Ajansi",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg",
-        "https://i0.wp.com/heisenbergreport.com/wp-content/uploads/2026/03/IraqTankerFireMar2026.png?fit=1152%2C665&ssl=1"
-      ],
-      "confidence": "unconfirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "positive",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "petro-dolphin-drone-sohar",
-      "event_time_ist": "Oct 11, 2026 (Oman/IST)",
-      "title": "MT Petro Dolphin drone attack at Sohar (Oman): 2 Indian seafarers missing",
-      "summary": "MT Petro Dolphin was hit by a drone at Sohar anchorage, Oman; of 11 Indian crew, 9 were rescued and 2 remain missing. India's MEA condemned the attacks; the Indian embassy in Muscat is coordinating with Omani authorities. Separately, MT Valthera (Marshall Islands-flagged) was struck by an unknown projectile near Hormuz, caught fire, with its 11 Indian crew reported safe.",
-      "source_name": "Indian MEA; UKMTO; Forbes Europe/Bloomberg",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://publisher.tbsnews.net/bangla/sites/default/files/styles/big_3/public/images/2026/03/10/tanker_at_oman.jpg",
-        "https://d1epq84pwgteub.cloudfront.net/a354a601ba774775b3c91a640ae130cc.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-11T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "negative",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "iran-calls-us-reply-inadequate",
-      "event_time_ist": "Oct 11, 2026 (Iran time)",
-      "title": "Iran calls US response to its seven Hormuz conditions 'inadequate'",
-      "summary": "Supreme National Security Council secretary Mohsen Rezaei said the US had accepted some of Iran's seven conditions for reopening Hormuz and returning to talks, but the response was 'inadequate' — the strait stays closed to the US until all are met. Iran had presented the proposal at the UNGA (reopen within seven days if conditions met); the US replied via Qatari intermediaries.",
-      "source_name": "Reuters; The Hindu BusinessLine",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://castlejournalnews.com/wp-content/uploads/2026/08/IMG_6421.webp",
-        "https://d2wqffb2bc8st5.cloudfront.net/images/1787514315_kurdistan24.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-11T12:00:00Z",
-      "sentiment": {
-        "us": "neutral",
-        "iran": "negative",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "baghaei-reviewing-us-reply",
-      "event_time_ist": "Oct 12, 2026 (Iran time)",
-      "title": "Tehran reviewing US reply; Qatar and Pakistan mediating; FM rejects US 'open strait' claim",
-      "summary": "FM spokesman Esmaeil Baghaei said Iran is still reviewing the US response and will reply via intermediaries; Qatar and Pakistan are among the mediators. He rejected Trump's normalcy claim: 'security would not return to the Strait of Hormuz as long as the United States continues its naval blockade and economic war against Iran.' Reuters noted the core impasse: Washington wants Iran's nuclear program addressed from the outset; Tehran wants Hormuz reopening and security first.",
-      "source_name": "Reuters; PressTV",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://igmtv.net/wp-content/uploads/2026/03/Esmaeil-Baghaei.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T12:00:00Z",
-      "sentiment": {
-        "us": "neutral",
-        "iran": "neutral",
-        "markets": "negative"
-      }
-    },
-    {
-      "id": "brent-105-106-goldman",
-      "event_time_ist": "Oct 12, 2026",
-      "title": "Brent hits ~$105-106.65; Goldman raises Dec Brent forecast to $90",
-      "summary": "Brent crude rose to ~$105-106.65/bbl on Oct 12 (WTI ~$92.5-93.7) on the tanker-attack wave and Riyadh airport strikes — up >70% this year. Goldman Sachs raised its December Brent forecast $5 to $90/bbl, estimating >$20/bbl of current price is geopolitical/supply-disruption risk premium.",
-      "source_name": "Reuters; Forbes Europe/Bloomberg; OilMonster",
-      "source_url": "",
-      "links": [],
-      "image_urls": [
-        "https://fastpip.com/wp-content/uploads/2026/05/WTIPrice.png",
-        "https://westminsterpimliconews.co.uk/wp-content/uploads/2026/03/task_01kmzt33z9fdk9efz0n07t1r70_1774889070_img_1-395x263.webp"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:07 PM PDT, Oct 12",
-      "report_time_ist": "11:37 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-12T12:00:00Z",
-      "sentiment": {
-        "us": "negative",
-        "iran": "positive",
-        "markets": "negative"
-      }
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11, 2026",
-      "id": "valthera-struck-oct11",
-      "image_urls": [
-        "https://www.marineinsight.com/wp-content/uploads/2026/10/Tanker-ships-near-Hormuz.jpg"
-      ],
-      "links": [
-        "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
-        "https://www.marineinsight.com/india-condemns-strikes-on-tanker-ships-near-hormuz-as-2-indian-seafarers-go-missing/"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "iran": "negative",
-        "markets": "negative"
-      },
-      "source_name": "livemint",
-      "source_url": "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
-      "summary": "The Marshall Islands-flagged tanker MT Valthera, carrying 11 Indian seafarers, was struck by an unknown projectile in the Strait of Hormuz on Oct 11, triggering an onboard fire; all 11 crew are reported safe. India's Ministry of External Affairs condemned both Sunday attacks (Valthera and the Petro Dolphin drone strike) and demanded immediate de-escalation through dialogue.",
-      "title": "MT Valthera hit by projectile in Hormuz on Oct 11; India condemns Sunday tanker attacks"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 10, 2026 (announced Oct 11)",
-      "id": "ocean-molica-disabled-oct10",
-      "image_urls": [
-        "https://migflug.com/afterburner/wp-content/uploads/sites/4/2026/10/ocean-molica-arika-sun-cargo-ship-before-strike-centcom.jpg"
-      ],
-      "links": [
-        "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
-        "https://migflug.com/afterburner/ocean-molica-us-fighter-jet-disables-cargo-ship-iran-blockade-gulf-of-oman-2026/"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "iran": "negative",
-        "us": "positive"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
-      "summary": "US Central Command said a US fighter jet struck the stern of the Panama-flagged cargo vessel M/V Ocean Molica (also known as Arika Sun) in the Gulf of Oman on Oct 10 after it ignored repeated warnings and tried to run the US naval blockade; the strike fully disabled its propulsion with no crew injuries. CENTCOM tally since the blockade resumed July 14: four commercial vessels disabled, 135 turned around, 10 IRGC-linked tankers destroyed.",
-      "title": "US fighter jet disables M/V Ocean Molica (Arika Sun) in Gulf of Oman for running Iran blockade"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11, 2026 (reported; aired on Iranian state TV over the weekend)",
-      "id": "rezaei-cables-threat-oct11",
-      "image_urls": [
-        "https://nonstopkhabar.com/wp-content/uploads/2026/03/Mohsen-Rezaei.jpg"
-      ],
-      "links": [
-        "https://www.wcia.com/news/national/ap-saudi-arabia-goes-on-alert-ex-aide-testifies-in-netanyahu-trial-and-other-mideast-developments/",
-        "https://www.tokenpost.com/news/regulation/29917"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "iran": "negative",
-        "us": "negative"
-      },
-      "source_name": "AP",
-      "source_url": "https://www.wcia.com/news/national/ap-saudi-arabia-goes-on-alert-ex-aide-testifies-in-netanyahu-trial-and-other-mideast-developments/",
-      "summary": "Iran's Supreme National Security Council secretary Mohsen Rezaei said Tehran finds the latest US response to its Hormuz conditions 'insufficient' and is 'no longer responding' to Washington, telling IRNA the US must clarify its position (it accepted some of the seven conditions, others unclear). He warned that undersea communications cables, data centers and AI facilities in the region - US-linked assets he put at over $2 trillion - would be targeted if intense fighting resumes: previously held-back targets 'will be within firing range.'",
-      "title": "Iran's Rezaei threatens undersea cables, data centers, AI facilities if war resumes; calls US reply 'insufficient'"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11, 2026 (reported)",
-      "id": "irgc-dark-mode-hostile-oct11",
-      "image_urls": [
-        "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg"
-      ],
-      "links": [
-        "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
-        "https://mcigroup.my/world-news/irans-revolutionary-guard-navy-says-oil-tanker-struck-mine-in-strait-of-hormuz/"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "iran": "negative",
-        "markets": "negative"
-      },
-      "source_name": "OilPrice (citing Argus and Iranian state media)",
-      "source_url": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
-      "summary": "The IRGC Navy warned that any ship inside the Strait of Hormuz that switches off its navigation and identification systems will be 'identified as hostile and dealt with severely and decisively' (Iranian state media). The IRGC also claimed a third supertanker struck naval mines on an 'unauthorized route' since Saturday - the vessel was not identified and the claim could not be independently verified. CENTCOM has previously denied IRGC mine-strike claims.",
-      "title": "IRGC Navy warns 'dark-mode' ships in Hormuz will be treated as hostile; claims third mine strike (unverified)"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026 (evening IST)",
-      "id": "rezaei-doval-call-oct12",
-      "image_urls": [
-        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces%3Aauto%2Ce_sharpen/https%3A//images.news9live.com/wp-content/uploads/2025/01/Ajit_Doval-1.jpg"
-      ],
-      "links": [
-        "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
-        "https://mcigroup.my/world-news/india-iran-top-security-advisers-hold-phone-talks/"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "iran": "neutral"
-      },
-      "source_name": "livemint (citing Iranian Embassy in India)",
-      "source_url": "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
-      "summary": "Mohsen Rezaei held a phone conversation with India's National Security Adviser Ajit Doval on Oct 12, exchanging views on regional and international developments and bilateral ties, per the Iranian Embassy in India. The call comes as New Delhi presses for Indian-seafarer safety after the Oct 11 attacks and two missing crew from the Petro Dolphin.",
-      "title": "Iran's Rezaei speaks with India's NSA Ajit Doval amid Gulf shipping attacks"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11, 2026 (reported)",
-      "id": "hormuz-traffic-lowest-oct11",
-      "image_urls": [
-        "https://the-14.com/wp-content/uploads/2026/03/Aerial-view-above-a-large-crude-oil-product-tanker-ship-in-the-Strait-Of-Hormuz-800x425.jpg"
-      ],
-      "links": [
-        "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/"
-      ],
-      "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
-      "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
-      "reported_at_utc": "2026-10-13T06:25:08Z",
-      "sentiment": {
-        "markets": "negative"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
-      "summary": "Reuters reported vessel transits through the Strait of Hormuz have fallen to their lowest in more than two months after tanker attacks reached their highest weekly level since the US-Israeli war on Iran began in February; Brent held above $103/bbl.",
-      "title": "Hormuz tanker traffic at lowest in 2+ months as attacks peak - Reuters"
-    }
-  ],
-  "last_updated_pdt": "Mon 2026-10-12 11:25 PM PDT",
-  "last_updated_ist": "Tue 2026-10-13 11:55 AM IST"
+ "items": [
+  {
+   "id": "pentagon-surges-third-carrier",
+   "event_time_ist": "Oct 2-3, 2026 (reported; ET)",
+   "title": "Pentagon surges a third carrier and 10,000+ troops toward the Mideast",
+   "summary": "The USS Theodore Roosevelt sailed from San Diego for the Middle East, giving the US the potential for three carrier strike groups in the region (first time since the 2003 Iraq invasion); the USS Makin Island group (2,200 Marines) also deployed, with USS Boxer already near Hormuz. Axios separately reported two extra Patriot batteries positioned in Saudi Arabia and Qatar to protect oil/gas facilities.",
+   "source_name": "Bloomberg via gcaptain; Axios via ANI",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://hindi.cdn.zeenews.com/hindi/sites/default/files/2026/01/29/4336503-uss-theodore-roosevelt-1.jpg",
+    "https://dailygulfnews.com/wp-content/uploads/2026/02/image-1771014602-780x470.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-03T12:00:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "tanker-attacks-peak-week",
+   "event_time_ist": "Week of Sep 28 - Oct 5, 2026 (reported Oct 7)",
+   "title": "Tanker attacks in Hormuz hit their highest weekly level since the war began",
+   "summary": "Reuters reported at least 12 attacks, attempted attacks, or harassment incidents hit oil, LNG, and LPG tankers around Hormuz in the week of Sep 28 - Oct 5 \u2014 the most in any week since the war began Feb 28. The US Navy-led JMIC said Iran's actions show 'intent to assert presence along key transit lanes.'",
+   "source_name": "Reuters (via The Business Standard)",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://object.pomegra.io/public/fro-nat-dht-lead-2026-as-hormuz-attacks-escalate.webp",
+    "https://english.capitalnewspoint.com/wp-content/uploads/2026/05/949641_61502179.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-07T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "positive",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "atlantic-pre-midterm-strike-options",
+   "event_time_ist": "Oct 7, 2026 (published; ET)",
+   "title": "Atlantic: White House asked Pentagon for pre-midterm Iran strike options",
+   "summary": "The Atlantic reported (citing two administration officials) that the White House directed the Pentagon to develop limited Iran strike options usable before the Nov 3 midterms, with bigger post-election options also under discussion. Axios separately reported CENTCOM was told to prepare for a possible resumption of major combat. Advocates reportedly conceded limited strikes would not reopen Hormuz or lower gas prices pre-election.",
+   "source_name": "The Atlantic; Axios",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://d1ldvf68ux039x.cloudfront.net/thumbs/frames/video/2604/1001820/DOD_111612908.0000900/2000w_q95.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-07T12:00:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "naqdi-hormuz-unauthorized-routes",
+   "event_time_ist": "Oct 7, 2026 (Iran time)",
+   "title": "IRGC adviser: Iran will 'soon' close 'unauthorized routes' in Hormuz",
+   "summary": "IRGC commander adviser Mohammad-Reza Naqdi said Iran's armed forces fully control the strait, that it stays closed until Iran's 'legitimate' demands are met, and that 'passages created by violators through the explosion or destruction of some rocky routes... will soon be closed.' He added Iran's weapon ranges are capped only by policy decisions and can be extended whenever authorized.",
+   "source_name": "UNB via TBS News; ScanX News",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://troopinsight.com/wp-content/uploads/2026/04/strait-of-hormuz-satellite-view-scaled.webp",
+    "https://image.idn.media/post/20260816/selat-hormuz_9feac4fd-4827-4822-a38c-05bae99dfc65.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-07T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "positive",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "hegseth-lincoln-visit-combat-stats",
+   "event_time_ist": "Oct 7, 2026 (ET)",
+   "title": "Hegseth visits USS Lincoln, releases Iran-war combat stats",
+   "summary": "Defense Secretary Pete Hegseth flew to the USS Abraham Lincoln, presented a Presidential Unit Citation from Trump, and disclosed the strike group's Iran-war tally: 64 Iranian warships sunk, 21 anti-ship cruise missiles destroyed, 3,693 combat sorties, 450 Tomahawk launches, 1.37M lbs of ordnance. The Navy confirmed 8 suicide attempts (no deaths) across the group during a 264-day stretch without a port call.",
+   "source_name": "Reuters; AP",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-226.jpg",
+    "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-07T12:00:00Z",
+   "sentiment": {
+    "us": "positive",
+    "iran": "negative",
+    "markets": "neutral"
+   }
+  },
+  {
+   "id": "lincoln-returns-san-diego",
+   "event_time_ist": "Oct 8, 2026 (EDT)",
+   "title": "USS Lincoln returns to San Diego after record 321-day deployment",
+   "summary": "USS Abraham Lincoln docked at San Diego after 321 days deployed, including 264-265 uninterrupted days at sea (a modern Navy record), spent supporting the Iran war after starting in the Indo-Pacific. It is the second record-length carrier return of the war (USS Gerald R. Ford returned in May after 326 days).",
+   "source_name": "AP (WAMC); NRI Page",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://www.seaforces.org/usnships/cvn/CVN-72_DAT/CVN-72-USS-Abraham-Lincoln-208.jpg",
+    "https://i.abcnewsfe.com/a/2e8f7367-3feb-4d29-9e75-f1715d8dc2f4/USS-Abraham-Lincoln-DB-260825_1787641292780_hpMain_16x9.jpg?w=1600"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-08T12:00:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "neutral",
+    "markets": "neutral"
+   }
+  },
+  {
+   "id": "trump-rules-out-pre-midterm-strikes",
+   "event_time_ist": "Oct 8, 2026 (ET)",
+   "title": "Trump rules out striking Iran before the Nov 3 midterms",
+   "summary": "In a Truth Social post, Trump said the US 'will not be attacking Iran at any time prior to the Midterm Elections,' while claiming oil is flowing in record volumes through Hormuz (22M bbl 'last night alone') and that the blockade remains 'in full force and effect.' He said talks with Iran were 'productive.' Analysts noted his Hormuz flow claim is disputed.",
+   "source_name": "USA Today; Truth Social",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://anewz.tv/data/images/2026-04-02/26544_2026-04-02t015604z-1972436967-rc2pgka6wfv6-rtrmadp-3-iran-crisis-trump-address_f.JPG?t=1779974213"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-08T12:00:00Z",
+   "sentiment": {
+    "us": "positive",
+    "iran": "neutral",
+    "markets": "positive"
+   }
+  },
+  {
+   "id": "eslami-enrichment-indispensable",
+   "event_time_ist": "Oct 8, 2026 (primary; reinforced Oct 11)",
+   "title": "Iran's nuclear chief: enrichment 'indispensable,' won't be surrendered",
+   "summary": "AEOI head Mohammad Eslami called uranium enrichment 'an indispensable part' of the nuclear process and dismissed renewed US demands \u2014 VP Vance had said Iran must make 'meaningful' enrichment reductions as a war precondition \u2014 as 'a mere bunch of lies aimed at deception.' On Oct 11 he added Iran will not give up nuclear technology under foreign pressure. AEOI spokesman Kamalvandi said Iran would secure its interests 'through diplomacy or on the battlefield.'",
+   "source_name": "PressTV; devdiscourse",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://www.studentnewsdaily.com/wp-content/uploads/2021/04/natanz-iran-nuclear-site.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-08T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "positive",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "us-sanctions-17-vessels",
+   "event_time_ist": "Oct 8, 2026 (reported Oct 9; ET)",
+   "title": "US imposes fresh sanctions on 17 vessels moving Iranian crude",
+   "summary": "The US imposed new sanctions on individuals, networks, and 17 vessels transporting Iranian crude, oil products, and petrochemicals \u2014 continuing economic pressure alongside the naval blockade, even as Trump paused strikes.",
+   "source_name": "Reuters (energy desk)",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://regtechtimes.com/wp-content/uploads/2026/02/1200675-2026-02-07T113450.044.png",
+    "https://www.libyanexpress.com/wp-content/uploads/2025/10/IMG_1411-800x450.jpeg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-09T02:20:00Z",
+   "sentiment": {
+    "us": "positive",
+    "iran": "negative",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "ukmto-tanker-struck-oct10",
+   "event_time_ist": "Oct 10, 2026, 19:20 UTC (event)",
+   "title": "UKMTO: outbound tanker struck by projectile inside Hormuz",
+   "summary": "UKMTO reported that the master of an outbound tanker in the Strait of Hormuz was hit on the port side by an unknown projectile, causing a fire; crew safe. The same day, masters near Ras Al Khaimah (UAE) reported being ordered off anchorages via VHF broadcast. Authorities are investigating.",
+   "source_name": "UKMTO via DefconLevel; Eagle Intel maritime desk",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://img.ien.com/files/base/indm/ien/image/2019/06/Gulf_Tanker_Attack_AP.5d0b960c2a195.png?auto=format%2Ccompress&fit=crop&h=432&q=70&rect=0%2C53%2C1024%2C576&w=768",
+    "https://www.dmnsa.com/wp-content/plugins/wp-o-matic/cache/7f5714efb8_ddaecd438b48e663779c434812de9493.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-10T19:20:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "neutral",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "irgc-mine-claims-three-tankers",
+   "event_time_ist": "Oct 10-12, 2026 (claimed; Iran time)",
+   "title": "IRGC Navy claims three tankers struck naval mines on 'unauthorized routes'",
+   "summary": "The IRGC Navy said three crude supertankers struck naval mines while attempting to exit Hormuz via unauthorized routes with navigation systems switched off \u2014 one each on Oct 10, Oct 11, and Oct 12 morning, all engulfed in flames. It warned any vessel cooperating with US forces or switching off AIS would be treated as 'hostile' and face a 'decisive response.' Vessel names and nationalities were not independently confirmed.",
+   "source_name": "IRGC Navy via PressTV/Tasnim; Anadolu Ajansi",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg",
+    "https://i0.wp.com/heisenbergreport.com/wp-content/uploads/2026/03/IraqTankerFireMar2026.png?fit=1152%2C665&ssl=1"
+   ],
+   "confidence": "unconfirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-12T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "positive",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "petro-dolphin-drone-sohar",
+   "event_time_ist": "Oct 11, 2026 (Oman/IST)",
+   "title": "MT Petro Dolphin drone attack at Sohar (Oman): 2 Indian seafarers missing",
+   "summary": "MT Petro Dolphin was hit by a drone at Sohar anchorage, Oman; of 11 Indian crew, 9 were rescued and 2 remain missing. India's MEA condemned the attacks; the Indian embassy in Muscat is coordinating with Omani authorities. Separately, MT Valthera (Marshall Islands-flagged) was struck by an unknown projectile near Hormuz, caught fire, with its 11 Indian crew reported safe.",
+   "source_name": "Indian MEA; UKMTO; Forbes Europe/Bloomberg",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://publisher.tbsnews.net/bangla/sites/default/files/styles/big_3/public/images/2026/03/10/tanker_at_oman.jpg",
+    "https://d1epq84pwgteub.cloudfront.net/a354a601ba774775b3c91a640ae130cc.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-11T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "negative",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "iran-calls-us-reply-inadequate",
+   "event_time_ist": "Oct 11, 2026 (Iran time)",
+   "title": "Iran calls US response to its seven Hormuz conditions 'inadequate'",
+   "summary": "Supreme National Security Council secretary Mohsen Rezaei said the US had accepted some of Iran's seven conditions for reopening Hormuz and returning to talks, but the response was 'inadequate' \u2014 the strait stays closed to the US until all are met. Iran had presented the proposal at the UNGA (reopen within seven days if conditions met); the US replied via Qatari intermediaries.",
+   "source_name": "Reuters; The Hindu BusinessLine",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://castlejournalnews.com/wp-content/uploads/2026/08/IMG_6421.webp",
+    "https://d2wqffb2bc8st5.cloudfront.net/images/1787514315_kurdistan24.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-11T12:00:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "baghaei-reviewing-us-reply",
+   "event_time_ist": "Oct 12, 2026 (Iran time)",
+   "title": "Tehran reviewing US reply; Qatar and Pakistan mediating; FM rejects US 'open strait' claim",
+   "summary": "FM spokesman Esmaeil Baghaei said Iran is still reviewing the US response and will reply via intermediaries; Qatar and Pakistan are among the mediators. He rejected Trump's normalcy claim: 'security would not return to the Strait of Hormuz as long as the United States continues its naval blockade and economic war against Iran.' Reuters noted the core impasse: Washington wants Iran's nuclear program addressed from the outset; Tehran wants Hormuz reopening and security first.",
+   "source_name": "Reuters; PressTV",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://igmtv.net/wp-content/uploads/2026/03/Esmaeil-Baghaei.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-12T12:00:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "neutral",
+    "markets": "negative"
+   }
+  },
+  {
+   "id": "brent-105-106-goldman",
+   "event_time_ist": "Oct 12, 2026",
+   "title": "Brent hits ~$105-106.65; Goldman raises Dec Brent forecast to $90",
+   "summary": "Brent crude rose to ~$105-106.65/bbl on Oct 12 (WTI ~$92.5-93.7) on the tanker-attack wave and Riyadh airport strikes \u2014 up >70% this year. Goldman Sachs raised its December Brent forecast $5 to $90/bbl, estimating >$20/bbl of current price is geopolitical/supply-disruption risk premium.",
+   "source_name": "Reuters; Forbes Europe/Bloomberg; OilMonster",
+   "source_url": "",
+   "links": [],
+   "image_urls": [
+    "https://fastpip.com/wp-content/uploads/2026/05/WTIPrice.png",
+    "https://westminsterpimliconews.co.uk/wp-content/uploads/2026/03/task_01kmzt33z9fdk9efz0n07t1r70_1774889070_img_1-395x263.webp"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:07 PM PDT, Oct 12",
+   "report_time_ist": "11:37 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-12T12:00:00Z",
+   "sentiment": {
+    "us": "negative",
+    "iran": "positive",
+    "markets": "negative"
+   }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026",
+   "id": "valthera-struck-oct11",
+   "image_urls": [
+    "https://www.marineinsight.com/wp-content/uploads/2026/10/Tanker-ships-near-Hormuz.jpg"
+   ],
+   "links": [
+    "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
+    "https://www.marineinsight.com/india-condemns-strikes-on-tanker-ships-near-hormuz-as-2-indian-seafarers-go-missing/"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   },
+   "source_name": "livemint",
+   "source_url": "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
+   "summary": "The Marshall Islands-flagged tanker MT Valthera, carrying 11 Indian seafarers, was struck by an unknown projectile in the Strait of Hormuz on Oct 11, triggering an onboard fire; all 11 crew are reported safe. India's Ministry of External Affairs condemned both Sunday attacks (Valthera and the Petro Dolphin drone strike) and demanded immediate de-escalation through dialogue.",
+   "title": "MT Valthera hit by projectile in Hormuz on Oct 11; India condemns Sunday tanker attacks"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 10, 2026 (announced Oct 11)",
+   "id": "ocean-molica-disabled-oct10",
+   "image_urls": [
+    "https://migflug.com/afterburner/wp-content/uploads/sites/4/2026/10/ocean-molica-arika-sun-cargo-ship-before-strike-centcom.jpg"
+   ],
+   "links": [
+    "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
+    "https://migflug.com/afterburner/ocean-molica-us-fighter-jet-disables-cargo-ship-iran-blockade-gulf-of-oman-2026/"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "iran": "negative",
+    "us": "positive"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
+   "summary": "US Central Command said a US fighter jet struck the stern of the Panama-flagged cargo vessel M/V Ocean Molica (also known as Arika Sun) in the Gulf of Oman on Oct 10 after it ignored repeated warnings and tried to run the US naval blockade; the strike fully disabled its propulsion with no crew injuries. CENTCOM tally since the blockade resumed July 14: four commercial vessels disabled, 135 turned around, 10 IRGC-linked tankers destroyed.",
+   "title": "US fighter jet disables M/V Ocean Molica (Arika Sun) in Gulf of Oman for running Iran blockade"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026 (reported; aired on Iranian state TV over the weekend)",
+   "id": "rezaei-cables-threat-oct11",
+   "image_urls": [
+    "https://nonstopkhabar.com/wp-content/uploads/2026/03/Mohsen-Rezaei.jpg"
+   ],
+   "links": [
+    "https://www.wcia.com/news/national/ap-saudi-arabia-goes-on-alert-ex-aide-testifies-in-netanyahu-trial-and-other-mideast-developments/",
+    "https://www.tokenpost.com/news/regulation/29917"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "iran": "negative",
+    "us": "negative"
+   },
+   "source_name": "AP",
+   "source_url": "https://www.wcia.com/news/national/ap-saudi-arabia-goes-on-alert-ex-aide-testifies-in-netanyahu-trial-and-other-mideast-developments/",
+   "summary": "Iran's Supreme National Security Council secretary Mohsen Rezaei said Tehran finds the latest US response to its Hormuz conditions 'insufficient' and is 'no longer responding' to Washington, telling IRNA the US must clarify its position (it accepted some of the seven conditions, others unclear). He warned that undersea communications cables, data centers and AI facilities in the region - US-linked assets he put at over $2 trillion - would be targeted if intense fighting resumes: previously held-back targets 'will be within firing range.'",
+   "title": "Iran's Rezaei threatens undersea cables, data centers, AI facilities if war resumes; calls US reply 'insufficient'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026 (reported)",
+   "id": "irgc-dark-mode-hostile-oct11",
+   "image_urls": [
+    "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg"
+   ],
+   "links": [
+    "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
+    "https://mcigroup.my/world-news/irans-revolutionary-guard-navy-says-oil-tanker-struck-mine-in-strait-of-hormuz/"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   },
+   "source_name": "OilPrice (citing Argus and Iranian state media)",
+   "source_url": "https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html",
+   "summary": "The IRGC Navy warned that any ship inside the Strait of Hormuz that switches off its navigation and identification systems will be 'identified as hostile and dealt with severely and decisively' (Iranian state media). The IRGC also claimed a third supertanker struck naval mines on an 'unauthorized route' since Saturday - the vessel was not identified and the claim could not be independently verified. CENTCOM has previously denied IRGC mine-strike claims.",
+   "title": "IRGC Navy warns 'dark-mode' ships in Hormuz will be treated as hostile; claims third mine strike (unverified)"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026 (evening IST)",
+   "id": "rezaei-doval-call-oct12",
+   "image_urls": [
+    "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces%3Aauto%2Ce_sharpen/https%3A//images.news9live.com/wp-content/uploads/2025/01/Ajit_Doval-1.jpg"
+   ],
+   "links": [
+    "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
+    "https://mcigroup.my/world-news/india-iran-top-security-advisers-hold-phone-talks/"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "iran": "neutral"
+   },
+   "source_name": "livemint (citing Iranian Embassy in India)",
+   "source_url": "https://www.livemint.com/news/world/irans-mohsen-rezaei-speaks-to-ajit-doval-amid-gulf-shipping-attacks-strait-of-hormuz-tensions-11791828604249.html",
+   "summary": "Mohsen Rezaei held a phone conversation with India's National Security Adviser Ajit Doval on Oct 12, exchanging views on regional and international developments and bilateral ties, per the Iranian Embassy in India. The call comes as New Delhi presses for Indian-seafarer safety after the Oct 11 attacks and two missing crew from the Petro Dolphin.",
+   "title": "Iran's Rezaei speaks with India's NSA Ajit Doval amid Gulf shipping attacks"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026 (reported)",
+   "id": "hormuz-traffic-lowest-oct11",
+   "image_urls": [
+    "https://the-14.com/wp-content/uploads/2026/03/Aerial-view-above-a-large-crude-oil-product-tanker-ship-in-the-Strait-Of-Hormuz-800x425.jpg"
+   ],
+   "links": [
+    "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/"
+   ],
+   "report_time_ist": "Tue 2026-10-13 11:55 AM IST",
+   "report_time_pdt": "Mon 2026-10-12 11:25 PM PDT",
+   "reported_at_utc": "2026-10-13T06:25:08Z",
+   "sentiment": {
+    "markets": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/us-military-says-it-disabled-cargo-vessel-trying-run-iran-blockade-2026-10-11/",
+   "summary": "Reuters reported vessel transits through the Strait of Hormuz have fallen to their lowest in more than two months after tanker attacks reached their highest weekly level since the US-Israeli war on Iran began in February; Brent held above $103/bbl.",
+   "title": "Hormuz tanker traffic at lowest in 2+ months as attacks peak - Reuters"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026 (weekly press conference, Tehran)",
+   "id": "baghaei-mediators-still-reviewing",
+   "image_urls": [
+    "https://cbntvusa.com/wp-content/uploads/2026/08/ismaail-baghei-6a82ceec59c35.jpg"
+   ],
+   "links": [
+    "https://www.azernews.az/region/265411.html",
+    "https://thediplomaticinsight.com/iran-reviews-us-proposals-strait-of-hormuz-dispute-continues/"
+   ],
+   "report_time_ist": "12:10 PM IST, Oct 13",
+   "report_time_pdt": "11:40 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T06:40:57Z",
+   "sentiment": {
+    "iran": "neutral"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/middle-east/iran-says-it-will-reply-us-response-hormuz-proposal-once-review-over-2026-10-12/",
+   "summary": "At his Monday press conference, Iranian FM spokesperson Esmaeil Baghaei confirmed Tehran is still reviewing the US response to its proposal on reopening the Strait of Hormuz, and that message exchanges with Washington continue through Pakistan and Qatar, whom he called the principal mediators. He said Iran's preconditions, including its seven conditions, must be respected, rejected claims that Tehran's Hormuz posture is negotiation leverage, and said Iran is open to helping resolve the Saudi-Houthi crisis through dialogue.",
+   "title": "Baghaei: Iran still reviewing US Hormuz response; Pakistan, Qatar still mediating"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026 (WPC Energy Congress, Riyadh)",
+   "id": "nasser-wpc-supply-pressure",
+   "image_urls": [
+    "https://www.eyeofriyadh.com/news_images/2024/10/afe26cf58d8b.jpg"
+   ],
+   "links": [
+    "https://www.tradingview.com/news/reuters.com,2026-10-12:newsml_Zaw5yLlyb:0-aramco-ceo-warns-oil-supply-squeeze-could-worsen-as-hormuz-disruption-persists/"
+   ],
+   "report_time_ist": "12:10 PM IST, Oct 13",
+   "report_time_pdt": "11:40 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T06:40:57Z",
+   "sentiment": {
+    "markets": "negative"
+   },
+   "source_name": "Morningstar (Dow Jones)",
+   "source_url": "https://www.morningstar.com/news/dow-jones/202610124072/aramco-ceo-says-oil-supply-pressure-to-intensify-until-hormuz-fully-reopens",
+   "summary": "Speaking at the WPC Energy Congress in Riyadh, Saudi Aramco CEO Amin Nasser warned pressure across the energy chain will intensify until the Strait of Hormuz fully reopens and confidence returns, flagging diesel near $200/bbl and commercial onshore inventories below 6 billion barrels. Aramco is studying additional crude-export routes and expanding overseas storage. Top BP, ExxonMobil, Shell and TotalEnergies executives skipped the event after the Houthi attacks on Riyadh's airport. Kpler put Hormuz flows at 10.5M bpd for the week through Oct 10, ~38% below prewar levels.",
+   "title": "Aramco CEO: energy supply pressure to intensify until Hormuz fully reopens"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026",
+   "id": "goldman-brent-90-dec",
+   "image_urls": [
+    "https://www.sbhnews.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fsensorstudio-assets%2Fuploads%2Fgenerated-covers%2Ffinal%2Fhormuz-strait-ship-traffic-plummets-878cb47d-2026-08-13-am-01-33-709f9717.jpg&w=3840&q=75"
+   ],
+   "links": [
+    "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russian-diesel-deal-middle-east-supply-risks-bc9fabcf"
+   ],
+   "report_time_ist": "12:10 PM IST, Oct 13",
+   "report_time_pdt": "11:40 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T06:40:57Z",
+   "sentiment": {
+    "markets": "negative"
+   },
+   "source_name": "Morningstar (Dow Jones)",
+   "source_url": "https://www.morningstar.com/news/dow-jones/202610121228/goldman-sees-brent-at-90-in-december-as-supply-risks-delay-price-relief",
+   "summary": "Goldman Sachs raised its December Brent forecast to $90/bbl from $85, estimating geopolitical tension adds just over $20/bbl to current prices and saying its base case does not assume a quick US-Iran resolution. The bank warned Brent could average ~$125 next year if Gulf output stays 5M bpd below prewar levels. Brent traded ~$106.65 on Oct 12, up 1.8%, as Houthi attacks on Riyadh and doubts over the Russia-Ukraine energy ceasefire outweighed Russian diesel supply news.",
+   "title": "Goldman raises December Brent forecast to $90 on lingering Iran-war supply risks"
+  }
+ ],
+ "last_updated_pdt": "Mon 2026-10-12 11:25 PM PDT",
+ "last_updated_ist": "Tue 2026-10-13 11:55 AM IST"
 }

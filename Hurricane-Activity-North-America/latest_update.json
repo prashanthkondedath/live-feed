@@ -1,26 +1,28 @@
 {
-  "report_time_pdt": "6:21 AM PDT, Oct 13",
-  "report_time_ist": "6:51 PM IST, Oct 13",
+  "report_time_pdt": "7:25 AM PDT, Oct 13",
+  "report_time_ist": "7:55 PM IST, Oct 13",
   "items": [
     {
-      "id": "ep93-formation-likely-later-today-oct13",
-      "event_time_ist": "Issued 5:00 AM PDT, Oct 13 (5:30 PM IST, Oct 13)",
-      "title": "NHC: advisories likely initiated later today on EP93 as a tropical depression or tropical storm",
-      "summary": "NHC 5:00 AM PDT Tropical Weather Outlook (Pacific): EP93 \u2014 a broad low several hundred miles south of southern Mexico \u2014 now shows better-organized showers/thunderstorms and satellite-derived wind data indicating the circulation is becoming better defined. Formation chance remains high, near 100% (48h and 7d). NHC says if current trends continue, advisories will likely be initiated later today on a tropical depression or tropical storm; the system moves WNW ~10 mph and southwestern Mexico interests should keep monitoring. Still unnamed \u2014 the next eastern Pacific name is Trudy.",
-      "source_name": "NWS National Hurricane Center (Tropical Weather Outlook, 5 AM PDT Oct 13)",
-      "source_url": "http://www.nhc.noaa.gov/gtwo.php?text",
+      "id": "pvr-airport-reopens-oct13",
+      "event_time_ist": "Oct 13, 2026 (airport confirms Tuesday resumption; GAP had scheduled 8:00 AM CST = 7:30 PM IST)",
+      "title": "Puerto Vallarta airport confirms Tuesday reopening after Simon closure",
+      "summary": "Puerto Vallarta International Airport (PVR) confirmed via its own social-media update that all types of operations, including commercial flights, will be permitted again starting Tuesday, Oct 13, after closing Sat Oct 10 (~6 PM local) ahead of Hurricane Simon. Resumption is gradual and airline-by-airline; travelers must confirm flight status with airlines before heading to the terminal. Air Canada and WestJet lifted their flexible travel advisories for affected passengers. Corroborated by travelmonitor.com.au's Oct-13 daily watch (scheduled 8 AM local reopening) and Drive Mexico Magazine/La Jornada (GAP's 12:01 AM Tuesday plan). Manzanillo's reopening remains unconfirmed.",
+      "source_name": "Travel Market Report (trade press citing the airport's own social announcement)",
+      "source_url": "https://www.travelmarketreport.com/canada/air/articles/puerto-vallarta-airport-resumes-flights-hurricane-simon-mexico-pacific-coast",
       "links": [
-        "http://www.nhc.noaa.gov/gtwo.php?text",
-        "https://www.weatherusa.net/wxwarnings?product=TWO&location=EP&last=1"
+        "https://www.travelmonitor.com.au/daily-watch-list-what-is-affecting-travel-today-13-october-2026/",
+        "https://drivemexicomagazine.com/hurricane-simon-san-blas-flooding-pv-airport-reopening-planned/"
       ],
-      "image_urls": [],
-      "confidence": "single-sourced",
-      "report_time_pdt": "6:21 AM PDT, Oct 13",
-      "report_time_ist": "6:51 PM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T13:21:00Z",
+      "image_urls": [
+        "https://i0.wp.com/wp.travelmarketreport.com/wp-content/uploads/2026/02/shutterstock_2115824195.jpg?fit=1000%2C667&ssl=1"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "7:25 AM PDT, Oct 13",
+      "report_time_ist": "7:55 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T14:25:00Z",
       "sentiment": {
-        "civilians": "negative",
-        "mexico_govt": "neutral"
+        "civilians": "positive",
+        "mexico_govt": "positive"
       }
     }
   ]

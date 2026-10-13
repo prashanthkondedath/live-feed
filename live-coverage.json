@@ -53,7 +53,7 @@
         },
         "updated_at_utc": "2026-10-13T20:30:34Z"
       },
-      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police instead registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged unauthorized trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification in court and proposed an early-November Ramlila Maidan rally with a symbolic 'impeach the CEC' move. CJP founder Abhijeet Dipke is expected to reach Delhi on Oct 14.",
+      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police instead registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification and proposed an early-November Ramlila Maidan rally. CJP's official handle claimed Ranka, Das and Shinde were 'illegally kidnapped' for 14+ hours, posting a photo from inside Jaffarpur Kalan police station before deleting the post within an hour; founder Abhijeet Dipke is expected in Delhi on Oct 14.",
       "watch_for": [
         {
           "event": "Dipke reaches Delhi to join the protest",
@@ -102,7 +102,7 @@
           "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
+      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -284,7 +284,7 @@
         },
         "updated_at_utc": "2026-10-13T20:34:10Z"
       },
-      "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry made its first claim of no energy targets hit overnight Oct 12-13, but Zelensky says Russia still used 100+ weapons and 4 people were killed in Kharkiv; Trump shrugged that 'they're both a little bit off.' France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
+      "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry says no energy targets were hit overnight Oct 12-13, but Zelensky says Russia used 100+ weapons with 4 killed in Kharkiv, and Russian drones hit two cargo ships off Bulgaria — one sank with 11 sailors missing. Trump shrugged that 'they're both a little bit off'; France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
         {
           "event": "Kremlin confirmation or rejection of the energy ceasefire",
@@ -325,7 +325,7 @@
           "role": "German chancellor; called the Russian diesel deal 'out of the question' for Europe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
+      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -391,7 +391,7 @@
         },
         "updated_at_utc": "2026-10-13T20:30:46Z"
       },
-      "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded, and Puerto Vallarta airport reopened. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
+      "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon weakened to Category 1 off Mexico's Pacific coast with its warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
         {
           "event": "TD21-E forecast rapid intensification to a major hurricane; naming as Trudy",
@@ -420,7 +420,7 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
+      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
       "started_at_utc": "2026-10-12T20:05:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -432,7 +432,7 @@
         "confirmed_rate": 0.57,
         "updated_at_utc": "2026-10-13T20:30:46Z"
       },
-      "phase": "recovery"
+      "phase": "intensifying"
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",

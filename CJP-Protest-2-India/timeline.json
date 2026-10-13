@@ -3854,6 +3854,28 @@
     "cjp_protesters": "negative",
     "police_govt": "neutral"
    }
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "~9:55 AM IST, Oct 13",
+   "id": "dipke-shinde-detained-x-post-oct13",
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "links": [
+    "https://www.latestly.com/india/news/ashutosh-ranka-saurav-das-ajinkya-shinde-and-other-cjp-members-detained-says-abhijeet-dipke-7642457.html"
+   ],
+   "report_time_ist": "10:08 AM IST, Oct 13",
+   "report_time_pdt": "9:38 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T04:38:23Z",
+   "sentiment": {
+    "bjp": "negative",
+    "cjp_protesters": "positive"
+   },
+   "source_name": "LatestLY",
+   "source_url": "https://www.latestly.com/india/news/ashutosh-ranka-saurav-das-ajinkya-shinde-and-other-cjp-members-detained-says-abhijeet-dipke-7642457.html",
+   "summary": "CJP founder Abhijeet Dipke's first X post on Tuesday's Jantar Mantar re-detention (Oct 13, ~9:55 AM IST): 'Cockroaches with the Tiranga sneaked into Jantar Mantar early this morning before they were picked up by Delhi Police. @AshutoshRanka, @SauravDassss, @AjinkyaCJP along with other team members have been detained. You cannot denotify the resistance, @narendramodi.' Delhi Police/ANI confirmed Das and Ranka's detention; interim leader Ajinkya Shinde's detention is named only by Dipke so far (police have not confirmed him). Article first appeared on LatestLY at 9:57 AM IST.",
+   "title": "Dipke's first X reaction to the Tuesday re-detention: 'You cannot denotify the resistance' - names interim leader Ajinkya Shinde detained too"
   }
  ]
 }

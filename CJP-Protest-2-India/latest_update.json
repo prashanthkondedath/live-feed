@@ -1,28 +1,71 @@
 {
-  "report_time_pdt": "12:19 AM PDT, Oct 13",
-  "report_time_ist": "12:49 PM IST, Oct 13",
-  "items": [
-    {
-      "id": "das-ranka-bus-video-vows-oct13",
-      "event_time_ist": "~10 AM IST, Oct 13",
-      "title": "Saurav Das and Ashutosh Ranka's first video statements from the police bus after the Tuesday re-detention",
-      "summary": "ANI: Das, filmed from inside the police bus after the morning gate-climb re-detention at Jantar Mantar, questioned the Home Ministry's authority to de-notify the site, said the 'Delhi Chalo' slogan endures, and pledged the protest would happen at Jantar Mantar only - 'today 10 people came, tomorrow 1,000 will'. Ranka called the breach 'just the trailer', escalating to '10,000 will enter' the day after, and said they would leave Delhi only after CEC Gyanesh Kumar resigns.",
-      "source_name": "ANI via APNA MA TV",
-      "source_url": "https://apnamatvchannel.com/india/who-is-home-ministry-to-take-away-our-jantar-mantar-cjp-activists-detained-vow-to-continue-protests/",
-      "links": [
-        "https://apnamatvchannel.com/india/who-is-home-ministry-to-take-away-our-jantar-mantar-cjp-activists-detained-vow-to-continue-protests/"
-      ],
-      "image_urls": [
-        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "12:19 AM PDT, Oct 13",
-      "report_time_ist": "12:49 PM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T07:19:55Z",
-      "sentiment": {
-        "cjp_protesters": "positive",
-        "police_govt": "negative"
-      }
-    }
-  ]
+ "report_time_pdt": "12:33 AM PDT, Oct 13",
+ "report_time_ist": "1:03 PM IST, Oct 13",
+ "items": [
+  {
+   "id": "goa-police-affidavit-umar-khalid-oct13",
+   "event_time_ist": "affidavit filed Mon, Oct 12; reported ~9:57 AM IST, Oct 13",
+   "title": "Goa Police defends Oct 11 detention of 7 CJP members in court affidavit, cites 'patronising Umar Khalid'",
+   "summary": "In an affidavit filed before the Bombay High Court on Monday Oct 12 (reported via Bar and Bench ~9:57 AM IST Oct 13), Goa Police justified the Oct 11 detention of seven CJP members at Panaji's Azad Maidan, citing a 'past history' of the outfit violating protest conditions and 'patronising Umar Khalid' \u2014 pointing to a July 25 NEET protest where a CJP activist carried 'Umar Khalid, Sharjeel Imam, Bhima Koregaon' placards and chants of 'Har Ghar me Umar Khalid jalme ga'. The affidavit also alleged a CJP member molested a female officer, denied excessive force, and said the seven were detained at 4:30 PM under BNSS 172(2) for protesting without permission. The HC had ordered their release on Oct 11 (no Sec 163 BNSS order in force) and adjourned the matter to Oct 19.",
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/amp/high-court/bombay-high-court/after-bombay-high-court-orders-release-of-cjp-members-goa-police-justifies-detention-citing-past-violations-patronising-umar-khalid-554371",
+   "links": [
+    "https://www.livelaw.in/amp/high-court/bombay-high-court/after-bombay-high-court-orders-release-of-cjp-members-goa-police-justifies-detention-citing-past-violations-patronising-umar-khalid-554371",
+    "https://www.kokthum.com/national/in-special-sitting-bombay-high-court-in-goa-orders-release-of-anti-ec-protesters-india-news"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "12:33 AM PDT, Oct 13",
+   "report_time_ist": "1:03 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T07:33:00Z",
+   "sentiment": {
+    "police_govt": "positive",
+    "cjp_protesters": "negative"
+   }
+  },
+  {
+   "id": "white-ribbons-punjab-haryana-bar-oct13",
+   "event_time_ist": "~9:11 AM IST, Oct 13",
+   "title": "Punjab and Haryana HC Bar Association asks members to wear white ribbons in solidarity with advocates 'high-handedly' handled in Delhi",
+   "summary": "The Punjab and Haryana High Court Bar Association asked its members to wear a white ribbon on their coats in solidarity with advocates who it says faced high-handedness in Delhi during the recent protests, per Bar and Bench reporting (13 Oct, 09:11 IST, via protestrecord). Follows the SCAORA Supreme Court plea on illegal detention and manhandling of lawyers during the Oct 10 CEC protest march.",
+   "source_name": "protestrecord.com (via Bar and Bench)",
+   "source_url": "https://protestrecord.com/",
+   "links": [
+    "https://protestrecord.com/"
+   ],
+   "image_urls": [
+    "https://www.livelaw.in/h-upload/2026/10/12/705906-cji-surya-kant-gopal-sankaranarayanan.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "12:33 AM PDT, Oct 13",
+   "report_time_ist": "1:03 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T07:33:00Z",
+   "sentiment": {
+    "police_govt": "negative"
+   }
+  },
+  {
+   "id": "jdu-office-wall-claim-oct13",
+   "event_time_ist": "reported ~11:55 AM IST, Oct 13 (police-sources claim)",
+   "title": "Police sources claim CJP members entered Jantar Mantar via adjoining JD(U) office premises' boundary wall",
+   "summary": "Maktoob (citing police sources) reported a new police-side detail of Tuesday morning's Jantar Mantar breach: the CJP members allegedly entered the adjoining JD(U) office premises and climbed over its boundary wall to reach the protest site, before Saurav Das, Ashutosh Ranka, Ajinkya Shinde and others were detained. Single-sourced police claim; CJP has not responded to this specific allegation.",
+   "source_name": "Maktoob Media",
+   "source_url": "https://maktoobmedia.com/public/index.php/post?id=116685&slug=cjp-leaders-ashutosh-ranka-saurav-das-ajinkya-shinde-detained-after-entering-jantar-mantar-protest-site",
+   "links": [
+    "https://maktoobmedia.com/public/index.php/post?id=116685&slug=cjp-leaders-ashutosh-ranka-saurav-das-ajinkya-shinde-detained-after-entering-jantar-mantar-protest-site"
+   ],
+   "image_urls": [
+    "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "12:33 AM PDT, Oct 13",
+   "report_time_ist": "1:03 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T07:33:00Z",
+   "sentiment": {
+    "cjp_protesters": "negative"
+   }
+  }
+ ]
 }

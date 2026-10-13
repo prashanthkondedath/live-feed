@@ -1,30 +1,25 @@
 {
- "report_time_pdt": "1:25 AM PDT, Oct 13",
- "report_time_ist": "1:55 PM IST, Oct 13",
+ "report_time_pdt": "1:35 AM PDT, Oct 13",
+ "report_time_ist": "2:05 PM IST, Oct 13",
  "items": [
   {
-   "id": "jindal-contempt-complaint-cji-oct13",
-   "event_time_ist": "~morning IST, Oct 13",
-   "title": "SC lawyer seeks suo motu contempt over Congress Kerala's deleted X post targeting CJI",
-   "summary": "Advocate Vineet Jindal wrote to CJI Surya Kant seeking consideration of suo motu criminal contempt proceedings over a now-deleted Congress Kerala X post — \"Dear Surya Kant, If law and order is not your domain, resign now. We will find your replacement who can handle it\" — and examination of the reported demonstration/slogan-shouting inside SC premises during the INDIA bloc petition filing (Diary No. 64196/2026), seeking preservation of CCTV footage, access-control logs and security deployment records. KPCC president Sunny Joseph removed the staffer responsible, saying the post was made without KPCC leadership's knowledge; Union Minister Kiren Rijiju slammed the Congress over it. When senior advocate Gaurav Bhatia mentioned the matter Tuesday, the CJI said \"Just mention tomorrow\" — no proceedings initiated as of Oct 13. SCBA and SCAORA condemned calls for the CJI's resignation.",
-   "source_name": "IANS",
-   "source_url": "https://ianslive.in/sc-urged-to-initiate-suo-motu-contempt-action-over-post-targeting-cji-opposition-march--20261013120656",
-   "links": [
-    "https://sambadenglish.com/politics/sc-lawyer-seeks-suo-motu-contempt-proceedings-over-congress-keralas-deleted-post-targeting-cji-12671309",
-    "https://www.nationpress.com/national/contempt-plea-over-congress-kerala-x-post-on-cji",
-    "https://mumbaipress.com/200-people-detained-in-delhi-ahead-of-cjp-jantar-mantar-protest/"
-   ],
+   "id": "dipke-some-factcheck-reel-oct13",
+   "event_time_ist": "~1:54 PM IST, Oct 13",
+   "title": "Dipke posts 'Some factcheck' IG reel rebutting AI-generated-image impersonation and viral claims around his grandmother's death",
+   "summary": "Founder Abhijeet Dipke's own Instagram (@abhijeetdipke) posted a reel (~33.6K likes, caption 'Some factcheck', posted ~1:54 PM IST Oct 13) in which a man speaking to camera addresses two viral controversies: (1) he denies Dipke posted AI-generated police-officer images on Facebook, saying Dipke has no Facebook page (only a personal profile), so he could not have made that post; (2) he addresses confusion over whose grandmother died — claiming Dipke's own grandmother passed away long ago, that it was cousin Vihaan's grandmother (Vihaan's Daadi) who died Oct 10, and that Dipke mistakenly shared Vihaan's Daadi's photo and later apologized. NOTE: this second claim CONTRADICTS the established arc (Dipke's father lost his mother Oct 10; Delhi Police's informing-video; Dipke's Hingoli last-rites trip; his tribute posts). Ambiguity unresolved: unclear whether the speaker is Dipke himself or a third-party clip Dipke amplified; caption framing suggests a debunk, but no news outlet has covered this reel (single-sourced). Companion IG story (~1:07 PM IST Oct 13): 'Can't wait to see what new conspiracy theories the IT cell comes up with.'",
+   "source_name": "@abhijeetdipke (Instagram)",
+   "source_url": "https://www.instagram.com/reel/DebXn2lvM6H/",
+   "links": [],
    "image_urls": [
-    "https://www.livelaw.in/h-upload/2022/06/27/750x450_423545-justice-surya-kant-and-sc.jpg"
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
    ],
-   "confidence": "confirmed",
-   "report_time_pdt": "1:25 AM PDT, Oct 13",
-   "report_time_ist": "1:55 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T08:25:24Z",
+   "confidence": "single-sourced",
+   "report_time_pdt": "1:35 AM PDT, Oct 13",
+   "report_time_ist": "2:05 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T08:35:18Z",
    "sentiment": {
-    "courts": "negative",
-    "india_bloc": "negative",
-    "bjp": "positive"
+    "cjp_protesters": "positive",
+    "bjp": "negative"
    }
   }
  ]

@@ -197,7 +197,38 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
+      "trend_updated_at_utc": "2026-10-13T18:49:55Z",
+      "sentiment_summary": {
+        "window": "7d",
+        "items_in_window": 63,
+        "sides": {
+          "civilians": {
+            "positive": 10,
+            "negative": 37,
+            "neutral": 10,
+            "overall": "negative"
+          },
+          "mexico_govt": {
+            "positive": 6,
+            "negative": 0,
+            "neutral": 24,
+            "overall": "neutral"
+          },
+          "us_govt": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 7,
+            "overall": "neutral"
+          },
+          "energy_markets": {
+            "positive": 2,
+            "negative": 1,
+            "neutral": 0,
+            "overall": "positive"
+          }
+        },
+        "updated_at_utc": "2026-10-13T18:49:55Z"
+      }
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -222,5 +253,5 @@
       "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T18:49:51Z"
+  "updated_at_utc": "2026-10-13T18:49:55Z"
 }

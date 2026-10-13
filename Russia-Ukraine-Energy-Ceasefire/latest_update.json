@@ -1,1 +1,29 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Tuesday Oct 13, 2026 (at the Warsaw Security Forum; forum-day, Warsaw time)","id":"miliband-warsaw-energy-ceasefire-oct13","image_urls":["https://www.sajr.co.za/wp-content/uploads/2026/09/UK-Foreign-Secretary-Ed-Miliband-arrives-at-10-Downing-Street-ton-September-1-2026.-Rasid-Necati-Aslimx3aAnadolu-via-Getty-Images-2048x1141.jpg"],"links":["https://thelondonweekly.net/world-news/12380-uk-calls-for-energy-ceasefire-in-ukraine-as-russia-intensifies-attacks-on-power-infrastructure","https://www.wandsworthtimes.co.uk/news/national/26630575.foreign-secretary-miliband-urges-support-ukraines-zelensky/","https://www.europesays.com/ukraine/55546/"],"report_time_ist":"10:35 PM IST, Oct 13","report_time_pdt":"10:05 AM PDT, Oct 13","reported_at_utc":"2026-10-13T17:05:00Z","sentiment":{"civilians":"positive","eu":"positive","russia":"negative","uk":"positive","ukraine":"positive","us":"neutral"},"source_name":"The London Weekly; PA wire (via Clacton Gazette)","source_url":"https://www.clactonandfrintongazette.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/?ref=rss","summary":"At the Warsaw Security Forum on Tuesday Oct 13, UK Foreign Secretary Ed Miliband urged European partners to back an energy ceasefire, saying the idea 'should be taken seriously' because 'in the last week alone we've seen 200 Russian attacks on Ukrainian energy infrastructure' (Foreign Office figures; 1,450 bombs and 1,600 drones in the same period). He acknowledged a 'very difficult few days' in relations with Washington after Trump's diesel deal and his calls for Zelensky's removal, praised Zelensky's 'extraordinary leadership,' and said: 'let us seek with President Trump to hold Putin to this full energy ceasefire.' He also met Polish FM Sikorski and said the UK would move with the EU on using frozen Russian assets if the bloc agrees. Catch-up: earlier runs missed this forum-day item.","title":"UK's Miliband urges European allies to back energy ceasefire at Warsaw Security Forum; cites 200 Russian energy-infra attacks in a week"},{"confidence":"confirmed","event_time_ist":"Sunday Oct 11, 2026 (PMO readout after the Carney-Zelensky call)","id":"carney-diesel-deal-criticism-oct11","image_urls":["https://www.asiapacific.ca/sites/default/files/styles/webp_1000/public/Carney%20One%20Year%20Policy%20Mag%20Keystone.png.webp"],"links":["https://www.tbsnews.net/worldbiz/usa/us-republicans-democrats-want-trump-reverse-course-russia-diesel-1569796","https://www.dagens.com/war/canada-condemns-trump-over-russia-deal-its-illegal-and-unjustified","https://noticiasenvivo.cl/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/"],"report_time_ist":"10:35 PM IST, Oct 13","report_time_pdt":"10:05 AM PDT, Oct 13","reported_at_utc":"2026-10-13T17:05:00Z","sentiment":{"russia":"negative","ukraine":"positive","us":"negative"},"source_name":"National Newswatch","source_url":"https://www.europesays.com/canada/246049/","summary":"After a Sunday Oct 11 call with Zelensky, Canadian PM Mark Carney's office said Trump's US-Russia diesel agreement 'is in direct opposition to the efforts of Ukraine, Canada, and our allies to create peace and stability in Europe' and 'will provide additional revenue for Russia and help finance its illegal, unjustifiable war against Ukraine'; Carney said Canada remains willing to expand its Russia sanctions. On the same day he also thanked Trump for 'his leadership toward securing an energy ceasefire.' Catch-up: this Oct 11 PMO statement was missed by all earlier runs.","title":"Canada's Carney publicly slammed Trump's diesel deal with Russia (Oct 11 PMO statement, catch-up)"}],"report_time_ist":"10:35 PM IST, Oct 13","report_time_pdt":"10:05 AM PDT, Oct 13"}
+{
+ "report_time_pdt": "10:35 AM PDT, Oct 13",
+ "report_time_ist": "11:05 PM IST, Oct 13",
+ "items": [
+  {
+   "id": "trump-tuesday-gaggle-strikes-oct13",
+   "event_time_ist": "Morning of Tuesday Oct 13, 2026 (Washington, DC)",
+   "title": "Trump shrugs at Russian strikes after ceasefire: asked if upset Putin hit energy targets, answers 'we'll see\u2026 they're both a little bit off'",
+   "summary": "Asked by Scripps News on Tuesday morning whether he was upset that Vladimir Putin struck energy targets after the weekend 'energy ceasefire' announcement, Trump answered 'we'll see\u2026 they're both a little bit off,' adding 'bottom line, it's all gonna work out\u2026 you know why\u2026 it always does.' The noncommittal reply \u2014 his first on-camera comment Tuesday on the continued strikes \u2014 offered no condemnation of Russia and no new action; it follows Monday's 'violations on both sides' line and repeated insistence the ceasefire exists because he said so.",
+   "source_name": "Scripps News",
+   "source_url": "https://www.youtube.com/shorts/zPX-2DI9Tnw",
+   "links": [
+    "https://www.newsquawk.com/headlines"
+   ],
+   "image_urls": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250916HK-0282.jpg?resize=2048,1365"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:35 AM PDT, Oct 13",
+   "report_time_ist": "11:05 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T17:35:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "ukraine": "negative",
+    "russia": "neutral"
+   }
+  }
+ ]
+}

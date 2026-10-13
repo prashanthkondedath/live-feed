@@ -198,22 +198,22 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T19:17:06Z",
+      "trend_updated_at_utc": "2026-10-13T19:51:15Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 25,
+        "items_in_window": 26,
         "sides": {
           "russia": {
             "positive": 3,
-            "negative": 12,
+            "negative": 13,
             "neutral": 8,
             "overall": "negative"
           },
           "ukraine": {
             "positive": 6,
-            "negative": 6,
+            "negative": 7,
             "neutral": 6,
-            "overall": "mixed"
+            "overall": "negative"
           },
           "us": {
             "positive": 3,
@@ -223,7 +223,7 @@
           },
           "civilians": {
             "positive": 2,
-            "negative": 6,
+            "negative": 7,
             "neutral": 1,
             "overall": "negative"
           },
@@ -240,7 +240,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T19:17:06Z"
+        "updated_at_utc": "2026-10-13T19:51:15Z"
       },
       "current_summary": "Trump's claimed Russia-Ukraine 'energy ceasefire' remains unverified as Russian strikes on Ukrainian energy infrastructure continue; Zelensky says Kyiv will abide if Russia does, the Kremlin has not confirmed, and the EU approved its largest sanctions package since 2022.",
       "watch_for": [
@@ -433,5 +433,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:17:06Z"
+  "updated_at_utc": "2026-10-13T19:51:15Z"
 }

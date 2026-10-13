@@ -1,529 +1,552 @@
 {
-  "items": [
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11, 2026 (Sunday morning US time)",
-      "id": "trump-energy-ceasefire-oct11",
-      "image_urls": [
-        "https://static.ukrinform.com/photos/2025_08/thumb_files/630_360_1755597793-935.jpeg"
-      ],
-      "links": [
-        "https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/"
-      ],
-      "report_time_ist": "1:05 AM IST, Oct 13",
-      "report_time_pdt": "12:35 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T19:35:00Z",
-      "sentiment": {
-        "russia": "neutral",
-        "ukraine": "neutral",
-        "us": "positive"
-      },
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
-      "summary": "Trump posted on Truth Social that Russia and Ukraine had agreed to an immediate 'energy ceasefire' \u2014 'Both parties have agreed. Do not break it!' \u2014 giving no scope, duration or verification detail. It is his second such declaration: he made a near-identical claim on Sept 14, which Putin rebuffed (per WSJ), after which strikes on energy targets continued. The announcement came days after the Oct 9 US-Russia deal suspending sanctions to allow up to 4.8M tonnes of Russian diesel onto world markets (Treasury licence running to Apr 7, 2027); Trump has blamed Ukrainian refinery strikes for the US diesel-price spike ($6.28/gal, AAA) ahead of the midterms.",
-      "title": "Trump announces immediate 'energy ceasefire' between Russia and Ukraine"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 11-12, 2026",
-      "id": "zelensky-conditional-yes-oct11",
-      "image_urls": [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
-      ],
-      "links": [
-        "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta"
-      ],
-      "report_time_ist": "1:05 AM IST, Oct 13",
-      "report_time_pdt": "12:35 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T19:35:00Z",
-      "sentiment": {
-        "ukraine": "positive",
-        "us": "neutral"
-      },
-      "source_name": "NY Post",
-      "source_url": "https://nypost.com/2026/10/12/world-news/zelensky-says-russia-still-striking-energy-facilities-despite-trump-declaration-of-energy-ceasefire/",
-      "summary": "Zelensky said the announcement came as news to him \u2014 telling Axios it caught Kyiv off guard \u2014 but that Ukraine is ready to accept an energy ceasefire if Russia agrees, and is awaiting details on when it begins. After the announcement he spoke with Canadian PM Mark Carney, Finnish President Alexander Stubb and NATO chief Mark Rutte. At the Warsaw Security Forum on Monday (via video link) he said Ukraine would abide if Russia does, noting Russian refineries were not burning the previous night \u2014 while Russia struck Ukrainian energy targets.",
-      "title": "Zelensky says ceasefire was news to Kyiv, but Ukraine will abide if Russia does"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Night of Oct 11 into morning of Oct 12, 2026",
-      "id": "russia-strikes-energy-oct12",
-      "image_urls": [
-        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
-      ],
-      "links": [
-        "https://brusselssignal.eu/2026/10/trump-declares-russia-ukraine-energy-ceasefire-as-strikes-on-kyiv-continue/",
-        "https://www.livemint.com/news/us-news/russiaukraine-war-trump-announces-energy-ceasefire-says-both-sides-agree-heres-how-kyiv-and-moscow-responded-11791770994201.html"
-      ],
-      "report_time_ist": "1:05 AM IST, Oct 13",
-      "report_time_pdt": "12:35 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T19:35:00Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative",
-        "ukraine": "negative"
-      },
-      "source_name": "Reuters via Sowetan",
-      "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
-      "summary": "Zelensky said Russia hit at least six energy targets in overnight and morning strikes across Ukraine, showing Moscow has no interest in the energy ceasefire. Targets included a Kharkiv power plant struck Sunday night in an attack that killed 3 and wounded 9 (including children), a gas production facility hit by a jet-powered Shahed drone, and a gas facility plus a petrol station hit by drones; a Kyiv power plant was also reported struck. The Kremlin has not confirmed any ceasefire agreement; spokesman Peskov said only that 'contacts are ongoing'.",
-      "title": "Russia keeps hitting Ukrainian energy targets despite ceasefire claim"
-    },
-    {
-      "confidence": "single-sourced",
-      "event_time_ist": "Oct 12, 2026",
-      "id": "eu-largest-sanctions-oct12",
-      "image_urls": [
-        "https://cdn.prod.website-files.com/63e17201c0e987cde7c22d62/6744da9c153bb045c94f04c5_1095426160-p-2600.jpg"
-      ],
-      "links": [],
-      "report_time_ist": "1:05 AM IST, Oct 13",
-      "report_time_pdt": "12:35 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T19:35:00Z",
-      "sentiment": {
-        "eu": "positive",
-        "russia": "negative",
-        "ukraine": "positive"
-      },
-      "source_name": "Reuters via Sowetan",
-      "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
-      "summary": "Ukraine's European allies voiced scepticism of the purported energy ceasefire, spoke strongly in support of Kyiv, and approved the largest set of EU sanctions since Russia's full-scale invasion in 2022.",
-      "title": "EU approves its largest sanctions package since the 2022 invasion"
-    },
-    {
-      "confidence": "single-sourced",
-      "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
-      "id": "trump-urges-zelensky-ouster-oct12",
-      "image_urls": [
-        "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/38/2025/07/08202835/Getty_DonaldTrump_7825707119.png"
-      ],
-      "links": [],
-      "report_time_ist": "1:05 AM IST, Oct 13",
-      "report_time_pdt": "12:35 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T19:35:00Z",
-      "sentiment": {
-        "ukraine": "negative",
-        "us": "neutral"
-      },
-      "source_name": "Reuters via Sowetan",
-      "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
-      "summary": "Amid a strained relationship between the two leaders, Trump called on Ukrainians to remove Zelensky through an election \u2014 an unusually severe exchange as Trump pushes his ceasefire narrative while Zelensky criticised the US diesel deal with Russia as reversing years of Western isolation policy.",
-      "title": "Trump publicly calls on Ukrainians to unseat Zelensky in an election"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026",
-      "id": "kremlin-rejects-60day-ceasefire-oct12",
-      "image_urls": [
-        "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
-      ],
-      "links": [
-        "https://www.reuters.com/world/europe/kremlin-rejects-ukrainian-leaders-idea-60-day-ceasefire-says-it-wants-an-overall-2026-10-12/",
-        "https://www.timesnowworld.com/us-news/kremlin-rejects-ukraine-60-day-ceasefire-proposal-for-elections-article-156325062",
-        "https://www.balkanbusinessnews.ro/kremlin-rejects-zelenskys-proposal-for-60-day-ceasefire-to-hold-elections/"
-      ],
-      "report_time_ist": "1:35 AM IST, Oct 13",
-      "report_time_pdt": "1:05 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T20:05:00Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative",
-        "ukraine": "neutral"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/kremlin-rejects-ukrainian-leaders-idea-60-day-ceasefire-says-it-wants-an-overall-2026-10-12/",
-      "summary": "Zelensky told ABC's 'This Week' on Sunday (Oct 11) to 'tell Putin, give us two months, 60 days of total ceasefire' so Ukraine can hold presidential elections (wartime elections are banned under Ukrainian law). At Monday's briefing, Kremlin spokesman Dmitry Peskov rejected the idea, saying Russia does not want a ceasefire but a long-term peace deal \u2014 though he added that Putin, as commander-in-chief, would order no attacks on election day itself if Kyiv genuinely wants elections. On Trump's 'energy ceasefire,' Peskov said discussions were continuing, declined to say whether it would apply only to oil refineries, and said further details would be announced in due course. Image is a representative photo of the Kremlin, Moscow \u2014 not the briefing itself.",
-      "title": "Kremlin rejects Zelensky's 60-day ceasefire-for-elections proposal; says energy-ceasefire talks continue but scope undisclosed"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026",
-      "id": "lavrov-rejects-respite-oct12",
-      "image_urls": [
-        "https://d2udx5iz3h7s4h.cloudfront.net/2026/2/10/Reuters/image/2026_02_10T072028Z_1_LYNXMPEM190BQ_RTROPTP_3_RUSSIA_LAVROV.JPG?width=720&format=webp&quality=80"
-      ],
-      "links": [
-        "https://www.thetimes.com/world/europe/article/trump-announces-ukraine-russia-energy-ceasefire-vxbz3lddz",
-        "https://www.whro.org/2026-10-12/russia-hits-ukraine-gas-facilities-after-trump-claims-energy-ceasefire"
-      ],
-      "report_time_ist": "1:50 AM IST, Oct 13",
-      "report_time_pdt": "1:20 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T20:20:00Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative",
-        "ukraine": "negative",
-        "us": "negative"
-      },
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
-      "summary": "Russian Foreign Minister Sergey Lavrov said Monday (Oct 12) that Moscow will not be swayed by ceasefire assurances: 'I do not believe he has earned such a respite, nor do I think we will once again fall for assurances and promises.' Lavrov said Kyiv would use any pause to regroup and rearm with European weapons \u2014 a markedly harder Kremlin rejection than spokesman Peskov's 'discussions continue' line from the same day. Image is a representative Reuters photo of Lavrov at the Foreign Ministry \u2014 not Monday's video address.",
-      "title": "Lavrov flatly rejects energy ceasefire: Ukraine doesn't 'deserve a respite'"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026",
-      "id": "trump-defends-diesel-deal-europe-oct12",
-      "image_urls": [
-        "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/08/640/360/donald-trump-white-house-briefing.jpg?ve=1&tl=1"
-      ],
-      "links": [
-        "https://www.newsmax.com/politics/trump-defends-decision/2026/10/12/id/1272486",
-        "https://www.livemint.com/news/world/trumps-russia-diesel-deal-sparks-bipartisan-backlash-why-the-move-is-under-fire-11791823431024.html"
-      ],
-      "report_time_ist": "1:50 AM IST, Oct 13",
-      "report_time_pdt": "1:20 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T20:20:00Z",
-      "sentiment": {
-        "eu": "negative",
-        "russia": "positive",
-        "us": "negative"
-      },
-      "source_name": "The Times",
-      "source_url": "https://www.thetimes.com/world/europe/article/trump-announces-ukraine-russia-energy-ceasefire-vxbz3lddz",
-      "summary": "In a Truth Social post Monday (Oct 12), Trump defended his Russian diesel import deal amid bipartisan backlash \u2014 seven senators, including four Republicans, demanded he reverse course, warning it violates the 2022 Russian energy import ban. 'The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn't want to get near that story. I made the right choice for the American People,' Trump wrote, accusing Europe of continuing to buy Russian oil and gas. Image is a representative photo of Trump at the White House briefing podium \u2014 not the post itself.",
-      "title": "Trump defends Russian diesel deal on Truth Social, accuses Europe of buying Russian oil"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026, ~11:46 AM IST (morning, per AzerNews timestamp)",
-      "id": "witkoff-kushner-moscow-trip-postponed-oct12",
-      "image_urls": [
-        "https://storage.ghost.io/c/3f/69/3f69bcaa-7eb9-433f-9878-9087148920fa/content/images/size/w1200/2025/05/Steve-Witkoff-1.jpeg"
-      ],
-      "links": [
-        "https://www.azernews.az/region/265376.html",
-        "https://en.topwar.ru/291477-uitkoff-i-kushner-ne-mogut-pribyt-v-moskvu-bez-chetkogo-ponimanija-pozicii-kieva.html"
-      ],
-      "report_time_ist": "3:48 AM IST, Oct 13",
-      "report_time_pdt": "3:18 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-12T22:18:13Z",
-      "sentiment": {
-        "russia": "neutral",
-        "ukraine": "neutral",
-        "us": "neutral"
-      },
-      "source_name": "Axios (via AzerNews); TASS (via topwar.ru); Ian Bremmer / GZERO Media",
-      "source_url": "https://www.azernews.az/region/265376.html",
-      "summary": "Axios reported that Trump's special envoys Steve Witkoff and Jared Kushner postponed a planned trip to Moscow because Washington has no clear read on whether Kyiv and EU allies will back a new US proposal - a halt to attacks on energy infrastructure (oil refineries) as a first step, followed by broader peace talks. TASS sources stressed the trip is not cancelled and could happen within ~2 weeks once Kyiv's position is clear. Eurasia Group's Ian Bremmer separately tied the envoys' delayed Moscow travel to the energy ceasefire's uncertain status 24 hours after Trump's announcement. (Image: representative photo of US envoy Steve Witkoff.)",
-      "title": "US envoys Witkoff and Kushner postpone planned Moscow trip over unclear Kyiv/EU position on US ceasefire proposal"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Overnight of Oct 11 into Oct 12, 2026",
-      "id": "izyum-grid-blackout-oct12",
-      "image_urls": [
-        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
-      ],
-      "links": [
-        "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
-        "https://infohandle.net/2026/10/12/zelenskyy-russia-six-energy-strikes-after-trump-truce-pledge/"
-      ],
-      "report_time_ist": "7:06 AM IST, Oct 13",
-      "report_time_pdt": "6:36 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-13T01:36:00Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative",
-        "ukraine": "neutral"
-      },
-      "source_name": "The Times",
-      "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
-      "summary": "After the overnight Oct 11-12 strikes, a Russian strike destroyed power grids in Izyum, leaving the city in blackout (per Ukraine's Ukrinform). State grid operator Ukrenergo reported fresh power cuts across the Kharkiv, Donetsk and Zaporizhzhia regions, while energy and railway infrastructure in western Ukraine was also targeted overnight into Monday, Oct 12.",
-      "title": "Russian strike destroys power grids in Izyum; Ukrenergo cuts power in Kharkiv, Donetsk, Zaporizhzhia"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Monday, Oct 12, 2026 (White House, before Ohio rally)",
-      "id": "trump-white-house-ceasefire-oct12",
-      "image_urls": [
-        "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/08/640/360/donald-trump-white-house-briefing.jpg?ve=1&tl=1"
-      ],
-      "links": [
-        "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
-        "https://www.leighjournal.co.uk/news/national/26626996.zelensky-says-russia-strikes-energy-facilities-despite-trump-ceasefire-claim/"
-      ],
-      "report_time_ist": "7:06 AM IST, Oct 13",
-      "report_time_pdt": "6:36 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-13T01:36:00Z",
-      "sentiment": {
-        "russia": "neutral",
-        "ukraine": "negative",
-        "us": "neutral"
-      },
-      "source_name": "The Times",
-      "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
-      "summary": "Asked at the White House to condemn Russia's strikes on Ukraine, President Trump declined - 'I'd have to look at it and see, because there's been violations on both sides' - and claimed 'Putin wants to make a deal more than Zelensky,' pressing Zelensky to 'focus on making a deal.'",
-      "title": "Trump at the White House refuses to condemn Russian strikes: 'violations on both sides'"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Monday, Oct 12, 2026 (Kyiv local)",
-      "id": "monday-civilian-toll-oct12",
-      "image_urls": [
-        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
-      ],
-      "links": [
-        "https://superhits979.com/2026/10/12/russian-strike-on-kyiv-residential-building-kills-one-injures-11-officials-say/",
-        "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
-        "https://openchronicle.org/2026/10/12/russia-strikes-ukrainian-energy-facilities-despite-trumps-ceasefire-announcement-as-zelensky-questions-moscows-intentions/"
-      ],
-      "report_time_ist": "7:06 AM IST, Oct 13",
-      "report_time_pdt": "6:36 PM PDT, Oct 12",
-      "reported_at_utc": "2026-10-13T01:36:00Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://superhits979.com/2026/10/12/russian-strike-on-kyiv-residential-building-kills-one-injures-11-officials-say/",
-      "summary": "A Monday-evening strike on a 25-story residential building in Kyiv's Darnitskyi district killed 2 and injured 9 (Reuters). Near Kramatorsk, a house in Cherkaske was hit - 3 killed including a 13-year-old girl - with Donetsk admin head Vadym Filashkin alleging cluster munitions in 'a deliberate attempt' to maximize civilian casualties. In Kharkiv a collapsed building entrance injured 5, one person died in a Lozova drone attack, and one each near Fastiv and in Dnipro.",
-      "title": "Monday's civilian toll: Kyiv high-rise hit, family killed near Kramatorsk, more struck in Kharkiv, Lozova, Fastiv, Dnipro"
-    },
-    {
-      "id": "oct12-crude-prices-fall-ceasefire-hopes",
-      "event_time_ist": "Oct 12, 2026 (Monday trading session)",
-      "title": "Crude prices slip on 'energy ceasefire' hopes; IEA chief urges member states to weigh diesel releases",
-      "summary": "Oil fell Monday on expectations of more Russian supplies after Trump's Sunday 'energy ceasefire' claim and the Friday US-Russia diesel deal. Brent crude dropped ~1.3% to around $103.35-103.40/bbl and WTI ~1.4-1.6% to about $90.40-90.60/bbl, while ICE gasoil fell 3% to $1,436/ton after Russia promised 300,000 tons of diesel immediately plus 500,000 tons in November. IEA executive director Fatih Birol urged member countries Sunday to consider whether extra diesel releases might be needed and to accelerate promised supplies, with a focus on diesel. Analysts cautioned the pullback would stay limited without evidence the ceasefire holds; Middle East conflict risk kept Brent above $100.",
-      "source_name": "Reuters via WYSL NewsPower 1040",
-      "source_url": "https://www.wysl1040.com/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies/",
-      "links": [
-        "https://marketinsider.net/oil-prices-russia-ukraine-energy-truce-supply/",
-        "https://www.offshore-technology.com/news/oil-drop-russia-ukraine-ceasefire-talks/"
-      ],
-      "image_urls": [
-        "https://formoney.in/wp-content/uploads/2021/11/oil-crude-640x427.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "10:48 PM PDT, Oct 12",
-      "report_time_ist": "11:18 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T05:48:00Z",
-      "sentiment": {
-        "us": "positive",
-        "eu": "positive",
-        "russia": "neutral"
-      }
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026 (report published; meeting held Friday Oct 9)",
-      "id": "us-diesel-deal-soften-moscow-miami-meeting",
-      "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-11/251110-Witkoff-Kushner-rs-926c45.jpg"
-      ],
-      "links": [
-        "https://www.europesays.com/russia/75558/"
-      ],
-      "report_time_ist": "2:03 PM IST, Oct 13",
-      "report_time_pdt": "1:33 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T08:33:10Z",
-      "sentiment": {
-        "russia": "positive",
-        "ukraine": "neutral",
-        "us": "neutral"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/us-hopes-diesel-deal-can-soften-moscow-peace-talks-sources-say-2026-10-12/",
-      "summary": "Trump envoys Steve Witkoff and Jared Kushner told Ukrainian officials in a meeting in Miami on Friday that the US-Russia diesel deal (2.25M+ barrels) is part of a bid to draw Russia back to negotiations after the failure of previous efforts \u2014 the deal could 'soften' Moscow's position and help restart trilateral talks. The envoys said Putin is not prepared to negotiate an end to the war; a person close to the Kremlin said Putin will only return to the table when 'he gets the remaining 11% of Donbas.' Kushner reiterated the US demand that Ukraine stop striking Russian refineries ('See, the Ukrainians stopped striking and we gave you this deal. Now it's your turn to do something'), stressing the US had made the request several times. The Ukrainians were skeptical of using business deals to appease Russia, left without agreeing to anything formally, but signaled willingness to accept an energy ceasefire so long as Russia does. The meeting also touched on security guarantees, reconstruction funds and World Bank involvement.",
-      "title": "Reuters: US meant diesel deal as lure to 'soften' Moscow and restart trilateral talks; Kushner pressed Kyiv again on refinery strikes"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12-13, 2026 (strikes Monday and overnight; claims reported Oct 13)",
-      "id": "russia-mod-ships-logistics-strikes-oct13",
-      "image_urls": [
-        "https://shippingtelegraph.com/wp-content/uploads/2026/07/ODESA-SEAPORT-2048x1365.jpg"
-      ],
-      "links": [
-        "https://www.reuters.com/world/europe/russia-says-it-struck-vessels-carrying-military-cargo-ukraines-ports-2026-10-12/",
-        "https://www.dimsumdaily.hk/russia-says-it-hit-ships-carrying-military-cargo-bound-for-ukraines-ports/"
-      ],
-      "report_time_ist": "2:03 PM IST, Oct 13",
-      "report_time_pdt": "1:33 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T08:33:10Z",
-      "sentiment": {
-        "civilians": "neutral",
-        "russia": "neutral",
-        "ukraine": "negative"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/world/europe/russia-says-it-hit-ship-delivering-military-cargo-ukraines-mykolaiv-2026-10-13/",
-      "summary": "Russia's Defence Ministry claimed Monday drone strikes hit three cargo vessels it alleged were transporting military or dual-use cargo to Black Sea ports \u2014 two dry cargo ships bound for Odesa struck at sea and one for Mykolaiv \u2014 plus port infrastructure and a Nova Poshta logistics center in Ternivka (Mykolaiv region) that it said stored dual-use goods for Ukraine's armed forces. A Tuesday briefing listed further overnight targets: a workshop at the Pulp Mill Print facility in Kyiv (said to produce missiles and long-range drones), the Darnytsia locomotive depot (rolling stock used for military cargo), a UAV warehouse in Meshkovo-Pohorelove, and a dry cargo vessel in the Bug estuary. Reuters could not independently verify the claims; no Ukrainian response reported. None of the claimed targets were energy facilities.",
-      "title": "Russia's Defence Ministry claims drone strikes on 3 cargo ships and logistics targets in Odesa/Mykolaiv and Kyiv regions"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Oct 12, 2026 (Novak's Rossiya-24 interview aired Monday; Reuters published Oct 12, 2026)",
-      "id": "novak-diesel-exports-exceed-trump",
-      "image_urls": [
-        "https://menatoday.info/var/site/storage/images/_aliases/i1320/6/2/6/1/151626-1-eng-GB/b54f56fcebf7-NOVAK.jpg.webp"
-      ],
-      "links": [
-        "https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
-        "https://reporterworldnews.com/news/world/2026/10/13/trump-plan-to-buy-russian-diesel-raises-questions-over-us-sanctions",
-        "https://www.devdiscourse.com/article/international/3991169-russia-says-its-diesel-exports-may-exceed-volumes-announced-by-trump"
-      ],
-      "report_time_ist": "3:18 PM IST, Oct 13",
-      "report_time_pdt": "2:48 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T09:48:00Z",
-      "sentiment": {
-        "russia": "positive",
-        "us": "neutral"
-      },
-      "source_name": "Reuters",
-      "source_url": "https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
-      "summary": "On Monday Oct 12, Deputy PM Alexander Novak told Rossiya-24 that Russia can return diesel exports to 3.0-3.5M metric tons per month by year-end - above the roughly 4.8M-ton schedule Trump outlined Friday under the US-Russia deal - saying global diesel prices had already fallen about 5-6%. He said Moscow is discussing supplies with Washington through energy departments and companies, and noted the government cleared 500,000 tons of diesel for export after the Friday Putin-Trump call.",
-      "title": "Russia says diesel exports could exceed Trump's outlined volumes; Novak targets 3-3.5M tons/month by year-end"
-    },
-    {
-      "id": "merz-diesel-deal-out-of-the-question-oct12",
-      "event_time_ist": "Oct 12, 2026 (afternoon Berlin time)",
-      "title": "Merz: Trump's Russian diesel deal 'out of the question' for Europe",
-      "summary": "German Chancellor Friedrich Merz said at a Berlin press conference Monday that the US-brokered arrangement for Russian diesel exports is 'out of the question' for Germany and Europe; Berlin will keep its sanctions on Moscow and continue supporting Ukraine. Merz argued Russia negotiates 'seriously' only under pressure, noted Russia kept hitting Ukraine's civilian energy infrastructure after Trump's 'energy ceasefire' claim, and said EU leaders will coordinate strategy at the Brussels summit Thursday-Friday.",
-      "source_name": "Xinhua",
-      "source_url": "https://www.belgiumnews.net/news/279368637/1st-ld-writethru-diesel-deal-with-russia-out-of-the-question-merz",
-      "links": [
-        "https://www.newspointapp.com/english/trending/diesel-deal-with-russia-out-of-the-question-merz-ianslive/articleshow/145048201784976cc7a1a3afae450ad6cfc9b1ed",
-        "https://www.youtube.com/watch?v=sr2QoPkn_kQ"
-      ],
-      "image_urls": [
-        "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "3:36 AM PDT, Oct 13",
-      "report_time_ist": "4:06 PM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T10:36:00Z",
-      "sentiment": {
-        "eu": "positive",
-        "us": "negative",
-        "russia": "negative"
-      }
-    },
-    {
-      "id": "merz-zelensky-call-russia-ceasefire-responsibility-oct12",
-      "event_time_ist": "Evening, Oct 12, 2026",
-      "title": "Merz-Zelensky call: responsibility for energy ceasefire 'rests with Russia'",
-      "summary": "German Chancellor Friedrich Merz held a telephone call with Ukrainian President Volodymyr Zelensky on Monday evening. Zelensky briefed him on the weekend's massive Russian aerial attacks on civilian areas and energy infrastructure; Merz reaffirmed Germany's solidarity, and both agreed the responsibility for establishing a ceasefire over all energy infrastructure now rests with Russia. They also agreed to keep coordinating closely with European and transatlantic partners on peace efforts.",
-      "source_name": "German government (spokesman Stefan Kornelius) via Osna.FM",
-      "source_url": "https://news.osna.fm/?p=67605",
-      "links": [
-        "https://www.fananews.com/language/en/german-chancellor-ukrainian-president-say-russia-must-agree-to-energy-ceasefire/"
-      ],
-      "image_urls": [
-        "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "3:36 AM PDT, Oct 13",
-      "report_time_ist": "4:06 PM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T10:36:00Z",
-      "sentiment": {
-        "ukraine": "positive",
-        "eu": "positive",
-        "russia": "negative"
-      }
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Overnight of Oct 12 into Oct 13, 2026 (Russia's Defence Ministry Tuesday summary; Kremlin comment Tuesday Oct 13)",
-      "id": "russia-no-energy-targets-tuesday-oct13",
-      "image_urls": [
-        "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
-      ],
-      "links": [
-        "https://wabx.net/2026/10/13/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce/",
-        "https://www.reuters.com/world/kremlin-says-contacts-trumps-russia-ukraine-energy-ceasefire-are-continuing-2026-10-13/",
-        "https://aapnews.aap.com.au/news/russia-hits-no-energy-targets-in-ukraine-after-truce"
-      ],
-      "report_time_ist": "5:18 PM IST, Oct 13",
-      "report_time_pdt": "4:48 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T11:48:19Z",
-      "sentiment": {
-        "civilians": "positive",
-        "russia": "neutral",
-        "us": "positive"
-      },
-      "source_name": "Reuters (via KRRO/WABX syndication)",
-      "source_url": "https://krro.com/2026/10/13/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce/",
-      "summary": "Reuters (Kyiv, Oct 13) reports Russia's Defence Ministry made no mention of Ukrainian energy facilities in its daily summary of overnight strikes - the first night since Trump's Sunday 'energy ceasefire' announcement with no reported energy targeting. Overnight attacks instead hit transport and logistics: ballistic missiles and drones struck Kyiv transport and warehouse facilities (Dniprovskyi, Desnianskyi). One missile landed just over a kilometre from a plant providing heating to much of Lviv in the west. The Kremlin (Peskov) on Tuesday still refused to confirm the ceasefire, saying only that 'contacts are continuing' and declining further details. Zelensky counters that Russia has continued hitting energy and critical infrastructure over the two days.",
-      "title": "Russia claims no energy targets hit overnight Tuesday - first night since Trump's 'truce'"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Tuesday Oct 13, 2026 (Zelensky statement on overnight Oct 12-13 attacks)",
-      "id": "zelensky-tuesday-statement-oct13",
-      "image_urls": [
-        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
-      ],
-      "links": [
-        "https://anewz.tv/world/world-news/25426/trump-says-russia-ukraine-energy-ceasefire-is-in-effect/news",
-        "https://www.europesays.com/russia/75596/"
-      ],
-      "report_time_ist": "5:18 PM IST, Oct 13",
-      "report_time_pdt": "4:48 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T11:48:19Z",
-      "sentiment": {
-        "civilians": "negative",
-        "russia": "negative",
-        "ukraine": "neutral",
-        "us": "neutral"
-      },
-      "source_name": "Zelensky statement (via AAP/Reuters, AnewZ live blog)",
-      "source_url": "https://aapnews.aap.com.au/news/russia-hits-no-energy-targets-in-ukraine-after-truce",
-      "summary": "Zelensky said Tuesday that since Monday evening Russia has attacked Ukraine with more than a hundred weapons - jet-powered drones, loitering munitions and ballistic missiles. A strike destroyed a residential building in Kharkiv, killing 4; 41 people were injured in Kharkiv in a single evening. A ballistic-missile strike on Kyiv hit civilian infrastructure, and Zelensky complained Ukraine received no early warning from partners about the launch - a new dig at the US intelligence-sharing threat. He said Ukraine has not struck Russian refineries or the energy sector at all for the two days since Trump's announcement, while Russia 'did not heed the American President' and kept hitting energy facilities and critical infrastructure; 19 regions came under attack in two days. He added Ukraine is ready for reciprocal steps toward de-escalation. Kyiv Post's updated overnight report corroborates the toll: two women killed in Kyiv, four killed in Kharkiv.",
-      "title": "Zelensky: >100 Russian weapons overnight; 4 killed in Kharkiv; Ukraine has held off refinery strikes for two days"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Tuesday Oct 13, 2026 (at the Warsaw Security Forum; forum-day, Warsaw time)",
-      "id": "miliband-warsaw-energy-ceasefire-oct13",
-      "image_urls": [
-        "https://www.sajr.co.za/wp-content/uploads/2026/09/UK-Foreign-Secretary-Ed-Miliband-arrives-at-10-Downing-Street-ton-September-1-2026.-Rasid-Necati-Aslimx3aAnadolu-via-Getty-Images-2048x1141.jpg"
-      ],
-      "links": [
-        "https://thelondonweekly.net/world-news/12380-uk-calls-for-energy-ceasefire-in-ukraine-as-russia-intensifies-attacks-on-power-infrastructure",
-        "https://www.wandsworthtimes.co.uk/news/national/26630575.foreign-secretary-miliband-urges-support-ukraines-zelensky/",
-        "https://www.europesays.com/ukraine/55546/"
-      ],
-      "report_time_ist": "10:35 PM IST, Oct 13",
-      "report_time_pdt": "10:05 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T17:05:00Z",
-      "sentiment": {
-        "civilians": "positive",
-        "eu": "positive",
-        "russia": "negative",
-        "uk": "positive",
-        "ukraine": "positive",
-        "us": "neutral"
-      },
-      "source_name": "The London Weekly; PA wire (via Clacton Gazette)",
-      "source_url": "https://www.clactonandfrintongazette.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/?ref=rss",
-      "summary": "At the Warsaw Security Forum on Tuesday Oct 13, UK Foreign Secretary Ed Miliband urged European partners to back an energy ceasefire, saying the idea 'should be taken seriously' because 'in the last week alone we've seen 200 Russian attacks on Ukrainian energy infrastructure' (Foreign Office figures; 1,450 bombs and 1,600 drones in the same period). He acknowledged a 'very difficult few days' in relations with Washington after Trump's diesel deal and his calls for Zelensky's removal, praised Zelensky's 'extraordinary leadership,' and said: 'let us seek with President Trump to hold Putin to this full energy ceasefire.' He also met Polish FM Sikorski and said the UK would move with the EU on using frozen Russian assets if the bloc agrees. Catch-up: earlier runs missed this forum-day item.",
-      "title": "UK's Miliband urges European allies to back energy ceasefire at Warsaw Security Forum; cites 200 Russian energy-infra attacks in a week"
-    },
-    {
-      "confidence": "confirmed",
-      "event_time_ist": "Sunday Oct 11, 2026 (PMO readout after the Carney-Zelensky call)",
-      "id": "carney-diesel-deal-criticism-oct11",
-      "image_urls": [
-        "https://www.asiapacific.ca/sites/default/files/styles/webp_1000/public/Carney%20One%20Year%20Policy%20Mag%20Keystone.png.webp"
-      ],
-      "links": [
-        "https://www.tbsnews.net/worldbiz/usa/us-republicans-democrats-want-trump-reverse-course-russia-diesel-1569796",
-        "https://www.dagens.com/war/canada-condemns-trump-over-russia-deal-its-illegal-and-unjustified",
-        "https://noticiasenvivo.cl/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/"
-      ],
-      "report_time_ist": "10:35 PM IST, Oct 13",
-      "report_time_pdt": "10:05 AM PDT, Oct 13",
-      "reported_at_utc": "2026-10-13T17:05:00Z",
-      "sentiment": {
-        "russia": "negative",
-        "ukraine": "positive",
-        "us": "negative"
-      },
-      "source_name": "National Newswatch",
-      "source_url": "https://www.europesays.com/canada/246049/",
-      "summary": "After a Sunday Oct 11 call with Zelensky, Canadian PM Mark Carney's office said Trump's US-Russia diesel agreement 'is in direct opposition to the efforts of Ukraine, Canada, and our allies to create peace and stability in Europe' and 'will provide additional revenue for Russia and help finance its illegal, unjustifiable war against Ukraine'; Carney said Canada remains willing to expand its Russia sanctions. On the same day he also thanked Trump for 'his leadership toward securing an energy ceasefire.' Catch-up: this Oct 11 PMO statement was missed by all earlier runs.",
-      "title": "Canada's Carney publicly slammed Trump's diesel deal with Russia (Oct 11 PMO statement, catch-up)"
-    }
-  ]
+ "items": [
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11, 2026 (Sunday morning US time)",
+   "id": "trump-energy-ceasefire-oct11",
+   "image_urls": [
+    "https://static.ukrinform.com/photos/2025_08/thumb_files/630_360_1755597793-935.jpeg"
+   ],
+   "links": [
+    "https://nypost.com/2026/10/11/us-news/russia-ukraine-reach-energy-cease-fire-effective-immediately-trump-announces/"
+   ],
+   "report_time_ist": "1:05 AM IST, Oct 13",
+   "report_time_pdt": "12:35 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T19:35:00Z",
+   "sentiment": {
+    "russia": "neutral",
+    "ukraine": "neutral",
+    "us": "positive"
+   },
+   "source_name": "CNN",
+   "source_url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
+   "summary": "Trump posted on Truth Social that Russia and Ukraine had agreed to an immediate 'energy ceasefire' \u2014 'Both parties have agreed. Do not break it!' \u2014 giving no scope, duration or verification detail. It is his second such declaration: he made a near-identical claim on Sept 14, which Putin rebuffed (per WSJ), after which strikes on energy targets continued. The announcement came days after the Oct 9 US-Russia deal suspending sanctions to allow up to 4.8M tonnes of Russian diesel onto world markets (Treasury licence running to Apr 7, 2027); Trump has blamed Ukrainian refinery strikes for the US diesel-price spike ($6.28/gal, AAA) ahead of the midterms.",
+   "title": "Trump announces immediate 'energy ceasefire' between Russia and Ukraine"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 11-12, 2026",
+   "id": "zelensky-conditional-yes-oct11",
+   "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+   ],
+   "links": [
+    "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta"
+   ],
+   "report_time_ist": "1:05 AM IST, Oct 13",
+   "report_time_pdt": "12:35 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T19:35:00Z",
+   "sentiment": {
+    "ukraine": "positive",
+    "us": "neutral"
+   },
+   "source_name": "NY Post",
+   "source_url": "https://nypost.com/2026/10/12/world-news/zelensky-says-russia-still-striking-energy-facilities-despite-trump-declaration-of-energy-ceasefire/",
+   "summary": "Zelensky said the announcement came as news to him \u2014 telling Axios it caught Kyiv off guard \u2014 but that Ukraine is ready to accept an energy ceasefire if Russia agrees, and is awaiting details on when it begins. After the announcement he spoke with Canadian PM Mark Carney, Finnish President Alexander Stubb and NATO chief Mark Rutte. At the Warsaw Security Forum on Monday (via video link) he said Ukraine would abide if Russia does, noting Russian refineries were not burning the previous night \u2014 while Russia struck Ukrainian energy targets.",
+   "title": "Zelensky says ceasefire was news to Kyiv, but Ukraine will abide if Russia does"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Night of Oct 11 into morning of Oct 12, 2026",
+   "id": "russia-strikes-energy-oct12",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://brusselssignal.eu/2026/10/trump-declares-russia-ukraine-energy-ceasefire-as-strikes-on-kyiv-continue/",
+    "https://www.livemint.com/news/us-news/russiaukraine-war-trump-announces-energy-ceasefire-says-both-sides-agree-heres-how-kyiv-and-moscow-responded-11791770994201.html"
+   ],
+   "report_time_ist": "1:05 AM IST, Oct 13",
+   "report_time_pdt": "12:35 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T19:35:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "negative"
+   },
+   "source_name": "Reuters via Sowetan",
+   "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
+   "summary": "Zelensky said Russia hit at least six energy targets in overnight and morning strikes across Ukraine, showing Moscow has no interest in the energy ceasefire. Targets included a Kharkiv power plant struck Sunday night in an attack that killed 3 and wounded 9 (including children), a gas production facility hit by a jet-powered Shahed drone, and a gas facility plus a petrol station hit by drones; a Kyiv power plant was also reported struck. The Kremlin has not confirmed any ceasefire agreement; spokesman Peskov said only that 'contacts are ongoing'.",
+   "title": "Russia keeps hitting Ukrainian energy targets despite ceasefire claim"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Oct 12, 2026",
+   "id": "eu-largest-sanctions-oct12",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/63e17201c0e987cde7c22d62/6744da9c153bb045c94f04c5_1095426160-p-2600.jpg"
+   ],
+   "links": [],
+   "report_time_ist": "1:05 AM IST, Oct 13",
+   "report_time_pdt": "12:35 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T19:35:00Z",
+   "sentiment": {
+    "eu": "positive",
+    "russia": "negative",
+    "ukraine": "positive"
+   },
+   "source_name": "Reuters via Sowetan",
+   "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
+   "summary": "Ukraine's European allies voiced scepticism of the purported energy ceasefire, spoke strongly in support of Kyiv, and approved the largest set of EU sanctions since Russia's full-scale invasion in 2022.",
+   "title": "EU approves its largest sanctions package since the 2022 invasion"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Oct 12, 2026 (reported Oct 12)",
+   "id": "trump-urges-zelensky-ouster-oct12",
+   "image_urls": [
+    "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/38/2025/07/08202835/Getty_DonaldTrump_7825707119.png"
+   ],
+   "links": [],
+   "report_time_ist": "1:05 AM IST, Oct 13",
+   "report_time_pdt": "12:35 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T19:35:00Z",
+   "sentiment": {
+    "ukraine": "negative",
+    "us": "neutral"
+   },
+   "source_name": "Reuters via Sowetan",
+   "source_url": "https://www.sowetan.co.za/news/world/2026-10-12-ukraine-accuses-russia-of-violating-trumps-energy-ceasefire-as-eu-imposes-new-sanctions/",
+   "summary": "Amid a strained relationship between the two leaders, Trump called on Ukrainians to remove Zelensky through an election \u2014 an unusually severe exchange as Trump pushes his ceasefire narrative while Zelensky criticised the US diesel deal with Russia as reversing years of Western isolation policy.",
+   "title": "Trump publicly calls on Ukrainians to unseat Zelensky in an election"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026",
+   "id": "kremlin-rejects-60day-ceasefire-oct12",
+   "image_urls": [
+    "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
+   ],
+   "links": [
+    "https://www.reuters.com/world/europe/kremlin-rejects-ukrainian-leaders-idea-60-day-ceasefire-says-it-wants-an-overall-2026-10-12/",
+    "https://www.timesnowworld.com/us-news/kremlin-rejects-ukraine-60-day-ceasefire-proposal-for-elections-article-156325062",
+    "https://www.balkanbusinessnews.ro/kremlin-rejects-zelenskys-proposal-for-60-day-ceasefire-to-hold-elections/"
+   ],
+   "report_time_ist": "1:35 AM IST, Oct 13",
+   "report_time_pdt": "1:05 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T20:05:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "neutral"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/kremlin-rejects-ukrainian-leaders-idea-60-day-ceasefire-says-it-wants-an-overall-2026-10-12/",
+   "summary": "Zelensky told ABC's 'This Week' on Sunday (Oct 11) to 'tell Putin, give us two months, 60 days of total ceasefire' so Ukraine can hold presidential elections (wartime elections are banned under Ukrainian law). At Monday's briefing, Kremlin spokesman Dmitry Peskov rejected the idea, saying Russia does not want a ceasefire but a long-term peace deal \u2014 though he added that Putin, as commander-in-chief, would order no attacks on election day itself if Kyiv genuinely wants elections. On Trump's 'energy ceasefire,' Peskov said discussions were continuing, declined to say whether it would apply only to oil refineries, and said further details would be announced in due course. Image is a representative photo of the Kremlin, Moscow \u2014 not the briefing itself.",
+   "title": "Kremlin rejects Zelensky's 60-day ceasefire-for-elections proposal; says energy-ceasefire talks continue but scope undisclosed"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026",
+   "id": "lavrov-rejects-respite-oct12",
+   "image_urls": [
+    "https://d2udx5iz3h7s4h.cloudfront.net/2026/2/10/Reuters/image/2026_02_10T072028Z_1_LYNXMPEM190BQ_RTROPTP_3_RUSSIA_LAVROV.JPG?width=720&format=webp&quality=80"
+   ],
+   "links": [
+    "https://www.thetimes.com/world/europe/article/trump-announces-ukraine-russia-energy-ceasefire-vxbz3lddz",
+    "https://www.whro.org/2026-10-12/russia-hits-ukraine-gas-facilities-after-trump-claims-energy-ceasefire"
+   ],
+   "report_time_ist": "1:50 AM IST, Oct 13",
+   "report_time_pdt": "1:20 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T20:20:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "negative",
+    "us": "negative"
+   },
+   "source_name": "CNN",
+   "source_url": "https://www.cnn.com/2026/10/11/politics/trump-ukraine-russia-energy-ceasefire?cid=external-feeds_iluminar_meta",
+   "summary": "Russian Foreign Minister Sergey Lavrov said Monday (Oct 12) that Moscow will not be swayed by ceasefire assurances: 'I do not believe he has earned such a respite, nor do I think we will once again fall for assurances and promises.' Lavrov said Kyiv would use any pause to regroup and rearm with European weapons \u2014 a markedly harder Kremlin rejection than spokesman Peskov's 'discussions continue' line from the same day. Image is a representative Reuters photo of Lavrov at the Foreign Ministry \u2014 not Monday's video address.",
+   "title": "Lavrov flatly rejects energy ceasefire: Ukraine doesn't 'deserve a respite'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026",
+   "id": "trump-defends-diesel-deal-europe-oct12",
+   "image_urls": [
+    "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/08/640/360/donald-trump-white-house-briefing.jpg?ve=1&tl=1"
+   ],
+   "links": [
+    "https://www.newsmax.com/politics/trump-defends-decision/2026/10/12/id/1272486",
+    "https://www.livemint.com/news/world/trumps-russia-diesel-deal-sparks-bipartisan-backlash-why-the-move-is-under-fire-11791823431024.html"
+   ],
+   "report_time_ist": "1:50 AM IST, Oct 13",
+   "report_time_pdt": "1:20 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T20:20:00Z",
+   "sentiment": {
+    "eu": "negative",
+    "russia": "positive",
+    "us": "negative"
+   },
+   "source_name": "The Times",
+   "source_url": "https://www.thetimes.com/world/europe/article/trump-announces-ukraine-russia-energy-ceasefire-vxbz3lddz",
+   "summary": "In a Truth Social post Monday (Oct 12), Trump defended his Russian diesel import deal amid bipartisan backlash \u2014 seven senators, including four Republicans, demanded he reverse course, warning it violates the 2022 Russian energy import ban. 'The European Union paid Russia 250 Billion Dollars for Energy, and the Fake News Media doesn't want to get near that story. I made the right choice for the American People,' Trump wrote, accusing Europe of continuing to buy Russian oil and gas. Image is a representative photo of Trump at the White House briefing podium \u2014 not the post itself.",
+   "title": "Trump defends Russian diesel deal on Truth Social, accuses Europe of buying Russian oil"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026, ~11:46 AM IST (morning, per AzerNews timestamp)",
+   "id": "witkoff-kushner-moscow-trip-postponed-oct12",
+   "image_urls": [
+    "https://storage.ghost.io/c/3f/69/3f69bcaa-7eb9-433f-9878-9087148920fa/content/images/size/w1200/2025/05/Steve-Witkoff-1.jpeg"
+   ],
+   "links": [
+    "https://www.azernews.az/region/265376.html",
+    "https://en.topwar.ru/291477-uitkoff-i-kushner-ne-mogut-pribyt-v-moskvu-bez-chetkogo-ponimanija-pozicii-kieva.html"
+   ],
+   "report_time_ist": "3:48 AM IST, Oct 13",
+   "report_time_pdt": "3:18 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-12T22:18:13Z",
+   "sentiment": {
+    "russia": "neutral",
+    "ukraine": "neutral",
+    "us": "neutral"
+   },
+   "source_name": "Axios (via AzerNews); TASS (via topwar.ru); Ian Bremmer / GZERO Media",
+   "source_url": "https://www.azernews.az/region/265376.html",
+   "summary": "Axios reported that Trump's special envoys Steve Witkoff and Jared Kushner postponed a planned trip to Moscow because Washington has no clear read on whether Kyiv and EU allies will back a new US proposal - a halt to attacks on energy infrastructure (oil refineries) as a first step, followed by broader peace talks. TASS sources stressed the trip is not cancelled and could happen within ~2 weeks once Kyiv's position is clear. Eurasia Group's Ian Bremmer separately tied the envoys' delayed Moscow travel to the energy ceasefire's uncertain status 24 hours after Trump's announcement. (Image: representative photo of US envoy Steve Witkoff.)",
+   "title": "US envoys Witkoff and Kushner postpone planned Moscow trip over unclear Kyiv/EU position on US ceasefire proposal"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Overnight of Oct 11 into Oct 12, 2026",
+   "id": "izyum-grid-blackout-oct12",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
+    "https://infohandle.net/2026/10/12/zelenskyy-russia-six-energy-strikes-after-trump-truce-pledge/"
+   ],
+   "report_time_ist": "7:06 AM IST, Oct 13",
+   "report_time_pdt": "6:36 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T01:36:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "neutral"
+   },
+   "source_name": "The Times",
+   "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
+   "summary": "After the overnight Oct 11-12 strikes, a Russian strike destroyed power grids in Izyum, leaving the city in blackout (per Ukraine's Ukrinform). State grid operator Ukrenergo reported fresh power cuts across the Kharkiv, Donetsk and Zaporizhzhia regions, while energy and railway infrastructure in western Ukraine was also targeted overnight into Monday, Oct 12.",
+   "title": "Russian strike destroys power grids in Izyum; Ukrenergo cuts power in Kharkiv, Donetsk, Zaporizhzhia"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Monday, Oct 12, 2026 (White House, before Ohio rally)",
+   "id": "trump-white-house-ceasefire-oct12",
+   "image_urls": [
+    "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2025/08/640/360/donald-trump-white-house-briefing.jpg?ve=1&tl=1"
+   ],
+   "links": [
+    "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
+    "https://www.leighjournal.co.uk/news/national/26626996.zelensky-says-russia-strikes-energy-facilities-despite-trump-ceasefire-claim/"
+   ],
+   "report_time_ist": "7:06 AM IST, Oct 13",
+   "report_time_pdt": "6:36 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T01:36:00Z",
+   "sentiment": {
+    "russia": "neutral",
+    "ukraine": "negative",
+    "us": "neutral"
+   },
+   "source_name": "The Times",
+   "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
+   "summary": "Asked at the White House to condemn Russia's strikes on Ukraine, President Trump declined - 'I'd have to look at it and see, because there's been violations on both sides' - and claimed 'Putin wants to make a deal more than Zelensky,' pressing Zelensky to 'focus on making a deal.'",
+   "title": "Trump at the White House refuses to condemn Russian strikes: 'violations on both sides'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Monday, Oct 12, 2026 (Kyiv local)",
+   "id": "monday-civilian-toll-oct12",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://superhits979.com/2026/10/12/russian-strike-on-kyiv-residential-building-kills-one-injures-11-officials-say/",
+    "https://www.thetimes.com/world/russia-ukraine-war/article/trump-zelensky-russia-diesel-deal-midterms-dz8r3v2rw",
+    "https://openchronicle.org/2026/10/12/russia-strikes-ukrainian-energy-facilities-despite-trumps-ceasefire-announcement-as-zelensky-questions-moscows-intentions/"
+   ],
+   "report_time_ist": "7:06 AM IST, Oct 13",
+   "report_time_pdt": "6:36 PM PDT, Oct 12",
+   "reported_at_utc": "2026-10-13T01:36:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://superhits979.com/2026/10/12/russian-strike-on-kyiv-residential-building-kills-one-injures-11-officials-say/",
+   "summary": "A Monday-evening strike on a 25-story residential building in Kyiv's Darnitskyi district killed 2 and injured 9 (Reuters). Near Kramatorsk, a house in Cherkaske was hit - 3 killed including a 13-year-old girl - with Donetsk admin head Vadym Filashkin alleging cluster munitions in 'a deliberate attempt' to maximize civilian casualties. In Kharkiv a collapsed building entrance injured 5, one person died in a Lozova drone attack, and one each near Fastiv and in Dnipro.",
+   "title": "Monday's civilian toll: Kyiv high-rise hit, family killed near Kramatorsk, more struck in Kharkiv, Lozova, Fastiv, Dnipro"
+  },
+  {
+   "id": "oct12-crude-prices-fall-ceasefire-hopes",
+   "event_time_ist": "Oct 12, 2026 (Monday trading session)",
+   "title": "Crude prices slip on 'energy ceasefire' hopes; IEA chief urges member states to weigh diesel releases",
+   "summary": "Oil fell Monday on expectations of more Russian supplies after Trump's Sunday 'energy ceasefire' claim and the Friday US-Russia diesel deal. Brent crude dropped ~1.3% to around $103.35-103.40/bbl and WTI ~1.4-1.6% to about $90.40-90.60/bbl, while ICE gasoil fell 3% to $1,436/ton after Russia promised 300,000 tons of diesel immediately plus 500,000 tons in November. IEA executive director Fatih Birol urged member countries Sunday to consider whether extra diesel releases might be needed and to accelerate promised supplies, with a focus on diesel. Analysts cautioned the pullback would stay limited without evidence the ceasefire holds; Middle East conflict risk kept Brent above $100.",
+   "source_name": "Reuters via WYSL NewsPower 1040",
+   "source_url": "https://www.wysl1040.com/oil-falls-on-hopes-russia-ukraine-energy-ceasefire-will-boost-supplies/",
+   "links": [
+    "https://marketinsider.net/oil-prices-russia-ukraine-energy-truce-supply/",
+    "https://www.offshore-technology.com/news/oil-drop-russia-ukraine-ceasefire-talks/"
+   ],
+   "image_urls": [
+    "https://formoney.in/wp-content/uploads/2021/11/oil-crude-640x427.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:48 PM PDT, Oct 12",
+   "report_time_ist": "11:18 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T05:48:00Z",
+   "sentiment": {
+    "us": "positive",
+    "eu": "positive",
+    "russia": "neutral"
+   }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026 (report published; meeting held Friday Oct 9)",
+   "id": "us-diesel-deal-soften-moscow-miami-meeting",
+   "image_urls": [
+    "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2025-11/251110-Witkoff-Kushner-rs-926c45.jpg"
+   ],
+   "links": [
+    "https://www.europesays.com/russia/75558/"
+   ],
+   "report_time_ist": "2:03 PM IST, Oct 13",
+   "report_time_pdt": "1:33 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T08:33:10Z",
+   "sentiment": {
+    "russia": "positive",
+    "ukraine": "neutral",
+    "us": "neutral"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/us-hopes-diesel-deal-can-soften-moscow-peace-talks-sources-say-2026-10-12/",
+   "summary": "Trump envoys Steve Witkoff and Jared Kushner told Ukrainian officials in a meeting in Miami on Friday that the US-Russia diesel deal (2.25M+ barrels) is part of a bid to draw Russia back to negotiations after the failure of previous efforts \u2014 the deal could 'soften' Moscow's position and help restart trilateral talks. The envoys said Putin is not prepared to negotiate an end to the war; a person close to the Kremlin said Putin will only return to the table when 'he gets the remaining 11% of Donbas.' Kushner reiterated the US demand that Ukraine stop striking Russian refineries ('See, the Ukrainians stopped striking and we gave you this deal. Now it's your turn to do something'), stressing the US had made the request several times. The Ukrainians were skeptical of using business deals to appease Russia, left without agreeing to anything formally, but signaled willingness to accept an energy ceasefire so long as Russia does. The meeting also touched on security guarantees, reconstruction funds and World Bank involvement.",
+   "title": "Reuters: US meant diesel deal as lure to 'soften' Moscow and restart trilateral talks; Kushner pressed Kyiv again on refinery strikes"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12-13, 2026 (strikes Monday and overnight; claims reported Oct 13)",
+   "id": "russia-mod-ships-logistics-strikes-oct13",
+   "image_urls": [
+    "https://shippingtelegraph.com/wp-content/uploads/2026/07/ODESA-SEAPORT-2048x1365.jpg"
+   ],
+   "links": [
+    "https://www.reuters.com/world/europe/russia-says-it-struck-vessels-carrying-military-cargo-ukraines-ports-2026-10-12/",
+    "https://www.dimsumdaily.hk/russia-says-it-hit-ships-carrying-military-cargo-bound-for-ukraines-ports/"
+   ],
+   "report_time_ist": "2:03 PM IST, Oct 13",
+   "report_time_pdt": "1:33 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T08:33:10Z",
+   "sentiment": {
+    "civilians": "neutral",
+    "russia": "neutral",
+    "ukraine": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russia-says-it-hit-ship-delivering-military-cargo-ukraines-mykolaiv-2026-10-13/",
+   "summary": "Russia's Defence Ministry claimed Monday drone strikes hit three cargo vessels it alleged were transporting military or dual-use cargo to Black Sea ports \u2014 two dry cargo ships bound for Odesa struck at sea and one for Mykolaiv \u2014 plus port infrastructure and a Nova Poshta logistics center in Ternivka (Mykolaiv region) that it said stored dual-use goods for Ukraine's armed forces. A Tuesday briefing listed further overnight targets: a workshop at the Pulp Mill Print facility in Kyiv (said to produce missiles and long-range drones), the Darnytsia locomotive depot (rolling stock used for military cargo), a UAV warehouse in Meshkovo-Pohorelove, and a dry cargo vessel in the Bug estuary. Reuters could not independently verify the claims; no Ukrainian response reported. None of the claimed targets were energy facilities.",
+   "title": "Russia's Defence Ministry claims drone strikes on 3 cargo ships and logistics targets in Odesa/Mykolaiv and Kyiv regions"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 12, 2026 (Novak's Rossiya-24 interview aired Monday; Reuters published Oct 12, 2026)",
+   "id": "novak-diesel-exports-exceed-trump",
+   "image_urls": [
+    "https://menatoday.info/var/site/storage/images/_aliases/i1320/6/2/6/1/151626-1-eng-GB/b54f56fcebf7-NOVAK.jpg.webp"
+   ],
+   "links": [
+    "https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
+    "https://reporterworldnews.com/news/world/2026/10/13/trump-plan-to-buy-russian-diesel-raises-questions-over-us-sanctions",
+    "https://www.devdiscourse.com/article/international/3991169-russia-says-its-diesel-exports-may-exceed-volumes-announced-by-trump"
+   ],
+   "report_time_ist": "3:18 PM IST, Oct 13",
+   "report_time_pdt": "2:48 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T09:48:00Z",
+   "sentiment": {
+    "russia": "positive",
+    "us": "neutral"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/business/energy/russia-says-it-may-export-up-35-million-tons-diesel-month-by-year-end-2026-10-12/",
+   "summary": "On Monday Oct 12, Deputy PM Alexander Novak told Rossiya-24 that Russia can return diesel exports to 3.0-3.5M metric tons per month by year-end - above the roughly 4.8M-ton schedule Trump outlined Friday under the US-Russia deal - saying global diesel prices had already fallen about 5-6%. He said Moscow is discussing supplies with Washington through energy departments and companies, and noted the government cleared 500,000 tons of diesel for export after the Friday Putin-Trump call.",
+   "title": "Russia says diesel exports could exceed Trump's outlined volumes; Novak targets 3-3.5M tons/month by year-end"
+  },
+  {
+   "id": "merz-diesel-deal-out-of-the-question-oct12",
+   "event_time_ist": "Oct 12, 2026 (afternoon Berlin time)",
+   "title": "Merz: Trump's Russian diesel deal 'out of the question' for Europe",
+   "summary": "German Chancellor Friedrich Merz said at a Berlin press conference Monday that the US-brokered arrangement for Russian diesel exports is 'out of the question' for Germany and Europe; Berlin will keep its sanctions on Moscow and continue supporting Ukraine. Merz argued Russia negotiates 'seriously' only under pressure, noted Russia kept hitting Ukraine's civilian energy infrastructure after Trump's 'energy ceasefire' claim, and said EU leaders will coordinate strategy at the Brussels summit Thursday-Friday.",
+   "source_name": "Xinhua",
+   "source_url": "https://www.belgiumnews.net/news/279368637/1st-ld-writethru-diesel-deal-with-russia-out-of-the-question-merz",
+   "links": [
+    "https://www.newspointapp.com/english/trending/diesel-deal-with-russia-out-of-the-question-merz-ianslive/articleshow/145048201784976cc7a1a3afae450ad6cfc9b1ed",
+    "https://www.youtube.com/watch?v=sr2QoPkn_kQ"
+   ],
+   "image_urls": [
+    "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:36 AM PDT, Oct 13",
+   "report_time_ist": "4:06 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T10:36:00Z",
+   "sentiment": {
+    "eu": "positive",
+    "us": "negative",
+    "russia": "negative"
+   }
+  },
+  {
+   "id": "merz-zelensky-call-russia-ceasefire-responsibility-oct12",
+   "event_time_ist": "Evening, Oct 12, 2026",
+   "title": "Merz-Zelensky call: responsibility for energy ceasefire 'rests with Russia'",
+   "summary": "German Chancellor Friedrich Merz held a telephone call with Ukrainian President Volodymyr Zelensky on Monday evening. Zelensky briefed him on the weekend's massive Russian aerial attacks on civilian areas and energy infrastructure; Merz reaffirmed Germany's solidarity, and both agreed the responsibility for establishing a ceasefire over all energy infrastructure now rests with Russia. They also agreed to keep coordinating closely with European and transatlantic partners on peace efforts.",
+   "source_name": "German government (spokesman Stefan Kornelius) via Osna.FM",
+   "source_url": "https://news.osna.fm/?p=67605",
+   "links": [
+    "https://www.fananews.com/language/en/german-chancellor-ukrainian-president-say-russia-must-agree-to-energy-ceasefire/"
+   ],
+   "image_urls": [
+    "https://politicstoday.org/wp-content/uploads/2026/03/german-chancellor-friedrich-merz-425x563.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:36 AM PDT, Oct 13",
+   "report_time_ist": "4:06 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T10:36:00Z",
+   "sentiment": {
+    "ukraine": "positive",
+    "eu": "positive",
+    "russia": "negative"
+   }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Overnight of Oct 12 into Oct 13, 2026 (Russia's Defence Ministry Tuesday summary; Kremlin comment Tuesday Oct 13)",
+   "id": "russia-no-energy-targets-tuesday-oct13",
+   "image_urls": [
+    "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
+   ],
+   "links": [
+    "https://wabx.net/2026/10/13/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce/",
+    "https://www.reuters.com/world/kremlin-says-contacts-trumps-russia-ukraine-energy-ceasefire-are-continuing-2026-10-13/",
+    "https://aapnews.aap.com.au/news/russia-hits-no-energy-targets-in-ukraine-after-truce"
+   ],
+   "report_time_ist": "5:18 PM IST, Oct 13",
+   "report_time_pdt": "4:48 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T11:48:19Z",
+   "sentiment": {
+    "civilians": "positive",
+    "russia": "neutral",
+    "us": "positive"
+   },
+   "source_name": "Reuters (via KRRO/WABX syndication)",
+   "source_url": "https://krro.com/2026/10/13/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce/",
+   "summary": "Reuters (Kyiv, Oct 13) reports Russia's Defence Ministry made no mention of Ukrainian energy facilities in its daily summary of overnight strikes - the first night since Trump's Sunday 'energy ceasefire' announcement with no reported energy targeting. Overnight attacks instead hit transport and logistics: ballistic missiles and drones struck Kyiv transport and warehouse facilities (Dniprovskyi, Desnianskyi). One missile landed just over a kilometre from a plant providing heating to much of Lviv in the west. The Kremlin (Peskov) on Tuesday still refused to confirm the ceasefire, saying only that 'contacts are continuing' and declining further details. Zelensky counters that Russia has continued hitting energy and critical infrastructure over the two days.",
+   "title": "Russia claims no energy targets hit overnight Tuesday - first night since Trump's 'truce'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday Oct 13, 2026 (Zelensky statement on overnight Oct 12-13 attacks)",
+   "id": "zelensky-tuesday-statement-oct13",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://anewz.tv/world/world-news/25426/trump-says-russia-ukraine-energy-ceasefire-is-in-effect/news",
+    "https://www.europesays.com/russia/75596/"
+   ],
+   "report_time_ist": "5:18 PM IST, Oct 13",
+   "report_time_pdt": "4:48 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T11:48:19Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "neutral",
+    "us": "neutral"
+   },
+   "source_name": "Zelensky statement (via AAP/Reuters, AnewZ live blog)",
+   "source_url": "https://aapnews.aap.com.au/news/russia-hits-no-energy-targets-in-ukraine-after-truce",
+   "summary": "Zelensky said Tuesday that since Monday evening Russia has attacked Ukraine with more than a hundred weapons - jet-powered drones, loitering munitions and ballistic missiles. A strike destroyed a residential building in Kharkiv, killing 4; 41 people were injured in Kharkiv in a single evening. A ballistic-missile strike on Kyiv hit civilian infrastructure, and Zelensky complained Ukraine received no early warning from partners about the launch - a new dig at the US intelligence-sharing threat. He said Ukraine has not struck Russian refineries or the energy sector at all for the two days since Trump's announcement, while Russia 'did not heed the American President' and kept hitting energy facilities and critical infrastructure; 19 regions came under attack in two days. He added Ukraine is ready for reciprocal steps toward de-escalation. Kyiv Post's updated overnight report corroborates the toll: two women killed in Kyiv, four killed in Kharkiv.",
+   "title": "Zelensky: >100 Russian weapons overnight; 4 killed in Kharkiv; Ukraine has held off refinery strikes for two days"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday Oct 13, 2026 (at the Warsaw Security Forum; forum-day, Warsaw time)",
+   "id": "miliband-warsaw-energy-ceasefire-oct13",
+   "image_urls": [
+    "https://www.sajr.co.za/wp-content/uploads/2026/09/UK-Foreign-Secretary-Ed-Miliband-arrives-at-10-Downing-Street-ton-September-1-2026.-Rasid-Necati-Aslimx3aAnadolu-via-Getty-Images-2048x1141.jpg"
+   ],
+   "links": [
+    "https://thelondonweekly.net/world-news/12380-uk-calls-for-energy-ceasefire-in-ukraine-as-russia-intensifies-attacks-on-power-infrastructure",
+    "https://www.wandsworthtimes.co.uk/news/national/26630575.foreign-secretary-miliband-urges-support-ukraines-zelensky/",
+    "https://www.europesays.com/ukraine/55546/"
+   ],
+   "report_time_ist": "10:35 PM IST, Oct 13",
+   "report_time_pdt": "10:05 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T17:05:00Z",
+   "sentiment": {
+    "civilians": "positive",
+    "eu": "positive",
+    "russia": "negative",
+    "uk": "positive",
+    "ukraine": "positive",
+    "us": "neutral"
+   },
+   "source_name": "The London Weekly; PA wire (via Clacton Gazette)",
+   "source_url": "https://www.clactonandfrintongazette.co.uk/news/national/26631177.miliband-acknowledges-difficult-relations-us-ukraines-allies/?ref=rss",
+   "summary": "At the Warsaw Security Forum on Tuesday Oct 13, UK Foreign Secretary Ed Miliband urged European partners to back an energy ceasefire, saying the idea 'should be taken seriously' because 'in the last week alone we've seen 200 Russian attacks on Ukrainian energy infrastructure' (Foreign Office figures; 1,450 bombs and 1,600 drones in the same period). He acknowledged a 'very difficult few days' in relations with Washington after Trump's diesel deal and his calls for Zelensky's removal, praised Zelensky's 'extraordinary leadership,' and said: 'let us seek with President Trump to hold Putin to this full energy ceasefire.' He also met Polish FM Sikorski and said the UK would move with the EU on using frozen Russian assets if the bloc agrees. Catch-up: earlier runs missed this forum-day item.",
+   "title": "UK's Miliband urges European allies to back energy ceasefire at Warsaw Security Forum; cites 200 Russian energy-infra attacks in a week"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Sunday Oct 11, 2026 (PMO readout after the Carney-Zelensky call)",
+   "id": "carney-diesel-deal-criticism-oct11",
+   "image_urls": [
+    "https://www.asiapacific.ca/sites/default/files/styles/webp_1000/public/Carney%20One%20Year%20Policy%20Mag%20Keystone.png.webp"
+   ],
+   "links": [
+    "https://www.tbsnews.net/worldbiz/usa/us-republicans-democrats-want-trump-reverse-course-russia-diesel-1569796",
+    "https://www.dagens.com/war/canada-condemns-trump-over-russia-deal-its-illegal-and-unjustified",
+    "https://noticiasenvivo.cl/carney-says-u-s-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/"
+   ],
+   "report_time_ist": "10:35 PM IST, Oct 13",
+   "report_time_pdt": "10:05 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T17:05:00Z",
+   "sentiment": {
+    "russia": "negative",
+    "ukraine": "positive",
+    "us": "negative"
+   },
+   "source_name": "National Newswatch",
+   "source_url": "https://www.europesays.com/canada/246049/",
+   "summary": "After a Sunday Oct 11 call with Zelensky, Canadian PM Mark Carney's office said Trump's US-Russia diesel agreement 'is in direct opposition to the efforts of Ukraine, Canada, and our allies to create peace and stability in Europe' and 'will provide additional revenue for Russia and help finance its illegal, unjustifiable war against Ukraine'; Carney said Canada remains willing to expand its Russia sanctions. On the same day he also thanked Trump for 'his leadership toward securing an energy ceasefire.' Catch-up: this Oct 11 PMO statement was missed by all earlier runs.",
+   "title": "Canada's Carney publicly slammed Trump's diesel deal with Russia (Oct 11 PMO statement, catch-up)"
+  },
+  {
+   "id": "trump-tuesday-gaggle-strikes-oct13",
+   "event_time_ist": "Morning of Tuesday Oct 13, 2026 (Washington, DC)",
+   "title": "Trump shrugs at Russian strikes after ceasefire: asked if upset Putin hit energy targets, answers 'we'll see\u2026 they're both a little bit off'",
+   "summary": "Asked by Scripps News on Tuesday morning whether he was upset that Vladimir Putin struck energy targets after the weekend 'energy ceasefire' announcement, Trump answered 'we'll see\u2026 they're both a little bit off,' adding 'bottom line, it's all gonna work out\u2026 you know why\u2026 it always does.' The noncommittal reply \u2014 his first on-camera comment Tuesday on the continued strikes \u2014 offered no condemnation of Russia and no new action; it follows Monday's 'violations on both sides' line and repeated insistence the ceasefire exists because he said so.",
+   "source_name": "Scripps News",
+   "source_url": "https://www.youtube.com/shorts/zPX-2DI9Tnw",
+   "links": [
+    "https://www.newsquawk.com/headlines"
+   ],
+   "image_urls": [
+    "https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250916HK-0282.jpg?resize=2048,1365"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:35 AM PDT, Oct 13",
+   "report_time_ist": "11:05 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T17:35:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "ukraine": "negative",
+    "russia": "neutral"
+   }
+  }
+ ]
 }

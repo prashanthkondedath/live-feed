@@ -1,27 +1,32 @@
 {
-  "report_time_pdt": "2:54 PM PDT, Oct 13",
-  "report_time_ist": "3:24 AM IST, Oct 14",
-  "items": [
-    {
-      "id": "dk-shivakumar-bengaluru-detention-statement-oct13",
-      "event_time_ist": "~5:02 PM IST, Oct 13",
-      "title": "DK Shivakumar: 'no double standards' after Bengaluru police detained anti-SIR/CEC protesters",
-      "summary": "Bengaluru police detained and removed a group of anti-SIR/CEC protesters near K.R. Circle on Oct 12 after they gathered without permission to march toward the Karnataka Chief Electoral Officer's office. In a Tuesday press briefing, Karnataka CM D.K. Shivakumar said the right to peaceful protest is fundamental: 'we cannot demand the right to protest in Delhi and deny it in Bengaluru' — he sought a full report on the police action and said any unnecessary force or excess will bring accountability ('accountability will follow'). Karnataka Home Minister Priyank Kharge added Tuesday morning that the police handling would be reviewed and ordered that no peaceful demonstration be disrupted. First tracked Bengaluru-police-action episode with a top-state-level political response.",
-      "source_name": "Inshorts (via X/today)",
-      "source_url": "https://inshorts.com/en/news/can-t-demand-rights-in-delhi--deny-in-b-luru--cm-dks-after-protestors-detained-in-k-taka-1791891130480",
-      "links": [
-        "https://hiindia.com/karnataka-no-double-standards-on-right-to-protest-says-cm-shivakumar/",
-        "https://reportwire.in/india/no-double-standards-protest-handling-karnataka-cm"
-      ],
-      "image_urls": [],
-      "confidence": "confirmed",
-      "report_time_pdt": "2:54 PM PDT, Oct 13",
-      "report_time_ist": "3:24 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-13T21:54:41Z",
-      "sentiment": {
-        "india_bloc": "positive",
-        "police_govt": "negative"
-      }
-    }
-  ]
+ "report_time_pdt": "3:05 PM PDT, Oct 13",
+ "report_time_ist": "3:35 AM IST, Oct 14",
+ "items": [
+  {
+   "id": "delhi-hc-nsui-plea-date-correction-oct16-oct13",
+   "event_time_ist": "Oct 13 (Tuesday court hearing; order pronounced during the day)",
+   "title": "CORRECTION: NSUI outsiders-assault plea's next hearing is Friday Oct 16, not November — Centre gets 3 weeks for maintainability objections",
+   "summary": "Correcting this watch's earlier 'adjourned to November' dating of the NSUI outsiders-assault PIL: Tuesday's Delhi HC hearing (bench: Acting CJ Nitin Wasudeo Sambre + Justice Sanjay Sharma) on NSUI national president Vinod Jakhar's plea for an SIT probe into alleged Oct-10 assaults on protesters by 'outsiders' at Connaught Place and adjoining roads ended with the court permitting ASG Chetan Sharma to file preliminary objections to maintainability under PIL Rules 9(f)/9(g) within three weeks — and listing the matter next on Friday, October 16. The court also asked the petitioner to produce copies of related Supreme Court petitions to check overlap, and directed the ASG's objection affidavit on record. Counsel additionally sought preservation of CCTV footage from the protest site and clarification on alleged house arrests. (November date appears to have been conflated with the IYC plea's Nov-17 listing.)",
+   "source_name": "LiveLaw + ANI (via devdiscourse/IEO) + lawbeat + barbulletin",
+   "source_url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-pil-maintainability-assault-on-protestors-cec-protest-554457",
+   "links": [
+    "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-pil-maintainability-assault-on-protestors-cec-protest-554457",
+    "https://www.devdiscourse.com/article/headlines/3991665-delhi-police-questions-maintainability-of-nsui-office-bearers-plea-seeking-probe-into-alleged-assaults-during-protest",
+    "https://lawbeat.in/news-updates/festive-season-business-being-jeopardized-due-to-protests-traders-tell-delhi-hc-protest-pleas-adjourned-to-friday-1641427",
+    "https://thebarbulletin.com/delhi-hc-protesters-assault-plea-maintainability-objection/"
+   ],
+   "image_urls": [
+    "https://www.livelaw.in/h-upload/2026/09/03/697939-whatsapp-image-2026-09-03-at-170856-1.webp"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:05 PM PDT, Oct 13",
+   "report_time_ist": "3:35 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T22:05:41Z",
+   "sentiment": {
+    "india_bloc": "negative",
+    "police_govt": "neutral",
+    "courts": "neutral"
+   }
+  }
+ ]
 }

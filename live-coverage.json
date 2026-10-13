@@ -291,7 +291,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:57:57Z",
+      "trend_updated_at_utc": "2026-10-13T19:04:04Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 63,
@@ -321,7 +321,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T18:57:57Z"
+        "updated_at_utc": "2026-10-13T19:04:04Z"
       },
       "current_summary": "Hurricane Isaias recovery continues in the Florida Panhandle with roughly 30% of customers still without power; Hurricane Simon is weakening off Mexico's Pacific coast after peaking at Category 4; no active Atlantic cyclones.",
       "watch_for": [
@@ -348,7 +348,8 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "started_at_utc": "2026-10-12T20:05:00Z"
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -428,5 +429,5 @@
       "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:03:08Z"
+  "updated_at_utc": "2026-10-13T19:04:04Z"
 }

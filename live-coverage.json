@@ -113,7 +113,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:57:53Z",
+      "trend_updated_at_utc": "2026-10-13T19:06:56Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 29,
@@ -143,7 +143,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-13T18:57:53Z"
+        "updated_at_utc": "2026-10-13T19:06:56Z"
       },
       "current_summary": "Houthi missile and drone strikes on Saudi Arabia continue; Riyadh's King Khalid airport stays closed till Oct 17, the Saudi energy minister has vowed retaliation, and the Turkey-Pakistan-Egypt-Saudi 'R4' defence pact has jointly condemned the attacks.",
       "watch_for": [
@@ -170,7 +170,8 @@
           "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "started_at_utc": "2026-10-12T18:20:00Z"
     },
     {
       "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
@@ -430,5 +431,5 @@
       "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:05:56Z"
+  "updated_at_utc": "2026-10-13T19:06:56Z"
 }

@@ -15,7 +15,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:57:50Z",
+      "trend_updated_at_utc": "2026-10-13T19:05:56Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 225,
@@ -51,7 +51,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T18:57:50Z"
+        "updated_at_utc": "2026-10-13T19:05:56Z"
       },
       "current_summary": "CJP's Jantar Mantar 2.0 protest continues with its leaders out on bond; founder Abhijeet Dipke delivered a written 24-hour ultimatum to Delhi Police on Oct 12 demanding protest permission and alleging custodial mistreatment, while the INDIA bloc has moved the Supreme Court against the SIR electoral-roll revisions.",
       "watch_for": [
@@ -90,7 +90,8 @@
           "role": "INDIA bloc; SIR petition moved in Supreme Court"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "started_at_utc": "2026-10-10T04:30:00Z"
     },
     {
       "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
@@ -429,5 +430,5 @@
       "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:04:04Z"
+  "updated_at_utc": "2026-10-13T19:05:56Z"
 }

@@ -15,7 +15,44 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
+      "trend_updated_at_utc": "2026-10-13T18:49:47Z",
+      "sentiment_summary": {
+        "window": "7d",
+        "items_in_window": 224,
+        "sides": {
+          "cjp_protesters": {
+            "positive": 84,
+            "negative": 17,
+            "neutral": 2,
+            "overall": "positive"
+          },
+          "police_govt": {
+            "positive": 8,
+            "negative": 109,
+            "neutral": 20,
+            "overall": "negative"
+          },
+          "india_bloc": {
+            "positive": 49,
+            "negative": 22,
+            "neutral": 6,
+            "overall": "positive"
+          },
+          "courts": {
+            "positive": 9,
+            "negative": 2,
+            "neutral": 34,
+            "overall": "neutral"
+          },
+          "bjp": {
+            "positive": 10,
+            "negative": 36,
+            "neutral": 2,
+            "overall": "negative"
+          }
+        },
+        "updated_at_utc": "2026-10-13T18:49:47Z"
+      }
     },
     {
       "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
@@ -111,5 +148,5 @@
       "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T18:44:09Z"
+  "updated_at_utc": "2026-10-13T18:49:47Z"
 }

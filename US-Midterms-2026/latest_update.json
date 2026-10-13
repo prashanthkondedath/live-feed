@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "generic-ballot-dem-lead-oct13",
+      "event_time_ist": "~4:30 AM IST, Oct 14",
+      "title": "Democrats lead generic congressional ballot by 8-9 points, three weeks out",
+      "summary": "RealClearPolling's generic ballot average has Democrats at 50.2% vs 41.9% for Republicans (+8.3); Silver Bulletin's average shows Democrats up 8.9 points (9.6 among likely voters), a cycle high with Democrats breaking 50% for the first time. Models give Democrats an 81-99% chance of retaking the House.",
+      "source_name": "RealClearPolling / Silver Bulletin via northjersey.com",
+      "source_url": "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/",
+      "links": ["https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model"],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:55 PM PDT, Oct 13",
+      "report_time_ist": "4:25 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:55:00Z",
+      "sentiment": {"democrats": "positive", "republicans": "negative"}
+    },
+    {
+      "id": "senate-tipping-point-states-oct13",
+      "event_time_ist": "~4:30 AM IST, Oct 14",
+      "title": "Senate battlegrounds: Democrats narrowly ahead in six tipping-point states",
+      "summary": "Silver Bulletin's polling averages show Democrats leading in Maine (D+2.6), Texas (D+3.4), Ohio (D+3.7), Iowa (D+1.5), Michigan (D+3.3) and Alaska (D+3.4); even Kansas shows the Democrat ahead by 1.2. In Texas, Democrat James Talarico leads the Trump-backed Republican, campaigning on Trump going 'too far' on immigration. Models put Democratic Senate control at 55-64%.",
+      "source_name": "Silver Bulletin / Betfair",
+      "source_url": "https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model",
+      "links": ["https://betting.betfair.com/politics/us-politics/2026-midterm-elections-predictions-congress-house-of-reps-and-senate-democracts-republicans-latest-180926-205.html"],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:55 PM PDT, Oct 13",
+      "report_time_ist": "4:25 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:55:00Z",
+      "sentiment": {"democrats": "positive", "republicans": "negative"}
+    },
+    {
+      "id": "gop-triage-trump-drag-oct13",
+      "event_time_ist": "~4:30 AM IST, Oct 14",
+      "title": "GOP in 'triage mode' as Trump's approval sinks; one House Republican: 'Trump is dragging the party down'",
+      "summary": "With three weeks to go, Republicans are diverting resources to defend once-safe seats amid voter anger over the Iran war and cost of living. Trump's net approval sits near -22, an all-time-low-adjacent reading. Despite a massive cash advantage via MAGA Inc., GOP spending has failed to shift the landscape. Trump, who called the midterms a referendum on his presidency, is pushing G7 diesel reserve releases to lower gas prices before Nov 3.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/12/politics/midterms-republican-losses-trump?cid=external-feeds_iluminar_meta",
+      "links": ["https://www.reuters.com/world/china/middle-east-war-high-debt-levels-dominate-imf-world-bank-meetings-bangkok-2026-10-11/"],
+      "image_urls": [],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:55 PM PDT, Oct 13",
+      "report_time_ist": "4:25 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:55:00Z",
+      "sentiment": {"republicans": "negative", "trump": "negative", "democrats": "positive"}
+    }
+  ]
+}

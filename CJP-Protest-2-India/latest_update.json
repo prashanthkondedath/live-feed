@@ -1,27 +1,30 @@
 {
-  "report_time_pdt": "7:18 AM PDT, Oct 13",
-  "report_time_ist": "7:48 PM IST, Oct 13",
+  "report_time_pdt": "7:22 AM PDT, Oct 13",
+  "report_time_ist": "7:52 PM IST, Oct 13",
   "items": [
     {
-      "id": "delhi-hc-iyc-plea-notice-nov17-oct13",
-      "event_time_ist": "Tuesday, Oct 13 (court hearing; exact time unreported)",
-      "title": "Delhi HC issues notice on IYC's protest-permission plea, lists it for Nov 17; Centre says Jantar Mantar de-notification kills the plea",
-      "summary": "Justice Amit Mahajan issued notice on prayers (c), (d) and (f) of IYC president Uday Bhanu Chib's petition challenging Delhi Police's Oct-1 rejection of permission to protest against CEC Gyanesh Kumar (IYC had applied Sep 25 for a ~100-150-person protest). The prayers challenge the 2022 Standing Order's use as an automatic protest bar without individualised assessment, seek a fresh reasoned reconsideration of the request, and argue the 10-day rule is not an absolute bar. Sr Adv Siddharth Luthra called the rejection a 'completely non-speaking order... frivolous'; ASG Chetan Sharma opposed notice, saying the entire plea concerns Jantar Mantar which has been de-notified pursuant to Supreme Court orders — and unless the de-notification itself is challenged, the petition cannot sustain. Matter listed November 17.",
-      "source_name": "LiveLaw",
-      "source_url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-notice-on-indian-youth-congress-plea-to-reconsider-request-to-hold-protest-at-jantar-mantar-554490",
+      "id": "bjp-goyal-eci-counter-presser-oct13",
+      "event_time_ist": "~3:51 PM IST, Oct 13",
+      "title": "BJP counter-front: Piyush Goyal accuses Congress of 'undermining' ECI impartiality, says Congress 'politically rewarded' CECs",
+      "summary": "At a BJP press conference in New Delhi on Tuesday, Union Minister Piyush Goyal accused the Congress of 'undermining the impartiality' of the Election Commission of India by 'politically rewarding' Chief Election Commissioners, Election Commissioners and electoral officers during the previous UPA government - citing T.N. Seshan being fielded on a Congress ticket against L.K. Advani (1999), M.S. Gill receiving the Padma Vibhushan as a sitting CEC (2000) before later joining Congress and becoming a Union Minister, two CECs appointed as Governors, and Naveen Chawla's elevation despite a removal recommendation. He asserted the NDA government under PM Modi has granted the ECI complete autonomy and never offered political benefits to ECs. First major same-day BJP counter-narrative presser amid the anti-CEC protests, Monday's INDIA bloc march and Tuesday's CJP re-detention.",
+      "source_name": "IANS",
+      "source_url": "https://ianslive.in/congress-repeatedly-misused-ecs-even-awarded-padma-vibhushan-to-sitting-cec-bjp--20261013155120",
       "links": [
-        "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-notice-on-indian-youth-congress-plea-to-reconsider-request-to-hold-protest-at-jantar-mantar-554490",
-        "https://lawbeat.in/news-updates/iyc-drops-plea-for-jantar-mantar-protest-delhi-hc-issues-notice-on-challenge-to-alleged-arbitrary-permission-denial-1641407"
+        "https://apnamatvchannel.com/india/congress-gave-poll-ticket-to-one-cec-made-another-minister-piyush-goyal-hits-out-at-oppn/",
+        "https://www.thedailyjagran.com/lite/india/news/sir-row-piyush-goyal-rakes-up-padma-awards-to-cecs-during-congress-tenure-but-ms-gill-example-goes-off-track-10332566",
+        "https://www.nationpress.com/national/bjp-congress-gave-padma-vibhushan-to-sitting-cec",
+        "https://inshorts.com/en/amp_news/congress-bribed-cecs-with-padma-awards--cabinet-posts--piyush-goyal-amid-congress--protest-1791888265327"
       ],
       "image_urls": [
-        "https://bmhrmagazine.com/wp-content/uploads/2026/03/Delhi-high-court-1-1104x621.jpg"
+        "https://www.1maharashtra.in/wp-content/uploads/2026/06/Piyush-Goyal.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "7:18 AM PDT, Oct 13",
-      "report_time_ist": "7:48 PM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T14:17:33Z",
+      "report_time_pdt": "7:22 AM PDT, Oct 13",
+      "report_time_ist": "7:52 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T14:22:51Z",
       "sentiment": {
-        "courts": "neutral"
+        "bjp": "positive",
+        "india_bloc": "negative"
       }
     }
   ]

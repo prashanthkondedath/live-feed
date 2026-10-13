@@ -52,7 +52,45 @@
           }
         },
         "updated_at_utc": "2026-10-13T18:57:50Z"
-      }
+      },
+      "current_summary": "CJP's Jantar Mantar 2.0 protest continues with its leaders out on bond; founder Abhijeet Dipke delivered a written 24-hour ultimatum to Delhi Police on Oct 12 demanding protest permission and alleging custodial mistreatment, while the INDIA bloc has moved the Supreme Court against the SIR electoral-roll revisions.",
+      "watch_for": [
+        {
+          "event": "Ultimatum deadline expires; CJP's next escalation decision",
+          "date": "2026-10-13"
+        },
+        {
+          "event": "Supreme Court hearing on INDIA bloc's SIR writ petition",
+          "date": null
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Abhijeet Dipke",
+          "role": "CJP founder; released Oct 11 on 1-year peace bond"
+        },
+        {
+          "name": "Saurav Das",
+          "role": "CJP co-convener; delivered the ultimatum letter in writing"
+        },
+        {
+          "name": "Ashutosh Ranka",
+          "role": "CJP co-convener; released on bond"
+        },
+        {
+          "name": "Ratna Singh",
+          "role": "CJP legal head; released"
+        },
+        {
+          "name": "Gyanesh Kumar",
+          "role": "Chief Election Commissioner; resignation demanded"
+        },
+        {
+          "name": "Rahul Gandhi",
+          "role": "INDIA bloc; SIR petition moved in Supreme Court"
+        }
+      ],
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     },
     {
       "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
@@ -105,7 +143,33 @@
           }
         },
         "updated_at_utc": "2026-10-13T18:57:53Z"
-      }
+      },
+      "current_summary": "Houthi missile and drone strikes on Saudi Arabia continue; Riyadh's King Khalid airport stays closed till Oct 17, the Saudi energy minister has vowed retaliation, and the Turkey-Pakistan-Egypt-Saudi 'R4' defence pact has jointly condemned the attacks.",
+      "watch_for": [
+        {
+          "event": "Riyadh airport NOTAM expiry; reopening decision",
+          "date": "2026-10-17"
+        },
+        {
+          "event": "Saudi/coalition retaliation strikes in Yemen",
+          "date": null
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Yahya Saree",
+          "role": "Houthi military spokesman; claimed the Oct 11 attacks"
+        },
+        {
+          "name": "Saudi Energy Minister",
+          "role": "Vowed retaliation after airport and Aramco attacks"
+        },
+        {
+          "name": "R4 defence pact",
+          "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation"
+        }
+      ],
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     },
     {
       "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
@@ -175,7 +239,37 @@
           }
         },
         "updated_at_utc": "2026-10-13T18:57:55Z"
-      }
+      },
+      "current_summary": "Trump's claimed Russia-Ukraine 'energy ceasefire' remains unverified as Russian strikes on Ukrainian energy infrastructure continue; Zelensky says Kyiv will abide if Russia does, the Kremlin has not confirmed, and the EU approved its largest sanctions package since 2022.",
+      "watch_for": [
+        {
+          "event": "Kremlin confirmation or rejection of the energy ceasefire",
+          "date": null
+        },
+        {
+          "event": "EU sanctions package implementation effects",
+          "date": null
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Donald Trump",
+          "role": "Claimed the energy ceasefire on Oct 11"
+        },
+        {
+          "name": "Volodymyr Zelensky",
+          "role": "Willing to abide if Russia does; seeks details"
+        },
+        {
+          "name": "Dmitry Peskov",
+          "role": "Kremlin spokesman; says 'contacts are ongoing', no confirmation"
+        },
+        {
+          "name": "European Union",
+          "role": "Approved largest sanctions package since 2022"
+        }
+      ],
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     },
     {
       "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -228,7 +322,33 @@
           }
         },
         "updated_at_utc": "2026-10-13T18:57:57Z"
-      }
+      },
+      "current_summary": "Hurricane Isaias recovery continues in the Florida Panhandle with roughly 30% of customers still without power; Hurricane Simon is weakening off Mexico's Pacific coast after peaking at Category 4; no active Atlantic cyclones.",
+      "watch_for": [
+        {
+          "event": "Atlantic and Pacific hurricane seasons end",
+          "date": "2026-11-30"
+        },
+        {
+          "event": "Cabo Verde disturbance; formation chance watch",
+          "date": null
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "National Hurricane Center",
+          "role": "Official advisories and outlooks"
+        },
+        {
+          "name": "Ron DeSantis",
+          "role": "Florida SOE for 25 counties"
+        },
+        {
+          "name": "Kay Ivey",
+          "role": "Alabama SOE for 40 counties"
+        }
+      ],
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -275,8 +395,38 @@
           }
         },
         "updated_at_utc": "2026-10-13T18:58:00Z"
-      }
+      },
+      "current_summary": "The Strait of Hormuz remains contested with tanker transits all but stopped; Iran is reviewing the US reply to its seven conditions via Qatari and Pakistani mediation, IRGC mine claims stay unverified, the USS Theodore Roosevelt is deploying, and Brent holds around $105-106.",
+      "watch_for": [
+        {
+          "event": "US midterm elections; Trump ruled out pre-midterm strikes",
+          "date": "2026-11-03"
+        },
+        {
+          "event": "Iran's formal response to the US reply on seven conditions",
+          "date": null
+        }
+      ],
+      "key_figures": [
+        {
+          "name": "Donald Trump",
+          "role": "Ruled out striking Iran before the midterms"
+        },
+        {
+          "name": "Iranian Foreign Minister",
+          "role": "Reviewing US reply; called it 'inadequate' Oct 11"
+        },
+        {
+          "name": "IRGC Navy",
+          "role": "Claimed three supertankers struck mines; unverified"
+        },
+        {
+          "name": "UKMTO",
+          "role": "Confirmed Oct 10 tanker strike inside the strait"
+        }
+      ],
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T18:58:00Z"
+  "updated_at_utc": "2026-10-13T19:03:08Z"
 }

@@ -68,6 +68,10 @@
           "date": "2026-10-16"
         },
         {
+          "event": "Delhi HC NSUI outsiders-assault PIL hearing (corrected from November)",
+          "date": "2026-10-16"
+        },
+        {
           "event": "Supreme Court hearing on INDIA bloc's SIR writ petition",
           "date": null
         },
@@ -102,7 +106,7 @@
           "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
+      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -168,7 +172,7 @@
         },
         "updated_at_utc": "2026-10-13T22:25:23Z"
       },
-      "current_summary": "The Saudi-led coalition ordered a Sanaa fuel-site evacuation on Oct 13 ahead of a new operation and says it downed three drones over northern Riyadh on Tuesday; Houthi spokesman Yahya Saree threatened Riyadh retaliation and warned Aramco staff to evacuate. Coalition airstrikes on Al-Jawf killed 9 civilians including 5 children, and King Khalid airport remains closed till Oct 17.",
+      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa, while Houthi strikes on Taiz killed 6 and injured 18. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences', Egypt pressed Iran to halt the attacks, and airlines began ferrying aircraft out of Riyadh. King Khalid airport remains closed till Oct 17.",
       "watch_for": [
         {
           "event": "Riyadh airport NOTAM expiry; reopening decision",
@@ -181,6 +185,10 @@
         {
           "event": "Saudi/coalition retaliation strikes in Yemen",
           "date": null
+        },
+        {
+          "event": "Possible US military action hinted by Trump after midterms",
+          "date": "2026-11-03"
         }
       ],
       "key_figures": [
@@ -199,9 +207,13 @@
         {
           "name": "R4 defence pact",
           "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation of attacks"
+        },
+        {
+          "name": "Donald Trump",
+          "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
+      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -284,7 +296,7 @@
         },
         "updated_at_utc": "2026-10-13T20:34:10Z"
       },
-      "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry says no energy targets were hit overnight Oct 12-13, but Zelensky says Russia used 100+ weapons with 4 killed in Kharkiv, and Russian drones hit two cargo ships off Bulgaria — one sank with 11 sailors missing. Trump shrugged that 'they're both a little bit off'; France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
+      "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry says no energy targets were hit overnight Oct 12-13, but Zelensky says Russia used 100+ weapons with 4 killed in Kharkiv, Tuesday-morning drones struck an educational institution in Rivne (up to 25 injured) and homes near Lviv, and Russian drones sank a cargo ship off Bulgaria with 11 sailors missing. Trump shrugged that 'they're both a little bit off' while denying any cutoff of US intelligence to Kyiv; France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
         {
           "event": "Kremlin confirmation or rejection of the energy ceasefire",
@@ -325,7 +337,7 @@
           "role": "German chancellor; called the Russian diesel deal 'out of the question' for Europe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
+      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -391,7 +403,7 @@
         },
         "updated_at_utc": "2026-10-13T22:20:40Z"
       },
-      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
+      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 drifting offshore with mainland Mexico hurricane/TS watches lifted (Advisory 26) and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
         {
           "event": "Trudy forecast rapid intensification to a major hurricane",
@@ -420,7 +432,7 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T22:05:00Z",
+      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-12T20:05:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -480,7 +492,7 @@
         },
         "updated_at_utc": "2026-10-13T20:30:49Z"
       },
-      "current_summary": "Strait of Hormuz tanker attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — plus a new Tuesday projectile strike off Khasab with the fire out and crew safe; Iran's Navy claimed a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk and said the war 'will end very soon'; Brent holds near $105-106.",
+      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -517,7 +529,7 @@
           "role": "UAE diplomatic adviser; called for 'joint Gulf action' against Iran and proxies"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
+      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {

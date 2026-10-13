@@ -126,7 +126,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:49:51Z",
+      "trend_updated_at_utc": "2026-10-13T18:55:05Z",
       "sentiment_summary": {
         "window": "7d",
         "items_in_window": 25,
@@ -149,12 +149,6 @@
             "neutral": 11,
             "overall": "neutral"
           },
-          "civilians": {
-            "positive": 2,
-            "negative": 6,
-            "neutral": 1,
-            "overall": "negative"
-          },
           "eu": {
             "positive": 6,
             "negative": 1,
@@ -168,7 +162,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T18:49:51Z"
+        "updated_at_utc": "2026-10-13T18:55:05Z"
       }
     },
     {
@@ -272,5 +266,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T18:55:02Z"
+  "updated_at_utc": "2026-10-13T18:55:05Z"
 }

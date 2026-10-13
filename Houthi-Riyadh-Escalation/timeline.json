@@ -807,6 +807,163 @@
       "source_url": "https://www.reflector.com/news/national/saudi-ministry-of-energy-reports-limited-fire-in-building-in-aramco-compound-targeted-in-attack/article_b83f706f-b140-5d74-a3e0-bb93cf5c9e8c.html",
       "summary": "Egyptian Foreign Minister Badr Abdelatty called Iran's Foreign Minister Abbas Araghchi on Tuesday, demanding the Houthis immediately halt attacks on Saudi Arabia — 'there is no justification for these attacks, and they cannot be accepted' — and urging diplomacy and a political solution to the Iran-US conflict to avert further escalation and instability, per the Egyptian readout.",
       "title": "Egypt's FM tells Iran's FM the Houthis must halt attacks on Saudi Arabia immediately"
+    },
+    {
+      "id": "tuesday-daytime-intercepts-oct13",
+      "event_time_ist": "Daytime, Oct 13, 2026 (IST)",
+      "title": "Tuesday daytime: coalition intercepts 2 ballistic missiles (Haradh, Dhahran) and 3 drones north of Riyadh",
+      "summary": "Coalition spokesman Maj. Gen. Turki al-Maliki said on X that coalition forces intercepted and destroyed two Houthi ballistic missiles Tuesday — one aimed at Haradh near the Yemeni border and one toward Dhahran/eastern province — plus three Houthi drones north of Riyadh.",
+      "source_name": "CNN / JFeed / The Peninsula",
+      "source_url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+        "https://www.jfeed.com/latest-news/coalition-intercepts-houthi-ballistic-missile-targeting-haradh-54829"
+      ],
+      "image_urls": [
+        "https://www.alyaum.com/uploads/images/2026/03/07/2873720.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "saudi_govt": "positive",
+        "houthis": "negative",
+        "civilians": "neutral"
+      }
+    },
+    {
+      "id": "riyadh-debris-four-injured-oct13",
+      "event_time_ist": "Night of Oct 13, 2026 (IST)",
+      "title": "4 injured in Riyadh by falling debris from Tuesday-night intercepted Houthi volley",
+      "summary": "Saudi authorities say at least four people in the Riyadh area were injured by falling debris from the Tuesday-night Houthi volley (3 cruise missiles + 2 drones targeting Riyadh region and southern Saudi Arabia, all intercepted). A VOA Farsi graphic credited to Reuters independently reports '4 injured in Riyadh and fire in Aramco building.'",
+      "source_name": "CNN / Voice of America Farsi",
+      "source_url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+        "https://www.instagram.com/p/Dec4mhXDfaE/"
+      ],
+      "image_urls": [
+        "https://pathanamthittamedia.com/wp-content/uploads/2026/08/riyad-696x378.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "houthis": "negative"
+      }
+    },
+    {
+      "id": "us-state-dept-airport-restriction-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "US State Dept expands airport restriction: personnel need chief-of-mission approval for ANY Saudi airport",
+      "summary": "The US State Department expanded travel restrictions Tuesday: US government personnel in the kingdom now require special authorization from the chief of mission to use any airport in Saudi Arabia (previously Riyadh, Jeddah and Dammam only). The country-level advisory was raised to Level 3 on Oct 12. Spain and Canada have also warned citizens against using the airport.",
+      "source_name": "CNN / thetraveler.org",
+      "source_url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+        "https://www.thetraveler.org/saudi-arabia-us-mission-tighten-warnings-after-airport-attacks/"
+      ],
+      "image_urls": [
+        "https://iranea.gr/wp-content/uploads/2026/04/usembassyriyadh.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "us": "neutral",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "tuesday-yemen-strikes-casualty-claims-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Houthi media claim civilian casualties in Tuesday coalition strikes: 2 killed/2 injured at Sanaa fuel depot; artillery deaths in Saada",
+      "summary": "The Houthis say Tuesday's coalition strike on Al-Sabaha Central Station (their largest fuel hub in northern Yemen, ~58,000 metric tonnes; Reuters says coalition also hit sites in Hodeidah and Dhamar) killed 2 civilians and injured 2; the coalition says it warned civilians first. Al Masirah separately claims coalition artillery in Saada wounded 3 Yemenis + 2 African residents in Baqim and killed 2 civilians, wounding 2, in Shada. CNN cannot independently verify.",
+      "source_name": "CNN (citing Houthi claims)",
+      "source_url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+        "https://wdsm710.com/2026/10/13/saudi-led-coalition-orders-evacuation-of-yemen-oil-facility-in-sanaa-ahead-of-operation/"
+      ],
+      "image_urls": [
+        "https://yemenfreedom.net/uploads/news/17426559103130860.webp"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "saudi_govt": "negative"
+      }
+    },
+    {
+      "id": "saudi-air-defense-failure-probe-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Saudi Arabia investigating how Houthi barrages evaded air defenses, officials tell AP",
+      "summary": "Two regional officials speaking on condition of anonymity told the Associated Press on Tuesday that Saudi Arabia has launched an investigation into how its air defenses failed to intercept the recent barrages of Houthi missiles and drones — including the Saturday strike on King Khalid airport that killed 13.",
+      "source_name": "AP (via Yahoo/dejavu mirror)",
+      "source_url": "https://www.dejavu.org/cgi-bin/get.cgi?ver=95&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fus%2Farticles%2Fu-embassy-urges-extreme-caution-082336152.html",
+      "links": [
+        "https://www.dejavu.org/cgi-bin/get.cgi?ver=95&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fus%2Farticles%2Fu-embassy-urges-extreme-caution-082336152.html"
+      ],
+      "image_urls": [
+        "https://houseofsaud.com/wp-content/uploads/2026/03/patriot-missile-battery-air-defense-saudi-2026.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "saudi_govt": "negative"
+      }
+    },
+    {
+      "id": "dawn-of-yemen-govt-claims-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Yemeni government claims 2,200 strikes in 24h, ~1,200 Houthi fighters killed in 'Dawn of Yemen'",
+      "summary": "Yemeni government forces claim continued advances in the 'Dawn of Yemen' operation: 2,200 strikes against Houthi positions in the past 24 hours, about 1,200 fighters killed and 440+ military vehicles destroyed or disabled. CNN could not independently verify the figures.",
+      "source_name": "CNN (citing Yemeni government)",
+      "source_url": "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.cnn.com/2026/10/13/middleeast/saudi-strikes-houthi-fuel-depot-latam-intl?cid=external-feeds_iluminar_meta"
+      ],
+      "image_urls": [
+        "https://yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive"
+      }
+    },
+    {
+      "id": "aegean-cancellations-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Aegean cancels Riyadh flights through Oct 24; Jeddah suspended through Oct 17",
+      "summary": "Greek carrier Aegean Airlines has canceled its Riyadh flights for the remainder of the summer 2026 season (through Oct 24) and suspended Jeddah flights through the morning arrivals of Oct 17 amid the continued King Khalid airport closure (provisional NOTAM to Oct 17 21:00 UTC).",
+      "source_name": "GTP Headlines",
+      "source_url": "https://news.gtp.gr/2026/10/13/airlines-suspend-saudi-arabia-flights-following-houthi-attacks/",
+      "links": [
+        "https://news.gtp.gr/2026/10/13/airlines-suspend-saudi-arabia-flights-following-houthi-attacks/"
+      ],
+      "image_urls": [
+        "https://static1.simpleflyingimages.com/wordpress/wp-content/uploads/2023/09/clipboard-1.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:35 PM PDT, Oct 13",
+      "report_time_ist": "4:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T22:40:00Z",
+      "sentiment": {
+        "civilians": "negative"
+      }
     }
   ]
 }

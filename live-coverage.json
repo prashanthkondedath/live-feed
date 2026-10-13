@@ -140,37 +140,37 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T22:25:23Z",
+      "trend_updated_at_utc": "2026-10-13T22:41:33Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 36,
+        "items_in_window": 43,
         "sides": {
           "civilians": {
             "positive": 1,
-            "negative": 16,
-            "neutral": 5,
+            "negative": 20,
+            "neutral": 6,
             "overall": "negative"
           },
           "houthis": {
             "positive": 2,
-            "negative": 28,
+            "negative": 31,
             "neutral": 3,
             "overall": "negative"
           },
           "saudi_govt": {
-            "positive": 12,
-            "negative": 11,
+            "positive": 14,
+            "negative": 13,
             "neutral": 6,
             "overall": "positive"
           },
           "us": {
             "positive": 1,
             "negative": 0,
-            "neutral": 7,
+            "neutral": 8,
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-13T22:25:23Z"
+        "updated_at_utc": "2026-10-13T22:41:33Z"
       },
       "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa, while Houthi strikes on Taiz killed 6 and injured 18. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences', Egypt pressed Iran to halt the attacks, and airlines began ferrying aircraft out of Riyadh. King Khalid airport remains closed till Oct 17.",
       "watch_for": [
@@ -218,12 +218,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 36,
-        "confirmed": 22,
-        "single-sourced": 14,
+        "items_in_window": 43,
+        "confirmed": 25,
+        "single-sourced": 18,
         "unconfirmed": 0,
-        "confirmed_rate": 0.61,
-        "updated_at_utc": "2026-10-13T22:25:23Z"
+        "confirmed_rate": 0.58,
+        "updated_at_utc": "2026-10-13T22:41:33Z"
       },
       "phase": "escalation"
     },
@@ -544,5 +544,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T22:25:23Z"
+  "updated_at_utc": "2026-10-13T22:41:33Z"
 }

@@ -4641,6 +4641,32 @@
     "india_bloc": "negative",
     "courts": "neutral"
    }
+  },
+  {
+   "id": "mamata-old-list-demand-oct13",
+   "event_time_ist": "Tuesday, Oct 13 (time unknown)",
+   "title": "Mamata Banerjee demands elections on old voter rolls amid anti-SIR protest; BJP hits back",
+   "summary": "Mamata Banerjee said Tuesday that elections should be conducted using the existing electoral rolls until all eligible voters' names are included, amid the opposition's protest against CEC Gyanesh Kumar over alleged SIR irregularities: 'as long as their names are not included in the list, we think the election should be conducted using the old list.' Kerala CM V.D. Satheesan called the Rahul Gandhi-led march 'the biggest struggle... to protect democracy'; Kerala minister P.K. Kunhalikutty demanded the CEC's resignation. BJP counter: Assam BJP chief Dilip Saikia accused opposition parties of trying to create instability and targeting democratic institutions; Union minister Giriraj Singh said Congress questions ECI/EVMs only where it loses; BJP announced a counter public-awareness rally in Assam Tuesday.",
+   "source_name": "ANI (via syndication)",
+   "source_url": "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
+   "links": [
+    "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
+    "https://apnamatvchannel.com/india/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition/",
+    "https://www.indianeconomicobserver.com/news/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
+    "https://www.indiannewsnetwork.net/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
+    "https://legal.industriesnews.net/news/279370095/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition"
+   ],
+   "image_urls": [
+    "https://reporterworldnews.com/storage/resized/320x180/gallery/2026/10/13/tmc-protest-march.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "2:54 AM PDT, Oct 13",
+   "report_time_ist": "3:24 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:54:50Z",
+   "sentiment": {
+    "india_bloc": "positive",
+    "bjp": "negative"
+   }
   }
  ]
 }

@@ -359,21 +359,21 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T21:35:27Z",
+      "trend_updated_at_utc": "2026-10-13T22:20:40Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 65,
+        "items_in_window": 67,
         "sides": {
           "civilians": {
             "positive": 11,
-            "negative": 38,
+            "negative": 40,
             "neutral": 10,
             "overall": "negative"
           },
           "mexico_govt": {
             "positive": 6,
             "negative": 0,
-            "neutral": 25,
+            "neutral": 27,
             "overall": "neutral"
           },
           "us_govt": {
@@ -389,7 +389,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T21:35:27Z"
+        "updated_at_utc": "2026-10-13T22:20:40Z"
       },
       "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
@@ -425,12 +425,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 65,
-        "confirmed": 38,
+        "items_in_window": 67,
+        "confirmed": 40,
         "single-sourced": 27,
         "unconfirmed": 0,
-        "confirmed_rate": 0.58,
-        "updated_at_utc": "2026-10-13T21:35:27Z"
+        "confirmed_rate": 0.6,
+        "updated_at_utc": "2026-10-13T22:20:40Z"
       },
       "phase": "intensifying"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T22:07:05Z"
+  "updated_at_utc": "2026-10-13T22:20:40Z"
 }

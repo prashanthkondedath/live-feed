@@ -1,33 +1,48 @@
 {
- "report_time_pdt": "11:02 AM PDT, Oct 13",
- "report_time_ist": "11:32 PM IST, Oct 13",
+ "report_time_pdt": "11:10 AM PDT, Oct 13",
+ "report_time_ist": "11:40 PM IST, Oct 13",
  "items": [
   {
-   "id": "rahul-dk-collar-video-row-oct13",
-   "event_time_ist": "Incident during Monday's march, ~afternoon IST, Oct 12; statements Oct 13, 2026",
-   "title": "Collar-video row: viral clip shows Rahul Gandhi pulling DK Shivakumar back; Himanta Sarma attacks, DK denies humiliation",
-   "summary": "A video from Monday's (Oct 12) INDIA-bloc march toward the Supreme Court went viral showing Rahul Gandhi appearing to pull Karnataka CM DK Shivakumar back by the collar of his kurta as he moved to the front of the procession; BJP's Anand Gurumurthy claimed another camera angle showed a collar grab. Assam CM Himanta Biswa Sarma shared the clip on X on Oct 13, calling it public humiliation and paralleling his own 2015 Congress exit. DK Shivakumar denied being pushed or humiliated, saying Rahul only asked him to return to the vehicle out of safety concern ('A 10-second video cannot tell the whole story') and accusing BJP of spreading fake news; Karnataka Dy CM G Parameshwara called it a crowd-shuffle misunderstanding. Tejasvi Surya, BY Vijayendra and the BJP handle also weighed in.",
-   "source_name": "Mirror Now",
-   "source_url": "https://www.mirrornow.in/india-news/himanta-biswa-sarma-criticises-rahul-gandhi-over-dk-shivakumar-collar-pull-video-article-156331714",
+   "id": "dipke-wednesday-delhi-legal-team-court-oct13",
+   "event_time_ist": "~5:53 PM IST, Oct 13",
+   "title": "Dipke to reach Delhi on Wednesday to join protest; CJP legal team to approach court over Tuesday detentions",
+   "summary": "CJP founder Abhijeet Dipke, speaking to media at his native village Santuk Pimpri (Hingoli, Maharashtra) where he attended his grandmother Savitribai Dipke's asthi visarjan, said he will reach Delhi on Wednesday to join the CJP protest demanding CEC Gyanesh Kumar's resignation \u2014 and that if police stop him en route he will begin the agitation from wherever he is detained. He said CJP's legal team would approach the court over the Tuesday-morning detention of Ashutosh Ranka and Saurav Das after they unfurled the national flag at Jantar Mantar, adding he had spoken to his legal team from a car in Kundkar Pimpri village. He repeated that the agitation will continue until the CEC resigns and that 'the entire nation will turn Jantar Mantar'.",
+   "source_name": "The Sen Times (PTI, Hingoli)",
+   "source_url": "https://thesentimes.com/dipke-warns-of-countrywide-agitations-if-delhis-jantar-mantar-shut-to-protesters/",
    "links": [
-    "https://tezzbuzz.com/himanta-sarma-got-angry-after-watching-rahul-gandhis-video-after-holding-dks-collar-he-asked-will-karnataka-leaders-tolerate-this-insult/",
-    "https://news89.com/cm-himanta-attacks-rahul-gandhi-with-dks-collar-pulling-video-calls-it-public-humiliation-2/",
-    "https://www.youtube.com/watch?v=Sun5j5u-QQw",
-    "https://www.youtube.com/watch?v=aOcxwRccp10",
-    "https://www.youtube.com/watch?v=DGzfGAg8rbk",
-    "https://inshorts.com/en/amp_news/rahul-asked-me-to-return-to-vehicle-out-of-safety-concern--shivakumar-amid-collar-pulling-row-1791903369977",
-    "https://inshorts.com/en/news/himanta-recalls-rahul-gandhi-s-pet--pidi-biscuits--humiliation-amid-dks-video-row--1791904091659"
+    "https://thesentimes.com/dipke-warns-of-countrywide-agitations-if-delhis-jantar-mantar-shut-to-protesters/"
    ],
    "image_urls": [
-    "https://etvbharatimages.akamaized.net/etvbharat/prod-images/768-512-3654572-thumbnail-3x2-rahul.jpg"
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "11:02 AM PDT, Oct 13",
-   "report_time_ist": "11:32 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T18:02:31Z",
+   "report_time_pdt": "11:10 AM PDT, Oct 13",
+   "report_time_ist": "11:40 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T18:10:00Z",
    "sentiment": {
-    "india_bloc": "negative",
-    "bjp": "positive"
+    "cjp_protesters": "positive",
+    "police_govt": "negative",
+    "bjp": "negative"
+   }
+  },
+  {
+   "id": "mehr-presser-stealth-denotification-claim-oct13",
+   "event_time_ist": "~5:20 PM IST, Oct 13",
+   "title": "CJP policy lead Mehr Pasricha at press conference: 'everything is stealth at the moment, keep your eyes peeled'",
+   "summary": "At CJP's latest press conference (ANI 'Top Moments' reel dated Oct 13), policy lead Mehr Pasricha recounted that after CJP met with the DCP he left quickly, and within 30 minutes a press release announced Jantar Mantar's de-notification \u2014 which she cast as proof the authorities are 'feeling the pressure'. She said CJP is 'not backing down' and that Jantar Mantar 'does not belong to any one man, two men who are making decisions'; next steps are undecided but 'everything is stealth at the moment, so keep your eyes peeled.'",
+   "source_name": "ANI (Instagram reel)",
+   "source_url": "https://www.instagram.com/reel/DebvIJLIk7n/",
+   "links": [],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "11:10 AM PDT, Oct 13",
+   "report_time_ist": "11:40 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T18:10:00Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
    }
   }
  ]

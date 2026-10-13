@@ -5260,6 +5260,28 @@
     "police_govt": "neutral",
     "courts": "neutral"
    }
+  },
+  {
+   "id": "rahul-gandhi-journalist-shove-allegation-oct13",
+   "event_time_ist": "~8-8:30 PM IST, Oct 12 (reported Oct 13)",
+   "title": "Pregnant journalist alleges Rahul Gandhi pushed her during Oct 12 INDIA-bloc march; BJP amplifies, Congress denies",
+   "summary": "Oneindia journalist Richa Parashar, who says she is 3 months pregnant, alleges Rahul Gandhi grabbed her hand and pulled her as she covered the Oct 12 INDIA-bloc march near the Supreme Court; she says she fell on the steps (hurting hand/knees, breaking her phone) and her cameraperson fell on top of her. She was admitted to hospital. BJP leaders Pradeep Bhandari, Rajesh Bhatia and Umang Bajaj visited her in hospital; Bhandari alleged Gandhi 'shoved and pushed her to the ground'. Congress MP Pawan Khera called the claims 'completely false'; Jebi Mather accused the BJP of 'scripting narratives'. Key facts remain unverified.",
+   "source_name": "IANS",
+   "source_url": "https://ianslive.in/rahul-gandhi-manhandled-female-journalist-bjp-congress-hits-back--20261013135424",
+   "links": [
+    "https://ianslive.in/rahul-gandhi-manhandled-female-journalist-bjp-congress-hits-back--20261013135424",
+    "https://www.youtube.com/watch?v=0mUFlupdJcw"
+   ],
+   "image_urls": [
+    "https://img.youtube.com/vi/0mUFlupdJcw/maxresdefault.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:42 PM PDT, Oct 13",
+   "report_time_ist": "4:12 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T22:42:07Z",
+   "sentiment": {
+    "india_bloc": "negative"
+   }
   }
  ]
 }

@@ -649,6 +649,30 @@
       "source_url": "https://www.sowetan.co.za/news/world/2026-10-13-drones-sink-ship-off-bulgarias-black-sea-coast-says-pm-radev/",
       "summary": "Drones hit two cargo ships in the Black Sea overnight off Bulgaria, sinking the Guinea-Bissau-flagged HS Dignity near Krapets (5 rescued, 11 sailors missing, search ongoing) and damaging the Maltese-flagged, Ukrainian-operated Chelsea 3 (hit by 3 drones; all 15 crew rescued). PM Rumen Radev said the outcome 'benefits the Russian Federation' without formally accusing Moscow, summoned the Russian ambassador, and phoned NATO chief Rutte and EC president von der Leyen seeking help to bolster maritime/airspace surveillance; Rutte said NATO will adjust its eastern-flank presence 'as needed'. Second such sinking in Bulgaria's waters in a week. (Catch-up: prior runs missed this.) Image: generic tanker stock photo (representative, not the incident).",
       "title": "Two cargo ships hit by drones off Bulgaria; one sank, 11 sailors missing"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "evening of Oct 13, 2026 (Kyiv time; night of Oct 13 in IST)",
+      "id": "kyiv-ballistic-strike-chpp4-oct13",
+      "image_urls": [
+        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+      ],
+      "links": [
+        "https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-intelligence-us-row-drone-attacks-dhj9qpnz0",
+        "https://www.ghanamma.com/2026/10/13/russian-strikes-hit-key-power-plant-in-kyiv-zelensky-says/"
+      ],
+      "report_time_ist": "4:33 AM IST, Oct 14",
+      "report_time_pdt": "4:03 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T23:03:33Z",
+      "sentiment": {
+        "civilians": "negative",
+        "russia": "negative",
+        "ukraine": "negative"
+      },
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/russian-missile-attack-kyiv-kills-one-2026-10-13/",
+      "summary": "Zelensky said Russian ballistic missiles attacked Kyiv late Tuesday evening Oct 13 with the main target energy infrastructure - specifically thermal plant No. 4 (Darnytska CHP-4, which heats and powers Kyiv's Dniprovskyi/Darnytskyi districts and was already badly damaged in February). A separate strike hit a nine-storey apartment block: Mayor Klitschko reported 1 killed and 13 injured (4 serious). Zelensky said there was again 'no advance warning from our partners' - second night running - and cited Ukrainian intelligence that Russia is 'preparing further ballistic missile launches'; he added the facts show Russia does not consider itself bound by Trump's energy ceasefire. Earlier Tuesday Trump denied cutting intel-sharing and, asked about Russian energy strikes, said 'Ukraine hit many sites the day before.'",
+      "title": "Russian ballistic missiles hit Kyiv Tuesday evening, targeting thermal plant No. 4; high-rise hit, 1 killed, 13 injured"
     }
   ]
 }

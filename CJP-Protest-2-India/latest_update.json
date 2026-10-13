@@ -1,1 +1,28 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~6:34 PM IST, Oct 13 (fuller quotes reported ~7:35 PM IST, Oct 13)","id":"post-tea-presser-fuller-quotes-oct13","image_urls":["https://reporterworldnews.com/storage/gallery/2026/10/12/rahul-gandhi-cec-row.jpg"],"links":["https://www.thedailyjagran.com/india/news/india-bloc-sir-protest-rahul-gandhi-high-tea-tejashwi-yadav-supriya-sule-mallikarjun-kharge-jantar-mantar-news-vote-chori-latest-updates-10332595"],"report_time_ist":"8:37 PM IST, Oct 13","report_time_pdt":"8:07 AM PDT, Oct 13","reported_at_utc":"2026-10-13T15:07:19Z","sentiment":{"bjp":"negative","india_bloc":"positive","police_govt":"negative"},"source_name":"PTI via The Daily Jagran","source_url":"https://www.thedailyjagran.com/india/news/india-bloc-sir-protest-rahul-gandhi-high-tea-tejashwi-yadav-supriya-sule-mallikarjun-kharge-jantar-mantar-news-vote-chori-latest-updates-10332595","summary":"PTI's fuller wire version of the post-high-tea presser (first reported 6:34 PM IST) carries new verbatim statements. Rahul Gandhi pledged to challenge the Jantar Mantar de-notification ('it is not going to be so simple for the government to decide that the Indian people will not fight for their voice'), thanked the people of Delhi/India, and said those responsible 'are going to be brought to justice.' Congress' Pawan Khera invoked the Dandi March ('Did Mahatma Gandhi seek permission from the British?'), vowing to fight peacefully and oppose unjust rules. Shashi Tharoor said the bloc is 'not withdrawing' and rejected the 'out of sight, out of mind' move of protest sites outside the city. TMC's Sagarika Ghose said there will be 'no free and fair elections in India' as long as the Gyanesh Kumar-headed ECI continues. Deepender Hooda said the EC must be impartial and democracy restored. AISA's Neha Bora extended her earlier statement, calling the BJP 'one enemy of the people of this country... of Indian democracy... of the Constitution.' Presser corroborated by Times Now Navbharat (13:34Z alert); the fuller quotes are PTI-sourced only.","title":"Post-tea presser fuller quotes: Rahul Gandhi pledges to 'challenge' Jantar Mantar de-notification; new statements from Khera, Tharoor, Sagarika Ghose, Hooda"}],"report_time_ist":"8:37 PM IST, Oct 13","report_time_pdt":"8:07 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "9:15 AM PDT, Oct 13",
+  "report_time_ist": "9:45 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "delhi-police-trespass-case-das-ranka-oct13",
+      "event_time_ist": "~9:34 PM IST, Oct 13",
+      "title": "Delhi Police registered a case against Saurav Das and Ashutosh Ranka for unauthorized trespassing at Jantar Mantar (RVCJ Media citing ANI)",
+      "summary": "Verified RVCJ Media IG carousel (13M followers; posted 16:04:44Z) reports Delhi Police registered a case against CJP co-conveners Saurav Das and Ashutosh Ranka for unauthorized trespassing at Jantar Mantar over Tuesday morning's gate-climb entry, citing ANI tweet screenshots; both remain detained. Note: earlier Tuesday reporting (haldialive, citing India Today ~9 AM IST) said police were only 'considering' an FIR with no confirmation - escalation to a registered case still single-sourced. Distinct from the 4 FIRs over Monday's INDIA-bloc march to the SC.",
+      "source_name": "RVCJ Media (IG)",
+      "source_url": "https://www.instagram.com/p/DecMhzlDYMq/",
+      "links": [
+        "https://www.instagram.com/p/DecMhzlDYMq/",
+        "https://haldialive.com/en/article/delhi-police-detain-cjp-leaders-saurav-das-ashutosh-ranka-ajinkya-shinde-jantar-mantar"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "9:15 AM PDT, Oct 13",
+      "report_time_ist": "9:45 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T16:15:00Z",
+      "sentiment": {
+        "cjp_protesters": "negative"
+      }
+    }
+  ]
+}

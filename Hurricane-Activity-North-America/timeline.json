@@ -1372,6 +1372,30 @@
    "source_url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATWOEP+html/110551_MIATWOEP.html",
    "summary": "NHC initiated advisories on Tropical Depression Twenty-One-E (EP212026) off southern Mexico: 35 mph, 1006 mb, ~540 mi SSE of Acapulco, moving NW at 10 mph. No coastal watches/warnings in effect; southwestern and west-central Mexico told to monitor. Forecast is aggressive: hurricane by Wednesday night, major hurricane by Friday (Cat 4, 120 kt/140 mph at day 4 per Discussion 1; models show Cat 4, 36 of 50 DeepMind members Cat 4+). NHC notes the cyclone could be 'very close to the coast of Mexico as a hurricane over the weekend,' with several ensemble members showing landfall in southwestern or west-central Mexico; swells reaching southern Mexico late week. Next Pacific name is Trudy once it strengthens to a tropical storm.",
    "title": "Tropical Depression Twenty-One-E forms off southern Mexico; NHC forecasts rapid intensification to a major hurricane by Friday"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 9, 2026 (announced Friday, ahead of landfall)",
+   "id": "fema-emergency-declaration-fl-al",
+   "image_urls": [
+    "https://www.northescambia.com/wp-content/uploads/2026/10/boles11-540x307.jpg"
+   ],
+   "links": [
+    "https://kfyr.iheart.com/content/2026-10-10-trump-approves-emergency-declaration-for-florida/",
+    "https://www.dejavu.org/cgi-bin/get.cgi?ver=95&url=https%3A%2F%2Fwww.yahoo.com%2Fnews%2Fweather-news%2Farticles%2Fisaias-lashes-southeast-making-landfall-063144507.html",
+    "https://www.reuters.com/sustainability/multiple-hurricanes-hit-us-mexico-2026-10-13/"
+   ],
+   "report_time_ist": "2:38 AM IST, Oct 14",
+   "report_time_pdt": "2:08 PM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T21:08:00Z",
+   "sentiment": {
+    "civilians": "positive",
+    "us_govt": "positive"
+   },
+   "source_name": "thetrumpet.ng",
+   "source_url": "https://thetrumpet.ng/trump-approves-emergency-declarations-florida-alabama-hurricane-isaias/",
+   "summary": "The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall (Friday Oct 9); FEMA is authorized to provide direct federal assistance for emergency protective measures with 75% federal cost share. Florida's declaration covers 27 Panhandle/Big Bend counties incl. Escambia, Santa Rosa, Okaloosa, Walton, Bay and Leon; Alabama's covers Baldwin, Escambia and Mobile counties plus the Poarch Band of Creek Indians. Brett H. Howard named Federal Coordinating Officer for Florida, Willie G. Nunn for Alabama; FEMA says additional designations may follow as damage is assessed. This never surfaced in the watch's feed before; Reuters restated the approvals in its Oct-13 wrap.",
+   "title": "Federal emergency declarations approved for Florida and Alabama (Isaias)"
   }
  ],
  "last_updated_pdt": "7:25 AM PDT, Oct 13",

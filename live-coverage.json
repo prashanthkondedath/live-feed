@@ -410,14 +410,14 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T19:59:09Z",
+      "trend_updated_at_utc": "2026-10-13T20:11:51Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 42,
+        "items_in_window": 43,
         "sides": {
           "us": {
             "positive": 6,
-            "negative": 12,
+            "negative": 13,
             "neutral": 8,
             "overall": "negative"
           },
@@ -429,12 +429,12 @@
           },
           "markets": {
             "positive": 2,
-            "negative": 25,
+            "negative": 26,
             "neutral": 3,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T19:59:09Z"
+        "updated_at_utc": "2026-10-13T20:11:51Z"
       },
       "current_summary": "Strait of Hormuz tanker attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — plus a new Tuesday projectile strike off Khasab with the fire out and crew safe; Iran's Navy claimed a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
@@ -477,5 +477,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:59:09Z"
+  "updated_at_utc": "2026-10-13T20:11:51Z"
 }

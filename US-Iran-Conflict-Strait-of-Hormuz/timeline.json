@@ -658,6 +658,52 @@
     "iran": "negative",
     "markets": "negative"
    }
+  },
+  {
+   "id": "trump-ohio-gaggle-midterms-iran",
+   "event_time_ist": "Oct 12, 2026, late afternoon IST (gaggle before Youngstown, Ohio rally)",
+   "title": "Trump: midterms won't sway Iran strategy; war 'will end very soon'; Houthis 'misbehaving very badly'",
+   "summary": "Speaking to reporters Monday before his Youngstown, Ohio rally, Trump said the Nov 3 midterms will not influence US strategy toward Iran and repeated that the war 'will end very soon' (with oil prices to 'drop like a rock'). He confirmed he spoke directly with Saudi Crown Prince MBS about Houthi airport attacks; asked about a US response to the Houthis, he said only they are 'misbehaving very badly' and announced no retaliatory measures.",
+   "source_name": "Matzav / South Florida Reporter",
+   "source_url": "https://matzav.com/no-election-delay-trump-says-iran-war-will-end-very-soon-warns-houthis-over-attacks-on-saudi-arabia/",
+   "links": [
+    "https://matzav.com/no-election-delay-trump-says-iran-war-will-end-very-soon-warns-houthis-over-attacks-on-saudi-arabia/",
+    "https://southfloridareporter.com/trump-talks-ceasefires-rowdy-houthis-and-big-gop-energy-en-route-to-ohio-video/"
+   ],
+   "image_urls": [
+    "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:09 AM PDT, Oct 13, 2026",
+   "report_time_ist": "3:39 PM IST, Oct 13, 2026",
+   "reported_at_utc": "2026-10-13T10:09:32Z",
+   "sentiment": {
+    "us": "positive",
+    "markets": "positive"
+   }
+  },
+  {
+   "id": "trump-youngstown-rally-too-far",
+   "event_time_ist": "Oct 13, 2026, ~7:50 AM IST (Youngstown, Ohio rally, evening Oct 12 ET)",
+   "title": "Trump says US 'might have gone too far' targeting Iran's leadership; claims all 159 Iranian naval vessels sunk",
+   "summary": "At the Youngstown, Ohio campaign rally, Trump said the US may have 'gone too far' in targeting Iran's leadership — 'we don't know who the hell we're dealing with any more' — complicating negotiations. He also reiterated the claim that Iran has lost its air force and all 159 naval vessels, now 'resting beautifully in the bottom of the sea'.",
+   "source_name": "The Business Standard (TBS) / Rifnote (via Al Jazeera)",
+   "source_url": "https://www.tbsnews.net/worldbiz/usa/trump-says-us-might-have-gone-too-far-targeting-irans-leadership-1571356",
+   "links": [
+    "https://www.tbsnews.net/worldbiz/usa/trump-says-us-might-have-gone-too-far-targeting-irans-leadership-1571356",
+    "https://rifnote.com/?p=85285"
+   ],
+   "image_urls": [
+    "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:09 AM PDT, Oct 13, 2026",
+   "report_time_ist": "3:39 PM IST, Oct 13, 2026",
+   "reported_at_utc": "2026-10-13T10:09:32Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative"
+   }
   }
  ],
  "last_updated_pdt": "12:55 AM PDT, Oct 13",

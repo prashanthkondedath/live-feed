@@ -5154,6 +5154,23 @@
    "source_url": "https://news89.com/delhi-hc-lists-pil-on-jantar-mantar-protests-seeks-supreme-court-plea-copy-2/",
    "summary": "A Delhi High Court bench of Acting CJ Nitin Wasudeo Sambre and Justice Sanjay Sharma on Tuesday listed for Oct 16 a new PIL by Anshikha Tripathi seeking directions to allow peaceful protests at Jantar Mantar, declare the protest right part of free speech, order an SIT probe into alleged atrocities on peaceful protesters, examine house arrests, and challenge prohibitory orders, the central-Delhi internet shutdown and metro/rail restrictions. The bench asked for a copy of the parallel SC plea to avoid contradictory orders. In court, ASG Chetan Sharma said the Supreme Court has deferred hearing on protest-related petitions till Oct 15. The HC also gave the Centre three weeks for maintainability objections in the NSUI assault-probe PIL (CCTV-preservation request, already logged).",
    "title": "Court calendar: Delhi HC lists fresh Jantar Mantar PIL for Oct 16; SC defers protest pleas to Oct 15"
+  },
+  {
+   "id": "cjp-ig-kidnapping-post-deleted-oct13",
+   "event_time_ist": "between ~11:19 PM IST, Oct 13 and ~12:22 AM IST, Oct 14",
+   "title": "Official CJP 'illegally kidnapped' claim post is gone from @cockroachjantaparty — deleted within ~1 hour of posting",
+   "summary": "The official @cockroachjantaparty post (posted ~10:43 AM PDT / ~11:13 PM IST, Oct 13) claiming Ranka, Das and Shinde were 'illegally kidnapped' for 14+ hours and calling Delhi Police 'puppets of the government' is no longer on the handle. It was live and alerted at ~10:49 AM PDT (~19K likes within minutes); by ~11:52 AM PDT a direct post lookup returns 'Could not load post on any platform' and a sweep of 928 posts on the account finds no trace of it. Whether CJP pulled it or Instagram removed it is unclear — Instagram is currently restricting protest-related accounts at scale (MediaNama: 200+ Sahyog takedown orders ahead of Oct 10; IFF says ~20 accounts taken down/restricted). No re-post or explanation from the handle yet. Watch for a repost or official explanation.",
+   "source_name": "Instagram (official handle, verified via instagram-cli direct lookup)",
+   "source_url": "https://www.instagram.com/p/DecXPHpTVR0/",
+   "links": [],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "11:53 AM PDT, Oct 13",
+   "report_time_ist": "12:23 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T18:53:25Z",
+   "sentiment": {}
   }
  ]
 }

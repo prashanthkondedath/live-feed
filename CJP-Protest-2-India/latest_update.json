@@ -1,1 +1,28 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Tuesday morning, Oct 13","id":"sanjay-raut-defects-statement-oct13","image_urls":["https://reporterworldnews.com/storage/gallery/2026/10/12/rahul-gandhi-cec-row.jpg"],"links":["https://apnamatvchannel.com/india/india-bloc-petition-under-scrutiny-sanjay-raut-says-we-will-rectify-repair-errors/","https://www.indiannewsnetwork.net/india-bloc-petition-under-scrutiny-sanjay-raut-says-we-will-rectify-repair-errors20261013104404/","https://news.webindia123.com/news/Articles/India/20261013/4510307.html","https://htsyndication.com/asian-news-international/article/india-bloc-petition-under-scrutiny:-sanjay-raut-says--we-will-rectify,-repair--errors/105020644"],"report_time_ist":"12:40 PM IST, Oct 13","report_time_pdt":"12:10 AM PDT, Oct 13","reported_at_utc":"2026-10-13T07:10:40Z","sentiment":{"bjp":"negative","india_bloc":"positive","police_govt":"negative"},"source_name":"ANI via Apna MA TV","source_url":"https://apnamatvchannel.com/india/india-bloc-petition-under-scrutiny-sanjay-raut-says-we-will-rectify-repair-errors/","summary":"Shiv Sena (UBT) MP Sanjay Raut told ANI on Tuesday that the SC registry's 14 defects in the INDIA-bloc SIR writ petition (Rs 220 fee shortfall, missing vakalatnamas, Kharge ID copy) are real and 'will be rectified and repaired'; he confirmed he is a petitioner and that all parties in Monday's march are petitioners. He said the bloc will stay in Delhi until the future direction is decided after Rahul Gandhi's 4 PM IST high tea, attacked PM Modi and HM Amit Shah for 'choking democracy' by restricting Jantar Mantar, and hinted at a Krishna Menon Road action: 'Tomorrow, we will do it at Krishna Menon Road as well.'","title":"Sanjay Raut: petition defects will be 'rectified and repaired'; strategy after Rahul's 4 PM high tea"},{"confidence":"single-sourced","event_time_ist":"Oct 13 (Tuesday morning; posted after the alerted Tiranga/reclaim post burst)","id":"cjp-official-bow-down-post-oct13","image_urls":["https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"],"links":[],"report_time_ist":"12:40 PM IST, Oct 13","report_time_pdt":"12:10 AM PDT, Oct 13","reported_at_utc":"2026-10-13T07:10:40Z","sentiment":{"cjp_protesters":"positive","police_govt":"negative"},"source_name":"CJP official Instagram","source_url":"https://www.instagram.com/p/DebF7LQzFF7/","summary":"New image post on the official @cockroachjantaparty handle (~130K likes): 'We are not going to bow down to your dictatorial orders! Jai Hind!' Shortcode newer than the already-alerted 10:46-11:19 AM IST Tiranga/reclaim/denotify post burst; pure defiance rhetoric, no new facts.","title":"Official CJP post: 'We are not going to bow down to your dictatorial orders! Jai Hind!'"}],"report_time_ist":"12:40 PM IST, Oct 13","report_time_pdt":"12:10 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "12:19 AM PDT, Oct 13",
+  "report_time_ist": "12:49 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "das-ranka-bus-video-vows-oct13",
+      "event_time_ist": "~10 AM IST, Oct 13",
+      "title": "Saurav Das and Ashutosh Ranka's first video statements from the police bus after the Tuesday re-detention",
+      "summary": "ANI: Das, filmed from inside the police bus after the morning gate-climb re-detention at Jantar Mantar, questioned the Home Ministry's authority to de-notify the site, said the 'Delhi Chalo' slogan endures, and pledged the protest would happen at Jantar Mantar only - 'today 10 people came, tomorrow 1,000 will'. Ranka called the breach 'just the trailer', escalating to '10,000 will enter' the day after, and said they would leave Delhi only after CEC Gyanesh Kumar resigns.",
+      "source_name": "ANI via APNA MA TV",
+      "source_url": "https://apnamatvchannel.com/india/who-is-home-ministry-to-take-away-our-jantar-mantar-cjp-activists-detained-vow-to-continue-protests/",
+      "links": [
+        "https://apnamatvchannel.com/india/who-is-home-ministry-to-take-away-our-jantar-mantar-cjp-activists-detained-vow-to-continue-protests/"
+      ],
+      "image_urls": [
+        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:19 AM PDT, Oct 13",
+      "report_time_ist": "12:49 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:19:55Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      }
+    }
+  ]
+}

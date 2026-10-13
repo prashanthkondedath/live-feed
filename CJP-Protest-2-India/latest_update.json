@@ -1,1 +1,26 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 13 (exact time unconfirmed)","id":"dipke-cji-will-you-tell-modi-quip-oct13","image_urls":["https://images.thedailyjagran.com/images/2026/10/12/template/image/Dipke-(1)-1791785248624.webp"],"links":["https://kashmirpost.org/2026/10/cjp-leaders-detained-again-sc-hearing-protest-pleas-october-15/"],"report_time_ist":"1:56 AM IST, Oct 14","report_time_pdt":"1:26 PM PDT, Oct 13","reported_at_utc":"2026-10-13T20:26:33Z","sentiment":{"bjp":"negative","courts":"negative"},"source_name":"Hindustan Times","source_url":"","summary":"CJP founder Abhijeet Dipke publicly challenged CJI Surya Kant over remarks attributed to the CJI that law-and-order matters were outside his domain, asking: 'Will you tell Modi the same thing?' The quip, made on Tuesday, adds a direct political edge to the debate over the judiciary's response to the Delhi protest crackdown and SIR dispute — days after Congress Kerala's similar 'not your domain' post drew a contempt complaint. Corroborating outlets: Hindustan Times (Arya Mishra), Kashmir Post.","title":"'Will you tell Modi the same thing?': Dipke publicly challenges CJI Surya Kant over 'law and order not my domain' remark"}],"report_time_ist":"1:56 AM IST, Oct 14","report_time_pdt":"1:26 PM PDT, Oct 13"}
+{
+ "report_time_pdt": "2:53 PM PDT, Oct 13",
+ "report_time_ist": "3:23 AM IST, Oct 14",
+ "items": [
+  {
+   "id": "dipke-ranka-birthday-detention-tribute-oct13",
+   "event_time_ist": "~8:10 PM IST, Oct 13",
+   "title": "Founder Dipke's birthday tribute to detained co-convener Ashutosh Ranka",
+   "summary": "Abhijeet Dipke posted on Instagram @abhijeetdipke (2:40 PM PDT / 8:10 PM IST Oct 13, ~5.3K likes): a birthday tribute to CJP co-convener Ashutosh Ranka, 'spending your birthday in detention' — recalling the Oct 10 detention and court appearance ('We will do whatever you decide') and writing 'they can detain a person, but they can never detain the courage and conviction that person carries.' Confirms Ranka still in detention at Jaffarpur Kalan on Oct 13 evening. First logged post from the founder since his return to Hingoli; no new facts beyond the continued-detention confirmation and the tribute itself.",
+   "source_name": "Abhijeet Dipke (Instagram, @abhijeetdipke)",
+   "source_url": "https://www.instagram.com/p/Decy6l-z1sN/",
+   "links": [],
+   "image_urls": [
+    "https://theraisinahills.com/wp-content/uploads/2026/09/CJP-founder-Abhijeet-Dipke-with-Saurav-Das-and-Ashutosh-Ranka-at-Delhi-press-conference.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "2:53 PM PDT, Oct 13",
+   "report_time_ist": "3:23 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-13T21:53:48Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   }
+  }
+ ]
+}

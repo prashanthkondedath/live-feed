@@ -1,31 +1,25 @@
 {
- "report_time_pdt": "10:51 PM PDT, Oct 12",
- "report_time_ist": "11:21 AM IST, Oct 13",
- "items": [
-  {
-   "id": "rahul-gandhi-high-tea-presser-oct13",
-   "event_time_ist": "invite sent Monday, Oct 12; joint presser + high tea 4:00 PM IST, Oct 13",
-   "title": "Rahul Gandhi invites INDIA bloc MPs, civil society and student groups for high tea Tuesday 4 PM; joint press conference before it",
-   "summary": "Rahul Gandhi has invited INDIA bloc MPs, civil society members and student organisations for high tea at his residence (5 Sunehri Bagh Road, New Delhi) at 4:00 PM IST Tuesday, Oct 13. A joint press conference of INDIA leaders will be held Tuesday afternoon before the tea, to discuss the joint protest strategy against 'vote chori' and the next phase of action against the EC, including pressing for CEC Gyanesh Kumar's resignation. Congress leader Abhishek Manu Singhvi is expected to address the press conference. Separately, CPIM's MA Baby says Congress told allies there will be NO large-scale demonstration in Delhi on Tuesday after the successful march and petition filing; TMC's Derek O'Brien notes festival-season plans, while Youth Congress and Seva Dal may hold protests in multiple states.",
-   "source_name": "PTI via reporterworldnews.com (invite details)",
-   "source_url": "https://reporterworldnews.com/news/india/2026/10/13/india-bloc-leaders-to-visit-rahul-gandhi-residence",
-   "links": [
-    "https://reporterworldnews.com/news/india/2026/10/13/india-bloc-leaders-to-visit-rahul-gandhi-residence",
-    "https://apnamatvchannel.com/india/after-protest-march-rahul-gandhi-invites-opposition-mps-for-high-tea-next-phase-of-action-against-ec-on-agenda/",
-    "https://news89.com/rahul-gandhi-calls-india-bloc-tea-meet-after-march-for-democracy/",
-    "https://www.thedailyjagran.com/lite/india/news/sir-protest-congress-rahul-gandhi-tea-meeting-press-conference-india-bloc-plans-petition-against-cec-gyanesh-kumar-delhi-protests-updates-10332498"
-   ],
-   "image_urls": [
-    "https://reporterworldnews.com/storage/gallery/2026/10/12/rahul-gandhi-cec-row.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "10:51 PM PDT, Oct 12",
-   "report_time_ist": "11:21 AM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T05:51:02Z",
-   "sentiment": {
-    "india_bloc": "positive",
-    "police_govt": "neutral"
-   }
-  }
- ]
+  "report_time_pdt": "11:09 PM PDT, Oct 12",
+  "report_time_ist": "11:39 AM IST, Oct 13",
+  "items": [
+    {
+      "id": "ma-baby-no-demo-tuesday-oct13",
+      "event_time_ist": "~6:39 AM IST, Oct 13",
+      "title": "INDIA bloc: no large-scale Delhi demonstration on Tuesday; strategy day pivots to high tea + joint presser",
+      "summary": "CPI(M) general secretary MA Baby said Congress informed INDIA allies that after Monday's successful March for Democracy and the SC petition filing, there is 'no need for another march or demonstrations on Tuesday' (Oct 13) in Delhi. TMC's Derek O'Brien said leaders have festival plans, while Youth Congress and Seva Dal may hold protests in multiple states. Rahul Gandhi hosts the invited high tea at 5, Sunehri Bagh Road at 4 PM IST followed by a joint presser, where Congress will unveil its next strategy; senior Congress leader Abhishek Manu Singhvi will separately address a press conference on the filed SIR petition.",
+      "source_name": "The Daily Jagran (attributed to Hindustan Times)",
+      "source_url": "https://www.thedailyjagran.com/lite/india/news/sir-protest-congress-rahul-gandhi-tea-meeting-press-conference-india-bloc-plans-petition-against-cec-gyanesh-kumar-delhi-protests-updates-10332498",
+      "links": [],
+      "image_urls": [
+        "https://cf-images.assettype.com/newindianexpress%2F2026-06-06%2Ft6bvkjyc%2FMA-Baby.jpg?rect=0%2C0%2C4169%2C2189&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:09 PM PDT, Oct 12",
+      "report_time_ist": "11:39 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T06:09:58Z",
+      "sentiment": {
+        "india_bloc": "neutral"
+      }
+    }
+  ]
 }

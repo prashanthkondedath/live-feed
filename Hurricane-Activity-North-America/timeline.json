@@ -983,6 +983,27 @@
         "civilians": "negative",
         "us_govt": "neutral"
       }
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Oct 13, 2026 (announced Oct 12, 2026)",
+      "id": "team-rubicon-isaias-op-oct12",
+      "image_urls": [
+        "https://afd-e7wowbklhrmjo-anaaahfpavfhejfu.z01.azurefd.net/app/uploads/fly-images/12090/Hero_20261011_Gulf-Sierra-Delta-RCT1_Isaias-UGC_004-1600x900-c.jpg"
+      ],
+      "links": [
+        "https://www.pnj.com/story/weather/hurricanes/2026/10/12/hurricane-isaias-florida-how-to-donate-cahrity/92212671007/"
+      ],
+      "report_time_ist": "10:35 AM IST, Oct 13",
+      "report_time_pdt": "10:05 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-13T05:05:00Z",
+      "sentiment": {
+        "civilians": "positive"
+      },
+      "source_name": "Team Rubicon",
+      "source_url": "https://teamrubiconusa.org/news-and-stories/hurricane-isaias-relief/",
+      "summary": "Veteran-led nonprofit Team Rubicon stood up its first Hurricane Isaias disaster relief operation: up to 30 Greyshirts per day from Tue Oct 13 in Milton and across Santa Rosa County for debris management, roof tarping, heavy equipment and sawyer work. Its route-clearance team removed 54 obstructions over the weekend and cut paths for power crews across Santa Rosa County; op runs through at least Oct 21, with a Pensacola op expected soon.",
+      "title": "Team Rubicon launches Isaias relief operation in Santa Rosa County"
     }
   ]
 }

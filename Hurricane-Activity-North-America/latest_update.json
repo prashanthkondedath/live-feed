@@ -1,25 +1,27 @@
 {
-  "report_time_pdt": "5:32 PM PDT, Oct 12",
-  "report_time_ist": "6:02 AM IST, Oct 13",
+  "report_time_pdt": "5:50 PM PDT, Oct 12",
+  "report_time_ist": "6:20 AM IST, Oct 13",
   "items": [
     {
-      "id": "pacific-ace-record-oct11",
-      "event_time_ist": "Oct 11, 2026",
-      "title": "2026 breaks the Northeast Pacific's all-time ACE record",
-      "summary": "The 2026 northeastern Pacific hurricane season set the basin's all-time record for Accumulated Cyclone Energy: 318.8 as of 5:00 PM EDT Sunday Oct 11 (per Colorado State University data), beating the 318.1 record from 2018. Hurricane Simon pushed the season over the top. Season to date: 21 storms, 11 hurricanes (all but two major), three Category 5s (Genevieve, Lowell, Polo - Polo the basin's second-most intense by pressure), 10 storms affecting land. Hawaii took the brunt with one of its worst hurricane seasons (Lala, Moke, Lowell, Nolo). Driven by a record-setting El Nino; meanwhile Atlantic ACE is under 20% of normal - Hurricane Isaias was the Atlantic's latest first hurricane on record.",
-      "source_name": "The Weather Network",
-      "source_url": "https://www.theweathernetwork.com/en/news/weather/severe/northeast-pacific-breaks-record-for-its-most-active-hurricane-season",
+      "id": "simon-guerrero-victim-named-oct12",
+      "event_time_ist": "Date uncertain — reported by officials Monday, Oct 12 (wall collapsed during Simon's weekend rains)",
+      "title": "First Hurricane Simon fatality in Mexico identified: Albino Moreno Jimenez, 71",
+      "summary": "Guerrero governor Evelyn Salgado's Monday briefing confirmed the Simon death was 71-year-old Albino Moreno Jimenez, killed when a retaining wall collapsed on him in the western outskirts of Chilpancingo, Guerrero while he was feeding his animals. The detail traces to Guerrero-based news agency IRZA. Simon death toll in Mexico remains 1 (plus 1 Rachel death in Baja California and 1 cliff-diver death in Mazatlan, both previously reported).",
+      "source_name": "The World Now (via IRZA)",
+      "source_url": "https://www.the-world-now.com/news/hurricane-tracker-shows-simon-weakening-near-mexico-after-two-deaths-reported-mv5x4mlf",
       "links": [
-        "https://bytesizenetwork.com/pacific-hurricane-season-sets-new-record-for-storm-activity-amidst-strong-el-nino/",
-        "https://www.the-world-now.com/news/hurricane-tracker-shows-simon-weakening-near-mexico-after-two-deaths-reported-mv5x4mlf"
+        "https://dominicanrepublicpost.com/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast/"
       ],
       "image_urls": [
-        "https://images.twnmm.com/c55i45ef3o2a/6oQ5S9WA4gk4of7qVjH4Pq/dc29f1394882cc5b1a970b58ad47848c/NEPacific_ACE_October_11_2028.png"
+        "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299189216.jpg?c=16x9&q=w_860,c_fill"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "5:32 PM PDT, Oct 12",
-      "report_time_ist": "6:02 AM IST, Oct 13",
-      "reported_at_utc": "2026-10-13T00:32:00Z"
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:50 PM PDT, Oct 12",
+      "report_time_ist": "6:20 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T00:50:00Z",
+      "sentiment": {
+        "civilians": "negative"
+      }
     }
   ]
 }

@@ -238,7 +238,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T19:51:15Z",
+      "trend_updated_at_utc": "2026-10-13T20:30:42Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 26,
@@ -280,7 +280,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T19:51:15Z"
+        "updated_at_utc": "2026-10-13T20:30:42Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry made its first claim of no energy targets hit overnight Oct 12-13, but Zelensky says Russia still used 100+ weapons and 4 people were killed in Kharkiv; Trump shrugged that 'they're both a little bit off.' France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
@@ -324,7 +324,17 @@
         }
       ],
       "curation_updated_at_utc": "2026-10-13T20:04:19Z",
-      "started_at_utc": "2026-10-12T19:35:00Z"
+      "started_at_utc": "2026-10-12T19:35:00Z",
+      "trend_direction": "rising",
+      "verification": {
+        "window": "7d",
+        "items_in_window": 26,
+        "confirmed": 24,
+        "single-sourced": 2,
+        "unconfirmed": 0,
+        "confirmed_rate": 0.92,
+        "updated_at_utc": "2026-10-13T20:30:42Z"
+      }
     },
     {
       "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -497,5 +507,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T20:30:38Z"
+  "updated_at_utc": "2026-10-13T20:30:42Z"
 }

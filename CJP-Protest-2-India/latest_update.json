@@ -1,1 +1,28 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"~10:00 AM IST, Oct 13 (detention); still held ~6:43 PM IST, Oct 13","id":"das-ranka-shinde-jaffarpur-detention-aftermath-oct13","image_urls":["https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"],"links":["https://kashmirpost.org/2026/10/cjp-leaders-detained-again-sc-hearing-protest-pleas-october-15/","https://www.instagram.com/reel/DebyeuhvV8n/","https://www.instagram.com/reel/Deb4qKvAr3f/","https://www.instagram.com/reel/Debac6RTAV-B/"],"report_time_ist":"7:13 PM IST, Oct 13","report_time_pdt":"6:43 AM PDT, Oct 13","reported_at_utc":"2026-10-13T13:43:17Z","sentiment":{"cjp_protesters":"negative","police_govt":"negative"},"source_name":"Kashmir Post + Ratna Singh (@whattalawyer._) + @iarpitspeaks (IG)","source_url":"https://kashmirpost.org/2026/10/cjp-leaders-detained-again-sc-hearing-protest-pleas-october-15/","summary":"Saurav Das, Ashutosh Ranka and Ajinkya Shinde — re-detained at Jantar Mantar on Tuesday morning after climbing the gate — were taken to the Jaffarpur Kalan police station detention center in Dwarka district and were still in custody roughly seven hours later. CJP legal affairs head Ratna Singh demanded their release; Dipke's own handle posted that advocates were not being allowed inside; an independent journalist's reel shows the detained group photographed in front of the 'Police Station Jaffarpur Kalan Dwarka District' sign and sitting behind barricades. CJP alleged police seized the detainees' phones and initially denied them access to lawyers. Police have not responded.","title":"Re-detained CJP leaders held ~7 hours at Jaffarpur Kalan PS; CJP alleges lawyers barred and phones seized"}],"report_time_ist":"7:13 PM IST, Oct 13","report_time_pdt":"6:43 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "7:18 AM PDT, Oct 13",
+  "report_time_ist": "7:48 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "delhi-hc-iyc-plea-notice-nov17-oct13",
+      "event_time_ist": "Tuesday, Oct 13 (court hearing; exact time unreported)",
+      "title": "Delhi HC issues notice on IYC's protest-permission plea, lists it for Nov 17; Centre says Jantar Mantar de-notification kills the plea",
+      "summary": "Justice Amit Mahajan issued notice on prayers (c), (d) and (f) of IYC president Uday Bhanu Chib's petition challenging Delhi Police's Oct-1 rejection of permission to protest against CEC Gyanesh Kumar (IYC had applied Sep 25 for a ~100-150-person protest). The prayers challenge the 2022 Standing Order's use as an automatic protest bar without individualised assessment, seek a fresh reasoned reconsideration of the request, and argue the 10-day rule is not an absolute bar. Sr Adv Siddharth Luthra called the rejection a 'completely non-speaking order... frivolous'; ASG Chetan Sharma opposed notice, saying the entire plea concerns Jantar Mantar which has been de-notified pursuant to Supreme Court orders — and unless the de-notification itself is challenged, the petition cannot sustain. Matter listed November 17.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-notice-on-indian-youth-congress-plea-to-reconsider-request-to-hold-protest-at-jantar-mantar-554490",
+      "links": [
+        "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-issues-notice-on-indian-youth-congress-plea-to-reconsider-request-to-hold-protest-at-jantar-mantar-554490",
+        "https://lawbeat.in/news-updates/iyc-drops-plea-for-jantar-mantar-protest-delhi-hc-issues-notice-on-challenge-to-alleged-arbitrary-permission-denial-1641407"
+      ],
+      "image_urls": [
+        "https://bmhrmagazine.com/wp-content/uploads/2026/03/Delhi-high-court-1-1104x621.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "7:18 AM PDT, Oct 13",
+      "report_time_ist": "7:48 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T14:17:33Z",
+      "sentiment": {
+        "courts": "neutral"
+      }
+    }
+  ]
+}

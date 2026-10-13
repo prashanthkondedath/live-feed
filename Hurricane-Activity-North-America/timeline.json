@@ -1223,6 +1223,30 @@
       "source_url": "https://www.reflector.com/news/national/storms-cause-5-deaths-in-mexico-as-flood-risk-eases-in-southwestern-us/article_52abfc89-0e85-599f-a837-df09efadfda1.html",
       "summary": "New details on Rachel's Baja toll (Ensenada): the four recovered bodies are a 13-year-old girl (Sunday) plus two women and a 4-year-old boy (Monday); six remain missing - four in Ensenada and a father-son fishing pair from San Felipe who did not return Saturday. The 32 people rescued by military helicopter at the Ensenada ranch included 22 foreigners - Germans and Americans, some missionaries; 13 of the 32 were youths. ~14,000 federal and state personnel deployed across Baja California. AFP confirms the four recovered bodies and the helicopter rescues.",
       "title": "Baja toll refined: four bodies identified in Ensenada, 22 foreigners among 32 helicopter rescues, 14,000 personnel deployed"
+    },
+    {
+      "id": "simon-guerrero-damage-tally-201homes-oct13",
+      "event_time_ist": "Guerrero Civil Protection assessment cutoff: 6 PM CST, Oct 12, 2026 (= 5:30 AM IST, Oct 13, 2026); published in press Oct 13, 2026",
+      "title": "Simon damage tally rises: 201 homes in 21 Guerrero municipalities; Acapulco rainfall record",
+      "summary": "Guerrero Civil Protection's latest assessment raises Simon's toll to 201 damaged homes across 21 municipalities (6 fully collapsed, 182 flooded, 13 more with landslide or structural damage), up from 112 in 20 municipalities. Acapulco is the hardest-hit municipality (2 injured, 20 homes flooded, 150 businesses waterlogged, 60 vehicles stranded) and set an all-time rainfall record at 391 mm, with up to 500 mm suspected. Mexico's SMN forecasts Simon degrading to Category 1 Tuesday-Wednesday and making landfall in Sinaloa around midnight Thursday, Oct 15, with direct effects on Mazatlan at lower intensity (~160 km/h gusts). Simon's death toll remains 2 (Chilpancingo wall-collapse victim + Mazatlan cliff diver).",
+      "source_name": "El Pais (Mexico)",
+      "source_url": "https://elpais.com/mexico/2026-10-13/la-estela-del-huracan-simon-golpea-hasta-201-casas-en-su-lento-avance-hacia-sinaloa.html",
+      "links": [
+        "https://elpais.com/mexico/2026-10-13/la-estela-del-huracan-simon-golpea-hasta-201-casas-en-su-lento-avance-hacia-sinaloa.html",
+        "https://quadratin.com/mundo/sube-a-201-cifra-de-casas-afectadas-por-huracan-simon-en-guerrero-mexico/",
+        "https://lado.mx/noticia/22042904/"
+      ],
+      "image_urls": [
+        "https://watchers.news/wp-content/uploads/2026/10/Satellite-image-of-Hurricane-Simon-at-1040-UTC-on-October-12.-2026.webp"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "4:03 AM PDT, Oct 13",
+      "report_time_ist": "4:33 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T11:03:56Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
     }
   ],
   "last_updated_pdt": "11:12 PM PDT, Oct 12",

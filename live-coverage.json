@@ -359,13 +359,13 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T20:30:46Z",
+      "trend_updated_at_utc": "2026-10-13T21:07:24Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 63,
+        "items_in_window": 64,
         "sides": {
           "civilians": {
-            "positive": 10,
+            "positive": 11,
             "negative": 37,
             "neutral": 10,
             "overall": "negative"
@@ -377,7 +377,7 @@
             "overall": "neutral"
           },
           "us_govt": {
-            "positive": 2,
+            "positive": 3,
             "negative": 0,
             "neutral": 7,
             "overall": "neutral"
@@ -389,7 +389,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T20:30:46Z"
+        "updated_at_utc": "2026-10-13T21:07:24Z"
       },
       "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon weakened to Category 1 off Mexico's Pacific coast with its warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
@@ -425,12 +425,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 63,
-        "confirmed": 36,
+        "items_in_window": 64,
+        "confirmed": 37,
         "single-sourced": 27,
         "unconfirmed": 0,
-        "confirmed_rate": 0.57,
-        "updated_at_utc": "2026-10-13T20:30:46Z"
+        "confirmed_rate": 0.58,
+        "updated_at_utc": "2026-10-13T21:07:24Z"
       },
       "phase": "intensifying"
     },
@@ -532,5 +532,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T20:34:10Z"
+  "updated_at_utc": "2026-10-13T21:07:24Z"
 }

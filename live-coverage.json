@@ -374,31 +374,31 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T19:08:56Z",
+      "trend_updated_at_utc": "2026-10-13T19:59:09Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 39,
+        "items_in_window": 42,
         "sides": {
           "us": {
-            "positive": 5,
+            "positive": 6,
             "negative": 12,
             "neutral": 8,
             "overall": "negative"
           },
           "iran": {
             "positive": 6,
-            "negative": 19,
+            "negative": 21,
             "neutral": 8,
             "overall": "negative"
           },
           "markets": {
             "positive": 2,
-            "negative": 24,
+            "negative": 25,
             "neutral": 3,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T19:08:56Z"
+        "updated_at_utc": "2026-10-13T19:59:09Z"
       },
       "current_summary": "The Strait of Hormuz remains contested with tanker transits all but stopped; Iran is reviewing the US reply to its seven conditions via Qatari and Pakistani mediation, IRGC mine claims stay unverified, the USS Theodore Roosevelt is deploying, and Brent holds around $105-106.",
       "watch_for": [
@@ -433,5 +433,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:51:15Z"
+  "updated_at_utc": "2026-10-13T19:59:09Z"
 }

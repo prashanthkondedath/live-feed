@@ -635,6 +635,29 @@
    "source_url": "https://www.wsj.com/finance/commodities-futures/oil-futures-decline-on-possible-technical-correction-a4fa2f4b",
    "summary": "Citi Research's base case (60% probability) assumes Hormuz flows recover in Q4 with no lasting infrastructure damage: Brent falls to $70/bbl in Q1 2027 and toward $65 from Q2 2027. But it assigns a 30% probability to prolonged disruption or further infrastructure damage, which would keep Brent averaging $120 through 2027. The bank says the timing of any normalization remains unusually uncertain.",
    "title": "Citi: Brent could slide to $65 in 2027 if Hormuz normalizes (60% base case), or average $120 if disruption persists (30% case)"
+  },
+  {
+   "id": "gem-no2-drone-sharjah-oct9",
+   "event_time_ist": "Oct 9, 2026 (time of attack unknown); confirmed by India’s shipping minister on Oct 10, 2026",
+   "title": "MT GEM NO. 2 hit by drone at Sharjah Anchorage, Oct 9 — all 22 Indian crew safe",
+   "summary": "The Panama-flagged crude tanker MT GEM NO. 2 was struck by a drone while at anchorage off Sharjah (UAE) on Oct 9, 2026. India’s Minister Sarbananda Sonowal confirmed the incident and said all 22 Indian crew members are completely safe; his ministry is monitoring the situation and in contact with the ship manager. No perpetrator has been named. The incident marks a drone attack deep inside UAE coastal waters at the mouth of the Gulf of Oman — a notable geographic escalation beyond the strait’s transit corridors. This Oct 9 attack predates the Oct 11 Petro Dolphin/Valthera incidents but was missed by earlier checks; it is now in the timeline.",
+   "source_name": "ANI",
+   "source_url": "https://www.latestly.com/agency-news/world-news-indian-crew-of-22-safe-after-drone-attack-on-panama-flagged-oil-tanker-at-sharjah-anchorage-sonowal-7639175.html",
+   "links": [
+    "https://www.nationpress.com/national/all-22-indian-crew-safe-after-sharjah-tanker-attack",
+    "https://thepurbottar.in/oil-tanker-with-22-indian-nationals-comes-under-drone-attack-at-sharjah-anchorage-sonowal/"
+   ],
+   "image_urls": [
+    "https://www.rudaw.net/_next/image?url=https%3A%2F%2Fimages.rudaw.net%2Fimages%2Fasset%2Fnews%2F20261013075328_R37HYB7K5NA5ZBFLVAFRFP5BZU.avif&w=3840&q=88"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "02:24 AM PDT, Oct 13",
+   "report_time_ist": "02:54 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:24:13Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   }
   }
  ],
  "last_updated_pdt": "12:55 AM PDT, Oct 13",

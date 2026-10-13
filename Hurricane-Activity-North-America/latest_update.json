@@ -1,1 +1,27 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Expected later today, Tue Oct 13 (5 AM PDT TWOEP issued 5:30 PM IST)","id":"ep93-advisories-likely-today-oct13","image_urls":[],"links":[],"report_time_ist":"5:35 PM IST, Oct 13","report_time_pdt":"5:05 AM PDT, Oct 13","reported_at_utc":"2026-10-13T12:05:00Z","sentiment":{"civilians":"neutral","mexico_govt":"neutral"},"source_name":"NHC (Tropical Weather Outlook, Eastern Pacific)","source_url":"https://www.nhc.noaa.gov/text/refresh/MIATWOEP+shtml/131119_MIATWOEP.shtml","summary":"NHC Tropical Weather Outlook 5 AM PDT Tue Oct 13: Invest EP93 south of southern Mexico has showers and thunderstorms becoming better organized with a better-defined circulation; formation chance remains high near 100% (48h and 7d). If trends continue, NHC says advisories are likely to be initiated later today on a tropical depression or tropical storm, moving generally WNW around 10 mph. The system is NOT yet classified - still no tropical depression and no Tropical Storm Trudy.","title":"NHC: EP93 likely to get tropical-cyclone advisories 'later today' - still unnamed (next name Trudy)"},{"confidence":"single-sourced","event_time_ist":"Tue Oct 13 (8 AM EDT TWOAT issued 5:30 PM IST)","id":"atlantic-caboverde-near-zero-oct13","image_urls":[],"links":[],"report_time_ist":"5:35 PM IST, Oct 13","report_time_pdt":"5:05 AM PDT, Oct 13","reported_at_utc":"2026-10-13T12:05:00Z","sentiment":{"civilians":"positive"},"source_name":"NHC (Tropical Weather Outlook, Atlantic)","source_url":"https://www.nhc.noaa.gov/text/refresh/MIATWOAT+shtml/131117_MIATWOAT.shtml","summary":"NHC Atlantic Tropical Weather Outlook 8 AM EDT Tue Oct 13: the low-pressure trough a few hundred miles west-northwest of the Cabo Verde Islands is no longer expected to develop as it moves slowly north into strong upper-level winds; formation chance now low, near 0 percent for both 48 hours and 7 days. No tropical cyclones are active in the Atlantic. The only Atlantic formation watch item in this watch drops out.","title":"Atlantic Cabo Verde disturbance fizzles out - formation chance now near 0%"}],"report_time_ist":"5:35 PM IST, Oct 13","report_time_pdt":"5:05 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "6:21 AM PDT, Oct 13",
+  "report_time_ist": "6:51 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "ep93-formation-likely-later-today-oct13",
+      "event_time_ist": "Issued 5:00 AM PDT, Oct 13 (5:30 PM IST, Oct 13)",
+      "title": "NHC: advisories likely initiated later today on EP93 as a tropical depression or tropical storm",
+      "summary": "NHC 5:00 AM PDT Tropical Weather Outlook (Pacific): EP93 \u2014 a broad low several hundred miles south of southern Mexico \u2014 now shows better-organized showers/thunderstorms and satellite-derived wind data indicating the circulation is becoming better defined. Formation chance remains high, near 100% (48h and 7d). NHC says if current trends continue, advisories will likely be initiated later today on a tropical depression or tropical storm; the system moves WNW ~10 mph and southwestern Mexico interests should keep monitoring. Still unnamed \u2014 the next eastern Pacific name is Trudy.",
+      "source_name": "NWS National Hurricane Center (Tropical Weather Outlook, 5 AM PDT Oct 13)",
+      "source_url": "http://www.nhc.noaa.gov/gtwo.php?text",
+      "links": [
+        "http://www.nhc.noaa.gov/gtwo.php?text",
+        "https://www.weatherusa.net/wxwarnings?product=TWO&location=EP&last=1"
+      ],
+      "image_urls": [],
+      "confidence": "single-sourced",
+      "report_time_pdt": "6:21 AM PDT, Oct 13",
+      "report_time_ist": "6:51 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T13:21:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    }
+  ]
+}

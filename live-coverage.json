@@ -13,7 +13,9 @@
           "longitude": 77.209,
           "label": "New Delhi"
         }
-      ]
+      ],
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     },
     {
       "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
@@ -33,7 +35,9 @@
           "longitude": 50.0888,
           "label": "Dammam"
         }
-      ]
+      ],
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     },
     {
       "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
@@ -58,7 +62,9 @@
           "longitude": 36.2304,
           "label": "Kharkiv"
         }
-      ]
+      ],
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     },
     {
       "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -78,7 +84,9 @@
           "longitude": -104.3199,
           "label": "Manzanillo, Mexico"
         }
-      ]
+      ],
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -98,8 +106,10 @@
           "longitude": 51.389,
           "label": "Tehran"
         }
-      ]
+      ],
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-13T18:44:09Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T06:26:47Z"
+  "updated_at_utc": "2026-10-13T18:44:09Z"
 }

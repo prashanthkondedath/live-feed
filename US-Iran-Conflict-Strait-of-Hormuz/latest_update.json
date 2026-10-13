@@ -1,1 +1,28 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Press release Oct 13, 2026, ~5:30 AM IST; underlying letter sent Oct 8, 2026","id":"crow-kuhestak-wedding-letter-oct13","image_urls":["https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2305/7799388/1000w_q95.jpg"],"links":["https://eir.news/2026/10/news/congressional-letter-demands-answers-for-civilian-deaths-in-iran/"],"report_time_ist":"9:40 PM IST, Oct 13, 2026","report_time_pdt":"9:10 AM PDT, Oct 13, 2026","reported_at_utc":"2026-10-13T16:10:00Z","sentiment":{"us":"negative"},"source_name":"Rep. Jason Crow (crow.house.gov)","source_url":"http://crow.house.gov/media/press-releases/crow-presses-pentagon-over-civilian-casualties-during-trump-s-iran-war","summary":"Rep. Jason Crow (D-CO), with Reps. Ansari and Jacobs, wrote to SecDef Hegseth demanding answers on the Sept 1, 2026 strike at a wedding in Kuhestak, Iran, which killed 5 civilians (incl. a 4-year-old and a 16-year-old) and injured dozens. WaPo reporting cited 'high likelihood' the U.S. was responsible; the letter also presses on the Minab school strike (175 killed Feb 28) and the Lamerd sports-hall strike (21 killed), plus the gutting of Pentagon civilian-harm mitigation staff (CENTCOM CHMR down to 1 full-timer). Answers demanded by Oct 26. A separate eir.news report notes 74 members sent a related letter on Oct 8.","title":"House members press Pentagon on Sept 1 Kuhestak wedding strike that killed 5 civilians"}],"report_time_ist":"9:40 PM IST, Oct 13, 2026","report_time_pdt":"9:10 AM PDT, Oct 13, 2026"}
+{
+  "report_time_pdt": "9:39 AM PDT, Oct 13",
+  "report_time_ist": "10:09 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "iran-army-navy-tanker-fire-east-hormuz-oct13",
+      "event_time_ist": "announced ~8:05 PM IST, Oct 13 (incident time unknown)",
+      "title": "Iran's Army Navy claims a 'violating' oil tanker caught fire east of the Strait of Hormuz",
+      "summary": "The Iranian Army Navy (Nedaja) announced Tuesday morning via state news agency IRNA that an oil tanker described as 'violating' caught fire east of the Strait of Hormuz. No details were given on the nature of the violation, the vessel's identity, damage extent, or crew casualties. This is a separate claim from the IRGC Navy's Oct 10-12 mine-strike claims: it comes from the regular Army Navy and places the incident east of the strait (i.e., in the Gulf of Oman approach), which would extend Iran's claimed enforcement zone beyond the strait if it reflects a new event. Tasnim published boat-shot footage of a burning tanker alongside the claim. No independent confirmation; treat as an Iranian-state claim.",
+      "source_name": "JFeed Breaking",
+      "source_url": "https://www.jfeed.com/latest-news/oil-tanker-catches-fire-east-of-strait-of-hormuz-iranian-navy-reports-54777",
+      "links": [
+        "https://www.jfeed.com/latest-news/oil-tanker-catches-fire-east-of-strait-of-hormuz-iranian-navy-reports-54777"
+      ],
+      "image_urls": [
+        "https://eidisis247.gr/wp-content/uploads/2026/08/hormuz-fire-tanker-1024x683-1-768x512.png"
+      ],
+      "confidence": "unconfirmed",
+      "report_time_pdt": "9:39 AM PDT, Oct 13",
+      "report_time_ist": "10:09 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T16:39:56Z",
+      "sentiment": {
+        "iran": "positive",
+        "markets": "negative"
+      }
+    }
+  ]
+}

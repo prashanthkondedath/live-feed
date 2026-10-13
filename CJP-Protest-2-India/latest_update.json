@@ -1,26 +1,25 @@
 {
- "report_time_pdt": "4:10 AM PDT, Oct 13",
- "report_time_ist": "4:40 PM IST, Oct 13",
- "items": [
-  {
-   "id": "sc-sir-petition-not-listed-tuesday-oct13",
-   "event_time_ist": "Tuesday morning, Oct 13",
-   "title": "SC did not list INDIA bloc's SIR petition on Tuesday; registry defects still uncured",
-   "summary": "The Supreme Court on Tuesday did not list for hearing the joint petition filed by Rahul Gandhi and 10 other INDIA-bloc leaders over alleged large-scale voter deletions in the SIR of electoral rolls, because the 14 defects flagged by the court registry on Monday are yet to be cured (unclear copy of Mallikarjun Kharge's ID card, missing vakalatnamas for nine petitioners, Rs 220 court-fee shortfall, illegible/missing pages). A bench headed by CJI Surya Kant assured the petitioners the cases would be listed once the defects are removed — 'We will list all these matters. Make sure that the defects are cured' — told to Sr Adv Gopal Sankaranarayanan, who mentioned the matter on behalf of a journalist. The petition's hearing timeline now depends entirely on the defect cure; prior watch expectation was a Wednesday listing. Note: News89 credits the original reporting to indiatoday.in; no second independent outlet has yet covered the Tuesday mentioning.",
-   "source_name": "News89 (original credit: indiatoday.in)",
-   "source_url": "https://news89.com/supreme-court-delays-hearing-on-rahul-gandhi-plea-over-voter-roll-revision-defects/",
-   "links": [],
-   "image_urls": [
-    "https://news89.com/wp-content/uploads/2026/10/Supreme-Court-delays-hearing-on-Rahul-Gandhi-plea-over-voter-701x394.png"
-   ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "4:10 AM PDT, Oct 13",
-   "report_time_ist": "4:40 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T11:10:04Z",
-   "sentiment": {
-    "india_bloc": "neutral",
-    "courts": "neutral"
-   }
-  }
- ]
+  "report_time_pdt": "5:24 AM PDT, Oct 13",
+  "report_time_ist": "5:54 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "delhi-hc-metro-pil-adjourned-oct16-oct13",
+      "event_time_ist": "heard Tuesday, Oct 13 (exact time unreported)",
+      "title": "Delhi HC adjourns 57-metro-station-closure PIL to Friday Oct 16; notes SC seized of the same issue",
+      "summary": "First Tuesday outcome from the Delhi High Court protest hearings: a division bench (Acting CJ Nitin Wasudeo Sambre + Justice Sanjay Sharma) adjourned to Friday, Oct 16 the PIL by law student Anshika Tripathi and an advocate challenging the closure of 57 Delhi Metro stations, railway service disruptions, and alleged preventive detention/interception of people travelling to Delhi ahead of the Oct 10 Jantar Mantar protest. ASG Chetan Sharma told the bench a similar PIL is pending before the Supreme Court, listed Thursday (Oct 15). The petitioner argued people were house-arrested during the protests, including certain politicians; the court orally asked how it could pass an order contradictory to the SC's and granted time for the petitioner to produce copies of the SC petitions.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-pil-against-closure-of-57-metro-stations-554460",
+      "links": [],
+      "image_urls": [
+        "https://bmhrmagazine.com/wp-content/uploads/2026/03/Delhi-high-court-1-1104x621.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:24 AM PDT, Oct 13",
+      "report_time_ist": "5:54 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T12:24:00Z",
+      "sentiment": {
+        "courts": "neutral"
+      }
+    }
+  ]
 }

@@ -4953,6 +4953,29 @@
    "source_url": "https://apnamatvchannel.com/india/delhi-police-registers-more-than-4-firs-against-social-media-handles-for-spreading-fake-posts-during-sir-protests/",
    "summary": "Delhi Police's Intelligence Fusion and Strategic Operations (IFSO) unit registered more than four FIRs against social media handles allegedly spreading false narratives and vitiating the atmosphere during the SIR protests. Police said several Pakistani handles were identified spreading anti-India sentiments — on Oct 10 they allegedly circulated false reports claiming deaths during the protests, and users operating from Pakistan are circulating fake videos and misleading news while posing as Indians. Around 500 social media posts have been taken down so far for allegedly spreading rumours or trying to create unrest. This is separate from the already-logged four FIRs over Monday's INDIA bloc march (Connaught Place, Tilak Marg, Barakhamba, Mandir Marg for BNSS Section 163 violations).",
    "title": "Delhi Police IFSO registers 4+ FIRs over fake online posts during SIR protests; Pakistani handles identified, ~500 posts taken down"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "~6:34 PM IST, Oct 13 (fuller quotes reported ~7:35 PM IST, Oct 13)",
+   "id": "post-tea-presser-fuller-quotes-oct13",
+   "image_urls": [
+    "https://reporterworldnews.com/storage/gallery/2026/10/12/rahul-gandhi-cec-row.jpg"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/india/news/india-bloc-sir-protest-rahul-gandhi-high-tea-tejashwi-yadav-supriya-sule-mallikarjun-kharge-jantar-mantar-news-vote-chori-latest-updates-10332595"
+   ],
+   "report_time_ist": "8:37 PM IST, Oct 13",
+   "report_time_pdt": "8:07 AM PDT, Oct 13",
+   "reported_at_utc": "2026-10-13T15:07:19Z",
+   "sentiment": {
+    "bjp": "negative",
+    "india_bloc": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "PTI via The Daily Jagran",
+   "source_url": "https://www.thedailyjagran.com/india/news/india-bloc-sir-protest-rahul-gandhi-high-tea-tejashwi-yadav-supriya-sule-mallikarjun-kharge-jantar-mantar-news-vote-chori-latest-updates-10332595",
+   "summary": "PTI's fuller wire version of the post-high-tea presser (first reported 6:34 PM IST) carries new verbatim statements. Rahul Gandhi pledged to challenge the Jantar Mantar de-notification ('it is not going to be so simple for the government to decide that the Indian people will not fight for their voice'), thanked the people of Delhi/India, and said those responsible 'are going to be brought to justice.' Congress' Pawan Khera invoked the Dandi March ('Did Mahatma Gandhi seek permission from the British?'), vowing to fight peacefully and oppose unjust rules. Shashi Tharoor said the bloc is 'not withdrawing' and rejected the 'out of sight, out of mind' move of protest sites outside the city. TMC's Sagarika Ghose said there will be 'no free and fair elections in India' as long as the Gyanesh Kumar-headed ECI continues. Deepender Hooda said the EC must be impartial and democracy restored. AISA's Neha Bora extended her earlier statement, calling the BJP 'one enemy of the people of this country... of Indian democracy... of the Constitution.' Presser corroborated by Times Now Navbharat (13:34Z alert); the fuller quotes are PTI-sourced only.",
+   "title": "Post-tea presser fuller quotes: Rahul Gandhi pledges to 'challenge' Jantar Mantar de-notification; new statements from Khera, Tharoor, Sagarika Ghose, Hooda"
   }
  ]
 }

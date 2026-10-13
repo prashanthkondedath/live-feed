@@ -1,1 +1,70 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~9:55 AM IST, Oct 13","id":"dipke-shinde-detained-x-post-oct13","image_urls":["https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"],"links":["https://www.latestly.com/india/news/ashutosh-ranka-saurav-das-ajinkya-shinde-and-other-cjp-members-detained-says-abhijeet-dipke-7642457.html"],"report_time_ist":"10:08 AM IST, Oct 13","report_time_pdt":"9:38 PM PDT, Oct 12","reported_at_utc":"2026-10-13T04:38:23Z","sentiment":{"bjp":"negative","cjp_protesters":"positive"},"source_name":"LatestLY","source_url":"https://www.latestly.com/india/news/ashutosh-ranka-saurav-das-ajinkya-shinde-and-other-cjp-members-detained-says-abhijeet-dipke-7642457.html","summary":"CJP founder Abhijeet Dipke's first X post on Tuesday's Jantar Mantar re-detention (Oct 13, ~9:55 AM IST): 'Cockroaches with the Tiranga sneaked into Jantar Mantar early this morning before they were picked up by Delhi Police. @AshutoshRanka, @SauravDassss, @AjinkyaCJP along with other team members have been detained. You cannot denotify the resistance, @narendramodi.' Delhi Police/ANI confirmed Das and Ranka's detention; interim leader Ajinkya Shinde's detention is named only by Dipke so far (police have not confirmed him). Article first appeared on LatestLY at 9:57 AM IST.","title":"Dipke's first X reaction to the Tuesday re-detention: 'You cannot denotify the resistance' - names interim leader Ajinkya Shinde detained too"}],"report_time_ist":"10:08 AM IST, Oct 13","report_time_pdt":"9:38 PM PDT, Oct 12"}
+{
+  "items": [
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "~9:20 AM IST, Oct 13",
+      "id": "sir-petition-tuesday-hearing-postponed-oct13",
+      "image_urls": [
+        "https://www.livelaw.in/h-upload/2025/08/21/750x450_616696-mallikarjun-kharge-rahul-gandhi-and-sc.webp"
+      ],
+      "links": [
+        "https://htsyndication.com/hindustan-times/article/supreme-court-flags-14--defects--in-rahul-gandhi-s-petition-against-cec-gyanesh-kumar/105013584",
+        "https://thebengaltoday.com/rahul-gandhis-plea-mired-in-errors-supreme-court-hearing-postponed-due-to-14-flaws/",
+        "https://tezzbuzz.com/rahul-gandhi-plea-hearing-in-supreme-court-will-not-take-place-on-tuesday-12670165/"
+      ],
+      "report_time_ist": "10:20 AM IST, Oct 13",
+      "report_time_pdt": "9:50 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-13T04:50:31Z",
+      "sentiment": {
+        "courts": "neutral",
+        "india_bloc": "negative"
+      },
+      "source_name": "Hindustan Times (via HT Syndication)",
+      "source_url": "https://htsyndication.com/hindustan-times/article/supreme-court-flags-14--defects--in-rahul-gandhi-s-petition-against-cec-gyanesh-kumar/105013584",
+      "summary": "The Supreme Court will NOT hear the Rahul Gandhi-led SIR writ petition (Diary 64196/2026) on Tuesday, Oct 13. The registry's 14 defects - missing vakalatnamas for 9 of the 11 petitioners, a Rs 220 court-fee shortfall, an illegible copy of Mallikarjun Kharge's ID, and individual ECs named as respondents - must be cured before the matter can be listed. The petitioners' legal team has requested the matter be listed on Wednesday, Oct 14 after the defects are cured. (Defects were flagged Oct 12; the Tuesday non-hearing + Wednesday re-list request is new, confirmed by Hindustan Times, The Bengal Today and TezzBuzz.)",
+      "title": "SC SIR petition: Tuesday hearing off; petitioners seek Wednesday listing after curing 14 registry defects"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "morning, Oct 13",
+      "id": "dipke-tiranga-ig-reaction-oct13",
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "links": [],
+      "report_time_ist": "10:20 AM IST, Oct 13",
+      "report_time_pdt": "9:50 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-13T04:50:31Z",
+      "sentiment": {
+        "bjp": "negative",
+        "cjp_protesters": "positive"
+      },
+      "source_name": "Abhijeet Dipke, Instagram (@abhijeetdipke)",
+      "source_url": "https://www.instagram.com/p/Dea77BPPX44/",
+      "summary": "Dipke's first Instagram reaction to Tuesday morning's Jantar Mantar re-detention: caption 'Waiving Tiranga at Jantar Mantar! You cannot de-notify the movement, Modi!' (~55K likes). Mirrors his already-reported X statement naming Das, Ranka and Ajinkya Shinde as detained. He also posted IG stories ('Waiving the Tiranga at Jantar Mantar - Well done Cockroaches!' / 'Bravo team!').",
+      "title": "Dipke's first Instagram reaction to Tuesday's Jantar Mantar re-detention"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "morning, Oct 13",
+      "id": "ranka-fortress-jantarmantar-reel-oct13",
+      "image_urls": [
+        "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
+      ],
+      "links": [],
+      "report_time_ist": "10:20 AM IST, Oct 13",
+      "report_time_pdt": "9:50 PM PDT, Oct 12",
+      "reported_at_utc": "2026-10-13T04:50:31Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      },
+      "source_name": "Ashutosh Ranka, Instagram (@ashutosh_ranka)",
+      "source_url": "https://www.instagram.com/reel/Dea4GMop0Ma/",
+      "summary": "CJP national spokesperson Ashutosh Ranka posted his own IG reel captioned 'Fortress Jantar Mantar has been breached' - his own on-the-scene voice on Tuesday morning's gate-climb that led to his and Saurav Das's re-detention. Participant's own post corroborates the detention from the CJP side.",
+      "title": "Ranka's own IG reel from the gate-climb: 'Fortress Jantar Mantar has been breached'"
+    }
+  ],
+  "report_time_ist": "10:20 AM IST, Oct 13",
+  "report_time_pdt": "9:50 PM PDT, Oct 12"
+}

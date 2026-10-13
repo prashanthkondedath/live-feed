@@ -1,28 +1,51 @@
 {
- "report_time_pdt": "02:24 AM PDT, Oct 13",
- "report_time_ist": "02:54 PM IST, Oct 13",
+ "report_time_pdt": "3:09 AM PDT, Oct 13, 2026",
+ "report_time_ist": "3:39 PM IST, Oct 13, 2026",
  "items": [
   {
-   "id": "gem-no2-drone-sharjah-oct9",
-   "event_time_ist": "Oct 9, 2026 (time of attack unknown); confirmed by India’s shipping minister on Oct 10, 2026",
-   "title": "MT GEM NO. 2 hit by drone at Sharjah Anchorage, Oct 9 — all 22 Indian crew safe",
-   "summary": "The Panama-flagged crude tanker MT GEM NO. 2 was struck by a drone while at anchorage off Sharjah (UAE) on Oct 9, 2026. India’s Minister Sarbananda Sonowal confirmed the incident and said all 22 Indian crew members are completely safe; his ministry is monitoring the situation and in contact with the ship manager. No perpetrator has been named. The incident marks a drone attack deep inside UAE coastal waters at the mouth of the Gulf of Oman — a notable geographic escalation beyond the strait’s transit corridors. This Oct 9 attack predates the Oct 11 Petro Dolphin/Valthera incidents but was missed by earlier checks; it is now in the timeline.",
-   "source_name": "ANI",
-   "source_url": "https://www.latestly.com/agency-news/world-news-indian-crew-of-22-safe-after-drone-attack-on-panama-flagged-oil-tanker-at-sharjah-anchorage-sonowal-7639175.html",
+   "id": "trump-ohio-gaggle-midterms-iran",
+   "event_time_ist": "Oct 12, 2026, late afternoon IST (gaggle before Youngstown, Ohio rally)",
+   "title": "Trump: midterms won't sway Iran strategy; war 'will end very soon'; Houthis 'misbehaving very badly'",
+   "summary": "Speaking to reporters Monday before his Youngstown, Ohio rally, Trump said the Nov 3 midterms will not influence US strategy toward Iran and repeated that the war 'will end very soon' (with oil prices to 'drop like a rock'). He confirmed he spoke directly with Saudi Crown Prince MBS about Houthi airport attacks; asked about a US response to the Houthis, he said only they are 'misbehaving very badly' and announced no retaliatory measures.",
+   "source_name": "Matzav / South Florida Reporter",
+   "source_url": "https://matzav.com/no-election-delay-trump-says-iran-war-will-end-very-soon-warns-houthis-over-attacks-on-saudi-arabia/",
    "links": [
-    "https://www.nationpress.com/national/all-22-indian-crew-safe-after-sharjah-tanker-attack",
-    "https://thepurbottar.in/oil-tanker-with-22-indian-nationals-comes-under-drone-attack-at-sharjah-anchorage-sonowal/"
+    "https://matzav.com/no-election-delay-trump-says-iran-war-will-end-very-soon-warns-houthis-over-attacks-on-saudi-arabia/",
+    "https://southfloridareporter.com/trump-talks-ceasefires-rowdy-houthis-and-big-gop-energy-en-route-to-ohio-video/"
    ],
    "image_urls": [
-    "https://www.rudaw.net/_next/image?url=https%3A%2F%2Fimages.rudaw.net%2Fimages%2Fasset%2Fnews%2F20261013075328_R37HYB7K5NA5ZBFLVAFRFP5BZU.avif&w=3840&q=88"
+    "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "02:24 AM PDT, Oct 13",
-   "report_time_ist": "02:54 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T09:24:13Z",
+   "report_time_pdt": "3:09 AM PDT, Oct 13, 2026",
+   "report_time_ist": "3:39 PM IST, Oct 13, 2026",
+   "reported_at_utc": "2026-10-13T10:09:32Z",
    "sentiment": {
-    "iran": "negative",
-    "markets": "negative"
+    "us": "positive",
+    "markets": "positive"
+   }
+  },
+  {
+   "id": "trump-youngstown-rally-too-far",
+   "event_time_ist": "Oct 13, 2026, ~7:50 AM IST (Youngstown, Ohio rally, evening Oct 12 ET)",
+   "title": "Trump says US 'might have gone too far' targeting Iran's leadership; claims all 159 Iranian naval vessels sunk",
+   "summary": "At the Youngstown, Ohio campaign rally, Trump said the US may have 'gone too far' in targeting Iran's leadership — 'we don't know who the hell we're dealing with any more' — complicating negotiations. He also reiterated the claim that Iran has lost its air force and all 159 naval vessels, now 'resting beautifully in the bottom of the sea'.",
+   "source_name": "The Business Standard (TBS) / Rifnote (via Al Jazeera)",
+   "source_url": "https://www.tbsnews.net/worldbiz/usa/trump-says-us-might-have-gone-too-far-targeting-irans-leadership-1571356",
+   "links": [
+    "https://www.tbsnews.net/worldbiz/usa/trump-says-us-might-have-gone-too-far-targeting-irans-leadership-1571356",
+    "https://rifnote.com/?p=85285"
+   ],
+   "image_urls": [
+    "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:09 AM PDT, Oct 13, 2026",
+   "report_time_ist": "3:39 PM IST, Oct 13, 2026",
+   "reported_at_utc": "2026-10-13T10:09:32Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative"
    }
   }
  ]

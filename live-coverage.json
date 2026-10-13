@@ -185,17 +185,11 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:49:55Z",
+      "trend_updated_at_utc": "2026-10-13T18:55:08Z",
       "sentiment_summary": {
         "window": "7d",
         "items_in_window": 63,
         "sides": {
-          "civilians": {
-            "positive": 10,
-            "negative": 37,
-            "neutral": 10,
-            "overall": "negative"
-          },
           "mexico_govt": {
             "positive": 6,
             "negative": 0,
@@ -215,7 +209,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T18:49:55Z"
+        "updated_at_utc": "2026-10-13T18:55:08Z"
       }
     },
     {
@@ -266,5 +260,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T18:55:05Z"
+  "updated_at_utc": "2026-10-13T18:55:08Z"
 }

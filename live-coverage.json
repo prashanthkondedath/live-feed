@@ -102,7 +102,7 @@
           "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
+      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -113,7 +113,8 @@
         "unconfirmed": 8,
         "confirmed_rate": 0.36,
         "updated_at_utc": "2026-10-13T20:30:34Z"
-      }
+      },
+      "phase": "standoff"
     },
     {
       "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
@@ -200,7 +201,7 @@
           "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation of attacks"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
+      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "falling",
       "verification": {
@@ -211,7 +212,8 @@
         "unconfirmed": 0,
         "confirmed_rate": 0.52,
         "updated_at_utc": "2026-10-13T20:30:38Z"
-      }
+      },
+      "phase": "escalation"
     },
     {
       "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
@@ -323,7 +325,7 @@
           "role": "German chancellor; called the Russian diesel deal 'out of the question' for Europe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
+      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -334,7 +336,8 @@
         "unconfirmed": 0,
         "confirmed_rate": 0.92,
         "updated_at_utc": "2026-10-13T20:30:42Z"
-      }
+      },
+      "phase": "contested-ceasefire"
     },
     {
       "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -417,7 +420,7 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
+      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
       "started_at_utc": "2026-10-12T20:05:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -428,7 +431,8 @@
         "unconfirmed": 0,
         "confirmed_rate": 0.57,
         "updated_at_utc": "2026-10-13T20:30:46Z"
-      }
+      },
+      "phase": "recovery"
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
@@ -513,7 +517,7 @@
           "role": "UAE diplomatic adviser; called for 'joint Gulf action' against Iran and proxies"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
+      "curation_updated_at_utc": "2026-10-13T20:30:59Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -524,8 +528,9 @@
         "unconfirmed": 3,
         "confirmed_rate": 0.81,
         "updated_at_utc": "2026-10-13T20:30:49Z"
-      }
+      },
+      "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-13T20:30:49Z"
+  "updated_at_utc": "2026-10-13T20:30:59Z"
 }

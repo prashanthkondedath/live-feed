@@ -391,10 +391,10 @@
         },
         "updated_at_utc": "2026-10-13T21:35:27Z"
       },
-      "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon weakened to Category 1 off Mexico's Pacific coast with its warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
+      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded and Puerto Vallarta airport reopened, while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
         {
-          "event": "TD21-E forecast rapid intensification to a major hurricane; naming as Trudy",
+          "event": "Trudy forecast rapid intensification to a major hurricane",
           "date": "2026-10-16"
         },
         {
@@ -420,7 +420,7 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T21:06:00Z",
+      "curation_updated_at_utc": "2026-10-13T22:05:00Z",
       "started_at_utc": "2026-10-12T20:05:00Z",
       "trend_direction": "rising",
       "verification": {

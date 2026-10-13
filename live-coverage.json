@@ -250,8 +250,8 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:49:57Z",
-      "sentiment_summary": {
+      "trend_updated_at_utc": "2026-10-13T18:58:00Z",
+      "impact_summary": {
         "window": "7d",
         "items_in_window": 39,
         "sides": {
@@ -274,9 +274,9 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T18:49:57Z"
+        "updated_at_utc": "2026-10-13T18:58:00Z"
       }
     }
   ],
-  "updated_at_utc": "2026-10-13T18:57:57Z"
+  "updated_at_utc": "2026-10-13T18:58:00Z"
 }

@@ -3831,6 +3831,29 @@
    "sentiment": {
     "cjp_protesters": "positive"
    }
+  },
+  {
+   "id": "das-ranka-redetained-jantarmantar-oct13",
+   "event_time_ist": "~9:52 AM IST, Oct 13",
+   "title": "CJP co-conveners Saurav Das and Ashutosh Ranka re-detained at Jantar Mantar as the 24-hour ultimatum deadline hit",
+   "summary": "Mathrubhumi English (IG reel, 04:22:24Z) shows on-screen text that CJP leaders Saurav Das and Ashutosh Ranka 'sneak into Jantar Mantar': two men are seen climbing over a tall black metal gate, protesters with Indian flags run onto the street, and Delhi Police in khaki move in and detain the group — 'Delhi Police detain them along with other CJP volunteers.' Independently, a News18 J&K graphic (FB post, 04:21:25Z) says that 'after breaking barricades to reach Jantar-Mantar, CJP members Saurav Das and Ashutosh Ranka were again taken into custody by police.' Lands ~9:50-9:55 AM IST, right at the 24-hour deadline for police to respond to CJP's ultimatum (~10 AM IST). No web-news coverage of this re-detention yet; note that two verified TV/news-brand social accounts posted it within a minute of each other with actual footage (not a static graphic), which is stronger than the unverified HT-graphic claim dismissed last run.",
+   "source_name": "Mathrubhumi English (Instagram reel) + News18 J&K (Facebook graphic)",
+   "source_url": "https://www.instagram.com/reel/Dea8G1TkdVi/",
+   "links": [
+    "https://www.instagram.com/reel/Dea8G1TkdVi/",
+    "https://www.facebook.com/News18JKLH/posts/pfbid0Ay8uYAKiZGRcVyQQfzNTpRfBYzMGHgrYCtd1L4hygs4mGDKNQeCSfJY95ceidiQwl"
+   ],
+   "image_urls": [
+    "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "9:29 PM PDT, Oct 12",
+   "report_time_ist": "9:59 AM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T04:29:50Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "neutral"
+   }
   }
  ]
 }

@@ -1,54 +1,31 @@
 {
- "report_time_pdt": "2:45 AM PDT, Oct 13",
- "report_time_ist": "3:15 PM IST, Oct 13",
+ "report_time_pdt": "2:54 AM PDT, Oct 13",
+ "report_time_ist": "3:24 PM IST, Oct 13",
  "items": [
   {
-   "id": "four-firs-india-bloc-march-oct13",
-   "event_time_ist": "Tuesday, Oct 13",
-   "title": "Delhi Police filed four FIRs over Monday's INDIA bloc march to the Supreme Court",
-   "summary": "Delhi Police registered four FIRs in connection with the INDIA bloc's 'March for Democracy' to the Supreme Court, police sources said Tuesday. Cases were registered at Connaught Place, Tilak Marg (two FIRs), Mandir Marg, and Barakhamba police stations, all under BNSS Section 163; ANI separately reports the FIRs cite alleged barricade-breaking and graffiti on roads. Separately, Congress claimed on social media that 2.5 lakh people joined the march (unverified claim). Rahul Gandhi has invited INDIA bloc leaders, civil society members and student groups for a high tea at his residence at 4 PM Tuesday, with a joint press conference scheduled before it.",
-   "source_name": "IANS",
-   "source_url": "https://ianslive.in/delhi-police-register-multiple-firs-over-oppn-march-to-sc-detain-ashutosh-ranka-saurav-das-from-jantar-mantar--20261013094859",
+   "id": "mamata-old-list-demand-oct13",
+   "event_time_ist": "Tuesday, Oct 13 (time unknown)",
+   "title": "Mamata Banerjee demands elections on old voter rolls amid anti-SIR protest; BJP hits back",
+   "summary": "Mamata Banerjee said Tuesday that elections should be conducted using the existing electoral rolls until all eligible voters' names are included, amid the opposition's protest against CEC Gyanesh Kumar over alleged SIR irregularities: 'as long as their names are not included in the list, we think the election should be conducted using the old list.' Kerala CM V.D. Satheesan called the Rahul Gandhi-led march 'the biggest struggle... to protect democracy'; Kerala minister P.K. Kunhalikutty demanded the CEC's resignation. BJP counter: Assam BJP chief Dilip Saikia accused opposition parties of trying to create instability and targeting democratic institutions; Union minister Giriraj Singh said Congress questions ECI/EVMs only where it loses; BJP announced a counter public-awareness rally in Assam Tuesday.",
+   "source_name": "ANI (via syndication)",
+   "source_url": "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
    "links": [
-    "https://hiindia.com/delhi-police-file-4-firs-over-india-bloc-march-to-sc-detain-ashutosh-ranka-saurav-das-from-jantar-mantar/",
-    "https://andhravilas.net/delhi-police-file-4-firs-over-india-bloc-march-to-sc-detain-ashutosh-ranka/",
-    "https://www.dailyprabhat.com/delhi-police-registers-firs-under-bnss-section-163-for-violation-during-opposition-protest/",
-    "https://townpost.net/2026/10/13/delhi-police-four-firs-india-bloc-march-supreme-court-jantar-mantar/"
+    "https://www.devdiscourse.com/article/politics/3991222-election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition",
+    "https://apnamatvchannel.com/india/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition/",
+    "https://www.indianeconomicobserver.com/news/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
+    "https://www.indiannewsnetwork.net/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition20261013061719/",
+    "https://legal.industriesnews.net/news/279370095/election-should-be-conducted-using-old-list-says-mamata-banerjee-amid-protest-against-sir-bjp-hits-back-at-opposition"
    ],
    "image_urls": [
-    "https://cdn.pathanamthittamedia.com/wp-content/uploads/2026/07/cjp-pro-2.jpg"
+    "https://reporterworldnews.com/storage/resized/320x180/gallery/2026/10/13/tmc-protest-march.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "2:45 AM PDT, Oct 13",
-   "report_time_ist": "3:15 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T09:45:13Z",
+   "report_time_pdt": "2:54 AM PDT, Oct 13",
+   "report_time_ist": "3:24 PM IST, Oct 13",
+   "reported_at_utc": "2026-10-13T09:54:50Z",
    "sentiment": {
-    "police_govt": "neutral",
-    "india_bloc": "negative"
-   }
-  },
-  {
-   "id": "jindal-contempt-plea-congress-kerala-cji-oct13",
-   "event_time_ist": "~2:14 PM IST, Oct 13",
-   "title": "Advocate Vineet Jindal urged CJI Surya Kant to consider suo motu contempt over deleted Congress Kerala post",
-   "summary": "Supreme Court advocate Vineet Jindal wrote to CJI Surya Kant seeking consideration of suo motu criminal contempt proceedings over a now-deleted X post by Congress Kerala that read: 'Dear Surya Kant, If law and order is not your domain, resign now. We will find your replacement who can handle it.' Jindal also asked the CJI to examine reported sloganeering and a demonstration inside the SC premises during Monday's petition filing by Rahul Gandhi and other INDIA bloc leaders, and to preserve CCTV footage, access-control logs and security deployment records. Separately, the Supreme Court Bar Association (SCBA) and the Supreme Court Advocates-on-Record Association (SCAORA) condemned statements calling for the CJI's resignation. When senior advocate Gaurav Bhatia sought to mention related matters on Tuesday, the CJI asked whether it was on the mentioning list and directed him to raise it the following day.",
-   "source_name": "IANS",
-   "source_url": "https://ianslive.in/sc-urged-to-initiate-suo-motu-contempt-action-over-post-targeting-cji-opposition-march--20261013120656",
-   "links": [
-    "https://dailyworld.in/breaking-news-/sc-urged-to-initiate-suo-motu-contempt-action-over-social-media-post-targeting-cji-india-bloc-protest-703447.html",
-    "https://www.ghanamma.com/2026/10/13/sc-lawyer-seeks-suo-motu-contempt-action-over-post-targeting-cji-india-bloc-protest/",
-    "https://www.nationpress.com/national/contempt-plea-over-congress-kerala-x-post-on-cji"
-   ],
-   "image_urls": [
-    "https://images.bhaskarassets.com/web2images/1884/2026/05/17/supremecourtindiausa-ezgifcom-webp-to-jpg-converte_1779013775.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "2:45 AM PDT, Oct 13",
-   "report_time_ist": "3:15 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T09:45:13Z",
-   "sentiment": {
-    "india_bloc": "negative",
-    "courts": "neutral"
+    "india_bloc": "positive",
+    "bjp": "negative"
    }
   }
  ]

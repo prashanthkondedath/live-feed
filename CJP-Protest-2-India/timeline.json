@@ -1,8 +1,4 @@
 {
-  "generated_at_pdt": "3:45 AM PDT, Oct 13",
-  "generated_at_ist": "4:15 PM IST, Oct 13",
-  "deduplicated": true,
-  "dropped_bookkeeping": 4,
   "items": [
     {
       "id": "detention-of-top-leadership",
@@ -5041,6 +5037,30 @@
       "source_url": "https://www.instagram.com/p/DecXPHpTVR0/",
       "summary": "The official @cockroachjantaparty Instagram account (~25M followers) posted at ~10:43 AM PDT / 11:13 PM IST claiming Ashutosh Ranka, Saurav Das (@seven_shots_) and Ajinkya Shinde (@ajinkyashinde_cjp) plus other CJP members have been \"illegally kidnapped\" for 14+ hours, calling Delhi Police \"puppets of the government.\" The photo itself — four civilians posing with a uniformed policeman inside the Jaffarpur Kalan PS office (wall plaque \"ROLL OF INSPECTOR INVESTIGATION P.S. JAFFARPUR KALAN\" visible) — is the first image from inside the detention station, posted while lawyer access to the detainees remains unresolved. ~19K likes within minutes of posting.",
       "title": "Official CJP handle: Ranka, Das, Shinde 'illegally kidnapped' for 14+ hours; photo from inside Jaffarpur Kalan police station"
+    },
+    {
+      "id": "fir-peace-bond-breach-sections-oct13",
+      "event_time_ist": "~evening IST, Oct 13",
+      "title": "PTI wire: FIR against Das, Ranka over Jantar Mantar breach also cites breach of the one-year peace bond",
+      "summary": "PTI wire (via The Sen Times, syndicated on Ghanamma, Inshorts, NewsPoint) reports a police source saying the FIR registered Tuesday against Saurav Das, Ashutosh Ranka and other CJP members for allegedly trespassing at the de-notified Jantar Mantar includes sections for breach of the peace bond they signed on Oct 11 (Rs 50,000 surety, one-year peace-and-good-behaviour condition). Officers said the detained protesters were taken to Jaffarpur Kalan PS (Dwarka district); the outfit says 11 of its members were detained. Dipke framed the breach as 'reclaiming' Jantar Mantar. The peace-bond-breach angle is new substance beyond the earlier single-sourced trespass-FIR report — it directly puts the Oct 11 bond condition in play, opening the door to possible judicial-custody proceedings for the trio.",
+      "source_name": "The Sen Times (PTI wire)",
+      "source_url": "https://thesentimes.com/delhi-police-files-fir-against-ranka-das-after-jantar-mantar-breach/",
+      "links": [
+        "https://thesentimes.com/delhi-police-files-fir-against-ranka-das-after-jantar-mantar-breach/",
+        "https://www.ghanamma.com/2026/10/13/delhi-police-files-fir-against-cjp-leaders-after-breach-of-denotified-jantar-mantar-protest-site/",
+        "https://inshorts.com/en/news/fir-filed-against-cjp-leaders-saurav-das--ranka-over-jantar-mantar-breach-1791909774088"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "10:52 AM PDT, Oct 13",
+      "report_time_ist": "11:22 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T17:52:41Z",
+      "sentiment": {
+        "cjp_protesters": "negative",
+        "police_govt": "neutral"
+      }
     }
   ]
 }

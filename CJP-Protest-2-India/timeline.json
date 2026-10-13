@@ -5021,6 +5021,26 @@
         "bjp": "negative",
         "police_govt": "negative"
       }
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "~11:13 PM IST, Oct 13",
+      "id": "cjp-ig-kidnapping-claim-jaffarpur-oct13",
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "links": [],
+      "report_time_ist": "11:18 PM IST, Oct 13",
+      "report_time_pdt": "10:48 AM PDT, Oct 13",
+      "reported_at_utc": "2026-10-13T17:48:15Z",
+      "sentiment": {
+        "cjp_protesters": "positive",
+        "police_govt": "negative"
+      },
+      "source_name": "Cockroach Janta Party (official Instagram)",
+      "source_url": "https://www.instagram.com/p/DecXPHpTVR0/",
+      "summary": "The official @cockroachjantaparty Instagram account (~25M followers) posted at ~10:43 AM PDT / 11:13 PM IST claiming Ashutosh Ranka, Saurav Das (@seven_shots_) and Ajinkya Shinde (@ajinkyashinde_cjp) plus other CJP members have been \"illegally kidnapped\" for 14+ hours, calling Delhi Police \"puppets of the government.\" The photo itself — four civilians posing with a uniformed policeman inside the Jaffarpur Kalan PS office (wall plaque \"ROLL OF INSPECTOR INVESTIGATION P.S. JAFFARPUR KALAN\" visible) — is the first image from inside the detention station, posted while lawyer access to the detainees remains unresolved. ~19K likes within minutes of posting.",
+      "title": "Official CJP handle: Ranka, Das, Shinde 'illegally kidnapped' for 14+ hours; photo from inside Jaffarpur Kalan police station"
     }
   ]
 }

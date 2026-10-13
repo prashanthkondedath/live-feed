@@ -1,71 +1,70 @@
 {
- "report_time_pdt": "12:33 AM PDT, Oct 13",
- "report_time_ist": "1:03 PM IST, Oct 13",
- "items": [
-  {
-   "id": "goa-police-affidavit-umar-khalid-oct13",
-   "event_time_ist": "affidavit filed Mon, Oct 12; reported ~9:57 AM IST, Oct 13",
-   "title": "Goa Police defends Oct 11 detention of 7 CJP members in court affidavit, cites 'patronising Umar Khalid'",
-   "summary": "In an affidavit filed before the Bombay High Court on Monday Oct 12 (reported via Bar and Bench ~9:57 AM IST Oct 13), Goa Police justified the Oct 11 detention of seven CJP members at Panaji's Azad Maidan, citing a 'past history' of the outfit violating protest conditions and 'patronising Umar Khalid' \u2014 pointing to a July 25 NEET protest where a CJP activist carried 'Umar Khalid, Sharjeel Imam, Bhima Koregaon' placards and chants of 'Har Ghar me Umar Khalid jalme ga'. The affidavit also alleged a CJP member molested a female officer, denied excessive force, and said the seven were detained at 4:30 PM under BNSS 172(2) for protesting without permission. The HC had ordered their release on Oct 11 (no Sec 163 BNSS order in force) and adjourned the matter to Oct 19.",
-   "source_name": "LiveLaw",
-   "source_url": "https://www.livelaw.in/amp/high-court/bombay-high-court/after-bombay-high-court-orders-release-of-cjp-members-goa-police-justifies-detention-citing-past-violations-patronising-umar-khalid-554371",
-   "links": [
-    "https://www.livelaw.in/amp/high-court/bombay-high-court/after-bombay-high-court-orders-release-of-cjp-members-goa-police-justifies-detention-citing-past-violations-patronising-umar-khalid-554371",
-    "https://www.kokthum.com/national/in-special-sitting-bombay-high-court-in-goa-orders-release-of-anti-ec-protesters-india-news"
-   ],
-   "image_urls": [
-    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
-   ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "12:33 AM PDT, Oct 13",
-   "report_time_ist": "1:03 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T07:33:00Z",
-   "sentiment": {
-    "police_govt": "positive",
-    "cjp_protesters": "negative"
-   }
-  },
-  {
-   "id": "white-ribbons-punjab-haryana-bar-oct13",
-   "event_time_ist": "~9:11 AM IST, Oct 13",
-   "title": "Punjab and Haryana HC Bar Association asks members to wear white ribbons in solidarity with advocates 'high-handedly' handled in Delhi",
-   "summary": "The Punjab and Haryana High Court Bar Association asked its members to wear a white ribbon on their coats in solidarity with advocates who it says faced high-handedness in Delhi during the recent protests, per Bar and Bench reporting (13 Oct, 09:11 IST, via protestrecord). Follows the SCAORA Supreme Court plea on illegal detention and manhandling of lawyers during the Oct 10 CEC protest march.",
-   "source_name": "protestrecord.com (via Bar and Bench)",
-   "source_url": "https://protestrecord.com/",
-   "links": [
-    "https://protestrecord.com/"
-   ],
-   "image_urls": [
-    "https://www.livelaw.in/h-upload/2026/10/12/705906-cji-surya-kant-gopal-sankaranarayanan.jpg"
-   ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "12:33 AM PDT, Oct 13",
-   "report_time_ist": "1:03 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T07:33:00Z",
-   "sentiment": {
-    "police_govt": "negative"
-   }
-  },
-  {
-   "id": "jdu-office-wall-claim-oct13",
-   "event_time_ist": "reported ~11:55 AM IST, Oct 13 (police-sources claim)",
-   "title": "Police sources claim CJP members entered Jantar Mantar via adjoining JD(U) office premises' boundary wall",
-   "summary": "Maktoob (citing police sources) reported a new police-side detail of Tuesday morning's Jantar Mantar breach: the CJP members allegedly entered the adjoining JD(U) office premises and climbed over its boundary wall to reach the protest site, before Saurav Das, Ashutosh Ranka, Ajinkya Shinde and others were detained. Single-sourced police claim; CJP has not responded to this specific allegation.",
-   "source_name": "Maktoob Media",
-   "source_url": "https://maktoobmedia.com/public/index.php/post?id=116685&slug=cjp-leaders-ashutosh-ranka-saurav-das-ajinkya-shinde-detained-after-entering-jantar-mantar-protest-site",
-   "links": [
-    "https://maktoobmedia.com/public/index.php/post?id=116685&slug=cjp-leaders-ashutosh-ranka-saurav-das-ajinkya-shinde-detained-after-entering-jantar-mantar-protest-site"
-   ],
-   "image_urls": [
-    "https://images.taboola.com/taboola/image/fetch/f_jpg%2Cq_auto%2Ch_688%2Cw_1100%2Cc_fill%2Cg_faces:auto%2Ce_sharpen/https%3A//hindi.cdn.zeenews.com/hindi/sites/default/files/2026/07/26/4515427-jantar-mantar-saurav-das.png"
-   ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "12:33 AM PDT, Oct 13",
-   "report_time_ist": "1:03 PM IST, Oct 13",
-   "reported_at_utc": "2026-10-13T07:33:00Z",
-   "sentiment": {
-    "cjp_protesters": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "12:30 AM PDT, Oct 13",
+  "report_time_ist": "1:00 PM IST, Oct 13",
+  "items": [
+    {
+      "id": "sc-adjourns-delhi-protest-pleas-oct15-oct13",
+      "event_time_ist": "Tuesday morning, Oct 13 (IST)",
+      "title": "Supreme Court adjourns Delhi protest pleas to Oct 15; compliance-affidavit deadline extended",
+      "summary": "Bench of CJI Surya Kant, Justices Joymalya Bagchi and V Mohana was to hear the Delhi protest petitions (CEC/SIR row) today, but Justice Mohana's ill-health meant adjournment to Oct 15 with the parties' consent. On SG Tushar Mehta's request, the deadline for the compliance report under the Oct 9 order (metro/train services) and responses to Shailendra Mani Tripathi's contempt petition and Menaka Guruswamy's petition was extended to Oct 15. Sr Advs Gopal Sankaranarayanan, Menaka Guruswamy, Arundhati Katju, CU Singh, Nitya Ramakrishnan and Indira Jaising appeared.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413",
+      "links": [
+        "https://www.dailyworld.in/newsalert/sc-defers-hearing-on-various-delhi-protest-related-pleas-to-october-15-due-to-indisposition-of-justice-v-mohana-pti-703441.html"
+      ],
+      "image_urls": [
+        "https://static.trinethra.news/wp-content/uploads/2026/08/Supreme-Court-1-1280x720.avif"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:30 AM PDT, Oct 13",
+      "report_time_ist": "1:00 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:30:25Z",
+      "sentiment": {
+        "courts": "neutral",
+        "police_govt": "negative"
+      }
+    },
+    {
+      "id": "sc-senior-officer-women-journalists-nwmi-oct13",
+      "event_time_ist": "Tuesday morning, Oct 13 (IST)",
+      "title": "SC seeks senior Delhi Police officer's presence over alleged assault of women journalists during protest coverage",
+      "summary": "CJI Surya Kant, after Sr Adv Indira Jaising mentioned a petition by the Network of Women in Media, India (NWMI) seeking safeguards for journalists (especially women) covering protests, said the Court wanted a senior police official present to explain the allegations; the petition will be heard Thursday alongside the alleged-police-action matter. Sr Adv Gopal Sankaranarayanan separately mentioned a Free Speech Collective contempt petition alleging police assaulted journalists in breach of the Court's Oct 10 order protecting mediapersons; Sr Adv Chander Uday Singh raised a similar petition.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/supreme-court-seeks-presence-of-senior-delhi-police-officer-to-explain-alleged-assault-of-women-journalists-during-protest-coverage-554400",
+      "links": [
+        "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-seeks-senior-delhi-police-officers-presence-over-alleged-assault-on-women-journalists/"
+      ],
+      "image_urls": [
+        "https://www.scobserver.in/wp-content/uploads/2026/08/cjp-student-protest-FEATURED-2048x853.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:30 AM PDT, Oct 13",
+      "report_time_ist": "1:00 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:30:25Z",
+      "sentiment": {
+        "courts": "neutral",
+        "police_govt": "negative"
+      }
+    },
+    {
+      "id": "sc-notice-adr-section16-immunity-oct13",
+      "event_time_ist": "Tuesday morning, Oct 13 (IST)",
+      "title": "SC issues notice on ADR petition challenging Section 16 immunity for CEC and ECs",
+      "summary": "The Court issued notice on a fresh petition by the Association for Democratic Reforms challenging Section 16 of the Chief Election Commissioners and Other Election Commissioners Act, 2023, which bars civil or criminal proceedings against the CEC and Election Commissioners for acts done in discharge of official duty. Background: on Oct 5 the Court had orally observed that this immunity may be broader than the protection available even to constitutional court judges.",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/top-stories/supreme-court-delhi-protests-against-cec-gyanesh-kumar-election-commission-sir-adjourned-to-october-15-justice-mohana-unwell-554413",
+      "links": [],
+      "image_urls": [
+        "https://static.trinethra.news/wp-content/uploads/2026/08/Supreme-Court-1-1280x720.avif"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "12:30 AM PDT, Oct 13",
+      "report_time_ist": "1:00 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T07:30:25Z",
+      "sentiment": {
+        "courts": "neutral",
+        "bjp": "negative"
+      }
+    }
+  ]
 }

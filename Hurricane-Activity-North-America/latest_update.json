@@ -1,1 +1,52 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 12, 2026 (bodies recovered Monday; reported Monday evening)","id":"rachel-ensenada-four-dead-oct12","image_urls":["https://www.elimparcial.com/resizer/v2/HR3OBDTJMNCUDNAHED6AWLA57U.jpeg?auth=08809c36c786a6ddc70d3c2e303ea9aaf9149a036497"],"links":["https://www.lepaysdefrance.fr/en/Weather/746630-five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast.html"],"report_time_ist":"9:19 AM IST, Oct 13","report_time_pdt":"9:19 PM PDT, Oct 12","reported_at_utc":"2026-10-13T04:19:12Z","sentiment":{"civilians":"negative","mexico_govt":"neutral"},"source_name":"SonoraPresente / AFP","source_url":"https://sonorapresente.com/en/2026/10/storm-rachel-leaves-four-dead-in-ensenada-body-of-4-year-old-boy-found-as-search-continues-for-more-missing-people/","summary":"Baja California's prosecutor now reports 4 dead in the Maneadero area of Ensenada from post-tropical Rachel — including 4-year-old Aarón (body found Monday at Rancho Richi), Silvia (30), and Ivón (35); two of the dead are minors. Five people remain missing (Rosa María, 42; Luis Fernando, 17; Rosalinda, 23; Leonel, 10; Gael Gustavo, 14), and authorities say they have no unified missing-person count. Also: 8 patients evacuated from flooded Ensenada General Hospital; ~25 neighborhoods without power; ~10 wooden homes swept away at Rancho Génesis and Rancho Abierto; 30 families evacuated in San Francisquito; 182 people in shelters. Previous toll was 1 girl dead, 10 missing.","title":"Rachel's Baja toll rises: 4 dead, 5 missing in Ensenada"},{"confidence":"single-sourced","event_time_ist":"Oct 12, 2026 (8:00 PM MST advisory; issued ~8:00 PM PDT, Oct 12)","id":"simon-advisory23-watch-downgrade-oct12","image_urls":["https://watchers.news/wp-content/uploads/2026/10/Satellite-image-of-Hurricane-Simon-at-1040-UTC-on-October-12.-2026.webp"],"links":[],"report_time_ist":"9:19 AM IST, Oct 13","report_time_pdt":"9:19 PM PDT, Oct 12","reported_at_utc":"2026-10-13T04:19:12Z","sentiment":{"mexico_govt":"neutral"},"source_name":"NHC Advisory 23","source_url":"https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/101153.shtml","summary":"NHC Hurricane Simon Advisory 23 (8 PM MST Oct 12): winds hold at 100 mph (Cat 2), 969 mb, ~85 mi W of Cabo Corrientes, drifting WNW at 3 mph. Watch change: Mexico replaced the Hurricane Watch from Cabo Corrientes to Escuinapa with a Tropical Storm Watch; Hurricane Warning remains for Las Islas Marías and Hurricane Watch north of Escuinapa to Bahía Tempehuaya. Correction to the 8:25 PM note, which said there were no watch changes. Gradual re-intensification possible to ~85 kt by 72-96h; track confidence low (near-stationary possible).","title":"Simon Advisory 23: hurricane watch segment downgraded to tropical storm watch"},{"confidence":"single-sourced","event_time_ist":"Oct 12, 2026","id":"voyager-of-the-seas-itinerary-change-oct12","image_urls":["https://www.elamyscruises.com/images/10020/1/29871633-a630-445c-a6b1-c5b31e1d0562_RCI_Voyager_ExteriorLand_9.jpg?w=1200"],"links":[],"report_time_ist":"9:19 AM IST, Oct 13","report_time_pdt":"9:19 PM PDT, Oct 12","reported_at_utc":"2026-10-13T04:19:12Z","sentiment":{"civilians":"negative"},"source_name":"Cruise Hive","source_url":"https://www.cruisehive.com/voyager-of-the-seas-cruise-down-to-one-port-due-to-hurricane-simon/220476","summary":"Royal Caribbean's Voyager of the Seas cut its Puerto Vallarta port call due to Hurricane Simon and instead visited Cabo San Lucas a second time, staying well clear of the storm's forecast track off the west-central Mexico coast. The sailing's return to Los Angeles on Friday, Oct 16, is unchanged, with refundable amounts reimbursed at sailing's end. The ship would otherwise have had to sail through the forecast track heading back north.","title":"Voyager of the Seas drops Puerto Vallarta call for Simon"}],"report_time_ist":"9:19 AM IST, Oct 13","report_time_pdt":"9:19 PM PDT, Oct 12"}
+{
+  "report_time_pdt": "9:50 PM PDT, Oct 12",
+  "report_time_ist": "10:20 AM IST, Oct 13",
+  "items": [
+    {
+      "id": "simon-michoacan-colima-flooding-oct12",
+      "event_time_ist": "Monday, Oct 12, 2026 (AFP Monday wire)",
+      "title": "Simon flooding and landslides hit riverside communities in Michoac\u00e1n and Colima",
+      "summary": "AFP Monday wrap: flooding and landslides had already hit communities close to rivers and streams in Michoac\u00e1n and Colima. Simon weakened to Cat 2, did not make landfall, and was moving away from the coast; a rain alert remains in place and officials warn waves up to 5 meters high are still expected in some coastal areas. CNPC's latest: Simon will hit Mazatl\u00e1n, Sinaloa as a Category 1 hurricane; Puerto Vallarta awoke to clear skies Monday. Five-death toll unchanged (1 Simon/Guerrero, 4 Rachel/Baja).",
+      "source_name": "Deutsche Tageszeitung (AFP wire)",
+      "source_url": "https://www.deutschetageszeitung.de/en/Weather/923161-five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast.html",
+      "links": [
+        "https://www.deutschetageszeitung.de/en/Weather/923161-five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast.html",
+        "https://www.lepaysdefrance.fr/en/Weather/746630-five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast.html",
+        "https://www.dubaitelegraph.ae/Weather/741404-five-dead-as-hurricane-simon-rachel-pummel-mexicos-pacific-coast.html"
+      ],
+      "image_urls": [
+        "https://www.deutschetageszeitung.de/media/shared/articles/3d/5e/e4/Five-dead-as-Hurricane-Simon--Rache-889898.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "9:50 PM PDT, Oct 12",
+      "report_time_ist": "10:20 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T04:50:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    },
+    {
+      "id": "isaias-coop-restoration-monday-oct12",
+      "event_time_ist": "as of Monday AM, Oct 12, 2026",
+      "title": "Florida co-ops: ~36,000 members out Monday AM; CHELCO's largest storm response ever",
+      "summary": "NRECA/electric.coop (updated 11 a.m. ET Mon): ~36,000 Florida co-op members still out early Monday, most of them ~20,000 in CHELCO's coastal areas; CHELCO CEO expects nearly all members back by Tuesday evening (~96h after landfall), calling it 'the largest storm response in CHELCO's history'; 15 of 16 CHELCO substations reenergized. 250,000 co-op members in the dark at peak across FL/GA/AL/MS. Alabama co-ops: ~8,000 members out Monday AM (down from 103,000 peak); Baldwin EMC fully restored Sunday.",
+      "source_name": "America's Electric Cooperatives (electric.coop)",
+      "source_url": "https://www.electric.coop/gulf-coast-co-ops-work-to-restore-power-after-hurricane-isaias-roars-ashore",
+      "links": [
+        "https://www.electric.coop/gulf-coast-co-ops-work-to-restore-power-after-hurricane-isaias-roars-ashore"
+      ],
+      "image_urls": [
+        "https://www.electric.coop/wp-content/uploads/2026/10/chelco-2-1024x768.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "9:50 PM PDT, Oct 12",
+      "report_time_ist": "10:20 AM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T04:50:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "us_govt": "neutral"
+      }
+    }
+  ]
+}

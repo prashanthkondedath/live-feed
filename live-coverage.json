@@ -53,44 +53,56 @@
         },
         "updated_at_utc": "2026-10-13T19:05:56Z"
       },
-      "current_summary": "CJP's Jantar Mantar 2.0 protest continues with its leaders out on bond; founder Abhijeet Dipke delivered a written 24-hour ultimatum to Delhi Police on Oct 12 demanding protest permission and alleging custodial mistreatment, while the INDIA bloc has moved the Supreme Court against the SIR electoral-roll revisions.",
+      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police instead registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged unauthorized trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification in court and proposed an early-November Ramlila Maidan rally with a symbolic 'impeach the CEC' move. CJP founder Abhijeet Dipke is expected to reach Delhi on Oct 14.",
       "watch_for": [
         {
-          "event": "Ultimatum deadline expires; CJP's next escalation decision",
-          "date": "2026-10-13"
+          "event": "Dipke reaches Delhi to join the protest",
+          "date": "2026-10-14"
+        },
+        {
+          "event": "Supreme Court hearing on protest pleas; Delhi HC hears fresh Jantar Mantar PIL",
+          "date": "2026-10-15"
+        },
+        {
+          "event": "Delhi HC metro-stations/Jantar Mantar PILs hearing",
+          "date": "2026-10-16"
         },
         {
           "event": "Supreme Court hearing on INDIA bloc's SIR writ petition",
+          "date": null
+        },
+        {
+          "event": "INDIA-bloc Ramlila Maidan rally with proposed 'impeach the CEC' move",
           "date": null
         }
       ],
       "key_figures": [
         {
           "name": "Abhijeet Dipke",
-          "role": "CJP founder; released Oct 11 on 1-year peace bond"
+          "role": "CJP founder; expected in Delhi Oct 14; alleged custodial mistreatment"
         },
         {
           "name": "Saurav Das",
-          "role": "CJP co-convener; delivered the ultimatum letter in writing"
+          "role": "CJP co-convener; named in Tuesday's FIR for trespass, alleged peace-bond breach"
         },
         {
           "name": "Ashutosh Ranka",
-          "role": "CJP co-convener; released on bond"
-        },
-        {
-          "name": "Ratna Singh",
-          "role": "CJP legal head; released"
-        },
-        {
-          "name": "Gyanesh Kumar",
-          "role": "Chief Election Commissioner; resignation demanded"
+          "role": "CJP co-convener; named in Tuesday's FIR for trespass"
         },
         {
           "name": "Rahul Gandhi",
-          "role": "INDIA bloc; SIR petition moved in Supreme Court"
+          "role": "INDIA bloc; told leaders to be ready to mobilise within 24 hours; pledged to challenge de-notification"
+        },
+        {
+          "name": "Gyanesh Kumar",
+          "role": "Chief Election Commissioner; resignation and impeachment moves demanded"
+        },
+        {
+          "name": "Piyush Goyal",
+          "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
       "started_at_utc": "2026-10-10T04:30:00Z"
     },
     {
@@ -145,11 +157,15 @@
         },
         "updated_at_utc": "2026-10-13T19:06:56Z"
       },
-      "current_summary": "Houthi missile and drone strikes on Saudi Arabia continue; Riyadh's King Khalid airport stays closed till Oct 17, the Saudi energy minister has vowed retaliation, and the Turkey-Pakistan-Egypt-Saudi 'R4' defence pact has jointly condemned the attacks.",
+      "current_summary": "The Saudi-led coalition ordered a Sanaa fuel-site evacuation on Oct 13 ahead of a new operation and says it downed three drones over northern Riyadh on Tuesday; Houthi spokesman Yahya Saree threatened Riyadh retaliation and warned Aramco staff to evacuate. Coalition airstrikes on Al-Jawf killed 9 civilians including 5 children, and King Khalid airport remains closed till Oct 17.",
       "watch_for": [
         {
           "event": "Riyadh airport NOTAM expiry; reopening decision",
           "date": "2026-10-17"
+        },
+        {
+          "event": "Coalition operation on Sanaa fuel site after Tuesday's evacuation order",
+          "date": null
         },
         {
           "event": "Saudi/coalition retaliation strikes in Yemen",
@@ -159,18 +175,22 @@
       "key_figures": [
         {
           "name": "Yahya Saree",
-          "role": "Houthi military spokesman; claimed the Oct 11 attacks"
+          "role": "Houthi military spokesman; threatened Riyadh retaliation, warned Aramco staff"
         },
         {
           "name": "Saudi Energy Minister",
           "role": "Vowed retaliation after airport and Aramco attacks"
         },
         {
+          "name": "Mohammed bin Salman",
+          "role": "Reported pressing Trump for US military action against Houthis"
+        },
+        {
           "name": "R4 defence pact",
-          "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation"
+          "role": "Turkey, Pakistan, Egypt, Saudi Arabia; joint condemnation of attacks"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
       "started_at_utc": "2026-10-12T18:20:00Z"
     },
     {
@@ -242,7 +262,7 @@
         },
         "updated_at_utc": "2026-10-13T19:51:15Z"
       },
-      "current_summary": "Trump's claimed Russia-Ukraine 'energy ceasefire' remains unverified as Russian strikes on Ukrainian energy infrastructure continue; Zelensky says Kyiv will abide if Russia does, the Kremlin has not confirmed, and the EU approved its largest sanctions package since 2022.",
+      "current_summary": "Trump's claimed 'energy ceasefire' remains unverified: Russia's Defence Ministry made its first claim of no energy targets hit overnight Oct 12-13, but Zelensky says Russia still used 100+ weapons and 4 people were killed in Kharkiv; Trump shrugged that 'they're both a little bit off.' France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
       "watch_for": [
         {
           "event": "Kremlin confirmation or rejection of the energy ceasefire",
@@ -251,16 +271,20 @@
         {
           "event": "EU sanctions package implementation effects",
           "date": null
+        },
+        {
+          "event": "Fallout from France's shadow-fleet tanker seizure",
+          "date": null
         }
       ],
       "key_figures": [
         {
           "name": "Donald Trump",
-          "role": "Claimed the energy ceasefire on Oct 11"
+          "role": "Claimed the energy ceasefire Oct 11; shrugged off post-truce strikes"
         },
         {
           "name": "Volodymyr Zelensky",
-          "role": "Willing to abide if Russia does; seeks details"
+          "role": "Says Ukraine held off refinery strikes for two days; wants details"
         },
         {
           "name": "Dmitry Peskov",
@@ -269,9 +293,17 @@
         {
           "name": "European Union",
           "role": "Approved largest sanctions package since 2022"
+        },
+        {
+          "name": "Emmanuel Macron",
+          "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
+        },
+        {
+          "name": "Friedrich Merz",
+          "role": "German chancellor; called the Russian diesel deal 'out of the question' for Europe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
       "started_at_utc": "2026-10-12T19:35:00Z"
     },
     {
@@ -326,15 +358,19 @@
         },
         "updated_at_utc": "2026-10-13T19:04:04Z"
       },
-      "current_summary": "Hurricane Isaias recovery continues in the Florida Panhandle with roughly 30% of customers still without power; Hurricane Simon is weakening off Mexico's Pacific coast after peaking at Category 4; no active Atlantic cyclones.",
+      "current_summary": "Tropical Depression Twenty-One-E formed off southern Mexico on Oct 13 (~35 mph, moving NW) and the NHC forecasts rapid intensification to a major hurricane by Friday; Hurricane Simon holds at Category 1 off Mexico's Pacific coast with warnings downgraded, and Puerto Vallarta airport reopened. No active Atlantic cyclones after the Cabo Verde disturbance fizzled.",
       "watch_for": [
+        {
+          "event": "TD21-E forecast rapid intensification to a major hurricane; naming as Trudy",
+          "date": "2026-10-16"
+        },
+        {
+          "event": "Hurricane Simon's forecast coast approach this weekend",
+          "date": "2026-10-17"
+        },
         {
           "event": "Atlantic and Pacific hurricane seasons end",
           "date": "2026-11-30"
-        },
-        {
-          "event": "Cabo Verde disturbance; formation chance watch",
-          "date": null
         }
       ],
       "key_figures": [
@@ -351,7 +387,7 @@
           "role": "Alabama SOE for 40 counties"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
       "started_at_utc": "2026-10-12T20:05:00Z"
     },
     {
@@ -400,7 +436,7 @@
         },
         "updated_at_utc": "2026-10-13T19:59:09Z"
       },
-      "current_summary": "The Strait of Hormuz remains contested with tanker transits all but stopped; Iran is reviewing the US reply to its seven conditions via Qatari and Pakistani mediation, IRGC mine claims stay unverified, the USS Theodore Roosevelt is deploying, and Brent holds around $105-106.",
+      "current_summary": "Strait of Hormuz tanker attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — plus a new Tuesday projectile strike off Khasab with the fire out and crew safe; Iran's Navy claimed a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -414,7 +450,7 @@
       "key_figures": [
         {
           "name": "Donald Trump",
-          "role": "Ruled out striking Iran before the midterms"
+          "role": "Claims 159 Iranian naval vessels sunk; says war 'will end very soon'"
         },
         {
           "name": "Iranian Foreign Minister",
@@ -422,14 +458,22 @@
         },
         {
           "name": "IRGC Navy",
-          "role": "Claimed three supertankers struck mines; unverified"
+          "role": "Ordered anchored ships in Omani/Emirati waters to relocate via VHF"
         },
         {
           "name": "UKMTO",
-          "role": "Confirmed Oct 10 tanker strike inside the strait"
+          "role": "Confirmed six vessels struck Oct 11; Tuesday projectile strike off Khasab"
+        },
+        {
+          "name": "Andy Burnham",
+          "role": "UK PM; blamed IRGC for RAF Fairford plot, 29 nations backed attribution"
+        },
+        {
+          "name": "Anwar Gargash",
+          "role": "UAE diplomatic adviser; called for 'joint Gulf action' against Iran and proxies"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "curation_updated_at_utc": "2026-10-13T20:04:19Z",
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],

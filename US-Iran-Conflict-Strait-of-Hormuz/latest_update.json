@@ -10,7 +10,10 @@
       "source_name": "IRGC Navy via PressTV/Tasnim; Anadolu Ajansi",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.marineinsight.com/wp-content/uploads/2026/03/Tanker-fire.jpg",
+        "https://i0.wp.com/heisenbergreport.com/wp-content/uploads/2026/03/IraqTankerFireMar2026.png?fit=1152%2C665&ssl=1"
+      ],
       "confidence": "unconfirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -29,7 +32,10 @@
       "source_name": "Indian MEA; UKMTO; Forbes Europe/Bloomberg",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://publisher.tbsnews.net/bangla/sites/default/files/styles/big_3/public/images/2026/03/10/tanker_at_oman.jpg",
+        "https://d1epq84pwgteub.cloudfront.net/a354a601ba774775b3c91a640ae130cc.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -48,7 +54,10 @@
       "source_name": "Reuters; The Hindu BusinessLine",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://castlejournalnews.com/wp-content/uploads/2026/08/IMG_6421.webp",
+        "https://d2wqffb2bc8st5.cloudfront.net/images/1787514315_kurdistan24.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -67,7 +76,9 @@
       "source_name": "Reuters; PressTV",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://igmtv.net/wp-content/uploads/2026/03/Esmaeil-Baghaei.jpg"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",
@@ -86,7 +97,10 @@
       "source_name": "Reuters; Forbes Europe/Bloomberg; OilMonster",
       "source_url": "",
       "links": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://fastpip.com/wp-content/uploads/2026/05/WTIPrice.png",
+        "https://westminsterpimliconews.co.uk/wp-content/uploads/2026/03/task_01kmzt33z9fdk9efz0n07t1r70_1774889070_img_1-395x263.webp"
+      ],
       "confidence": "confirmed",
       "report_time_pdt": "11:07 PM PDT, Oct 12",
       "report_time_ist": "11:37 AM IST, Oct 13",

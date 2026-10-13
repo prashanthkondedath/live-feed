@@ -198,7 +198,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T18:57:55Z",
+      "trend_updated_at_utc": "2026-10-13T19:17:06Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 25,
@@ -240,7 +240,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-13T18:57:55Z"
+        "updated_at_utc": "2026-10-13T19:17:06Z"
       },
       "current_summary": "Trump's claimed Russia-Ukraine 'energy ceasefire' remains unverified as Russian strikes on Ukrainian energy infrastructure continue; Zelensky says Kyiv will abide if Russia does, the Kremlin has not confirmed, and the EU approved its largest sanctions package since 2022.",
       "watch_for": [
@@ -271,7 +271,8 @@
           "role": "Approved largest sanctions package since 2022"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T19:03:08Z"
+      "curation_updated_at_utc": "2026-10-13T19:03:08Z",
+      "started_at_utc": "2026-10-12T19:35:00Z"
     },
     {
       "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -432,5 +433,5 @@
       "started_at_utc": "2026-10-03T12:00:00Z"
     }
   ],
-  "updated_at_utc": "2026-10-13T19:08:56Z"
+  "updated_at_utc": "2026-10-13T19:17:06Z"
 }

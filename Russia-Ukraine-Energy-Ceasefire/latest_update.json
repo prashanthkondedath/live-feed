@@ -1,1 +1,35 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 12, 2026 (announced by Macron Monday evening; Reuters wire Tuesday Oct 13)","id":"france-seizes-shadow-fleet-tanker-oct13","image_urls":["https://news.usni.org/wp-content/uploads/2026/10/HUc2EWNWkAE6C3C.jpeg"],"links":["https://www.reuters.com/world/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy-2026-10-13/","https://news.usni.org/2026/10/13/french-navy-seizes-suspected-shadow-fleet-tanker-in-indian-ocean","https://www.reuters.com/world/europe/russia-calls-french-seizure-alleged-shadow-fleet-tanker-violation-international-2026-10-13/"],"report_time_ist":"11:18 PM IST, Oct 13","report_time_pdt":"10:48 AM PDT, Oct 13","reported_at_utc":"2026-10-13T17:48:35Z","sentiment":{"eu":"positive","russia":"negative","us":"neutral"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/france-seizes-another-shadow-fleet-tanker-russia-decries-piracy-2026-10-13/","summary":"The French Navy intercepted and boarded the oil tanker MT DF Peak (IMO 9341067, ex-Kaliningrad, Benin-flagged) about 450 nautical miles south of Réunion on Monday Oct 12 — the fifth French shadow-fleet interception this year. President Macron posted boarding footage on X, saying France is \"determined to combat the ghost fleet\" over its suspected false flag and illicit fuel transport. The vessel is under escort to Réunion for investigation. Russia's embassy in France (via RIA, Tuesday) called the seizure \"piracy\" and a blatant violation of international law, saying France did not notify it and it is checking whether Russian nationals are aboard. USNI notes Putin threatened symmetrical retaliatory actions on Oct 1.","title":"France seizes suspected Russian shadow-fleet tanker DF Peak; Moscow calls it \"piracy\""},{"confidence":"confirmed","event_time_ist":"Oct 13, 2026 (Tuesday, reported ~8:43 AM PDT)","id":"trump-denies-intel-cutoff-oct13","image_urls":["https://www.whitehouse.gov/wp-content/uploads/2025/09/P20250916HK-0282.jpg?resize=2048,1365"],"links":["https://www.reuters.com/world/europe/trump-says-us-still-sharing-intel-with-ukraine-defends-russian-diesel-deal-2026-10-13/","https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-intelligence-us-row-drone-attacks-dhj9qpnz0","https://nypost.com/2026/10/13/world-news/ukraine-got-no-warning-about-latest-russian-strikes-on-kyiv-zelensky-says-after-latest-trump-critique/"],"report_time_ist":"11:18 PM IST, Oct 13","report_time_pdt":"10:48 AM PDT, Oct 13","reported_at_utc":"2026-10-13T17:48:35Z","sentiment":{"russia":"neutral","ukraine":"positive","us":"neutral"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/europe/trump-says-us-still-sharing-intel-with-ukraine-defends-russian-diesel-deal-2026-10-13/","summary":"President Trump told reporters Tuesday that the United States continues to share intelligence with Ukraine — \"We are helping them, and we are sharing intel\" — after FT/CNN reported Monday that US officials had warned Kyiv intel assistance (and, per NY Post, weapons deliveries to Europe) would stop unless Ukraine reined in its long-range strikes on Russian refineries. FM Sybiha had earlier Tuesday said US-Ukrainian intelligence cooperation continues. Trump also defended the Russian diesel deal, saying the fuel is \"being released into the world... not to us,\" sidestepped whether Russia could use the proceeds to buy more bombs, and claimed both Putin and Zelensky \"want the war to end\" but \"there is a lot of hatred between the two of them.\"","title":"Trump says US is still sharing intelligence with Ukraine, denies cutoff threat"}],"report_time_ist":"11:18 PM IST, Oct 13","report_time_pdt":"10:48 AM PDT, Oct 13"}
+{
+  "report_time_pdt": "12:48 PM PDT, Oct 13",
+  "report_time_ist": "1:18 AM IST, Oct 14",
+  "items": [
+    {
+      "id": "rivne-lviv-tuesday-morning-strikes-oct13",
+      "event_time_ist": "morning of Oct 13, 2026 (Kyiv time); casualty count updated through midday",
+      "title": "Russian drone strikes hit western Ukraine Tuesday morning: educational institution in Rivne (up to 25 injured), homes near Lviv",
+      "summary": "Tuesday morning Oct 13 (Kyiv time), Russian drones struck civilian targets in western Ukraine amid the disputed 'energy ceasefire.' A drone hit an educational institution in central Rivne: regional governor Oleksandr Koval reported injuries rising from 10 at 11:37 a.m. local to 14 by 11:50 a.m., one in serious condition; Ukraine's national police later put the toll at 20-25 injured, 2 in intensive care, with the building badly damaged (cars, a mobile cafe and adjacent buildings also damaged). Separately, a downed Russian drone fell on a residential building in the village of Murovane near Lviv during an air-raid alert (jet drones were recorded over Lviv region after 5 a.m.); three houses caught fire and several cars were damaged, no casualties reported per the Lviv regional administration. Strikes continue across Ukraine despite the claimed truce.",
+      "source_name": "NY Post",
+      "source_url": "https://nypost.com/2026/10/13/world-news/ukraine-got-no-warning-about-latest-russian-strikes-on-kyiv-zelensky-says-after-latest-trump-critique/",
+      "links": [
+        "https://monteoz.com/russian-strikes-ukraine-rivne-kyiv-kharkiv/",
+        "https://hmh.news/en/39780/in-rivne-a-russian-missile-drone-hit-a-school-injuries-reported/",
+        "https://qncnews.com/russian-drone-strike-on-rivne-university-injures-14-and-starts-fire/",
+        "https://www.youtube.com/watch?v=7MSobY2XnnQ",
+        "https://www.youtube.com/watch?v=WgFIMz5osHA",
+        "https://antikor.info/en/articles/868880-reaktivnye_drony_atakovali_ljvovshchinu_gorjat_dva_doma_povrehdeny_tri_avtomobilja",
+        "https://www.europesays.com/russia/75596/"
+      ],
+      "image_urls": [
+        "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:48 PM PDT, Oct 13",
+      "report_time_ist": "1:18 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-13T19:48:00Z",
+      "sentiment": {
+        "russia": "negative",
+        "ukraine": "negative",
+        "civilians": "negative"
+      }
+    }
+  ]
+}

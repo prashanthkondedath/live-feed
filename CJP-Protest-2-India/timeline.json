@@ -4687,6 +4687,26 @@
         "cjp_protesters": "positive",
         "police_govt": "negative"
       }
+    },
+    {
+      "id": "delhi-hc-nsui-plea-maintainability-oct13",
+      "event_time_ist": "Oct 13 (Tuesday court hearing; exact time unconfirmed)",
+      "title": "Delhi HC: police challenge maintainability of NSUI's plea seeking probe into Oct-10 protest assaults; court gives ASG 3 weeks for objections affidavit",
+      "summary": "First reported outcome of Tuesday's Delhi HC hearings. Before the Acting CJ Nitin Sambre + Justice Sanjay Sharma bench, the Centre (ASG Chetan Sharma) objected to the maintainability of the PIL filed by NSUI national president Vinod Jhakar seeking an independent (SIT) probe into alleged assaults on protesters and the general public at Connaught Place and roads adjoining Jantar Mantar on Oct 10 during the anti-CEC protests. The ASG said the petitioner, an office-bearer of NSUI (Congress's youth wing), failed to disclose his organization under the Delhi HC PIL Rules 2010 (Rules 9f/9g); petitioner's counsel said the plea was filed in personal capacity with limited prayers (action against unidentified attackers). Dictated order: ASG permitted to file preliminary objections by affidavit within 3 weeks; petitioner allowed to amend his affidavit. The plea alleges groups of men in civil dress surrounded, manhandled and assaulted protesters and passers-by, and seeks an SIT probe, CCTV-footage preservation, and an inquiry into the police response. Outcomes on the other Tuesday pleas (Jantar Mantar-closure plea, IYC permission plea) still unreported. Confidence single-sourced (LiveLaw only; no second outlet found in targeted corroboration search).",
+      "source_name": "LiveLaw",
+      "source_url": "https://www.livelaw.in/high-court/delhi-high-court/delhi-high-court-delhi-police-pil-maintainability-assault-on-protestors-cec-protest-554457",
+      "links": [],
+      "image_urls": [
+        "https://www.livelaw.in/h-upload/2026/09/03/697939-whatsapp-image-2026-09-03-at-170856-1.webp"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:58 AM PDT, Oct 13",
+      "report_time_ist": "4:28 PM IST, Oct 13",
+      "reported_at_utc": "2026-10-13T10:58:36Z",
+      "sentiment": {
+        "courts": "neutral",
+        "police_govt": "neutral"
+      }
     }
   ]
 }

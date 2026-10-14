@@ -53,8 +53,12 @@
         },
         "updated_at_utc": "2026-10-14T02:07:04Z"
       },
-      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders — Ranka, Das and others — out of Jaffarpur Kalan police station; their destination is unknown.",
+      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders — Ranka, Das and others — out of Jaffarpur Kalan police station; CJP legal head Ratna Singh says the trio are under preventive arrest on charges including bond violation, will be produced in court Wednesday Oct 14, and could be sent to Tihar in judicial custody.",
       "watch_for": [
+        {
+          "event": "Detained trio (Das, Ranka, Shinde) produced in court; possible Tihar judicial custody",
+          "date": "2026-10-14"
+        },
         {
           "event": "Dipke reaches Delhi to join the protest",
           "date": "2026-10-14"
@@ -98,15 +102,15 @@
           "role": "INDIA bloc; told leaders to be ready to mobilise within 24 hours; pledged to challenge de-notification"
         },
         {
-          "name": "Gyanesh Kumar",
-          "role": "Chief Election Commissioner; resignation and impeachment moves demanded"
+          "name": "Ratna Singh",
+          "role": "CJP legal head; says detained trio face charges incl. bond violation, to be produced in court Oct 14"
         },
         {
-          "name": "Piyush Goyal",
-          "role": "Union minister; BJP counter-front accusing Congress of undermining ECI impartiality"
+          "name": "Gyanesh Kumar",
+          "role": "Chief Election Commissioner; resignation and impeachment moves demanded"
         }
       ],
-      "curation_updated_at_utc": "2026-10-14T01:34:21Z",
+      "curation_updated_at_utc": "2026-10-14T02:36:00Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -172,7 +176,7 @@
         },
         "updated_at_utc": "2026-10-14T02:11:47Z"
       },
-      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17.",
+      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event.",
       "watch_for": [
         {
           "event": "Riyadh airport NOTAM expiry; reopening decision",
@@ -209,7 +213,7 @@
           "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
         }
       ],
-      "curation_updated_at_utc": "2026-10-14T02:04:33Z",
+      "curation_updated_at_utc": "2026-10-14T02:36:00Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "steady",
       "verification": {
@@ -553,7 +557,7 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop.",
+      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop. Late Tuesday pinned Trump's North Carolina stop to Greenville on Tue Oct 20, and data showed NC early voting down ~19% vs 2022 with the Democratic share falling; fresh polls put Democrat Troy Jackson ahead of Susan Collins 50-46 in Maine's Senate race (with Obama's endorsement), Deb Haaland up 49-42 in New Mexico's governor race, and Tina Kotek with her first public-poll lead (46-44) in Oregon's governor race — as Obama ramped up involvement with a Detroit GOTV rally on Oct 24 and 24 recorded ads.",
       "watch_for": [
         {
           "event": "Election Day",
@@ -564,46 +568,54 @@
           "date": "2026-10-19"
         },
         {
+          "event": "Trump 'Midterm Rally' in Highland Heights, Kentucky (open McConnell Senate seat, KY-4)",
+          "date": "2026-10-17"
+        },
+        {
+          "event": "Trump midterm rally in Greenville, North Carolina",
+          "date": "2026-10-20"
+        },
+        {
+          "event": "Obama Detroit GOTV rally with Abdul El-Sayed and Jocelyn Benson",
+          "date": "2026-10-24"
+        },
+        {
           "event": "Final pre-election polls and forecast updates",
           "date": null
         },
         {
           "event": "Archive this tracker",
           "date": "2026-11-04"
-        },
-        {
-          "event": "Trump 'Midterm Rally' in Highland Heights, Kentucky (open McConnell Senate seat, KY-4); North Carolina stop also added",
-          "date": "2026-10-17"
         }
       ],
       "key_figures": [
         {
           "name": "Donald Trump",
-          "role": "President; campaigning in Ohio and Kansas; called the midterms a referendum on his presidency"
+          "role": "President; rally blitz KY (Oct 17), KS (Oct 19), NC (Oct 20); called the midterms a referendum on his presidency"
         },
         {
           "name": "James Talarico",
-          "role": "Democratic Senate candidate, Texas; effectively tied with Paxton in new Quantus poll"
+          "role": "Democratic Senate candidate, Texas; leads Paxton 48-44 in new ReconMR/Siena poll"
         },
         {
-          "name": "Adam Hamilton",
-          "role": "Democratic Senate candidate, Kansas; race vs Roger Marshall now a toss-up, prompting Oct 19 Trump rally"
+          "name": "Barack Obama",
+          "role": "Endorsed ME's Troy Jackson; Detroit GOTV rally Oct 24 with El-Sayed/Benson; 24 recorded ads"
+        },
+        {
+          "name": "Roy Cooper",
+          "role": "Democratic NC Senate candidate; leads 54-40 in WRAL/SurveyUSA, his strongest yet"
         },
         {
           "name": "Ilhan Omar",
           "role": "Rep.; D.C. home raided Oct 12 by DHS/HSI in immigration-fraud probe; calls it political intimidation"
         },
         {
-          "name": "Gina Hinojosa",
-          "role": "Democratic TX governor candidate; leads in YouGov (48-47) but trails in ReconMR/Siena (47-48)"
-        },
-        {
-          "name": "Kathy Hochul",
-          "role": "NY governor (D); met Blakeman in the race's only debate Oct 13; holds a double-digit lead in most polls"
+          "name": "Adam Hamilton",
+          "role": "Democratic Senate candidate, Kansas; race vs Roger Marshall now a toss-up, prompting Oct 19 Trump rally"
         }
       ],
       "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-14T02:04:33Z",
+      "curation_updated_at_utc": "2026-10-14T02:36:00Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
       "trend": "hot",
       "trend_direction": "rising",
@@ -650,5 +662,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T02:29:38Z"
+  "updated_at_utc": "2026-10-14T02:36:00Z"
 }

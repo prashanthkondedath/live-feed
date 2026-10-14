@@ -1225,6 +1225,51 @@
       "source_url": "https://matzav.com/war-before-the-elections-netanyahu-reportedly-urged-trump-to-launch-new-iran-offensive-as-idf-chief-warns-of-election-disruption/",
       "summary": "Axios (Barak Ravid, 4 sources: 2 US officials, 1 Israeli official, 1 with knowledge) reported Trump and Netanyahu discussed last week a major new operation against Iran before Israel's Oct 27 election and the US Nov 3 midterms. Netanyahu cited worrying Iranian nuclear rebuild steps (incl. possible Pickaxe Mountain enrichment site); Trump told him to \"go ahead and get ready\" but made no commitment. IDF and CENTCOM are on alert finalizing preparations (heavy bombing of energy infrastructure + nuclear targets); Hegseth and CENTCOM leaders are the strongest advocates, most Trump advisers prefer economic pressure. IDF chief Zamir told Joint Chiefs Chairman Caine renewed fighting within three weeks could force postponing Israel's Oct 27 election. White House official called the report \"false\" (reiterating no pre-midterm strikes); Israeli PMO denied Netanyahu pressured Trump.",
       "title": "Axios: Trump and Netanyahu discussed renewed Iran operation before elections"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 13, 2026 (US daytime)",
+      "id": "trump-houthis-midterms-oil-warning-erdogan-oct13",
+      "image_urls": [
+        "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
+      ],
+      "links": [
+        "https://www.businessday.co.za/world/2026-10-13-trump-says-houthis-trying-to-drive-up-oil-prices-ahead-of-us-midterms/",
+        "https://political.org/2026/10/13/trump-warns-houthis-he-will-never-forget-attacks-on-saudi-arabia-signals-any-action-would-come-after-midterms/",
+        "https://985theriver.com/2026/10/13/trump-says-yemens-houthis-are-behaving-very-badly/"
+      ],
+      "report_time_ist": "11:39 AM IST, Oct 14, 2026",
+      "report_time_pdt": "11:09 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T06:09:32Z",
+      "sentiment": {
+        "iran": "negative",
+        "us": "neutral"
+      },
+      "source_name": "Reuters (via LA Post)",
+      "source_url": "https://www.lapost.com/content/trump-says-yemen-s-houthis-are-behaving-very-badly",
+      "summary": "Trump accused Yemen's Houthi militants of deliberately trying to drive up oil prices ahead of the Nov 3 US midterms, warning 'I'll be there after the elections, and I will never forget!' their attacks on Saudi Arabia. He told reporters he 'might' ask Turkish President Erdogan to intervene in support of Saudi interests ('President Erdogan, I think, would do as I ask'). Erdogan separately called Crown Prince Mohammed bin Salman Tuesday to condemn the Houthi attacks and pledge Turkey will stand by Saudi Arabia, as Ankara's Saudi-Pakistan defense pact heads to parliament.",
+      "title": "Trump warns Houthis he'll 'never forget' Saudi attacks, floats Erdogan intervention"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Wednesday, Oct 14, 2026 (~0345 GMT / ~9:15 AM IST)",
+      "id": "morgan-stanley-dated-brent-forecast-raise-oct14",
+      "image_urls": [
+        "https://www.ttnews.com/sites/default/files/styles/article_full_width_webp/public/2026-10/Hormuz-1200.jpg.webp"
+      ],
+      "links": [
+        "https://www.samuelandcotrading.com/morning-market-brief-14-october-2026-oil-writes-the-headline-core-gets-the-verdict/"
+      ],
+      "report_time_ist": "11:39 AM IST, Oct 14, 2026",
+      "report_time_pdt": "11:09 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T06:09:32Z",
+      "sentiment": {
+        "markets": "negative"
+      },
+      "source_name": "Bloomberg (via Moneyweb)",
+      "source_url": "https://www.moneyweb.co.za/news/markets/oil-rises-as-middle-east-attacks-increase-uncertainty-over-flows/",
+      "summary": "Brent rose toward $107 a barrel on Wednesday (+0.8% to ~$106.5, WTI ~$95) after two more vessels were struck in Hormuz and Iran confirmed new anti-ship tactics aimed at keeping prices high into the midterms. Morgan Stanley raised its Dated Brent forecast by $5/bbl for this quarter and next, saying 'uncertainty around crude exports remains elevated' with Houthi strikes on Saudi infrastructure compounding the Hormuz disruption.",
+      "title": "Brent toward $107 as Morgan Stanley raises Dated Brent forecast $5 on Hormuz/Houthi supply risk"
     }
   ],
   "last_updated_pdt": "1:12 PM PDT, Oct 13, 2026",

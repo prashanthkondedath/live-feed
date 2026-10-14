@@ -1106,6 +1106,56 @@
       "source_url": "https://www.nationpress.com/international/rubio-miliband-align-on-hormuz-and-iran",
       "summary": "US Secretary of State Marco Rubio and UK Foreign Secretary Ed Miliband spoke by phone Oct 13 (State Dept readout via spokesman Tommy Pigott), reiterating a shared commitment to safeguarding transit in the Strait of Hormuz and 'holding Iran to account for its actions.' They also discussed stabilizing global energy markets, a negotiated end to the Russia-Ukraine war, and securing US assets in Britain. No new sanctions, naval deployments, or operational arrangements were announced.",
       "title": "Rubio, Miliband discuss Hormuz security in call; pledge Iran accountability, no new measures announced"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Oct 13, 2026 (ISW assessment posted on X; AP roundup published Oct 13, 2:16 PM EDT)",
+      "id": "isw-ship-to-ship-transfers-oct13",
+      "image_urls": [
+        "https://www.ttnews.com/sites/default/files/styles/article_full_width_webp/public/2026-10/Hormuz-1200.jpg.webp"
+      ],
+      "links": [
+        "https://www.reflector.com/news/national/iran-increases-threat-to-strait-of-hormuz-shipping-and-other-middle-east-developments/article_ec7c6742-15c4-57a0-910e-c5cc05d0dd7c.html",
+        "https://www.plaindealerin.com/news/wire/iran-increases-threat-to-strait-of-hormuz-shipping-and-other-middle-east-developments/article_fc984ea5-3cd0-542e-9ff2-375cbbdd487e.html",
+        "https://www.ktsa.com/houthi-rebels-report-airstrikes-in-yemen-and-other-middle-east-developments/"
+      ],
+      "report_time_ist": "9:25 AM IST Oct 14, 2026",
+      "report_time_pdt": "8:55 PM PDT Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T03:55:06Z",
+      "sentiment": {
+        "iran": "negative",
+        "markets": "negative",
+        "us": "negative"
+      },
+      "source_name": "AP (via TTNews) / Institute for the Study of War",
+      "source_url": "https://www.ttnews.com/articles/iran-threat-hormuz-shipping",
+      "summary": "The Institute for the Study of War said Oct 13 that Iran appears to be targeting commercial vessels conducting ship-to-ship oil transfers in and near the Strait of Hormuz in order to undermine energy movement through the strait \u2014 a deliberate tactic to reinforce Iranian control of the waterway and deter vessels from using non-Iranian-approved routes. ISW also said Iran may be developing its anti-ship missile capabilities. The assessment fits SNSC secretary Mohsen Rezaei's Oct 10 state-TV claim that Iranian forces are striking an average of five 'smuggling ships' a night \u2014 referring to the US effort to escort smaller shipments through the strait before transferring oil to larger tankers waiting in the Gulf of Oman.",
+      "title": "ISW: Iran now deliberately targeting ship-to-ship oil transfers in and near Hormuz"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Oct 13, 2026 (warnings issued Tuesday)",
+      "id": "houthi-airline-aramco-evacuation-warnings-oct13",
+      "image_urls": [
+        "https://i0.wp.com/astig.ph/wp-content/uploads/2026/10/riyadh-skyline-saudi-arabia.jpg?w=1160&ssl=1"
+      ],
+      "links": [
+        "https://www.jfeed.com/news/houthis-evacuation-warning-aramco-riyadh-airport",
+        "https://gulfbusiness.com/en/2026/saudi-arabia/saudi-coalition-sanaa-evacuation-houthis-riyadh-aramco-warning",
+        "https://www.ghanamma.com/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports/"
+      ],
+      "report_time_ist": "9:25 AM IST Oct 14, 2026",
+      "report_time_pdt": "8:55 PM PDT Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T03:55:06Z",
+      "sentiment": {
+        "iran": "negative",
+        "markets": "negative",
+        "us": "negative"
+      },
+      "source_name": "Reuters / JFeed / AP",
+      "source_url": "https://www.reuters.com/business/energy/saudi-led-coalition-orders-evacuation-yemen-oil-facility-sanaa-ahead-operation-2026-10-13/",
+      "summary": "The Houthi-controlled Foreign Ministry warned international airlines on Oct 13 that flights to Saudi airports are 'unsafe' except those serving Mecca and Medina, and military spokesman Yahya Saree declared Saudi Aramco oil facilities 'legitimate targets', telling employees and civilians to evacuate Aramco sites in Dhahran and Riyadh plus Riyadh's King Khalid International Airport \u2014 a sharp aviation-energy escalation after Tuesday's Saudi strikes on Sanaa. The US State Department raised its Saudi travel advisory to Level 3 ('Reconsider Travel', Level 4 for Yemen border areas); Etihad said it would cancel flights to Riyadh, Dammam and Jeddah until Oct 19, with several other carriers (Lufthansa, Air France-KLM, Delta, Qatar Airways) suspending services. Context: follows Saturday's Houthi missile attack on King Khalid International Airport (Saudi aviation authority: at least 12 dead, 309 wounded; airport shut since) and Tuesday's Houthi missile hit on Aramco's Dhahran HQ complex (already alerted).",
+      "title": "Houthis tell airlines Saudi airports are 'unsafe', order evacuations near Aramco sites; US raises Saudi travel advisory to Level 3"
     }
   ],
   "last_updated_pdt": "1:12 PM PDT, Oct 13, 2026",

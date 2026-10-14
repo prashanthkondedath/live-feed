@@ -1,28 +1,49 @@
 {
- "report_time_pdt": "6:32 PM PDT, Oct 13",
- "report_time_ist": "7:02 AM IST, Oct 14",
- "items": [
-  {
-   "id": "isaias-verisk-insured-losses-oct13",
-   "event_time_ist": "Oct 13, 2026",
-   "title": "Verisk puts Isaias insured losses at $1B-$2B, first industry estimate",
-   "summary": "Catastrophe modeler Verisk issued its initial industry insured-loss estimate for Hurricane Isaias: $1 billion to $2 billion in onshore property losses, covering wind and privately insured storm surge from the Oct 9 Florida Panhandle landfall; wind accounts for the vast majority of losses. Worst wind damage west of the landfall point, in Santa Rosa and northeastern Escambia counties; in Okaloosa County trees falling onto homes was the main damage mechanism. Precipitation-induced flood losses are not expected to be significant. Artemis notes two other early estimates in the same range: Euler ILS Partners $2B-$4B and Cotality $2B-$3B.",
-   "source_name": "Reuters (Oct 13, 2026)",
-   "source_url": "https://www.reuters.com/legal/litigation/insured-losses-hurricane-isaias-could-reach-2-billion-verisk-says-2026-10-13/",
-   "links": [
-    "https://www.reuters.com/legal/litigation/insured-losses-hurricane-isaias-could-reach-2-billion-verisk-says-2026-10-13/",
-    "https://www.artemis.bm/news/verisk-estimates-hurricane-isaias-insured-onshore-property-losses-in-1bn-to-2bn-range/"
-   ],
-   "image_urls": [
-    "https://www.electric.coop/wp-content/uploads/2026/10/chelco-2-1024x768.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "6:32 PM PDT, Oct 13",
-   "report_time_ist": "7:02 AM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T01:33:00Z",
-   "sentiment": {
-    "civilians": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "8:04 PM PDT, Oct 13",
+  "report_time_ist": "8:34 AM IST, Oct 14",
+  "items": [
+    {
+      "id": "simon-advisory-27-110mph-oct13",
+      "event_time_ist": "8:30 AM IST, Oct 14 (NHC Advisory 27, 8:00 PM MST Tue Oct 13)",
+      "title": "Hurricane Simon re-strengthens to 110 mph, almost a major hurricane again",
+      "summary": "NHC Advisory 27 (8 PM MST Tue Oct 13): Simon strengthened from 90 mph to 110 mph (95 kt), pressure 965 mb, centered ~125 mi W of Cabo Corrientes and ~125 mi SW of Las Islas Marias, drifting W at 2 mph. A 6:50 PM MST special tropical cyclone update says satellite/radar from Cabo San Lucas show 'significant' strengthening to near 110 mph. NHC forecast: 120 mph by Wednesday morning (could become a major hurricane again tonight), then gradual weakening from shear/dry air; storm remains tiny (hurricane-force winds extend only ~10 mi from center). Watches: no changes \u2014 Hurricane Watch for Las Islas Marias only; hurricane conditions possible there Thursday.",
+      "source_name": "NHC (National Hurricane Center)",
+      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/140235.shtml",
+      "links": [],
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:04 PM PDT, Oct 13",
+      "report_time_ist": "8:34 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:04:38Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    },
+    {
+      "id": "trudy-advisory-3-inland-western-mexico-oct13",
+      "event_time_ist": "8:30 AM IST, Oct 14 (NHC Advisory 3, 9:00 PM CST Tue Oct 13)",
+      "title": "Trudy strengthens to 45 mph; NHC nudges track east \u2014 major-hurricane threat to western Mexico this weekend",
+      "summary": "NHC Advisory 3 (9 PM CST Tue Oct 13): Tropical Storm Trudy strengthened to 45 mph (40 kt), pressure 1004 mb, at 11.2N 97.0W (~440 mi SSE of Acapulco), moving NW at 10 mph. Forecast: hurricane by Wednesday night, major hurricane (130 mph) Fri\u2013Sat. Track forecast is faster and nudged east vs prior: Trudy now brought inland over western Mexico later this weekend, emerging into the southern Gulf of California early next week; 'expected to approach the coast of Mexico as a major hurricane later this week.' NHC key message: 'watches could be required for a portion of these areas on Wednesday' (Oct 14). No coastal watches/warnings in effect yet; track confidence low days 3\u20135.",
+      "source_name": "NHC (National Hurricane Center)",
+      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/140253.shtml",
+      "links": [
+        "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane",
+        "https://www.reflector.com/news/national/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/article_3d3fcf40-85e1-5aef-add4-5253f0e16b7d.html"
+      ],
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:04 PM PDT, Oct 13",
+      "report_time_ist": "8:34 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:04:38Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    }
+  ]
 }

@@ -1055,6 +1055,31 @@
       "source_url": "https://www.reuters.com/world/middle-east/saudi-arabia-plans-hybrid-format-marquee-fii-conference-after-attacks-sources-2026-10-13/",
       "summary": "Saudi Arabia plans to make its flagship Future Investment Initiative conference ('Davos in the Desert') later this month a hybrid event, two people familiar with the matter told Reuters, after the deadly airport attacks prompted a rethink of travel to the kingdom. Some participants may land at airstrips outside Riyadh or in neighboring Gulf states and drive to the capital.",
       "title": "Saudi to make FII 'Davos in the Desert' conference hybrid after attacks - Reuters"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Announced Sep 16, 2026; resumption planned Nov 3, 2026",
+      "id": "ba-riyadh-resumption-nov3-oct13",
+      "image_urls": [
+        "https://www.lot.com/content/dam/lot/lot-com/other-images/airports/ruh/riyadh-airport-8.coreimg.82.1520.jpg/1750148880784/riyadh-airport-8.jpg"
+      ],
+      "links": [
+        "https://news.gtp.gr/2026/10/13/airlines-suspend-saudi-arabia-flights-following-houthi-attacks/",
+        "https://www.europesays.com/france/91547/",
+        "https://traveltomorrow.com/british-airways-not-to-resume-abu-dhabi-flights-until-late-2027/",
+        "https://www.timeoutdubai.com/news/british-airways-update-september-2026"
+      ],
+      "report_time_ist": "8:37 AM IST, Oct 14",
+      "report_time_pdt": "8:07 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-14T03:07:21Z",
+      "sentiment": {
+        "civilians": "positive",
+        "saudi_govt": "neutral"
+      },
+      "source_name": "GTP Headlines (corroborated by europesays/France, Travel Tomorrow, Time Out Dubai)",
+      "source_url": "https://news.gtp.gr/2026/10/13/airlines-suspend-saudi-arabia-flights-following-houthi-attacks/",
+      "summary": "British Airways plans to resume its Riyadh flights on November 3, 2026 with one daily service, as part of its staged Middle East network restoration (Dubai also Nov 3, Amman Nov 4). The plan was first announced in mid-September during the Iran-war airspace disruption, not in response to the Houthi airport strikes. Separately, GTP corroborates the FAA's Saudi advisory running until Dec 10 and EASA's conflict-zone bulletin valid until Nov 16; AirMedia24 still shows GACA with no announced reopening date beyond the provisional Oct 17 NOTAM.",
+      "title": "British Airways to resume Riyadh flights Nov 3 (one daily); FAA advisory runs to Dec 10, EASA bulletin to Nov 16"
     }
   ]
 }

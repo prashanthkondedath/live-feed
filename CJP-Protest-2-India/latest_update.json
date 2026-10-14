@@ -1,30 +1,29 @@
 {
- "report_time_pdt": "7:46 PM PDT, Oct 13",
- "report_time_ist": "8:16 AM IST, Oct 14",
- "items": [
-  {
-   "id": "das-ranka-shinde-parliament-street-sem-oct14",
-   "event_time_ist": "~3:00 AM - 5:38 AM IST, Oct 14",
-   "title": "Overnight whereabouts resolved: detained trio brought to Parliament Street PS ~3 AM; SEM production at Mandir Marg expected — outcome still unreported",
-   "summary": "CJP legal head Ratna Singh's overnight X posts (livemint; corroborated by thedailyjagran and Latestly) resolve the 'destination unknown' open question: Saurav Das, Ashutosh Ranka and Ajinkya Shinde were brought to Parliament Street Police Station at ~3 AM IST Oct 14 in a private van, after the ~2:30 AM move out of Jaffarpur Kalan PS; they were held nearly 24 hours without lawyer access or stated grounds. Singh's 5:38 AM IST update said the trio are likely to be produced before the Special Executive Magistrate (SEM) at Mandir Marg Police Station within an hour (due ~6:30-7:00 AM IST); the production outcome is still unreported as of this run. Delhi Police's position remains 'preventive arrest' (ANI); Singh calls the arrests illegal and says Tihar judicial custody is possible.",
-   "source_name": "livemint (HT Media); corroborated by thedailyjagran (Jagran Prakashan) and Latestly — all citing CJP legal head Ratna Singh's X posts",
-   "source_url": "https://www.livemint.com/news/india/cjp-lawyer-says-saurav-das-ashutosh-ranka-and-ajinkya-shinde-arrested-calls-it-illegal-what-we-know-so-far-11791938743502.html",
-   "links": [
-    "https://www.livemint.com/news/india/cjp-lawyer-says-saurav-das-ashutosh-ranka-and-ajinkya-shinde-arrested-calls-it-illegal-what-we-know-so-far-11791938743502.html",
-    "https://www.thedailyjagran.com/india/news/cjp-claims-saurav-das-ashutosh-ranka-ajinkya-shinde-arrested-delhi-police-says-preventive-arrest-10332636",
-    "https://www.latestly.com/india/news/delhi-police-detain-cjp-activists-saurav-das-ashutosh-ranka-after-jantar-mantar-entry-attempt-7643680.html"
-   ],
-   "image_urls": [
-    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "7:46 PM PDT, Oct 13",
-   "report_time_ist": "8:16 AM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T02:46:00Z",
-   "sentiment": {
-    "cjp_protesters": "negative",
-    "police_govt": "negative"
-   }
-  }
- ]
+  "report_time_pdt": "8:38 PM PDT, Oct 13",
+  "report_time_ist": "9:08 AM IST, Oct 14",
+  "items": [
+    {
+      "id": "das-ranka-shinde-5day-judicial-custody-oct14",
+      "event_time_ist": "~9:00 AM IST, Oct 14",
+      "title": "CJP trio sent to 5 days' judicial custody after SEM Mandir Marg production",
+      "summary": "SAAM TV (verified @saamtvnews, 3.1M followers) live Marathi BIG BREAKING segment at ~9:00 AM IST Oct 14: CJP leaders Saurav Das, Ashutosh Ranka and Ajinkya Shinde sent to 5 days' jail ('CJP netyanna 5 divasancha turungvas'); the segment shows a spokesperson criticizing the Modi government for jailing the activists, calling the arrests politically motivated suppression of dissent. Within the same minute, VOB News Network (@vob.network) posted a Hindi 'BREAKING NEWS' graphic: three CJP leaders sent to 5 days of judicial custody — naming Sourav Das, Ashutosh Ranka and Ajinkya Shinde (spellings rendered 'Tanka'/'Animesh' in the graphic); charges: entering Jantar Mantar without permission, obstructing government work, violating bond conditions; notes the Oct-10 detention and Jantar Mantar's de-notification; Tihar Jail named. This is the long-awaited outcome of Ratna Singh's 5:38 AM IST 'SEM Mandir Marg within one hour' post — production landed ~2-3h late, ~9:00 AM IST. Caveat: as of ~9:08 AM IST no mainstream web outlet has yet carried the custody outcome; both sources are IG video/graphic news posts.",
+      "source_name": "SAAM TV (@saamtvnews)",
+      "source_url": "https://www.instagram.com/reel/Deda5IoAeNa/",
+      "links": [
+        "https://www.instagram.com/reel/Deda5IoAeNa/",
+        "https://www.instagram.com/reel/Deda7pUiXPy/"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:38 PM PDT, Oct 13",
+      "report_time_ist": "9:08 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:38:00Z",
+      "sentiment": {
+        "police_govt": "negative",
+        "cjp_protesters": "neutral"
+      }
+    }
+  ]
 }

@@ -466,14 +466,14 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T20:30:49Z",
+      "trend_updated_at_utc": "2026-10-14T00:12:38Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 43,
+        "items_in_window": 44,
         "sides": {
           "us": {
             "positive": 6,
-            "negative": 13,
+            "negative": 14,
             "neutral": 8,
             "overall": "negative"
           },
@@ -485,12 +485,12 @@
           },
           "markets": {
             "positive": 2,
-            "negative": 26,
+            "negative": 27,
             "neutral": 3,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-13T20:30:49Z"
+        "updated_at_utc": "2026-10-14T00:12:38Z"
       },
       "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
@@ -534,12 +534,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 43,
-        "confirmed": 35,
+        "items_in_window": 44,
+        "confirmed": 36,
         "single-sourced": 5,
         "unconfirmed": 3,
-        "confirmed_rate": 0.81,
-        "updated_at_utc": "2026-10-13T20:30:49Z"
+        "confirmed_rate": 0.82,
+        "updated_at_utc": "2026-10-14T00:12:38Z"
       },
       "phase": "standoff"
     },
@@ -642,5 +642,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T00:00:03Z"
+  "updated_at_utc": "2026-10-14T00:12:38Z"
 }

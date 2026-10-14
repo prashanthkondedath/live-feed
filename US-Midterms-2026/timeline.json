@@ -2134,8 +2134,32 @@
         "democrats": "positive",
         "republicans": "negative"
       }
+    },
+    {
+      "id": "stetson-fl-oct-poll-donalds-jolly",
+      "event_time_ist": "Poll released Tue, Oct 13, 2026 (reported Oct 14, 2026)",
+      "title": "New Stetson October Florida poll: Donalds +11 for governor, Moody +11 for Senate",
+      "summary": "Stetson University's Center for Public Opinion Research released its October Florida poll (826 adults, 716 registered voters, MoE +/-4.2): Byron Donalds (R) leads David Jolly (D) 52-41 for governor and Sen. Ashley Moody (R) leads Angie Nixon (D) 52-41 in the Senate race; Florida GOP leads the generic House ballot 50-41. Trump's Florida approval is 50-49 (vs Pew national 30%, Oct 8); DeSantis favorability 55%. Amendment 3 (property-tax exemption) sits at 56%, below the 60% passage threshold. Caveats: Florida Politics analyst Steve Vancore criticized the opt-in online panel ('too many Trump voters by ~5 pts'); the September Stetson poll had drawn the same critique and was held unconfirmed by this watch. The numbers track other recent surveys (James Madison Institute Oct 9: Donalds +10; NBC6/Telemundo/Mason-Dixon: Donalds 48-41, Moody 50-40) but clash with a Change Research (D) poll showing the governor's race tied 47-47 on Oct 12 and DDHQ's recent toss-up reclassification.",
+      "source_name": "Daytona Beach News-Journal (USA Today network)",
+      "source_url": "https://www.news-journalonline.com/story/news/politics/elections/2026/10/14/stetsons-latest-poll-tracks-trumps-favorability-in-florida/92236301007/",
+      "links": [
+        "https://politicalwire.com/2026/10/13/republicans-hold-solid-lead-in-florida-races/",
+        "https://cybernistas.com/general/poll-donalds-moody-hold-double-digit-leads-in-florida-races/"
+      ],
+      "image_urls": [
+        "https://cybernistas.com/wp-content/uploads/2026/10/407467-poll-donalds-moody-hold-double-digit-leads-in-florida-races.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "9:01 AM PDT, Oct 14",
+      "report_time_ist": "9:31 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T16:01:00Z",
+      "sentiment": {
+        "democrats": "negative",
+        "republicans": "positive",
+        "trump": "positive"
+      }
     }
   ],
-  "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",
-  "report_time_ist": "12:46 PM IST, Oct 14, 2026"
+  "report_time_pdt": "9:01 AM PDT, Oct 14, 2026",
+  "report_time_ist": "9:31 PM IST, Oct 14, 2026"
 }

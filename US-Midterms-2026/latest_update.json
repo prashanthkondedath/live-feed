@@ -1,26 +1,48 @@
 {
-  "report_time_pdt": "10:28 PM PDT, Oct 13",
-  "report_time_ist": "10:58 AM IST, Oct 14",
+  "report_time_pdt": "10:42 PM PDT, Oct 13",
+  "report_time_ist": "11:12 AM IST, Oct 14",
   "items": [
     {
-      "id": "newsom-new-hampshire-oct17",
-      "event_time_ist": "Sat, Oct 17, 2026",
-      "title": "Newsom to campaign across New Hampshire on Saturday, Oct 17 for midterm Democrats",
-      "summary": "Gov. Gavin Newsom (D-CA) will campaign across New Hampshire on Saturday, Oct 17, 2026 - voter rallies, canvassing launches and fundraisers - including an Exeter voter-mobilization event with Senate candidate Rep. Chris Pappas, a Nashua canvassing launch with Pappas and gubernatorial nominee Cinde Warmington at a field office funded via Newsom's political arm, and an evening meet-and-greet with congressional candidate Stefany Shaheen. His team says he has raised $6.5M+ for Democrats nationally this cycle and funneled $526K+ to NH Democrats via 23,500+ contributions. The visit doubles as early 2028 positioning: the DNC's approved 2028 calendar puts NH third, after SC and NV. Reported Oct 13 (NY Post, 8:27 pm ET); Pluribus AM cites WMUR.",
-      "source_name": "New York Post",
-      "source_url": "https://nypost.com/2026/10/13/us-news/gavin-newsom-to-parachute-back-into-new-hampshire-ahead-of-midterm-elections/",
+      "id": "ohio-sos-first-early-voting-tally-oct13",
+      "event_time_ist": "Data released ~6 AM PDT / 6:33 PM IST, Oct 13",
+      "title": "Ohio's first statewide early-voting tally: 228,470 ballots cast",
+      "summary": "Ohio Secretary of State Frank LaRose's office released the first statewide early-voting total for the Nov 3 general, compiled from daily reports by all 88 county boards: 228,470 ballots — 194,841 in-person early + 33,629 absentee returned. In-person dominates the mix so far; early in-person voting began Oct 6 and runs through Nov 1. OhioSoS.gov dashboard tracks statewide/county trends. Single-sourced (SoS data via one outlet; no second outlet yet).",
+      "source_name": "New Americans Magazine (quoting Ohio Secretary of State's office)",
+      "source_url": "https://thenewamericansmag.com/ohio-records-228470-in-early-voting/",
       "links": [
-        "https://pluribusnews.com/news-and-events/pluribus-am-new-polls-in-new-mexico-minnesota-ohio/"
+        "https://thenewamericansmag.com/ohio-records-228470-in-early-voting/"
       ],
       "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-11/251111-gavin-newsom-lr-d87466.jpg"
+        "https://www.whbc.com/wp-content/uploads/2026/04/GettyImages-1240419679-scaled-e1775576721169.jpg?icb=1780516090"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "10:28 PM PDT, Oct 13",
-      "report_time_ist": "10:58 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T05:28:00Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "10:42 PM PDT, Oct 13",
+      "report_time_ist": "11:12 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T05:42:48Z",
       "sentiment": {
-        "democrats": "positive"
+        "voters": "neutral"
+      }
+    },
+    {
+      "id": "ddhq-independents-35pc-made-up-oct13",
+      "event_time_ist": "Poll released Oct 13 (fielded Oct 5-9)",
+      "title": "NewsNation/DDHQ finding: independents lean Democratic, but only 35% have made up their minds",
+      "summary": "New finding from the already-timeline NewsNation/DDHQ poll (TrueDot.ai, 974 LV Oct 5-9, MoE ±3.2): independents lean Democratic, yet only 35% say their minds are made up — a large undecided bloc three weeks out. Companion to the poll's vote-confidence numbers (46% believe all votes will be counted accurately) reported 9:55 PM. Pollster's own release, single-sourced.",
+      "source_name": "NewsNation (pollster's own graphic)",
+      "source_url": "https://www.facebook.com/NewsNationNow/posts/pfbid024HSXywPq6K11fbLvJGzX1Cmnryph5YgirSXGW4ZGDPXN4kk23wtbt5TFigt3rpqpl",
+      "links": [
+        "https://www.facebook.com/NewsNationNow/posts/pfbid024HSXywPq6K11fbLvJGzX1Cmnryph5YgirSXGW4ZGDPXN4kk23wtbt5TFigt3rpqpl"
+      ],
+      "image_urls": [
+        "https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "10:42 PM PDT, Oct 13",
+      "report_time_ist": "11:12 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T05:42:48Z",
+      "sentiment": {
+        "democrats": "positive",
+        "voters": "neutral"
       }
     }
   ]

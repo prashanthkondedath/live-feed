@@ -629,33 +629,33 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 52,
-        "confirmed": 32,
+        "items_in_window": 53,
+        "confirmed": 33,
         "single-sourced": 20,
         "unconfirmed": 0,
         "confirmed_rate": 0.62,
-        "updated_at_utc": "2026-10-14T03:58:36Z"
+        "updated_at_utc": "2026-10-14T04:12:35Z"
       },
-      "trend_updated_at_utc": "2026-10-14T03:58:36Z",
+      "trend_updated_at_utc": "2026-10-14T04:12:35Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 52,
+        "items_in_window": 53,
         "sides": {
           "democrats": {
-            "positive": 25,
+            "positive": 26,
             "negative": 9,
             "neutral": 6,
             "overall": "positive"
           },
           "republicans": {
             "positive": 13,
-            "negative": 23,
+            "negative": 24,
             "neutral": 7,
             "overall": "negative"
           },
           "trump": {
             "positive": 3,
-            "negative": 4,
+            "negative": 5,
             "neutral": 3,
             "overall": "negative"
           },
@@ -666,9 +666,9 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-14T03:58:36Z"
+        "updated_at_utc": "2026-10-14T04:12:35Z"
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T04:00:54Z"
+  "updated_at_utc": "2026-10-14T04:12:35Z"
 }

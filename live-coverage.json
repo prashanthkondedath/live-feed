@@ -5,7 +5,7 @@
       "folder": "CJP-Protest-2-India",
       "id": "cjp-protest-2-india",
       "location": "Delhi, India",
-      "status": "active",
+      "status": "paused",
       "title": "CJP Protest 2.0",
       "map_points": [
         {
@@ -129,7 +129,7 @@
       "folder": "Houthi-Riyadh-Escalation",
       "id": "houthi-riyadh-escalation",
       "location": "Saudi Arabia / Red Sea region",
-      "status": "active",
+      "status": "paused",
       "title": "Houthi-Riyadh Escalation",
       "map_points": [
         {
@@ -244,7 +244,7 @@
       "folder": "Russia-Ukraine-Energy-Ceasefire",
       "id": "russia-ukraine-energy-ceasefire",
       "location": "Ukraine / Russia / Eastern Europe",
-      "status": "active",
+      "status": "paused",
       "title": "Russia-Ukraine War & Energy Ceasefire",
       "map_points": [
         {
@@ -376,7 +376,7 @@
       "folder": "Hurricane-Activity-North-America",
       "id": "hurricane-activity-north-america",
       "location": "North America (Atlantic basin, Gulf of Mexico, US Gulf/East coasts, Mexico's Pacific coast)",
-      "status": "active",
+      "status": "paused",
       "title": "Hurricane Activity Impacting North America",
       "map_points": [
         {
@@ -472,7 +472,7 @@
       "description": "Live coverage of the U.S.–Iran confrontation — military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
       "location": "Persian Gulf / Middle East",
       "folder": "US-Iran-Conflict-Strait-of-Hormuz",
-      "status": "active",
+      "status": "paused",
       "map_points": [
         {
           "latitude": 26.5667,
@@ -573,7 +573,7 @@
       "description": "Polls, early voting, key House/Senate/gubernatorial races, and campaign moves ahead of the Nov 3, 2026 US midterm elections.",
       "location": "United States",
       "folder": "US-Midterms-2026",
-      "status": "active",
+      "status": "paused",
       "map_points": [
         {
           "latitude": 38.9072,

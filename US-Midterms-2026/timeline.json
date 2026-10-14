@@ -1746,6 +1746,55 @@
         "republicans": "negative",
         "trump": "negative"
       }
+    },
+    {
+      "id": "paxton-dubai-fugitives-wsj-oct13",
+      "event_time_ist": "Published Oct 13, 2026 (Tuesday); party was New Year's Eve 2024 in Dubai",
+      "title": "WSJ: Ken Paxton partied in Dubai on NYE 2024 with two indicted US fugitives",
+      "summary": "Wall Street Journal exclusive (published Oct 13, 2026): video shows TX Senate GOP nominee Ken Paxton ringing in 2025 in Dubai with girlfriend Tracy Duhon alongside two Americans indicted months earlier on federal healthcare-fraud charges (Anosh Ahmed, Sameer Suhail) who had not returned to the US at the time. Ahmed donated $190,000 to Paxton, including $25,000 days after his indictment; both men have since returned to face charges (Ahmed in custody). Paxton aide Nick Maddux did not address the trip; Talarico responded on X: 'A party with multiple fugitives and Ken Paxton is still the sketchiest guy in the room.' A week before TX early voting begins (Oct 19); Talarico leads in recent polling.",
+      "source_name": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/politics/policy/ken-paxton-texas-senate-dubai-trip-b54292c3",
+      "links": [
+        "https://www.wsj.com/politics/policy/ken-paxton-texas-senate-dubai-trip-b54292c3",
+        "https://www.sacurrent.com/news/politics-and-elections/ken-paxton-hit-with-damaging-investigations-from-wall-street-journal-washington-post/",
+        "https://fox4news.com/election/report-paxton-partied-new-years-eve-dubai-two-indicted-fugitives"
+      ],
+      "image_urls": [
+        "https://www.democracydocket.com/wp-content/uploads/2026/03/AP26063152284571-scaled.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "5:40 AM PDT, Oct 14",
+      "report_time_ist": "6:10 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T12:42:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      }
+    },
+    {
+      "id": "paxton-donor-opinions-wapo-oct13",
+      "event_time_ist": "Published Oct 13, 2026 (Tuesday)",
+      "title": "WaPo investigation: Paxton issued AG legal opinions benefiting wealthy donors",
+      "summary": "Washington Post investigation (published Oct 13, 2026): as TX attorney general, Paxton repeatedly wrote legal opinions favoring donors with business before his office \u2014 executives tied to a slot-machine-like gambling game gave his campaign $100,000+ while his office reviewed whether those games counted as gambling; in 2018 he issued an opinion helping a donor's concrete plant get built over Fort Worth's objections, donor gave $10,000 two months later; anesthesiologist groups gave $24,000 a month after an opinion they pushed; Texas Tech board chair donated $247,300 the day before Paxton threatened to sue the Big 12 over a Texas Tech football player. Paxton campaign offered no response; Texas Dems called it pay-to-play.",
+      "source_name": "Washington Post",
+      "source_url": "https://politicalwire.com/2026/10/13/ken-paxton-wrote-legal-opinions-that-benefited-donors/",
+      "links": [
+        "https://politicalwire.com/2026/10/13/ken-paxton-wrote-legal-opinions-that-benefited-donors/",
+        "https://www.sacurrent.com/news/politics-and-elections/ken-paxton-hit-with-damaging-investigations-from-wall-street-journal-washington-post/"
+      ],
+      "image_urls": [
+        "https://www.nationaljournal.com/media/media/2026/03/04/election_2026_senate_texas_08004.jpg.optimized.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "5:40 AM PDT, Oct 14",
+      "report_time_ist": "6:10 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T12:42:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      }
     }
   ],
   "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",

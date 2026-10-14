@@ -1621,6 +1621,29 @@
         "civilians": "negative",
         "mexico_govt": "positive"
       }
+    },
+    {
+      "id": "isaias-florida-toll-six-oct13",
+      "event_time_ist": "Tuesday, Oct 13, 2026 (announced at afternoon news conference in Vernon, FL)",
+      "title": "Isaias: Florida storm-related death toll rises to six (announced Tue, Oct 13)",
+      "summary": "Gov. Ron DeSantis announced Tuesday, Oct 13 that Florida's storm-related death toll from Hurricane Isaias has risen to six. The six Florida deaths include two previously confirmed in Escambia County (a tree fell on a home; carbon monoxide from a generator running inside a garage); the four newly confirmed include a fatal car crash at an intersection where the traffic signal wasn't working and two deaths from storm-related disruptions to medical treatment (per Reuters). Fox Weather's detail: a woman killed when a tree fell on her Escambia County home and a man who died of CO poisoning from improper generator use; DeSantis said the new deaths were 'a little bit more post-storm.' Storm-wide Isaias toll is now 8 (6 FL + 2 AL, per Gov. Kay Ivey). Also in the Tuesday update: DeSantis said ~95% of customers' power restored; PowerOutage.com counts 45,000+ still without power Tuesday, mainly Escambia and Santa Rosa counties; Escambia County's initial damage estimate is ~$64 million for county repairs, emergency response and recovery.",
+      "source_name": "Fox Weather",
+      "source_url": "https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall",
+      "links": [
+        "https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall",
+        "https://www.reuters.com/business/environment/six-deaths-confirmed-florida-hurricane-isaias-governor-says-2026-10-14/"
+      ],
+      "image_urls": [
+        "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/668/376/gettyimages-2299556570-scaled.jpg?ve=1&tl=1"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:02 PM PDT, Oct 13",
+      "report_time_ist": "11:32 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T06:03:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "us_govt": "positive"
+      }
     }
   ],
   "last_updated_pdt": "6:32 PM PDT, Oct 13",

@@ -1,80 +1,48 @@
 {
-  "report_time_pdt": "11:12 PM PDT, Oct 13",
-  "report_time_ist": "11:42 AM IST, Oct 14",
+  "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
+  "report_time_ist": "12:10 PM IST, Oct 14, 2026",
   "items": [
     {
-      "id": "axios-ipsos-health-index-oct13",
-      "event_time_ist": "Poll released Oct 13, 2026 (fielded late September)",
-      "title": "Axios/Ipsos American Health Index: 43% back Medicare for All; trust in Trump, CDC health info eroding",
-      "summary": "Axios/Ipsos poll released Oct 13 (n=1,122 US adults, fielded late September): 43% support a Medicare-for-All government-run health insurance program vs 24% opposed and 32% unsure; supporters outnumber opponents nearly 2-to-1. Two-thirds (66%) say the federal government should spend more tax dollars to lower health costs, and 69% worry about rising costs. Trust erosion: under 20% trust Trump on health information (down from 31% in March 2025), 25% trust HHS Sec. RFK Jr., and ~50% trust the CDC (down from 62%). Partisan split: 62% of Dems and 47% of independents support, 52% of Republicans oppose; top anti reason is fear of worse care quality (38%). Axios: findings open a path for swing-state candidates on affordability. Corroborated across pollster release (Ipsos, Dem-adjacent/independent), The Hill (center), Daily Caller (Rep-leaning).",
-      "source_name": "Ipsos",
-      "source_url": "https://www.ipsos.com/en-us/axios-ipsos-american-health-index",
+      "id": "doj-64-foreign-nationals-voter-fraud",
+      "event_time_ist": "Report published Oct 11, 2026, covering a ~5-week window",
+      "title": "DOJ: 64 foreign nationals charged with illegal voting across 17 states in five-week crackdown",
+      "summary": "Fox News Digital (Rep-leaning), from figures DOJ gave it: 64 foreign nationals charged with unlawful voting, fraudulent registration and election-related offenses in roughly five weeks across 17 states \u2014 Minnesota leads with 11 defendants, Pennsylvania 10, Texas 9. Total since Jan 2025: 104 people charged with voting-fraud offenses. A DOJ spokesperson framed weekly cases against the six-vote margin of the 2020 Iowa House race. No case has been established as changing an election outcome. (Wire only: Fox original + wire-copy republishers carry it; Breitbart a same-lean repeat.)",
+      "source_name": "Fox News Digital",
+      "source_url": "https://foxnews.com/politics/map-doj-illegal-voting-crackdown-sweeps-17-states-razor-thin-elections-face-scrutiny",
       "links": [
-        "https://www.ipsos.com/en-us/axios-ipsos-american-health-index",
-        "https://www.kcau9.com/news/national-news/poll-43-percent-support-medicare-for-all/",
-        "https://dailycaller.com/2026/10/13/medicare-for-all-healthcare-axios-ipsos-poll"
+        "https://heritagereview.com/justice-department-charges-64-foreign-nationals-with-illegal-voting-ahead-of-midterms/"
       ],
       "image_urls": [
-        "https://intel.morningconsult.com/mc-content/_next/image?url=https%3A%2F%2Fpro-assets.morningconsult.com%2Fwp-uploads%2F2018%2F11%2FGettyImages-809452080.jpg&w=768&q=100"
+        "https://twt-thumbs.washtimes.com/media/image/2026/02/10/Elections_Justice_Department_62667_c0-310-7402-4625_s885x516.jpg?36cf82c276f4ac8a24c59c15781fdccddcceb86e"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:12 PM PDT, Oct 13",
-      "report_time_ist": "11:42 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T06:12:19Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
+      "report_time_ist": "12:10 PM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T06:42:00Z",
       "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative",
-        "trump": "negative",
+        "republicans": "positive",
         "voters": "neutral"
       }
     },
     {
-      "id": "uh-hobby-harris-county-talarico-oct12",
-      "event_time_ist": "Poll published by UH Oct 12, 2026 (fielded Oct 3-8)",
-      "title": "UH Hobby poll: Talarico leads Paxton by 22 points among Harris County voters",
-      "summary": "University of Houston Hobby School 2026 general-election survey (2,750 Harris County participants, fielded Oct 3-8, MoE +/-1.87%): Democrat James Talarico leads Republican Ken Paxton by 22 percentage points in the TX U.S. Senate race among Harris County voters - more than triple the 7-point edge Democrat Lesley Briones holds over Republican Mike Sanchez in the Harris County judge race. UH notes Talarico's Harris County margin is nearly double what Rep. Collin Allred commanded there in the 2024 Senate race. Confirmed via pollster release (uh.edu) + USA Today Oct 13 coverage.",
-      "source_name": "University of Houston Hobby School",
-      "source_url": "https://www.uh.edu/news-events/stories/2026/october/10122026-hobby-harris-county-judge.php",
+      "id": "sc-senate-markets-graham-86c",
+      "event_time_ist": "Oct 13, 2026 (live market trackers)",
+      "title": "SC Senate: markets price Graham at 86c despite tightening polls \u2014 widest polls-vs-markets gap of the cycle",
+      "summary": "Action Network's live tracker (independent): Graham is YES 86c on both Polymarket and Kalshi, Andrews YES 15-16c, both exchanges reading the same signal (SC's R lean, late money) \u2014 yet public polls show a 1-4 pt race (Rasmussen 49-45, Trafalgar ~+1, InsiderAdvantage 46-45). Same polls-vs-markets disconnect as Iowa (reported Oct 13). Market pricing, not a prediction.",
+      "source_name": "Action Network",
+      "source_url": "https://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions",
       "links": [
-        "https://www.uh.edu/news-events/stories/2026/october/10122026-hobby-harris-county-judge.php",
-        "https://www.usatoday.com/story/news/politics/2026/10/13/texas-senate-polls-talarico-paxton-trump/92229448007/"
+        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
       ],
       "image_urls": [
-        "https://i.abcnewsfe.com/a/b63e8408-76d4-4964-be27-5f4f98ae4b14/James-Talarico-6-gty-gmh-260203_1770123610125_hpEmbed_3x2.jpg?w=992"
+        "https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:12 PM PDT, Oct 13",
-      "report_time_ist": "11:42 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T06:12:19Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
+      "report_time_ist": "12:10 PM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T06:42:00Z",
       "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative",
-        "voters": "neutral"
-      }
-    },
-    {
-      "id": "musgraves-noem-talarico-feud-oct12",
-      "event_time_ist": "Feud unfolded Oct 10-12, 2026 (Musgraves clapback posted Monday night, Oct 12)",
-      "title": "Kacey Musgraves brings Talarico onstage in Dallas; Kristi Noem diss sparks viral feud",
-      "summary": "Country star Kacey Musgraves introduced Democratic TX Senate nominee James Talarico onstage at her Dallas Middle of Nowhere tour stop Saturday, Oct 10, returning him to the spotlight after his 12-day campaign-trail absence; Talarico thanked her on X. Former DHS secretary Kristi Noem fired back on X: 'I'll take Ella Langley over Kacey Musgraves any day... if I'm choosin' Texas, I'll take Ken Paxton over James Talarico.' Singer Ella Langley untagged herself from Noem's tweet, and Musgraves replied Monday night, Oct 12: 'I don't think you have a dog in this fight but if you did you would have shot it' - a jab at the dog-killing passage in Noem's memoir. Corroborated across indy100, Paste Magazine, and Cybernistas.",
-      "source_name": "Paste Magazine",
-      "source_url": "https://www.pastemagazine.com/article/kacey-musgraves-claps-back-at-kristi-noem-over-james-talarico-diss",
-      "links": [
-        "https://www.indy100.com/celebrities/kacey-musgraves-kristi-noem-dog",
-        "https://www.pastemagazine.com/article/kacey-musgraves-claps-back-at-kristi-noem-over-james-talarico-diss",
-        "https://cybernistas.com/general/james-talarico-introduced-by-country-singer-kacey-musgraves-at-texas-festival-after-12-day-absence-from-campaign-trail/"
-      ],
-      "image_urls": [
-        "https://media.cdn.setlistfm.com/large/news/2026-05/1777930544690/KaceyMusgraves_Jason%20Kempin%3AGetty%20Images%20for%20Spotify%20GettyImages-2273873599.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "11:12 PM PDT, Oct 13",
-      "report_time_ist": "11:42 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T06:12:19Z",
-      "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative",
-        "voters": "neutral"
+        "republicans": "positive"
       }
     }
   ]

@@ -1664,6 +1664,48 @@
       "source_url": "https://nypost.com/2026/10/14/us-news/hurricane-isaias-florida-death-toll-rises-to-6-killed-from-storm/",
       "summary": "Isaias power recovery in the Florida Panhandle: just over 20,000 customers were still without power Wednesday morning, Oct 14, mainly in Escambia and Santa Rosa counties, per PowerOutage.com data cited in the report. That is down from 45,000+ Tuesday and 149,000+ Monday; DeSantis says about 95% of customers who lost power have been restored, and the storm knocked out more than 400,000 Florida customers at landfall on Oct 9.",
       "title": "Isaias Florida recovery: just over 20,000 customers still without power Wednesday morning, mainly Escambia and Santa Rosa"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "2:30 PM IST, Oct 14 (issued 2:00 AM MST / 09:00 UTC, Oct 14)",
+      "id": "simon-advisory-28-105mph-oct14",
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
+      ],
+      "links": [],
+      "report_time_ist": "3:04 PM IST, Oct 14",
+      "report_time_pdt": "2:34 AM PDT, Oct 14",
+      "reported_at_utc": "2026-10-14T09:34:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      },
+      "source_name": "NHC",
+      "source_url": "https://www.nhc.noaa.gov/cyclones/",
+      "summary": "NHC Advisory 28 (issued 2:00 AM MST Wed, Oct 14): Simon weakened slightly to 105 mph (969 mb) at 19.8N 107.9W, moving SW at 3 mph - a track-direction change from the near-stationary westward drift of Advisory 27 (110 mph, 965 mb). NHC headline calls it 'compact Simon drifting southwestward'; the monitoring message now names west-central Mexico AND Baja California Sur.",
+      "title": "Simon Advisory 28: dips to 105 mph, drifting southwestward; NHC calls it 'compact'"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "2:30 PM IST, Oct 14 (issued 3:00 AM CST / 09:00 UTC, Oct 14)",
+      "id": "trudy-advisory-4-50mph-oct14",
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
+      ],
+      "links": [
+        "https://atmostorm.com/tropics/trudy-2026"
+      ],
+      "report_time_ist": "3:04 PM IST, Oct 14",
+      "report_time_pdt": "2:34 AM PDT, Oct 14",
+      "reported_at_utc": "2026-10-14T09:34:00Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      },
+      "source_name": "NHC",
+      "source_url": "https://www.nhc.noaa.gov/cyclones/",
+      "summary": "NHC Advisory 4 (issued 3:00 AM CST Wed, Oct 14): Trudy up to 50 mph (1002 mb) ~405 mi S of Acapulco, moving WNW at 10 mph. A recent ASCAT pass repositioned the center farther WSW, shifting the forecast track west of the previous call - the center now expected to remain offshore of southwestern/west-central Mexico, though long-range track uncertainty is large. Rapid intensification still forecast: hurricane within ~24h, major hurricane around Friday; NHC says coastal watches will likely be required later today for portions of southwestern/west-central Mexico.",
+      "title": "Trudy strengthens to 50 mph; track shifts west, hurricane expected within 24h"
     }
   ],
   "last_updated_pdt": "6:32 PM PDT, Oct 13",

@@ -1592,6 +1592,29 @@
       "source_url": "https://www.facebook.com/wlwt5/posts/pfbid0ey6HH4sXFXsgsFPuJ2A86euf4Uy7xqbfjxk9vqmL9dTXuNwWpl",
       "summary": "WLWT (NBC, Cincinnati) reports in-person early voting in southwest Ohio rose sharply across the first four early-voting days, outpacing the 2022 midterms; Hamilton County commenters cite Democrats casting 56% of in-person ballots Tue-Fri. Adds to the Ohio picture already in the feed (SoS tally: 228,470 statewide through ~Oct 12; CNN/Catalist: Dems overperforming even in Trump-friendly counties). Single-sourced - local-station original, no second outlet yet.",
       "title": "In-person early voting rises sharply in southwest Ohio"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "Oct 14, 2026 (event today; air time not specified)",
+      "id": "cnn-jubilee-talarico-townhall-oct14",
+      "image_urls": [
+        "https://i.abcnewsfe.com/a/b63e8408-76d4-4964-be27-5f4f98ae4b14/James-Talarico-6-gty-gmh-260203_1770123610125_hpEmbed_3x2.jpg?w=992"
+      ],
+      "links": [
+        "https://www.cnn.com/2026/10/05/politics/cnn-jubilee-town-hall-james-talarico-questions?cid=external-feeds_iluminar_meta",
+        "https://en.killbait.com/texas-democratic-senate-candidate-james-talarico-challenges-republican-ken-paxton-to-debate-amid-campaign-tensions.html",
+        "https://www.ap.org/news-highlights/elections/2026/trump-wants-talarico-and-paxton-to-debate-talarico-couldnt-be-happier/"
+      ],
+      "report_time_ist": "1:11 PM IST, Oct 14",
+      "report_time_pdt": "12:41 AM PDT, Oct 14",
+      "reported_at_utc": "2026-10-14T07:41:56Z",
+      "sentiment": {
+        "democrats": "positive"
+      },
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/05/politics/cnn-jubilee-town-hall-james-talarico-questions?cid=external-feeds_iluminar_meta",
+      "summary": "CNN is hosting a CNN & Jubilee Media town hall with Democratic Texas Senate nominee James Talarico today (announced Oct 5), inviting registered Texas voters to submit questions \u2014 his biggest solo TV spotlight since the flu-absence/rumor saga. A Raw Story retelling claims both candidates will appear together in Fort Worth tonight, but CNN's own page names only Talarico; that co-appearance claim is uncorroborated. No Talarico-Paxton debate has been scheduled; Paxton has not publicly responded to Trump's Oct 7 debate demand (AP, Oct 12). Catch-up item missed by earlier runs. Image: reused verified ABC Talarico feed image.",
+      "title": "CNN & Jubilee town hall with James Talarico \u2014 today, Oct 14"
     }
   ],
   "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",

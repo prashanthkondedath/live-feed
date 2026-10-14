@@ -673,6 +673,54 @@
       "source_url": "https://www.reuters.com/world/russian-missile-attack-kyiv-kills-one-2026-10-13/",
       "summary": "Zelensky said Russian ballistic missiles attacked Kyiv late Tuesday evening Oct 13 with the main target energy infrastructure - specifically thermal plant No. 4 (Darnytska CHP-4, which heats and powers Kyiv's Dniprovskyi/Darnytskyi districts and was already badly damaged in February). A separate strike hit a nine-storey apartment block: Mayor Klitschko reported 1 killed and 13 injured (4 serious). Zelensky said there was again 'no advance warning from our partners' - second night running - and cited Ukrainian intelligence that Russia is 'preparing further ballistic missile launches'; he added the facts show Russia does not consider itself bound by Trump's energy ceasefire. Earlier Tuesday Trump denied cutting intel-sharing and, asked about Russian energy strikes, said 'Ukraine hit many sites the day before.'",
       "title": "Russian ballistic missiles hit Kyiv Tuesday evening, targeting thermal plant No. 4; high-rise hit, 1 killed, 13 injured"
+    },
+    {
+      "id": "zelensky-npr-confirms-intel-threat-oct13",
+      "event_time_ist": "Tuesday Oct 13, 2026 (Kyiv); published/updated Tuesday evening US time",
+      "title": "Zelensky confirms to NPR that Trump admin threatened to cut off intel-sharing over refinery strikes",
+      "summary": "In a sit-down NPR interview in Kyiv on Tuesday (by Joanna Kakissis), Zelensky said the Trump administration warned it could cut off intelligence-sharing with Ukraine unless Ukrainian forces stop long-range drone strikes on oil refineries inside Russia - putting on the record the threat FT/CNN reported Monday (and Trump denied Tuesday). He refuted Trump's claim that Ukrainian refinery strikes caused the diesel price spike, blaming instead the Iran war and Strait of Hormuz blockage; said lifting sanctions on Russian diesel won't lower US prices 'because the volume is not enough' but would give Moscow more money to spend on the war; said he learned of the 'energy ceasefire' from Trump's Truth Social post 'like you'; and vowed Ukraine will keep hitting Russian energy/logistics targets unless Russia stops attacking Ukrainian energy sites - 'Putin doesn't respond to diplomacy, he understands force.'",
+      "source_name": "NPR",
+      "source_url": "https://www.kdlg.org/as-heard-on-npr/2026-10-13/the-trump-administration-warns-ukraine-it-could-cut-off-intel-zelenskyy-tells-npr",
+      "links": [
+        "https://kansaspublicradio.org/npr-news/2026-10-13/the-trump-administration-warns-ukraine-it-could-cut-off-intel-zelenskyy-tells-npr",
+        "https://www.kedm.org/npr-news/2026-10-13/the-trump-administration-warns-ukraine-it-could-cut-off-intel-zelenskyy-tells-npr"
+      ],
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "5:21 PM PDT, Oct 13",
+      "report_time_ist": "5:51 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T00:21:00Z",
+      "sentiment": {
+        "ukraine": "negative",
+        "us": "negative",
+        "russia": "neutral"
+      }
+    },
+    {
+      "id": "zelensky-ukraine-diesel-deal-counterproposal-oct12",
+      "event_time_ist": "Monday Oct 12, 2026 (video link, remarks published on Telegram)",
+      "title": "Zelensky counter-offers a Ukrainian 'diesel deal' at the Warsaw Security Forum",
+      "summary": "Speaking by video link at the Warsaw Security Forum on Monday, Zelensky challenged Trump's Russian diesel arrangement and counter-proposed a Ukrainian 'diesel deal': 'If there are such deals, then why doesn't America conclude a diesel deal with Ukraine? ... We influence whether these ships sail or not, whether these refineries work or not.' He offered to suspend Ukrainian strikes on Russian oil/diesel infrastructure if Washington can guarantee Moscow stops attacking Ukraine's electricity system, and argued the Russian diesel volumes in Trump's deal are too small to meaningfully affect global prices. Kyiv's grid, connected to the European network, could supply cheaper electricity to Europe if protected.",
+      "source_name": "Dagens (via Kyiv Post)",
+      "source_url": "https://www.dagens.com/war/zelensky-we-influence-whether-these-ships-sail-or-not-whether-these-refineries-work-or-not",
+      "links": [
+        "https://www.dagens.com/war/zelensky-we-influence-whether-these-ships-sail-or-not-whether-these-refineries-work-or-not",
+        "https://dailyeconomy.ng/video-why-doesnt-america-make-deal-with-us-zelensky-questions-trumps-russian-diesel-deal/"
+      ],
+      "image_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "5:21 PM PDT, Oct 13",
+      "report_time_ist": "5:51 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T00:21:00Z",
+      "sentiment": {
+        "ukraine": "positive",
+        "us": "neutral",
+        "russia": "negative"
+      }
     }
   ]
 }

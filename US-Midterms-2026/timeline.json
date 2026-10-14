@@ -641,6 +641,30 @@
       "source_url": "https://foxnews.com/politics/democrats-widening-path-power-400m-gop-advantage-brutal-dilemma",
       "summary": "AdImpact data shows Republican campaigns, committees and aligned groups have outspent their Democratic counterparts by about $400 million so far this cycle. For the closing stretch, Republicans have $682 million in ads reserved from now through Election Day versus $491 million for Democrats. Senate Majority PAC communications director Lauren French conceded: 'We are being outspent by the Republicans. That's just a fact.' The gap is most acute in battlegrounds — Republicans are on track to outspend Democrats more than 8-to-1 on the Texas Senate race, per ad-tracking analysis.",
       "title": "GOP outspending Democrats by ~$400M on ads; Democrats privately sounding alarm"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Announced Oct 13, 2026; rallies scheduled Oct 16-21",
+      "id": "trump-rally-stops-kentucky-north-carolina-oct13",
+      "image_urls": [
+        "https://kansasfrw.org/wp-content/uploads/2025/04/20240718_213652-scaled.jpg"
+      ],
+      "links": [
+        "https://www.cincinnati.com/story/news/politics/2026/10/13/president-trump-to-hold-midterm-rally-in-northern-kentucky/92231001007/",
+        "https://www.krps.org/kansas-news/2026-10-13/trump-scheduled-to-visit-wichita-on-monday-for-campaign-rally",
+        "https://www.usatoday.com/story/news/state/georgia/2026/10/12/where-is-trump-visiting-in-georgia-president-makes-midterm-stop/92221161007/"
+      ],
+      "report_time_ist": "6:42 AM IST, Oct 14",
+      "report_time_pdt": "6:12 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-14T01:12:00Z",
+      "sentiment": {
+        "republicans": "positive",
+        "trump": "positive"
+      },
+      "source_name": "Cincinnati Enquirer / USA Today network",
+      "source_url": "https://www.cincinnati.com/story/news/politics/2026/10/13/president-trump-to-hold-midterm-rally-in-northern-kentucky/92231001007/",
+      "summary": "Announced Oct 13: Trump will hold a 'Midterm Rally' Saturday Oct 17 at Truist Arena in Highland Heights, Kentucky (doors 10:30 AM, remarks ~2 PM) — home to the open McConnell Senate seat and KY-4; confirmed by the Enquirer plus Kentucky Lantern coverage. RNC also detailed the Wichita, KS rally Monday Oct 19 for Sen. Roger Marshall (remarks 6 PM), with Trump heading to North Carolina next on Wednesday Oct 21 (KRPS, single-sourced). Georgia's Dalton rally this Friday Oct 16 (announced Oct 12, third GA stop this year) was never in this feed — folded in. Third straight red-state weekend swing aimed at juicing base turnout three weeks out.",
+      "title": "Trump adds Kentucky and North Carolina to his midterm rally blitz; Wichita stop detailed"
     }
   ]
 }

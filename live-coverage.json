@@ -379,14 +379,14 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T05:03:43Z",
+      "trend_updated_at_utc": "2026-10-14T06:04:14Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 74,
+        "items_in_window": 75,
         "sides": {
           "civilians": {
             "positive": 13,
-            "negative": 45,
+            "negative": 46,
             "neutral": 10,
             "overall": "negative"
           },
@@ -397,7 +397,7 @@
             "overall": "neutral"
           },
           "us_govt": {
-            "positive": 5,
+            "positive": 6,
             "negative": 0,
             "neutral": 7,
             "overall": "neutral"
@@ -409,7 +409,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-14T05:03:43Z"
+        "updated_at_utc": "2026-10-14T06:04:14Z"
       },
       "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened — NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend — while damage tallies keep rising across Guerrero, Colima and Baja California Sur, with Ensenada's death toll from Tropical Cyclone Rachel's remnant flooding reaching 7 on Tuesday Oct 13. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B–$2B for onshore property.",
       "watch_for": [
@@ -445,12 +445,12 @@
       "trend_direction": "falling",
       "verification": {
         "window": "7d",
-        "items_in_window": 74,
-        "confirmed": 45,
+        "items_in_window": 75,
+        "confirmed": 46,
         "single-sourced": 29,
         "unconfirmed": 0,
         "confirmed_rate": 0.61,
-        "updated_at_utc": "2026-10-14T05:03:43Z"
+        "updated_at_utc": "2026-10-14T06:04:14Z"
       },
       "phase": "intensifying"
     },
@@ -678,5 +678,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T05:56:41Z"
+  "updated_at_utc": "2026-10-14T06:04:14Z"
 }

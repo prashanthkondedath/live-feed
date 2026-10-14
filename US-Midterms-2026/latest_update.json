@@ -1,25 +1,50 @@
 {
-  "report_time_pdt": "6:45 PM PDT, Oct 13",
-  "report_time_ist": "7:15 AM IST, Oct 14",
+  "report_time_pdt": "7:15 PM PDT, Oct 13",
+  "report_time_ist": "7:45 AM IST, Oct 14",
   "items": [
     {
-      "id": "mclaughlin-generic-ballot-d5-oct12",
-      "event_time_ist": "Interview aired Oct 12, 2026",
-      "title": "GOP pollster John McLaughlin disputes D+8 polls, says his firm's generic ballot has Democrats only +5",
-      "summary": "Republican pollster John McLaughlin told Newsmax's 'Wake Up America' (aired Oct 12) that McLaughlin & Associates has Republicans trailing just 5 points on the generic congressional ballot, versus the ~8-point Democratic lead in the DDHQ average. He called the Economist/YouGov poll 'ridiculous' for oversampling Democrats, and claimed a re-framed question — free-market Republican vs big-government socialist Democrat — flips the result to Republicans 45-41. Urged the GOP to 'go on offense' on taxes, energy and government size with three weeks left. Single-sourced: only Newsmax has carried his firm's numbers so far.",
-      "source_name": "Newsmax",
-      "source_url": "https://www.newsmax.com/newsmax-tv/john-mclaughlin-patrick-allocco-midterms/2026/10/12/id/1272474",
-      "links": [],
-      "image_urls": [
-        "https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"
+      "id": "trump-nc-greenville-rally-oct20",
+      "event_time_ist": "Tue, Oct 20, 2026 \u2014 doors 3:30 PM ET (1:00 AM IST, Oct 21), Trump remarks 7:00 PM ET (4:30 AM IST, Oct 21)",
+      "title": "Trump's North Carolina rally pinned: Greenville, Tue Oct 20 (official RNC listing)",
+      "summary": "The RNC's official events page and the Greenville Daily Reflector (Oct 13) put Trump's North Carolina midterm rally in Greenville on Tuesday, Oct 20 \u2014 doors 3:30 PM, program 5:30 PM, remarks 7 PM ET \u2014 correcting the earlier KRPS report that had it on Wednesday Oct 21. Fifth Trump visit to Greenville; tickets up to 4 per signup via the RNC. The stop backs GOP Senate nominee Michael Whatley, who trails Roy Cooper by 14 in the latest poll.",
+      "source_name": "Greenville Daily Reflector (battleground local press) + RNC official events page",
+      "source_url": "https://www.reflector.com/news/local/president-trump-to-hold-rally-in-greenville/article_dcc62dcd-d37d-4960-8fdf-23a8d79ecb3c.html",
+      "links": [
+        "https://www.reflector.com/news/local/president-trump-to-hold-rally-in-greenville/article_dcc62dcd-d37d-4960-8fdf-23a8d79ecb3c.html",
+        "https://events.gop.com/events/midterm-rally-in-greenville-north-carolina-president-donald-j-trump-djtnc"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "6:45 PM PDT, Oct 13",
-      "report_time_ist": "7:15 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T01:45:00Z",
+      "image_urls": [
+        "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/8/10/81052c3b-39f4-5b56-a171-b8639cc9d6fb/5db2071ab7ac9.image.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "7:15 PM PDT, Oct 13",
+      "report_time_ist": "7:45 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T02:15:00Z",
       "sentiment": {
         "republicans": "positive",
-        "democrats": "negative"
+        "trump": "positive"
+      }
+    },
+    {
+      "id": "nc-early-vote-turnout-drop-oct13",
+      "event_time_ist": "Published Oct 11, 2026 (ballot data through Oct 4, 2026)",
+      "title": "North Carolina early voting down ~19% vs 2022, with Democratic share falling",
+      "summary": "The John Locke Foundation's Vote Tracker analysis shows NC county boards accepted 18,779 ballots through Oct 4 \u2014 a 19.3% drop from the same point in 2022. Democratic ballots are down 28.1% (45.7% of the total vs 51.3% in 2022), unaffiliated down 5.9% (37.9%), Republican ballots down 18.4% (16.2%, essentially flat share). Fewer absentee votes, not necessarily fewer votes overall \u2014 Democrats are returning to in-person voting, per the analysis. Single-sourced (underlying data: NC State Board of Elections Vote Tracker).",
+      "source_name": "John Locke Foundation (Rep-leaning think tank)",
+      "source_url": "https://www.johnlocke.org/10-5-election-data-dump-turnout-is-down-almost-a-fifth-from-2022/",
+      "links": [
+        "https://www.johnlocke.org/10-5-election-data-dump-turnout-is-down-almost-a-fifth-from-2022/"
+      ],
+      "image_urls": [
+        "https://www.democracydocket.com/wp-content/uploads/2026/03/AP24304463572661-1024x683.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "7:15 PM PDT, Oct 13",
+      "report_time_ist": "7:45 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T02:15:00Z",
+      "sentiment": {
+        "democrats": "negative",
+        "republicans": "positive"
       }
     }
   ]

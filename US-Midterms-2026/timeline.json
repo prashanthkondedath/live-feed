@@ -2181,8 +2181,54 @@
         "republicans": "positive",
         "democrats": "negative"
       }
+    },
+    {
+      "id": "cygnal-generic-ballot-d9-oct13",
+      "event_time_ist": "Released Oct 13, 2026 (fielded Oct 7-10)",
+      "title": "New Cygnal poll (released Oct 13): Democrats lead generic congressional ballot by 9 points",
+      "summary": "Republican-leaning pollster Cygnal surveyed 1,500 likely midterm voters nationwide Oct 7-10 (MoE ±2.5): Democrats lead 51%-42% on the generic congressional ballot (D+9). A GOP pollster showing a 9-point Democratic edge; the poll also found 63% say the country is on the wrong track. RCP's average (which includes the Cygnal survey) stands at Dems +8.3 (50.2 vs 41.9); Silver Bulletin's average is D+8.8. Reported by USA Today Oct 14.",
+      "source_name": "USA Today (via Cygnal poll)",
+      "source_url": "https://www.usatoday.com/story/news/politics/2026/10/14/trump-positive-approval-10-states-midterms-poll/92250084007/",
+      "links": [
+        "https://www.cygn.al/news/poll-the-world-is-on-fire-yet-voters-still-back-self-defense-and-defeating-terrorism/",
+        "https://www.usatoday.com/story/news/politics/2026/10/14/trump-positive-approval-10-states-midterms-poll/92250084007/",
+        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
+      ],
+      "image_urls": [
+        "https://intel.morningconsult.com/mc-content/_next/image?url=https%3A%2F%2Fpro-assets.morningconsult.com%2Fwp-uploads%2F2026%2F06%2FMidtermTracker-GenericBallot_260607.png&w=1920&q=100"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:45 AM PDT, Oct 14",
+      "report_time_ist": "12:15 AM IST, Oct 15",
+      "reported_at_utc": "2026-10-14T18:45:27Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "civiqs-trump-10-states-oct14",
+      "event_time_ist": "Published Oct 14, 2026 (tracker refresh)",
+      "title": "Civiqs tracker refresh: Trump net-positive in just 10 states; Montana flips to a 46-46 tie",
+      "summary": "USA Today reports an updated Civiqs state-by-state tracker (published Oct 14): Trump's approval is now above water in only 10 states — Alabama, Arkansas, Idaho, Kansas, North Dakota, Oklahoma, South Dakota, Utah, West Virginia and Wyoming — all of which backed him in the last three presidential cycles. Montana, net-positive in the Oct 6 reading, is now tied 46%-46%. Wyoming remains his strongest state at +16 net. The piece also carries Oct 14 approval averages: RCP 38.6/59.3, NYT 37/60, Silver Bulletin 37.5/59.7 — in line with the ~-22 net baseline.",
+      "source_name": "USA Today (via Civiqs tracker)",
+      "source_url": "https://www.usatoday.com/story/news/politics/2026/10/14/trump-positive-approval-10-states-midterms-poll/92250084007/",
+      "links": [
+        "https://www.usatoday.com/story/news/politics/2026/10/14/trump-positive-approval-10-states-midterms-poll/92250084007/"
+      ],
+      "image_urls": [
+        "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/May_2026_Trump_Approval_Ratings_by_state.svg/960px-May_2026_Trump_Approval_Ratings_by_state.svg.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "11:45 AM PDT, Oct 14",
+      "report_time_ist": "12:15 AM IST, Oct 15",
+      "reported_at_utc": "2026-10-14T18:45:27Z",
+      "sentiment": {
+        "trump": "negative",
+        "republicans": "negative"
+      }
     }
   ],
-  "report_time_pdt": "9:01 AM PDT, Oct 14, 2026",
-  "report_time_ist": "9:31 PM IST, Oct 14, 2026"
+  "report_time_pdt": "11:45 AM PDT, Oct 14",
+  "report_time_ist": "12:15 AM IST, Oct 15"
 }

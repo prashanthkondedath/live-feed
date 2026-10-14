@@ -1,1 +1,26 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~2:27 AM IST, Oct 14","id":"cjp-bloodline-unfurling-flag-statement-oct14","image_urls":["https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"],"links":["https://www.instagram.com/p/Dedd0nYRr-0/"],"report_time_ist":"9:30 AM IST, Oct 14","report_time_pdt":"9:00 PM PDT, Oct 13","reported_at_utc":"2026-10-14T04:00:04Z","sentiment":{"bjp":"negative","cjp_protesters":"positive","police_govt":"negative"},"source_name":"CJP (Instagram @cockroachjantaparty)","source_url":"https://www.instagram.com/p/Dedd0nYRr-0/","summary":"Official @cockroachjantaparty image post (posted 20:57 UTC Oct 13 / ~2:27 AM IST Oct 14, post_id 18013549097972581): 'First in Ashutosh and Saurav's bloodline to be jailed for unfurling India's national flag. If we don't rise up against this crackdown on dissent, we will lose our country to Modi and Shah's dictatorship - Emergency 2.0 is here because we started Jantar Mantar 2.0.' Catch-up: this official statement's text was never logged by any earlier run - this run's IG-CLI leg surfaced it. Lands hours before Wednesday's SEM Mandir Marg order sending Das and Ranka to 5-day judicial custody.","title":"CJP official handle: Das/Ranka 'jailed for unfurling the national flag', warns of 'Emergency 2.0'"}],"report_time_ist":"9:30 AM IST, Oct 14","report_time_pdt":"9:00 PM PDT, Oct 13"}
+{
+ "report_time_pdt": "10:20 PM PDT, Oct 13",
+ "report_time_ist": "10:50 AM IST, Oct 14",
+ "items": [
+  {
+   "id": "dipke-release-ashu-saurav-reel-oct14",
+   "event_time_ist": "~3:48 AM IST, Oct 14",
+   "title": "Dipke demands Ranka and Das's release in overnight IG reel",
+   "summary": "CJP founder Abhijeet Dipke posted a video reel on Instagram at ~3:48 AM IST, Oct 14 captioned 'Release Ashu & Saurav now!' — a release demand for co-conveners Ashutosh Ranka and Saurav Das while they were in detention custody (before the 5-day judicial-custody order was passed later that morning). The reel never surfaced in any earlier check.",
+   "source_name": "Instagram @abhijeetdipke",
+   "source_url": "https://www.instagram.com/reel/DednLC9Pwva/",
+   "links": [],
+   "image_urls": [
+    "https://jagoindiajago.news/wp-content/uploads/2026/06/PTI06_06_2026_000287B.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "10:20 PM PDT, Oct 13",
+   "report_time_ist": "10:50 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T05:20:35Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   }
+  }
+ ]
+}

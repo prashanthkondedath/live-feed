@@ -1,1 +1,27 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Reuters piece published Oct 14, 2026 (Washington ET); Reuters/Ipsos poll published Oct 12, 2026","id":"reuters-prediction-markets-boom-oct14","image_urls":["https://coincub.com/wp-content/uploads/2026/04/Prediction-Market-Politics-1024x576.png"],"links":[],"report_time_ist":"4:40 PM IST, Oct 14","report_time_pdt":"4:10 AM PDT, Oct 14","reported_at_utc":"2026-10-14T11:12:30Z","sentiment":{"voters":"neutral"},"source_name":"Reuters","source_url":"https://krro.com/2026/10/14/inside-the-booming-market-for-us-midterm-election-bets/","summary":"Betting on the US midterm elections has surged this year on Polymarket and Kalshi, prediction markets that rose to prominence in 2024. Piece flags insider-trading and integrity concerns: Kalshi has suspended a handful of candidates for betting on their own races; ACDC researcher Michelle Kendler-Kretsch says election prediction markets focus 'a disruptive new financial technology on our democratic process'; Kalshi counters that markets help reveal accurate information and that it blocks election trades by politicians and campaign workers. A new Reuters/Ipsos poll published Monday (Oct 12) found most Americans oppose using prediction markets to wager on elections. Single-sourced (wire only - carried only by wire-copy republishers, no second outlet in a different lean category).","title":"Reuters: midterm betting surging on Polymarket/Kalshi; most Americans oppose election wagering"}],"report_time_ist":"4:40 PM IST, Oct 14","report_time_pdt":"4:10 AM PDT, Oct 14"}
+{
+  "report_time_pdt": "4:59 AM PDT, Oct 14",
+  "report_time_ist": "5:29 PM IST, Oct 14",
+  "items": [
+    {
+      "id": "reuters-ohio-working-class-voters",
+      "event_time_ist": "published Oct 14, 2026 (exact time not stated)",
+      "title": "Reuters: Ohio working-class voters 'rethinking' support for Trump; early vote favors Democrats",
+      "summary": "Reuters original reporting (wire only, single-sourced) from Youngstown/Warren: interviews with blue-collar voters (a Trump 2016/2024 voter now undecided; a steel hauler: 'God knows we didn't vote for this') show rising prices, the Iran war and Trump's rhetoric chipping at his Ohio working-class support; Trumbull County data shows first-3-days early voting 1,224 Dems / 559 GOP / 453 unaffiliated; Hudson Institute's Sracic calls Brown 'a safe landing spot' for disaffected working-class voters. Tight Senate race (Husted vs Brown) and gov race (Ramaswamy vs Acton) at stake; Trump rallied Youngstown Oct 12. Wire-copy republishers only (devdiscourse, froggyweb) - not independent corroboration.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/ohios-working-class-voters-rethink-support-trump-republican-party-2026-10-14/",
+      "links": [],
+      "image_urls": [
+        "https://i0.wp.com/signalakron.org/wp-content/uploads/2025/08/Voting-18.jpg?resize=1200%2C800&ssl=1"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "4:59 AM PDT, Oct 14",
+      "report_time_ist": "5:29 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T11:59:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      }
+    }
+  ]
+}

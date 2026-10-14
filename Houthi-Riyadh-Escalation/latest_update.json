@@ -1,30 +1,28 @@
 {
-  "report_time_pdt": "02:22 AM PDT, Oct 14",
-  "report_time_ist": "02:52 PM IST, Oct 14",
+  "report_time_pdt": "3:36 AM PDT, Oct 14",
+  "report_time_ist": "4:06 PM IST, Oct 14",
   "items": [
     {
-      "id": "houthi-wednesday-strike-claim-oct14",
-      "event_time_ist": "Wednesday morning, Oct 14 (reported 2:17 PM IST, Oct 14)",
-      "title": "Houthis claim strikes on Aramco Dhahran, King Khalid airport and Riyadh refinery; pledge more operations",
-      "summary": "Yemen's Houthis said on Wednesday they had targeted Saudi Aramco facilities in Dhahran, King Khalid International Airport and an Aramco refinery in Riyadh (Reuters, created 14:17 IST Oct 14), adding that their operations against airports and oil facilities would continue in the coming days. The claim follows Tuesday night's Dhahran office-tower hit (top three floors damaged, fire extinguished; Energy Ministry confirms, no casualties) and Tuesday's intercepts over Riyadh (debris wounded 4, damaged 15 homes). The Saudi side has not confirmed any Riyadh refinery damage. Regional outlets (Roya News English, ALGHAD.TV, DW Swahili) carried the same Wednesday Houthi statement as breaking news.",
-      "source_name": "Reuters (via Devdiscourse)",
-      "source_url": "https://www.devdiscourse.com/article/international/3992135-yemens-houthis-say-they-targeted-saudi-aramco-facilities-riyadh-airport",
+      "id": "wednesday-intercept-confirmed-alert-lifted-oct14",
+      "event_time_ist": "Wednesday, Oct 14, 2026 (intercept announced ~10:41-10:45 AM Riyadh time; aerial-threat alert issued and lifted the same morning)",
+      "title": "Reuters confirms Wednesday Riyadh intercept; air-raid alert issued then lifted",
+      "summary": "Reuters now independently confirms what had been single-sourced SPA-branded graphics: the Saudi-led coalition intercepted a Houthi ballistic missile fired toward Riyadh on Wednesday, with loud booms heard in the capital. Saudi authorities issued a 'possible aerial threat' alert for Riyadh — civil-defence air-raid warnings also covered neighbouring Al-Kharj governorate per AP/Anadolu — then Civil Defense posted the 'danger has passed' message and lifted the alerts. No immediate reports of casualties or damage from this interception; it is distinct from Tuesday-night interception debris that injured 4 and damaged 15 Riyadh homes (already in timeline). This upgrades the previously single-sourced Wednesday-intercept item to confirmed.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/yemens-houthis-vow-more-attacks-saudi-airports-oil-facilities-after-aramco-hq-2026-10-14/",
       "links": [
-        "https://www.facebook.com/RoyaNewsEnglish/posts/pfbid0pNGZg29ZWk5tXcKULFT5BvoXNwirqybKBvH1svSPxv2Ef7HKhG5LyuUo6qYRJaqSl",
-        "https://www.instagram.com/p/DeeCMusgLRW/",
-        "https://www.instagram.com/p/DeeBovDir7F/"
+        "https://www.thelevantfiles.org/2026/10/live-aramco-hit-saudihouthi-war.html"
       ],
       "image_urls": [
-        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+        "https://texty.org.ua/media/images/1_ugFVTXO.original.2e16d0ba.fill-1200x630.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "02:22 AM PDT, Oct 14",
-      "report_time_ist": "02:52 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T09:22:51Z",
+      "report_time_pdt": "3:36 AM PDT, Oct 14",
+      "report_time_ist": "4:06 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T10:36:50Z",
       "sentiment": {
-        "houthis": "positive",
-        "saudi_govt": "negative",
-        "civilians": "negative"
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "neutral"
       }
     }
   ]

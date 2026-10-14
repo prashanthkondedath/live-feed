@@ -1,28 +1,27 @@
 {
- "report_time_pdt": "8:41 PM PDT, Oct 13",
- "report_time_ist": "9:11 AM IST, Oct 14",
+ "report_time_pdt": "8:55 PM PDT, Oct 13",
+ "report_time_ist": "9:25 AM IST, Oct 14",
  "items": [
   {
-   "id": "dipke-coward-modi-emergency-x-post-oct14",
-   "event_time_ist": "~8:50 AM IST, Oct 14",
-   "title": "Dipke's first response to the 5-day custody order: dares Modi to 'declare an Emergency'",
-   "summary": "CJP founder Abhijeet Dipke issued his first reaction to the SEM Mandir Marg custody order via his verified X account @abhijeet_dipke (post dated 8:50 AM IST, Oct 14; screenshot reposted to his IG @abhijeetdipke with caption 'Coward.', ~13.6K likes). He says 'Ashu' and 'Saurav' were sent to 5 days' judicial custody for 'unfurling tricolour at Jantar Mantar,' and directly challenges PM Narendra Modi to 'show some guts' and officially declare an Emergency instead of using 'cowardly tactics' to crush dissent. Note: his post names only Das and Ranka (2 of the 3) — Shinde's custody status rests on the SAAM TV/VOB graphics alone. Self-published leader statement; no second outlet yet covering the post itself.",
-   "source_name": "Abhijeet Dipke (verified @abhijeet_dipke, via IG @abhijeetdipke)",
-   "source_url": "https://www.instagram.com/p/Deda94avKio/",
+   "id": "das-ranka-jc-shinde-released-personal-bond-oct14",
+   "event_time_ist": "~9:00 AM IST, Oct 14 (correction surfaced ~9:21 AM IST, Oct 14)",
+   "title": "Correction: only Das and Ranka got 5-day judicial custody \u2014 Ajinkya Shinde released on personal bond",
+   "summary": "LiveLaw (published 9:01 AM IST, updated 9:07 AM IST Oct 14) reports the SEM court's custody order in the Oct-13 Jantar Mantar 'trespass' case: Saurav Das and Ashutosh Ranka remanded to 5 days' judicial custody; Ajinkya Shinde was released on personal bond \u2014 NOT sent to Tihar. This corrects the earlier ~9:00 AM IST alert, which relied on early IG news graphics (SAAM TV, VOB) that described all three leaders as getting 5-day judicial custody. Two other categories independently report the same split outcome: Bar & Bench's 03:51:14Z 'BREAKING NEWS' IG graphic headlines only Das and Ranka being sent to 5-day judicial custody, and India Today's live stream is titled 'CJP Leaders Saurav Das, Ashutosh Ranka Sent To Tihar Jail' \u2014 neither names Shinde for custody. Context: FIR for alleged trespass/unlawful assembly/disobedience after Jantar Mantar's de-notification; trio detained Tue AM, held at Jaffarpur Kalan, moved to Parliament Street ~3 AM, produced at SEM Mandir Marg this morning.",
+   "source_name": "LiveLaw",
+   "source_url": "https://Www.Livelaw.in/news-updates/delhi-court-remands-cjp-leaders-saurav-das-ashutosh-ranka-to-five-days-judicial-custody-for-trespassing-at-jantar-mantar-554532",
    "links": [
-    "https://www.instagram.com/p/Deda94avKio/"
+    "https://Www.Livelaw.in/news-updates/delhi-court-remands-cjp-leaders-saurav-das-ashutosh-ranka-to-five-days-judicial-custody-for-trespassing-at-jantar-mantar-554532",
+    "https://www.instagram.com/p/DeddVfNh1Ua/",
+    "https://www.youtube.com/watch?v=9A5iTYtOeZw"
    ],
    "image_urls": [
-    "https://jagoindiajago.news/wp-content/uploads/2026/06/PTI06_06_2026_000287B.jpg"
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
    ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "8:41 PM PDT, Oct 13",
-   "report_time_ist": "9:11 AM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T03:41:52Z",
-   "sentiment": {
-    "cjp_protesters": "negative",
-    "bjp": "negative"
-   }
+   "confidence": "confirmed",
+   "report_time_pdt": "8:55 PM PDT, Oct 13",
+   "report_time_ist": "9:25 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T03:55:05Z",
+   "sentiment": {}
   }
  ]
 }

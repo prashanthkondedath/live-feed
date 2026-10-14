@@ -466,31 +466,31 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T00:12:38Z",
+      "trend_updated_at_utc": "2026-10-14T02:56:16Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 44,
+        "items_in_window": 47,
         "sides": {
           "us": {
             "positive": 6,
-            "negative": 14,
+            "negative": 15,
             "neutral": 8,
             "overall": "negative"
           },
           "iran": {
-            "positive": 6,
-            "negative": 21,
+            "positive": 8,
+            "negative": 22,
             "neutral": 8,
             "overall": "negative"
           },
           "markets": {
             "positive": 2,
-            "negative": 27,
-            "neutral": 3,
+            "negative": 29,
+            "neutral": 4,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T00:12:38Z"
+        "updated_at_utc": "2026-10-14T02:56:16Z"
       },
       "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
@@ -534,12 +534,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 44,
-        "confirmed": 36,
-        "single-sourced": 5,
+        "items_in_window": 47,
+        "confirmed": 37,
+        "single-sourced": 7,
         "unconfirmed": 3,
-        "confirmed_rate": 0.82,
-        "updated_at_utc": "2026-10-14T00:12:38Z"
+        "confirmed_rate": 0.79,
+        "updated_at_utc": "2026-10-14T02:56:16Z"
       },
       "phase": "standoff"
     },
@@ -662,5 +662,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T02:48:38Z"
+  "updated_at_utc": "2026-10-14T02:56:16Z"
 }

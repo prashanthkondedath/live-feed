@@ -1,1 +1,29 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Oct 14, 2026 (event today; air time not specified)","id":"cnn-jubilee-talarico-townhall-oct14","image_urls":["https://i.abcnewsfe.com/a/b63e8408-76d4-4964-be27-5f4f98ae4b14/James-Talarico-6-gty-gmh-260203_1770123610125_hpEmbed_3x2.jpg?w=992"],"links":["https://www.cnn.com/2026/10/05/politics/cnn-jubilee-town-hall-james-talarico-questions?cid=external-feeds_iluminar_meta","https://en.killbait.com/texas-democratic-senate-candidate-james-talarico-challenges-republican-ken-paxton-to-debate-amid-campaign-tensions.html","https://www.ap.org/news-highlights/elections/2026/trump-wants-talarico-and-paxton-to-debate-talarico-couldnt-be-happier/"],"report_time_ist":"1:11 PM IST, Oct 14","report_time_pdt":"12:41 AM PDT, Oct 14","reported_at_utc":"2026-10-14T07:41:56Z","sentiment":{"democrats":"positive"},"source_name":"CNN","source_url":"https://www.cnn.com/2026/10/05/politics/cnn-jubilee-town-hall-james-talarico-questions?cid=external-feeds_iluminar_meta","summary":"CNN is hosting a CNN & Jubilee Media town hall with Democratic Texas Senate nominee James Talarico today (announced Oct 5), inviting registered Texas voters to submit questions — his biggest solo TV spotlight since the flu-absence/rumor saga. A Raw Story retelling claims both candidates will appear together in Fort Worth tonight, but CNN's own page names only Talarico; that co-appearance claim is uncorroborated. No Talarico-Paxton debate has been scheduled; Paxton has not publicly responded to Trump's Oct 7 debate demand (AP, Oct 12). Catch-up item missed by earlier runs. Image: reused verified ABC Talarico feed image.","title":"CNN & Jubilee town hall with James Talarico — today, Oct 14"}],"report_time_ist":"1:11 PM IST, Oct 14","report_time_pdt":"12:41 AM PDT, Oct 14"}
+{
+  "report_time_pdt": "1:28 AM PDT, Oct 14",
+  "report_time_ist": "2:58 PM IST, Oct 14",
+  "items": [
+    {
+      "id": "cnn-factcheck-gas-prices-biden-oct13",
+      "event_time_ist": "Published Oct 13, 2026 (~afternoon ET / ~10 PM IST)",
+      "title": "CNN fact check: Trump's 'gas cheaper than Biden' claim is false \u2014 AAA avg $4.36/gal, 39% above inauguration day",
+      "summary": "CNN fact check (published Oct 13, 2026) dismantles Trump's claim, made at Monday's Ohio rally and repeated ~3x in the last month, that gas prices are lower now than under Biden: the AAA national average was $4.36/gal on Monday \u2014 exceeded on only 76 of Biden's 1,460 full days (~95% of Biden's presidency was cheaper); prices are 39% above the $3.12/gal average on Jan 20, 2025. CNN also flags Trump's reprised 'your other prices have all come down' line as false: CPI up 4.8% since Jan 2025. Independent Wichita Liberty fact-check (Oct 4, citing AAA/WRNJ) reached the same verdict (False) on the same claim from earlier rallies.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.wichitaliberty.org/politics/trump-rally-claims-fact-check-october-2026/"
+      ],
+      "image_urls": [
+        "https://www.ttnews.com/sites/default/files/2026-08/Gas-prices-ap-1200.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "1:28 AM PDT, Oct 14",
+      "report_time_ist": "2:58 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T08:28:00Z",
+      "sentiment": {
+        "trump": "negative",
+        "republicans": "negative",
+        "voters": "neutral"
+      }
+    }
+  ]
+}

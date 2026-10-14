@@ -1,1 +1,31 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Overnight Oct 13 into Oct 14, 2026; alert map 05:30 AM Oct 14 Kyiv time (08:00 AM IST Oct 14)","id":"kyiv-energy-strike-wave-overnight-oct14","image_urls":["https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"],"links":["https://www.threads.com/@euromaidanpress/post/DedVFGdDYtF","https://www.facebook.com/julia.lopatka1/posts/pfbid02vf929upRmJkwfqjKgh4EfHJtop1XMrQogM4sVWEYnUo5FUNd7TZptTMSBCTMSjRWl"],"report_time_ist":"8:16 AM IST, Oct 14","report_time_pdt":"7:46 PM PDT, Oct 13","reported_at_utc":"2026-10-14T02:48:02Z","sentiment":{"civilians":"negative","russia":"negative","ukraine":"negative"},"source_name":"Euromaidan Press (Threads), corroborated by a Kyiv resident's Facebook report","source_url":"https://www.threads.com/@euromaidanpress/post/DedVFGdDYtF","summary":"Euromaidan Press's Threads account (posted 7:38 PM PDT Oct 13 / 02:38 UTC Oct 14) reports Russia attacking Ukraine with ballistic missiles and jet drones, hitting Kyiv's Thermal Power Plant 5 (TEC-5), Trypillia TPP and other energy facilities, causing power outages; its live air-raid alert map timestamped 05:30 Oct 14 Kyiv time shows most of central/northern/eastern Ukraine under alert. A Kyiv resident's Facebook post minutes later reports damage to three electrical substations, one thermal power plant and two combined heat-and-power plants amid ongoing strikes. If confirmed, this is the third straight night of strikes on Kyiv-region energy infrastructure (after the Monday-night and Tuesday-evening attacks already in the timeline) - day 3 of Trump's announced 'energy ceasefire'. No news-outlet confirmation found yet (two targeted searches: general overnight-strike and TPP-5/Trypillia-specific). Image is a verified representative Kyiv strike-damage photo, not this specific strike.","title":"Overnight Oct 13→14: reported new Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) - social early-signal, news not yet confirmed"}],"report_time_ist":"8:16 AM IST, Oct 14","report_time_pdt":"7:46 PM PDT, Oct 13"}
+{
+ "report_time_pdt": "8:32 PM PDT, Oct 13",
+ "report_time_ist": "9:02 AM IST, Oct 14",
+ "items": [
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Overnight Oct 13 into Oct 14, 2026; alert map 05:30 AM Oct 14 Kyiv time (08:00 AM IST Oct 14)",
+   "id": "kyiv-energy-strike-wave-overnight-oct14",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://www.threads.com/@kyivindependent_official/post/DedaU1yjtud",
+    "https://www.threads.com/@euromaidanpress/post/DedVFGdDYtF",
+    "https://www.facebook.com/julia.lopatka1/posts/pfbid02vf929upRmJkwfqjKgh4EfHJtop1XMrQogM4sVWEYnUo5FUNd7TZptTMSBCTMSjRWl"
+   ],
+   "report_time_ist": "9:02 AM IST, Oct 14",
+   "report_time_pdt": "8:32 PM PDT, Oct 13",
+   "reported_at_utc": "2026-10-14T03:32:00Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "negative"
+   },
+   "source_name": "Kyiv Independent (Threads, citing an energy official); corroborated by Euromaidan Press + Kyiv resident report",
+   "source_url": "https://www.threads.com/@kyivindependent_official/post/DedaU1yjtud",
+   "summary": "Kyiv Independent (verified, 120K followers, posted 8:24 PM PDT Oct 13 / 03:24 UTC Oct 14) confirms a Russian missile attack on Kyiv overnight Oct 13→14, citing an energy official: several power plants in the capital were struck, part of Russia's ongoing intensification of attacks on Ukrainian energy infrastructure ahead of winter. This corroborates Euromaidan Press's earlier Threads report (ballistic missiles + jet drones hitting Kyiv TPP-5/TEC-5, Trypillia TPP and other energy facilities, outages reported; alert map timestamped 05:30 Oct 14 Kyiv) and a Kyiv resident's Facebook report of damage to three substations, one TPP and two CHPs. This is the third straight night of strikes on Kyiv-region energy infrastructure - day 3 of Trump's announced 'energy ceasefire'. News wires have not yet carried the overnight wave separately (coverage still focuses on the Tuesday-evening CHP-4 strike, toll now 2 killed / 21 wounded). Image is a verified representative Kyiv strike-damage photo, not this specific strike.",
+   "title": "Overnight Oct 13→14: Russian missile strike wave hit multiple Kyiv power plants - now confirmed by Kyiv Independent"
+  }
+ ]
+}

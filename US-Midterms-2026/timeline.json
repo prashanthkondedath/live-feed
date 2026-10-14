@@ -1615,6 +1615,29 @@
       "source_url": "https://www.cnn.com/2026/10/05/politics/cnn-jubilee-town-hall-james-talarico-questions?cid=external-feeds_iluminar_meta",
       "summary": "CNN is hosting a CNN & Jubilee Media town hall with Democratic Texas Senate nominee James Talarico today (announced Oct 5), inviting registered Texas voters to submit questions \u2014 his biggest solo TV spotlight since the flu-absence/rumor saga. A Raw Story retelling claims both candidates will appear together in Fort Worth tonight, but CNN's own page names only Talarico; that co-appearance claim is uncorroborated. No Talarico-Paxton debate has been scheduled; Paxton has not publicly responded to Trump's Oct 7 debate demand (AP, Oct 12). Catch-up item missed by earlier runs. Image: reused verified ABC Talarico feed image.",
       "title": "CNN & Jubilee town hall with James Talarico \u2014 today, Oct 14"
+    },
+    {
+      "id": "cnn-factcheck-gas-prices-biden-oct13",
+      "event_time_ist": "Published Oct 13, 2026 (~afternoon ET / ~10 PM IST)",
+      "title": "CNN fact check: Trump's 'gas cheaper than Biden' claim is false \u2014 AAA avg $4.36/gal, 39% above inauguration day",
+      "summary": "CNN fact check (published Oct 13, 2026) dismantles Trump's claim, made at Monday's Ohio rally and repeated ~3x in the last month, that gas prices are lower now than under Biden: the AAA national average was $4.36/gal on Monday \u2014 exceeded on only 76 of Biden's 1,460 full days (~95% of Biden's presidency was cheaper); prices are 39% above the $3.12/gal average on Jan 20, 2025. CNN also flags Trump's reprised 'your other prices have all come down' line as false: CPI up 4.8% since Jan 2025. Independent Wichita Liberty fact-check (Oct 4, citing AAA/WRNJ) reached the same verdict (False) on the same claim from earlier rallies.",
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden?cid=external-feeds_iluminar_meta",
+      "links": [
+        "https://www.wichitaliberty.org/politics/trump-rally-claims-fact-check-october-2026/"
+      ],
+      "image_urls": [
+        "https://www.ttnews.com/sites/default/files/2026-08/Gas-prices-ap-1200.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "1:28 AM PDT, Oct 14",
+      "report_time_ist": "2:58 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T08:28:00Z",
+      "sentiment": {
+        "trump": "negative",
+        "republicans": "negative",
+        "voters": "neutral"
+      }
     }
   ],
   "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",

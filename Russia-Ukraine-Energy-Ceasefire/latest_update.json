@@ -1,1 +1,55 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Morning of Oct 14, 2026 (Kyiv time)","id":"kyiv-wednesday-morning-strikes-klitschko-oct14","image_urls":["https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"],"links":["https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/","https://www.facebook.com/ukrpravda/posts/pfbid031cUEsttNTp4scS7ihhyKDCss5E84NJPRhS6NFvvMgMjwadDkufLS6GCDm2eq1Pr2l"],"report_time_ist":"11:03 AM IST, Oct 14","report_time_pdt":"10:33 PM PDT, Oct 13","reported_at_utc":"2026-10-14T05:33:00Z","sentiment":{"civilians":"negative","russia":"negative","ukraine":"negative"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/","summary":"Reuters (Oct 14): Mayor Vitali Klitschko said Wednesday that Russian air strikes killed one person and injured one more in Kyiv while also hitting energy facilities; the ballistic missile attack was ongoing during the morning hours, and Reuters witnesses heard multiple explosions as air defences repelled overnight attacks. First wire coverage with casualty figures for the overnight Oct 13-14 wave (TPP-5/Trypillia strikes) flagged single-sourced at 7:48 PM PDT and upgraded via Kyiv Independent at 8:32 PM PDT. Ukrainska Pravda's verified Facebook page (05:19:50 UTC) independently reports 'Russia struck Kyiv's energy facilities: one person died, movement of some transport was suspended.' Fourth straight night of Russian strikes on Ukrainian energy infrastructure since Trump's Oct 11 'energy ceasefire' claim. (Image: representative verified Liberov Kyiv strike-damage photo from the same strike wave, not this specific strike.)","title":"Russian strikes hit Kyiv energy facilities Wednesday morning; one killed, one injured — Klitschko"},{"confidence":"confirmed","event_time_ist":"Overnight Oct 13 into Oct 14, 2026 (Wednesday morning, Russian time)","id":"balakovo-ukraine-drone-strike-saratov-oct14","image_urls":["https://i1.prth.gr/images/1168x656/jpg/files/2025-08-10/saratov-petrelaio.jpg"],"links":["https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/","https://www.devdiscourse.com/article/international/3991864-ukraine-drone-attack-kills-one-person-in-russias-balakovo-governor-says"],"report_time_ist":"11:03 AM IST, Oct 14","report_time_pdt":"10:33 PM PDT, Oct 13","reported_at_utc":"2026-10-14T05:33:00Z","sentiment":{"civilians":"negative","russia":"negative","ukraine":"negative"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/russian-strikes-kill-one-hit-energy-facilities-kyiv-mayor-says-2026-10-14/","summary":"A Ukrainian drone attack killed one person and damaged houses in the Volga River town of Balakovo in Russia's Saratov region, Governor Roman Busargin said on Telegram Wednesday, per Reuters. A standalone Reuters-syndicated piece (devdiscourse, 07:03 IST Oct 14) confirms the same toll. Busargin separately said all infrastructure facilities in Balakovo — home to a Sberbank data center, a nuclear power plant and a hydropower station — are operating as usual (devdiscourse, via governor's Telegram). Fresh cross-border strike while Ukraine says it is holding off Russian-refinery attacks. (Image: representative Saratov-region industrial photo, curl-verified HTTP 200 image/jpeg — not the actual incident.)","title":"Ukrainian drones kill one, damage houses in Balakovo, Russia — Saratov governor"}],"report_time_ist":"11:03 AM IST, Oct 14","report_time_pdt":"10:33 PM PDT, Oct 13"}
+{
+ "report_time_pdt": "12:23 AM PDT, Oct 14",
+ "report_time_ist": "12:53 PM IST, Oct 14",
+ "items": [
+  {
+   "id": "zelensky-demonstrative-disrespect-wednesday",
+   "event_time_ist": "Night of Oct 13 into Oct 14 (overnight strike wave); Zelensky statement Wednesday morning Oct 14",
+   "title": "Zelensky: Russia showed 'demonstrative disrespect' toward Trump with massive overnight energy strike",
+   "summary": "Zelensky said on X Wednesday that the overnight Russian attack on energy infrastructure used 39 ballistic missiles and 120+ attack drones - 'the very infrastructure covered by the ceasefire announced by the American president' - leaving 600,000+ Ukrainians without power and warning outages could become widespread. He said Russia 'does not consider the American president's statements strong' and 'squandered the opportunity for de-escalation.' Separately, presidential adviser Serhiy Beskrestnov claimed SpaceX imposed a Starlink speed limit overnight without warning Ukrainian forces, disrupting air-defense missions - 'cannot be a coincidence'; Ukraine says partners again gave no early warning of ballistic launches. At a White House briefing, spokeswoman Katie Zacharia, asked whether the US had stopped sharing intel with Kyiv, answered: 'I'll have to get back to you.'",
+   "source_name": "The Times",
+   "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-intelligence-us-row-drone-attacks-dhj9qpnz0",
+   "links": [
+    "https://www.threads.com/@abcnews/post/DedxeSvjQ3p"
+   ],
+   "image_urls": [
+    "https://eurotoday.org/wp-content/uploads/2026/02/ukraine-power-grid-attack-escalates-energy-conflict-kyiv-2026.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "12:23 AM PDT, Oct 14",
+   "report_time_ist": "12:53 PM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T07:17:53Z",
+   "sentiment": {
+    "russia": "negative",
+    "ukraine": "neutral",
+    "us": "neutral",
+    "civilians": "negative"
+   }
+  },
+  {
+   "id": "zelensky-downing-street-burnham-wednesday",
+   "event_time_ist": "Wednesday Oct 14 (London)",
+   "title": "Zelensky to meet Burnham at Downing Street Wednesday; UK to pledge faster arms, new sanctions",
+   "summary": "Zelensky visits Downing Street Wednesday after what Foreign Secretary Miliband called 'very difficult few days' in relations with Washington over Trump's diesel deal with Moscow. Burnham is expected to announce accelerated military support - faster deliveries of British lightweight multirole missiles effective against Russian jet-powered drones - and further rounds of sanctions on Russia. Chancellor Healey will use Monday's IMF meetings in Bangkok to urge allies to ban Russian LNG. Burnham phoned Zelensky Saturday to express 'complete solidarity'; the PM says UK support is 'rock solid.'",
+   "source_name": "The Times (PA wire)",
+   "source_url": "http://www.leighjournal.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/",
+   "links": [
+    "https://www.theoldhamtimes.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/?ref=rss",
+    "https://newsline24.online/burnham-zelensky-trump-russia-diesel-deal-b3066176-html/"
+   ],
+   "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "12:23 AM PDT, Oct 14",
+   "report_time_ist": "12:53 PM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T07:17:53Z",
+   "sentiment": {
+    "ukraine": "positive",
+    "us": "neutral",
+    "eu": "positive",
+    "russia": "negative"
+   }
+  }
+ ]
+}

@@ -775,6 +775,100 @@
         "democrats": "negative",
         "republicans": "positive"
       }
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Poll released Oct 9, 2026 (fielded Sept 30-Oct 5); Obama endorsement video released Oct 8, 2026",
+      "id": "maine-senate-wapo-schar-poll-oct9",
+      "image_urls": [
+        "https://www.centralmaine.com/wp-content/uploads/sites/2/2026/07/Featured-image-composite-7.jpg?w=780"
+      ],
+      "links": [
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4758932/who-obama-endorse-midterm-elections-and-notable-lack-of-endorsements/",
+        "https://www.seacoastonline.com/story/news/politics/2026/10/08/obama-endorses-troy-jackson-in-crucial-maine-u-s-senate-race/92151188007/",
+        "https://politicalwire.com/2026/10/09/troy-jackson-maintains-lead-in-maine-senate-race/"
+      ],
+      "report_time_ist": "8:00 AM IST, Oct 14, 2026",
+      "report_time_pdt": "7:30 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T02:30:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "voters": "neutral"
+      },
+      "source_name": "USA Today / Washington Examiner",
+      "source_url": "https://www.usatoday.com/story/news/politics/2026/10/09/maine-democrat-troy-jackson-leads-in-poll-against-sen-susan-collins/92167288007/",
+      "summary": "A Washington Post-Schar School poll of 800 likely voters (fielded Sept 30-Oct 5, MoE +/-3.6) has Democrat Troy Jackson at 50% vs five-term incumbent Susan Collins at 46%. Jackson leads 53-40 among independents; 52% say Collins' 30 years in the Senate are a bad thing, and 63% disapprove of Trump. The same week, Barack Obama released a video endorsing Jackson and Bernie Sanders campaigned with him in Maine; the candidates have completed two of four debates. Maine early voting runs Oct 5-29.",
+      "title": "Maine Senate: new WaPo-Schar poll has Jackson (D) 50, Collins (R) 46 as Obama endorses Jackson"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Reported Oct 5, 2026; Detroit rally scheduled Oct 24, 2026",
+      "id": "obama-midterm-blitz-detroit-rally-oct24",
+      "image_urls": [
+        "https://nm.news/wp-content/smush-webp/2026/10/RR_1007_Obama.png.webp"
+      ],
+      "links": [
+        "https://www.usatoday.com/story/news/politics/elections/2026/10/05/barack-obama-abdul-el-sayed-campaign-michigan/92108214007/",
+        "https://fox2detroit.com/news/obama-joins-benson-el-sayed-detroit-campaign-stop"
+      ],
+      "report_time_ist": "8:00 AM IST, Oct 14, 2026",
+      "report_time_pdt": "7:30 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T02:30:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      },
+      "source_name": "Associated Press (via tmj4) / USA Today",
+      "source_url": "https://www.tmj4.com/politics/midterm-elections/obama-is-set-to-get-more-involved-in-the-midterms-starting-with-an-appearance-alongside-abdul-el-sayed",
+      "summary": "Barack Obama will campaign with Michigan Senate nominee Abdul El-Sayed and gubernatorial nominee Jocelyn Benson at a Detroit GOTV rally Oct 24 - the first day of Michigan's mandatory in-person early voting period. Obama has taped 24 ads for Democratic Senate and gubernatorial candidates to be released in the coming weeks, and this week headlined a Washington fundraiser for Senate Democrats. Earlier this cycle he appeared in an ad for Iowa Senate candidate Josh Turek and campaigned in Texas with James Talarico and Gina Hinojosa.",
+      "title": "Obama ramps up midterm involvement: Detroit rally Oct 24 with El-Sayed and Benson; 24 recorded ads"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Poll published Oct 11, 2026 (fielded Oct 1-9, 2026)",
+      "id": "nm-governor-abq-journal-final-poll-oct11",
+      "image_urls": [
+        "https://nm.news/wp-content/smush-webp/2026/10/RR_1007_Obama.png.webp"
+      ],
+      "links": [
+        "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
+        "https://nm.news/2026/10/08/organizer-to-organizer-obama-backs-haaland-for-new-mexico-governor/"
+      ],
+      "report_time_ist": "8:00 AM IST, Oct 14, 2026",
+      "report_time_pdt": "7:30 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T02:30:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      },
+      "source_name": "Albuquerque Journal poll (via petedinelli.com) / Silver Bulletin average",
+      "source_url": "https://www.petedinelli.com/2026/10/12/second-albuquerque-journal-poll-in-finds-haaland-has-7-lead-over-hull-in-governors-race-49-haaland-42-hull-keys-to-haalands-lead-over-hull-are-women-hispanics-and-independents-o/",
+      "summary": "Research & Polling Inc.'s final poll for the Albuquerque Journal (1,125 likely voters, MoE +/-2.9) has Democrat Deb Haaland at 49% vs Republican Gregg Hull at 42%, with 9% undecided. Haaland leads among women, Hispanics and independents (48-34). The Silver Bulletin polling average (updated Oct 11) has Haaland +7.9, and a late-September KOB/SurveyUSA poll had her 47-41. Obama endorsed Haaland in a video released Oct 7; Hull has been endorsed by ex-Gov. Gary Johnson. Early voting began Oct 6; expanded sites open Oct 17.",
+      "title": "New Mexico governor: Albuquerque Journal's final poll has Haaland 49, Hull 42"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Poll released Oct 8, 2026 (fielded Sept 24-Oct 1, 2026)",
+      "id": "oregon-governor-kotek-first-lead-oct8",
+      "image_urls": [
+        "https://thatoregonlife.com/wp-content/uploads/2025/10/Tina-Kotek.jpg"
+      ],
+      "links": [
+        "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
+        "https://corvallisadvocate.com/gubernatorial-debate-attacks-amid-a-close-race-it-was-donors-digs-and-donald-trump/"
+      ],
+      "report_time_ist": "8:00 AM IST, Oct 14, 2026",
+      "report_time_pdt": "7:30 PM PDT, Oct 13, 2026",
+      "reported_at_utc": "2026-10-14T02:30:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "neutral"
+      },
+      "source_name": "The Oregonian (via thatoregonlife.com) / Silver Bulletin",
+      "source_url": "https://thatoregonlife.com/2026/10/kotek-drazan-oregon-governor-poll-october-2026/",
+      "summary": "DHM Research's poll commissioned by The Oregonian (549 likely voters, MoE +/-4.2, within the margin) puts incumbent Democrat Tina Kotek at 46% vs Republican Christine Drazan at 44% - the first publicly reported poll of this general election cycle with Kotek ahead. Kotek's campaign internal (GBAO, Oct 1-4, 800 LV) has her 46-42. But an OPB-commissioned DHM poll from late September had Drazan 47-46, and the Silver Bulletin average has Kotek +2.0. Cook and Sabato rate the race Lean D. Oregon's registration deadline is Oct 13 and ballots mail starting Oct 14.",
+      "title": "Oregon governor: Kotek posts first public-poll lead of the cycle (46-44); race still a toss-up"
     }
   ],
   "report_time_pdt": "6:27 PM PDT, Oct 13, 2026",

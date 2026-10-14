@@ -1,75 +1,53 @@
 {
-  "report_time_pdt": "9:42 PM PDT, Oct 13",
-  "report_time_ist": "10:12 AM IST, Oct 14",
+  "report_time_pdt": "9:55 PM PDT, Oct 13",
+  "report_time_ist": "10:25 AM IST, Oct 14",
   "items": [
     {
-      "id": "markets-senate-slip-oct13",
-      "event_time_ist": "Oct 13, 2026",
-      "title": "Prediction markets: Dem Senate control slips ~3 pts over the week to ~60%; House steady near 90%",
-      "summary": "Defirate's weekly market tracker (Oct 13, averaging Kalshi + Polymarket midpoints): Democrats 'about 3 in 5' to win the Senate - down 3 pts this week; 'about 9 in 10' for the House - down 1 pt on Kalshi this week. Biggest 7-day movers: MI Senate El-Sayed (D) 72% -> 68%, IA Senate Turek (D) 46% -> 42%, TX Senate Talarico (D) 68% -> 65%. Corroborated by northjersey.com's Oct 13 markets piece (Polymarket: Dems 91% House / 64% Senate; Kalshi individual markets favor Dems in TX, ME, MI, AK, OH and Republicans in IA). Reported as market pricing, not forecasts.",
-      "source_name": "Defirate",
-      "source_url": "https://defirate.com/prediction-markets/2026-midterms/#evidence",
+      "id": "newsnation-ddhq-vote-count-trust-oct13",
+      "event_time_ist": "Oct 13, 2026 (poll released Oct 13; fielded Oct 5-9)",
+      "title": "NewsNation/DDHQ poll: only 46% of voters trust all midterm votes will be counted accurately",
+      "summary": "Exclusive NewsNation-Decision Desk HQ poll (TrueDot.ai, n=974 likely voters, Oct 5-9, MoE +/-3.2), released Tuesday, Oct 13: 46% believe all midterm votes will be counted accurately; 27% are concerned only about mail-in ballots; 14% believe Republicans will change the count, 13% believe Democrats will. 22% say distrust makes them more determined to vote to 'overwhelm fraud'; 3% say it demoralizes them. DDHQ's Skelley: both parties distrust the count now. Corroborated Newsmax (Rep-leaning) + The Hill (independent) \u2014 confirmed.",
+      "source_name": "Newsmax",
+      "source_url": "https://www.newsmax.com/us/voting-integrity-voting-results-vote-counts/2026/10/13/id/1272623",
       "links": [
-        "https://defirate.com/prediction-markets/2026-midterms/#evidence",
+        "https://www.newsmax.com/us/voting-integrity-voting-results-vote-counts/2026/10/13/id/1272623",
+        "https://www.alabamas42.com/hill-politics/46-percent-believe-midterm-vote-will-be-counted-accurately-newsnation-ddhq-poll/",
+        "https://spotonnorthcarolina.com/piedmont-triad/3219531/only-46-think-midterm-vote-will-be.html"
+      ],
+      "image_urls": [
+        "https://bipartisanpolicy.org/wp-content/uploads/2023/03/Primary-Turnout-Report_image-1024x726.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "9:55 PM PDT, Oct 13",
+      "report_time_ist": "10:25 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:55:00Z",
+      "sentiment": {
+        "voters": "negative",
+        "democrats": "neutral",
+        "republicans": "neutral"
+      }
+    },
+    {
+      "id": "economist-yougov-lv-d14-oct13",
+      "event_time_ist": "Oct 13, 2026 (weekly release; LV series began fielding Sept 18-21)",
+      "title": "Economist/YouGov: Democrats lead generic ballot 52-38 among likely voters (D+14), largest lead of the series",
+      "summary": "Latest Economist/YouGov release: Democrats 52, Republicans 38 among likely voters (+14 \u2014 largest lead in the three weeks since YouGov began LV modeling; 93% Dem / 90% GOP loyalty, Independents 2-to-1 Dem, women +29 Dem, college-grad Dems +22). Among registered voters: Dems 45-38 (+7, largest since spring 2025). Senate named-candidate ballot: Dems 53-42 (+11). Trump net approval -27 (34% approve/61% disapprove). The D+14 is the bluest LV read of the cycle \u2014 aggregators sit lower (RCP +8.3, Silver Bulletin +8.9). Pollster release paired with RCP/Silver Bulletin averages \u2014 confirmed.",
+      "source_name": "Economist/YouGov (YouGov release)",
+      "source_url": "https://yougov.com/en-us/articles/55604-democrats-hold-14-point-lead-likely-voters-2026-midterms-congressional-election-september-18-21-2026-economist-yougov-poll",
+      "links": [
+        "https://yougov.com/en-us/articles/55604-democrats-hold-14-point-lead-likely-voters-2026-midterms-congressional-election-september-18-21-2026-economist-yougov-poll",
         "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
       ],
       "image_urls": [
-        "https://coincub.com/wp-content/uploads/2026/04/Prediction-Market-Politics-1024x576.png"
+        "https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "9:42 PM PDT, Oct 13",
-      "report_time_ist": "10:12 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:42:00Z",
+      "report_time_pdt": "9:55 PM PDT, Oct 13",
+      "report_time_ist": "10:25 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:55:00Z",
       "sentiment": {
         "democrats": "positive",
         "republicans": "negative"
-      }
-    },
-    {
-      "id": "iowa-markets-vs-polls-oct13",
-      "event_time_ist": "Oct 13, 2026",
-      "title": "Iowa Senate: markets still favor Hinson (54-56c) despite polls showing Turek ahead or tied",
-      "summary": "Action Network's Iowa tracker (updated Oct 13): Polymarket prices Ashley Hinson (R) YES at 54c vs Josh Turek (D) 46c; Kalshi Hinson 56c vs Turek 44c - even though a late-September Fox News poll had Turek +2 and newer polls show him ahead or within a point; Turek fell ~3 pts on Polymarket recently. The polls-vs-markets disconnect is now the central tension in the race - Iowa sits in the Senate tipping-point states (Silver Bulletin avg Dems +1.5). Corroborated by northjersey.com's Oct 13 piece: Polymarket favors Republicans in Iowa; Kalshi's individual market favors Hinson. Reported as market pricing, not forecasts.",
-      "source_name": "Action Network",
-      "source_url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions",
-      "links": [
-        "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions",
-        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
-      ],
-      "image_urls": [
-        "https://iowaindependentnews.com/wp-content/uploads/2026/07/JoshTurek_AP26154098636483-scaled.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "9:42 PM PDT, Oct 13",
-      "report_time_ist": "10:12 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:42:00Z",
-      "sentiment": {
-        "republicans": "positive",
-        "democrats": "negative"
-      }
-    },
-    {
-      "id": "sc-senate-debate-oct11",
-      "event_time_ist": "Oct 11, 2026, 7 PM ET (debate)",
-      "title": "SC Senate: only debate held Oct 11; Graham declines further debates as polls tighten",
-      "summary": "Appointed Sen. Darline Graham (R), Democrat Annie Andrews and Libertarian Kasie Whitener faced off Oct 11 at SCETV in Columbia - likely the race's only debate, with Graham declining to commit to more (per The Hill, cited by Attack of the Fanboy). They clashed on healthcare, the Iran war, and Graham's name change from Nordone. Race is tightening in a state Trump won by 18: Rasmussen (Oct 5-8) Graham 49-45, InsiderAdvantage 46-45, Trafalgar 43-42. Action Network's tracker adds single-sourced context: SLF committed $5M to defend the seat and Trump has posted repeatedly defending Graham. Debate confirmed via FOX Carolina (WHNS), WPDE/coastalabc, CUBNSC.",
-      "source_name": "FOX Carolina",
-      "source_url": "https://gray-whns-prod.gtv-cdn.com/2026/10/11/live-tonight-darline-graham-annie-andrews-kasie-whitener-face-off-us-senate-debate/",
-      "links": [
-        "https://gray-whns-prod.gtv-cdn.com/2026/10/11/live-tonight-darline-graham-annie-andrews-kasie-whitener-face-off-us-senate-debate/",
-        "https://attackofthefanboy.com/news/sen-darline-graham-refuses-to-commit-to-a-second-debate-ahead-of-the-midterms-and-denies-dropping-nordone-from-her-name-for-political-benefit/",
-        "https://coastalabc.com/news/nation-world/south-carolina-us-senate-candidates-debate-as-horry-county-gop-hosts-watch-party-myrtle-beach-annie-andrews-darline-graham-libertarian-kasie-whitener-10112026"
-      ],
-      "image_urls": [
-        "https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "9:42 PM PDT, Oct 13",
-      "report_time_ist": "10:12 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:42:00Z",
-      "sentiment": {
-        "republicans": "negative",
-        "democrats": "positive"
       }
     }
   ]

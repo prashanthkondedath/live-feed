@@ -296,7 +296,7 @@
         },
         "updated_at_utc": "2026-10-14T00:20:16Z"
       },
-      "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Trump shrugged that 'they're both a little bit off' and denied any cutoff of US intelligence to Kyiv; France seized the suspected Russian shadow-fleet tanker DF Peak near Réunion — Moscow called it 'piracy' — while Germany and Canada rejected the US-brokered Russian diesel deal.",
+      "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal.",
       "watch_for": [
         {
           "event": "Kremlin confirmation or rejection of the energy ceasefire",
@@ -318,7 +318,7 @@
         },
         {
           "name": "Volodymyr Zelensky",
-          "role": "Says Ukraine held off refinery strikes for two days; wants details"
+          "role": "Confirmed to NPR the US threatened to cut off intel-sharing over refinery strikes; counter-proposed a Ukrainian 'diesel deal'"
         },
         {
           "name": "Dmitry Peskov",
@@ -337,7 +337,7 @@
           "role": "German chancellor; called the Russian diesel deal 'out of the question' for Europe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T23:34:08Z",
+      "curation_updated_at_utc": "2026-10-14T00:34:00Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -492,7 +492,7 @@
         },
         "updated_at_utc": "2026-10-14T00:12:38Z"
       },
-      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106.",
+      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -529,7 +529,7 @@
           "role": "UAE diplomatic adviser; called for 'joint Gulf action' against Iran and proxies"
         }
       ],
-      "curation_updated_at_utc": "2026-10-13T22:33:00Z",
+      "curation_updated_at_utc": "2026-10-14T00:34:00Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -557,7 +557,7 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House (Cook shifted 18 races their way; prediction markets price Dems at 91%) with an 8-9 point generic-ballot lead and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe.",
+      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe.",
       "watch_for": [
         {
           "event": "Election Day",
@@ -592,10 +592,18 @@
         {
           "name": "Ilhan Omar",
           "role": "Rep.; D.C. home raided Oct 12 by DHS/HSI in immigration-fraud probe; calls it political intimidation"
+        },
+        {
+          "name": "Gina Hinojosa",
+          "role": "Democratic TX governor candidate; leads in YouGov (48-47) but trails in ReconMR/Siena (47-48)"
+        },
+        {
+          "name": "Kathy Hochul",
+          "role": "NY governor (D); met Blakeman in the race's only debate Oct 13; holds a double-digit lead in most polls"
         }
       ],
       "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-14T00:05:15Z",
+      "curation_updated_at_utc": "2026-10-14T00:34:00Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
       "trend": "hot",
       "trend_direction": "rising",

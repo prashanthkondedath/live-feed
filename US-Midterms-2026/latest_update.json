@@ -1,48 +1,53 @@
 {
-  "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
-  "report_time_ist": "12:10 PM IST, Oct 14, 2026",
+  "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",
+  "report_time_ist": "12:46 PM IST, Oct 14, 2026",
   "items": [
     {
-      "id": "doj-64-foreign-nationals-voter-fraud",
-      "event_time_ist": "Report published Oct 11, 2026, covering a ~5-week window",
-      "title": "DOJ: 64 foreign nationals charged with illegal voting across 17 states in five-week crackdown",
-      "summary": "Fox News Digital (Rep-leaning), from figures DOJ gave it: 64 foreign nationals charged with unlawful voting, fraudulent registration and election-related offenses in roughly five weeks across 17 states \u2014 Minnesota leads with 11 defendants, Pennsylvania 10, Texas 9. Total since Jan 2025: 104 people charged with voting-fraud offenses. A DOJ spokesperson framed weekly cases against the six-vote margin of the 2020 Iowa House race. No case has been established as changing an election outcome. (Wire only: Fox original + wire-copy republishers carry it; Breitbart a same-lean repeat.)",
-      "source_name": "Fox News Digital",
-      "source_url": "https://foxnews.com/politics/map-doj-illegal-voting-crackdown-sweeps-17-states-razor-thin-elections-face-scrutiny",
+      "id": "wasilla-ak-rally-sullivan-wilson-endorsement",
+      "event_time_ist": "Endorsement ~3:15 AM IST, Oct 14 (3:16 PM PDT, Oct 13); rally remarks ~6:30 AM IST, Oct 14 (5:30 PM PDT, Oct 13)",
+      "title": "Trump holds Wasilla, AK rally for Sen. Dan Sullivan; endorses Bernadette Wilson for governor",
+      "summary": "President Trump staged a 90-minute rally Tuesday at the Menard Memorial Sports Center in Wasilla for Sen. Dan Sullivan in the toss-up Senate race (Alaska Survey Research has challenger Mary Peltola +2; Aug open primary Peltola 49.5%, Sullivan 41.4%). En route to Alaska, Trump endorsed Republican businesswoman Bernadette Wilson for governor on Truth Social, publicly calling out fellow Republicans Dave Bronson (accused of reneging on a promise to drop out - Bronson denies it) and Treg Taylor (dismissed as someone he'd 'never heard of') and urging GOP consolidation behind Wilson; he also attacked ranked-choice voting as a 'bogus rigged deal.' AK voters also decide an open-primary/ranked-choice repeal Nov 3 (a 2024 repeal failed by 743 votes); AK early voting starts Oct 19. Confirmed across three independent Alaska outlets with original bylines (Juneau Independent/Alaska Beacon, Alaska News, KTVF live blog).",
+      "source_name": "Juneau Independent (Alaska Beacon byline)",
+      "source_url": "https://www.juneauindependent.com/post/trump-rally-puts-wasilla-in-national-campaign-spotlight",
       "links": [
-        "https://heritagereview.com/justice-department-charges-64-foreign-nationals-with-illegal-voting-ahead-of-midterms/"
+        "https://alaskanews.com/c/alaska-news/trump-endorses-wilson",
+        "https://gray-ktvf-prod.gtv-cdn.com/2026/10/13/live-trump-set-rally-valley/",
+        "https://www.juneauindependent.com/post/trump-touts-sullivan-makes-unverified-claim-about-taiwan-buying-alaska-lng-at-wasilla-rally"
       ],
       "image_urls": [
-        "https://twt-thumbs.washtimes.com/media/image/2026/02/10/Elections_Justice_Department_62667_c0-310-7402-4625_s885x516.jpg?36cf82c276f4ac8a24c59c15781fdccddcceb86e"
+        "https://static.wixstatic.com/media/b4f3f8_e0f4faadc1004637a72638a9d64c5e77~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4f3f8_e0f4faadc1004637a72638a9d64c5e77~mv2.jpg"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
-      "report_time_ist": "12:10 PM IST, Oct 14, 2026",
-      "reported_at_utc": "2026-10-14T06:42:00Z",
+      "confidence": "confirmed",
+      "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",
+      "report_time_ist": "12:46 PM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T07:16:00Z",
       "sentiment": {
         "republicans": "positive",
-        "voters": "neutral"
+        "democrats": "negative"
       }
     },
     {
-      "id": "sc-senate-markets-graham-86c",
-      "event_time_ist": "Oct 13, 2026 (live market trackers)",
-      "title": "SC Senate: markets price Graham at 86c despite tightening polls \u2014 widest polls-vs-markets gap of the cycle",
-      "summary": "Action Network's live tracker (independent): Graham is YES 86c on both Polymarket and Kalshi, Andrews YES 15-16c, both exchanges reading the same signal (SC's R lean, late money) \u2014 yet public polls show a 1-4 pt race (Rasmussen 49-45, Trafalgar ~+1, InsiderAdvantage 46-45). Same polls-vs-markets disconnect as Iowa (reported Oct 13). Market pricing, not a prediction.",
-      "source_name": "Action Network",
-      "source_url": "https://www.actionnetwork.com/news/south-carolina-senate-race-2026-odds-graham-vs-andrews-polls-kalshi-polymarket-south-carolina-senate-race-predictions",
+      "id": "trump-iran-hit-them-hard-wasilla",
+      "event_time_ist": "Remarks ~6:30 AM IST, Oct 14 (5:30 PM PDT, Oct 13); Reuters report published ~6:40 AM IST, Oct 14 (5:10 PM PDT, Oct 13)",
+      "title": "At Wasilla rally, Trump warns Iran 'we're going to hit them hard'; Reuters reports Tehran escalated Hormuz attacks to pressure midterms",
+      "summary": "Trump told the Wasilla crowd 'wait and see what we do to Iran. We're going to hit them hard... because we've had enough' - an escalation from his line days earlier that there would be no strike before the midterms amid 'productive' talks. Separately, Reuters reported (two senior Iranian officials) that Tehran adopted new shipping-attack tactics in the Strait of Hormuz about 10 days ago with the explicit goal of keeping oil prices high and influencing the US vote, a decision taken 'at the highest levels.' Rally quote carried by multiple aggregators (JBizNews, NewsBeep, JFeed, Daily Inference); Reuters independently confirms the Hormuz-midterms pressure story. Single-sourced on the exact rally quote.",
+      "source_name": "NewsBeep (carrying rally remarks; Reuters cited within)",
+      "source_url": "https://www.newsbeep.com/769783/",
       "links": [
-        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
+        "https://www.reuters.com/world/middle-east/iran-shifting-tactics-step-up-attacks-shipping-before-us-vote-officials-say-2026-10-14/",
+        "https://jbiznews.com/were-going-to-hit-them-hard-trump-threatens-iran-as-tehran-escalates-shipping-attacks/",
+        "https://www.jfeed.com/news-world/tmvqx7"
       ],
       "image_urls": [
-        "https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"
+        "https://static.wixstatic.com/media/b4f3f8_45631da7a3bd4168953921749c6e5879~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4f3f8_45631da7a3bd4168953921749c6e5879~mv2.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "11:40 PM PDT, Oct 13, 2026",
-      "report_time_ist": "12:10 PM IST, Oct 14, 2026",
-      "reported_at_utc": "2026-10-14T06:42:00Z",
+      "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",
+      "report_time_ist": "12:46 PM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T07:16:00Z",
       "sentiment": {
-        "republicans": "positive"
+        "trump": "neutral",
+        "voters": "negative"
       }
     }
   ]

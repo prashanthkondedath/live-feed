@@ -1363,6 +1363,31 @@
       "source_url": "https://www.reuters.com/business/energy/oil-prices-climb-traders-weigh-saudi-supply-risk-russian-diesel-flow-2026-10-14/",
       "summary": "Brent crude futures rose ~0.8% to $106.58 a barrel by 0030 GMT Wednesday and later traded around $106.2 (+0.5%), with WTI at ~$94.7-94.9, as traders weighed supply risk from the Houthi-Saudi fighting against prospects of more Russian diesel. A Nissan Securities strategist told Reuters that 'supply concern stemming from conflict between the Houthis and Saudi Arabia is driving prices higher.' The move follows Tuesday night's strike on Aramco's Dhahran HQ and the week's attacks on Saudi airports and energy sites.",
       "title": "Brent crude ~$106/barrel Wednesday as traders price Houthi-Saudi supply risk"
+    },
+    {
+      "id": "houthi-wednesday-evening-ballistic-claim-oct14",
+      "event_time_ist": "Wednesday evening, Oct 14 (announcement pushed ~11:13 PM IST, Oct 14 / 8:43 PM Riyadh time)",
+      "title": "Houthis announce fresh Wednesday-evening claim of ballistic-missile targeting of King Khalid airport",
+      "summary": "A Sky News Arabia push notification (Reuters-sourced, sent 17:43 UTC Wednesday) announced that the Houthis targeted King Khalid International Airport in Riyadh with ballistic missiles. The announcement was echoed within minutes as 'breaking' graphics by Al Jazeera, TRT Arabi and alrasheedmedia on social. It follows the Wednesday-morning coalition intercept over Riyadh (missile destroyed; air-raid alert lifted) and the Houthi side's broader morning claim of a multi-weapon strike operation on Aramco Dhahran, King Khalid airport and a Riyadh refinery. No coalition response or damage details reported yet for this new claim.",
+      "source_name": "Sky News Arabia (push via Project Push)",
+      "source_url": "https://project-push.tk.gg/push/5abb87c5-8cc7-49bd-878a-ea4ced95dd4a",
+      "links": [
+        "https://www.instagram.com/p/Dee8VpnDlhM/",
+        "https://www.instagram.com/p/Dee9Us3lyUI/",
+        "https://www.instagram.com/p/Dee9aoDioO_/"
+      ],
+      "image_urls": [
+        "https://static.ffx.io/images/$width_800%2C$height_450/t_crop_fill/q_86%2Cf_jpg/e7294533d60e24bf573d292c4e1c6d7963ec4dde"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:20 AM PDT, Oct 14",
+      "report_time_ist": "11:50 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T18:20:50Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
     }
   ]
 }

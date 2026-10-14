@@ -1,29 +1,75 @@
 {
-  "report_time_pdt": "9:27 PM PDT, Oct 13",
-  "report_time_ist": "9:57 AM IST, Oct 14",
+  "report_time_pdt": "9:42 PM PDT, Oct 13",
+  "report_time_ist": "10:12 AM IST, Oct 14",
   "items": [
     {
-      "id": "quinnipiac-pa-governor-shapiro-59-oct7",
-      "event_time_ist": "released ~10:15 PM IST, Oct 7, 2026 (fielded Oct 1-5)",
-      "title": "Quinnipiac: Shapiro 59%, Garrity 34% in PA governor race; voters favor Dems to win House control by 15 points",
-      "summary": "Quinnipiac University poll of 1,159 PA likely voters (fielded Oct 1-5, 2026, MoE +/-3.9) released Oct 7, 2026: Gov. Josh Shapiro (D) leads GOP challenger Stacy Garrity 59%-34%, with Libertarian Ken Krawchuk at 2%. Shapiro job approval 63%; 56% satisfied with how things are going in PA. Same poll: voters favor Democrats to win control of the U.S. House by 15 points; Trump disapproval 60%. RCP average (Sept 15-Oct 5) has Shapiro +23.2 (56.0 vs 32.8); Cook rates Solid D, Sabato Likely D. (Missed by earlier runs; catch-up item.)",
-      "source_name": "Quinnipiac University Poll",
-      "source_url": "https://poll.qu.edu/images/polling/pa/pa10072026_pgrx47.pdf",
+      "id": "markets-senate-slip-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Prediction markets: Dem Senate control slips ~3 pts over the week to ~60%; House steady near 90%",
+      "summary": "Defirate's weekly market tracker (Oct 13, averaging Kalshi + Polymarket midpoints): Democrats 'about 3 in 5' to win the Senate - down 3 pts this week; 'about 9 in 10' for the House - down 1 pt on Kalshi this week. Biggest 7-day movers: MI Senate El-Sayed (D) 72% -> 68%, IA Senate Turek (D) 46% -> 42%, TX Senate Talarico (D) 68% -> 65%. Corroborated by northjersey.com's Oct 13 markets piece (Polymarket: Dems 91% House / 64% Senate; Kalshi individual markets favor Dems in TX, ME, MI, AK, OH and Republicans in IA). Reported as market pricing, not forecasts.",
+      "source_name": "Defirate",
+      "source_url": "https://defirate.com/prediction-markets/2026-midterms/#evidence",
       "links": [
-        "https://www.usatoday.com/story/news/politics/2026/10/07/fetterman-approval-quinnipiac-poll/92142138007/",
-        "https://www.realclearpolling.com/elections/governor/2026/pennsylvania"
+        "https://defirate.com/prediction-markets/2026-midterms/#evidence",
+        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
       ],
       "image_urls": [
-        "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pennsylvania-governor-josh-shapiro.jpg?ve=1&tl=1"
+        "https://coincub.com/wp-content/uploads/2026/04/Prediction-Market-Politics-1024x576.png"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "9:27 PM PDT, Oct 13",
-      "report_time_ist": "9:57 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:27:03Z",
+      "report_time_pdt": "9:42 PM PDT, Oct 13",
+      "report_time_ist": "10:12 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:42:00Z",
       "sentiment": {
         "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "iowa-markets-vs-polls-oct13",
+      "event_time_ist": "Oct 13, 2026",
+      "title": "Iowa Senate: markets still favor Hinson (54-56c) despite polls showing Turek ahead or tied",
+      "summary": "Action Network's Iowa tracker (updated Oct 13): Polymarket prices Ashley Hinson (R) YES at 54c vs Josh Turek (D) 46c; Kalshi Hinson 56c vs Turek 44c - even though a late-September Fox News poll had Turek +2 and newer polls show him ahead or within a point; Turek fell ~3 pts on Polymarket recently. The polls-vs-markets disconnect is now the central tension in the race - Iowa sits in the Senate tipping-point states (Silver Bulletin avg Dems +1.5). Corroborated by northjersey.com's Oct 13 piece: Polymarket favors Republicans in Iowa; Kalshi's individual market favors Hinson. Reported as market pricing, not forecasts.",
+      "source_name": "Action Network",
+      "source_url": "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions",
+      "links": [
+        "https://www.actionnetwork.com/news/iowa-polymarket-midterms-kalshi-senate-2026-odds-iowa-senate-race-2026-polls-predictions",
+        "https://www.northjersey.com/story/news/2026/10/13/who-will-win-2026-midterms-winning-midterm-elections-latest-polls-odds-predictions-polymarket-kalshi/92232625007/"
+      ],
+      "image_urls": [
+        "https://iowaindependentnews.com/wp-content/uploads/2026/07/JoshTurek_AP26154098636483-scaled.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "9:42 PM PDT, Oct 13",
+      "report_time_ist": "10:12 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:42:00Z",
+      "sentiment": {
+        "republicans": "positive",
+        "democrats": "negative"
+      }
+    },
+    {
+      "id": "sc-senate-debate-oct11",
+      "event_time_ist": "Oct 11, 2026, 7 PM ET (debate)",
+      "title": "SC Senate: only debate held Oct 11; Graham declines further debates as polls tighten",
+      "summary": "Appointed Sen. Darline Graham (R), Democrat Annie Andrews and Libertarian Kasie Whitener faced off Oct 11 at SCETV in Columbia - likely the race's only debate, with Graham declining to commit to more (per The Hill, cited by Attack of the Fanboy). They clashed on healthcare, the Iran war, and Graham's name change from Nordone. Race is tightening in a state Trump won by 18: Rasmussen (Oct 5-8) Graham 49-45, InsiderAdvantage 46-45, Trafalgar 43-42. Action Network's tracker adds single-sourced context: SLF committed $5M to defend the seat and Trump has posted repeatedly defending Graham. Debate confirmed via FOX Carolina (WHNS), WPDE/coastalabc, CUBNSC.",
+      "source_name": "FOX Carolina",
+      "source_url": "https://gray-whns-prod.gtv-cdn.com/2026/10/11/live-tonight-darline-graham-annie-andrews-kasie-whitener-face-off-us-senate-debate/",
+      "links": [
+        "https://gray-whns-prod.gtv-cdn.com/2026/10/11/live-tonight-darline-graham-annie-andrews-kasie-whitener-face-off-us-senate-debate/",
+        "https://attackofthefanboy.com/news/sen-darline-graham-refuses-to-commit-to-a-second-debate-ahead-of-the-midterms-and-denies-dropping-nordone-from-her-name-for-political-benefit/",
+        "https://coastalabc.com/news/nation-world/south-carolina-us-senate-candidates-debate-as-horry-county-gop-hosts-watch-party-myrtle-beach-annie-andrews-darline-graham-libertarian-kasie-whitener-10112026"
+      ],
+      "image_urls": [
+        "https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "9:42 PM PDT, Oct 13",
+      "report_time_ist": "10:12 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:42:00Z",
+      "sentiment": {
         "republicans": "negative",
-        "trump": "negative"
+        "democrats": "positive"
       }
     }
   ]

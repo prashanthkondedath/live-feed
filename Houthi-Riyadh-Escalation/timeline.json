@@ -1176,6 +1176,31 @@
       "source_url": "https://www.instagram.com/p/Ded4LpHEZ_0/",
       "summary": "Three near-simultaneous SPA-branded Arabic breaking-news graphics posted by regional accounts (Al Bilad Press Bahrain at 10:41 AM Riyadh time, Kuwait News, and a Saudi breaking-news account) carry a coalition announcement: 'interception and destruction of a ballistic missile launched by the terrorist Houthi militia toward Riyadh.' No news outlet has yet corroborated a fresh Wednesday launch, and no casualty or debris details are reported. Caveat: the boilerplate wording matches the coalition's Monday intercept announcement, so it is possible — though the Wednesday-morning timing pattern suggests otherwise — that the graphics restate an earlier interception. Treated as a possible new event, single-sourced.",
       "title": "Coalition says it intercepted another Houthi ballistic missile toward Riyadh on Wednesday morning"
+    },
+    {
+      "id": "houthi-wednesday-strike-claim-oct14",
+      "event_time_ist": "Wednesday morning, Oct 14 (reported 2:17 PM IST, Oct 14)",
+      "title": "Houthis claim strikes on Aramco Dhahran, King Khalid airport and Riyadh refinery; pledge more operations",
+      "summary": "Yemen's Houthis said on Wednesday they had targeted Saudi Aramco facilities in Dhahran, King Khalid International Airport and an Aramco refinery in Riyadh (Reuters, created 14:17 IST Oct 14), adding that their operations against airports and oil facilities would continue in the coming days. The claim follows Tuesday night's Dhahran office-tower hit (top three floors damaged, fire extinguished; Energy Ministry confirms, no casualties) and Tuesday's intercepts over Riyadh (debris wounded 4, damaged 15 homes). The Saudi side has not confirmed any Riyadh refinery damage. Regional outlets (Roya News English, ALGHAD.TV, DW Swahili) carried the same Wednesday Houthi statement as breaking news.",
+      "source_name": "Reuters (via Devdiscourse)",
+      "source_url": "https://www.devdiscourse.com/article/international/3992135-yemens-houthis-say-they-targeted-saudi-aramco-facilities-riyadh-airport",
+      "links": [
+        "https://www.facebook.com/RoyaNewsEnglish/posts/pfbid0pNGZg29ZWk5tXcKULFT5BvoXNwirqybKBvH1svSPxv2Ef7HKhG5LyuUo6qYRJaqSl",
+        "https://www.instagram.com/p/DeeCMusgLRW/",
+        "https://www.instagram.com/p/DeeBovDir7F/"
+      ],
+      "image_urls": [
+        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "02:22 AM PDT, Oct 14",
+      "report_time_ist": "02:52 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T09:22:51Z",
+      "sentiment": {
+        "houthis": "positive",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
     }
   ]
 }

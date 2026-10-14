@@ -1,48 +1,28 @@
 {
-  "report_time_pdt": "8:04 PM PDT, Oct 13",
-  "report_time_ist": "8:34 AM IST, Oct 14",
+  "report_time_pdt": "9:34 PM PDT, Oct 13",
+  "report_time_ist": "10:04 AM IST, Oct 14",
   "items": [
     {
-      "id": "simon-advisory-27-110mph-oct13",
-      "event_time_ist": "8:30 AM IST, Oct 14 (NHC Advisory 27, 8:00 PM MST Tue Oct 13)",
-      "title": "Hurricane Simon re-strengthens to 110 mph, almost a major hurricane again",
-      "summary": "NHC Advisory 27 (8 PM MST Tue Oct 13): Simon strengthened from 90 mph to 110 mph (95 kt), pressure 965 mb, centered ~125 mi W of Cabo Corrientes and ~125 mi SW of Las Islas Marias, drifting W at 2 mph. A 6:50 PM MST special tropical cyclone update says satellite/radar from Cabo San Lucas show 'significant' strengthening to near 110 mph. NHC forecast: 120 mph by Wednesday morning (could become a major hurricane again tonight), then gradual weakening from shear/dry air; storm remains tiny (hurricane-force winds extend only ~10 mi from center). Watches: no changes \u2014 Hurricane Watch for Las Islas Marias only; hurricane conditions possible there Thursday.",
-      "source_name": "NHC (National Hurricane Center)",
-      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP5+shtml/140235.shtml",
-      "links": [],
-      "image_urls": [
-        "https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "8:04 PM PDT, Oct 13",
-      "report_time_ist": "8:34 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T03:04:38Z",
-      "sentiment": {
-        "civilians": "negative",
-        "mexico_govt": "neutral"
-      }
-    },
-    {
-      "id": "trudy-advisory-3-inland-western-mexico-oct13",
-      "event_time_ist": "8:30 AM IST, Oct 14 (NHC Advisory 3, 9:00 PM CST Tue Oct 13)",
-      "title": "Trudy strengthens to 45 mph; NHC nudges track east \u2014 major-hurricane threat to western Mexico this weekend",
-      "summary": "NHC Advisory 3 (9 PM CST Tue Oct 13): Tropical Storm Trudy strengthened to 45 mph (40 kt), pressure 1004 mb, at 11.2N 97.0W (~440 mi SSE of Acapulco), moving NW at 10 mph. Forecast: hurricane by Wednesday night, major hurricane (130 mph) Fri\u2013Sat. Track forecast is faster and nudged east vs prior: Trudy now brought inland over western Mexico later this weekend, emerging into the southern Gulf of California early next week; 'expected to approach the coast of Mexico as a major hurricane later this week.' NHC key message: 'watches could be required for a portion of these areas on Wednesday' (Oct 14). No coastal watches/warnings in effect yet; track confidence low days 3\u20135.",
-      "source_name": "NHC (National Hurricane Center)",
-      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP1+shtml/140253.shtml",
+      "id": "rachel-ensenada-toll-seven-oct13",
+      "event_time_ist": "Tuesday, Oct 13",
+      "title": "Ensenada Rachel death toll rises to 7",
+      "summary": "Ensenada, Baja California's death toll from Tropical Cyclone Rachel's remnant flooding rose to 7 on Tuesday, Oct 13 after search crews recovered three more bodies in the Maneadero area: Gael Burgos (14), Valentín Lozano (51), and Keila Sandria (32). Five of the seven were members of one family from Hermosillo, Sonora — Érika Ivonne Burgos (35), Silvia Lucero Burgos (30), Gael Burgos (14), Ivonne Regina Terán Burgos (13), and Aarón Vega Burgos (4) — swept away on Oct 10 when an arroyo overflowed. Three people remain officially missing (Luis Fernando López, 17; Rosalinda Olivera, 24; Rosa María Olivera, 44); a 10-year-old boy, Leonel, was found alive near Rancho Cárdenas. Sonora governor Alfonso Durazo said Tuesday his administration is coordinating with Baja California authorities to transport the bodies home. Combined with the Guerrero Simon victim, the Mexico-wide storm death toll now stands at 8.",
+      "source_name": "SonoraPresente",
+      "source_url": "https://sonorapresente.com/en/2026/10/rains-claim-7-lives-in-ensenada-five-victims-were-members-of-a-family-from-hermosillo/",
       "links": [
-        "https://www.foxweather.com/weather-news/tropical-storm-trudy-forms-pacific-intesify-monster-hurricane",
-        "https://www.reflector.com/news/national/death-toll-rises-to-6-as-hurricane-simon-and-rachel-remnants-unleash-floods-in-mexico/article_3d3fcf40-85e1-5aef-add4-5253f0e16b7d.html"
+        "https://sonorapresente.com/en/2026/10/rains-claim-7-lives-in-ensenada-five-victims-were-members-of-a-family-from-hermosillo/",
+        "https://www.instagram.com/reel/DedhAw1jH5W/"
       ],
       "image_urls": [
-        "https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
+        "https://estiloinformativo.com/wp-content/uploads/2026/10/Maneadero-Ensenada-10-13-26-696x754.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "8:04 PM PDT, Oct 13",
-      "report_time_ist": "8:34 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T03:04:38Z",
+      "report_time_pdt": "9:34 PM PDT, Oct 13",
+      "report_time_ist": "10:04 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:34:20Z",
       "sentiment": {
         "civilians": "negative",
-        "mexico_govt": "neutral"
+        "mexico_govt": "positive"
       }
     }
   ]

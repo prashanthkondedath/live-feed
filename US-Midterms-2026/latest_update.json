@@ -1,50 +1,25 @@
 {
-  "report_time_pdt": "6:27 PM PDT, Oct 13, 2026",
-  "report_time_ist": "6:57 AM IST, Oct 14, 2026",
+  "report_time_pdt": "6:45 PM PDT, Oct 13",
+  "report_time_ist": "7:15 AM IST, Oct 14",
   "items": [
     {
-      "id": "ri-governor-wpri-emerson-poll-oct13",
-      "event_time_ist": "released Tue, Oct 13, 2026 (2:30 AM IST, Oct 14); fielded Oct 8-11, 2026",
-      "title": "Rhode Island governor's race tightens: WPRI/Emerson poll has Foulkes 44, Block 35 \u2014 lead cut from 24 to 9 points",
-      "summary": "Democrat Helena Foulkes remains the clear front-runner in Rhode Island's governor race, but independent Ken Block has closed to a 9-point gap (44% to 35%), per a WPRI-TV/Emerson College poll of 800 likely voters fielded Oct 8-11, 2026 (MoE \u00b13.5). In August, Foulkes led a hypothetical matchup 45-21. Republican Aaron Guckian is at 10%, with 9% undecided. Block is outpolling the GOP nominee, leads among men (47-35) and unaffiliated voters (46%) \u2014 RI's largest bloc \u2014 but trails badly among Harris voters (72% for Foulkes). The lieutenant governor's race is a statistical tie: Sabina Matos (D) 44, John Loughlin (R) 45. Televised gubernatorial debate Oct 20; RI early voting starts Oct 14.",
-      "source_name": "The Providence Journal",
-      "source_url": "https://www.providencejournal.com/story/news/politics/elections/2026/10/13/new-ri-poll-shows-ken-block-closing-the-gap-with-helena-foulkes-for-governor/92235271007/",
-      "links": [
-        "https://www.oceanstatemedia.org/elections/2026-10-13/a-9-point-lead-for-foulkes-and-a-razor-thin-lieutenant-governor-race-new-poll-finds"
-      ],
+      "id": "mclaughlin-generic-ballot-d5-oct12",
+      "event_time_ist": "Interview aired Oct 12, 2026",
+      "title": "GOP pollster John McLaughlin disputes D+8 polls, says his firm's generic ballot has Democrats only +5",
+      "summary": "Republican pollster John McLaughlin told Newsmax's 'Wake Up America' (aired Oct 12) that McLaughlin & Associates has Republicans trailing just 5 points on the generic congressional ballot, versus the ~8-point Democratic lead in the DDHQ average. He called the Economist/YouGov poll 'ridiculous' for oversampling Democrats, and claimed a re-framed question — free-market Republican vs big-government socialist Democrat — flips the result to Republicans 45-41. Urged the GOP to 'go on offense' on taxes, energy and government size with three weeks left. Single-sourced: only Newsmax has carried his firm's numbers so far.",
+      "source_name": "Newsmax",
+      "source_url": "https://www.newsmax.com/newsmax-tv/john-mclaughlin-patrick-allocco-midterms/2026/10/12/id/1272474",
+      "links": [],
       "image_urls": [
-        "https://i4.ytimg.com/vi/cUdBf325jYU/hqdefault.jpg"
+        "https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "6:27 PM PDT, Oct 13, 2026",
-      "report_time_ist": "6:57 AM IST, Oct 14, 2026",
-      "reported_at_utc": "2026-10-14T01:27:59Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "6:45 PM PDT, Oct 13",
+      "report_time_ist": "7:15 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T01:45:00Z",
       "sentiment": {
-        "democrats": "neutral",
-        "republicans": "negative"
-      }
-    },
-    {
-      "id": "nc-senate-wral-surveyusa-poll-oct13",
-      "event_time_ist": "released Tue, Oct 13, 2026 (reported 11:10 PM IST, Oct 13)",
-      "title": "North Carolina Senate: Cooper +14 in new WRAL/SurveyUSA poll (54-40) \u2014 his strongest result yet",
-      "summary": "Former Gov. Roy Cooper (D) leads former RNC chair Michael Whatley (R) 54% to 40% in a WRAL/WSOC poll conducted by SurveyUSA, released Oct 13 \u2014 Cooper's strongest showing, exceeding the margin of error. A separate Trafalgar Group poll (Oct 12) independently had Cooper ahead 48.8-40.9. The open seat (Sen. Thom Tillis retiring) is critical to Senate control: SLF cancelled $6.5M in NC ad reservations, Trump says he's 'worried' about Whatley, and Tillis endorsed Whatley while warning him against campaigning with Trump. NC early voting begins this week.",
-      "source_name": "The Hill",
-      "source_url": "https://thehill.com/homenews/campaign/6145587-roy-cooper-leads-nc-senate-poll/",
-      "links": [
-        "https://www.griffonnews.com/news/nation/election-2026-cooper-leads-whatley-by-nearly-8-in-newest-poll/article_05fed98f-5b27-50d6-8483-62d4b9ce469c.html"
-      ],
-      "image_urls": [
-        "https://i.abcnewsfe.com/a/edd70847-1818-4fba-9140-22452cb69730/cooper-whatley-ap-gmh-260303_1772589435190_hpMain_16x9.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "6:30 PM PDT, Oct 13, 2026",
-      "report_time_ist": "7:00 AM IST, Oct 14, 2026",
-      "reported_at_utc": "2026-10-14T01:30:08Z",
-      "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative",
-        "trump": "negative"
+        "republicans": "positive",
+        "democrats": "negative"
       }
     }
   ]

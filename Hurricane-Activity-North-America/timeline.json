@@ -1533,8 +1533,30 @@
    "source_url": "https://www.thefloridapress.com/news/fpl-stages-12000-workers-as-isaias-threatens-long-power-outages-in-the-panhandle",
    "summary": "State recovery aid for the Isaias Panhandle (never previously in this feed): FloridaCommerce activated the $10M Florida Small Business Emergency Bridge Loan program (short-term zero-interest loans, applications through Nov 25, 2026 at FloridaJobs.org/DisasterRecovery/EBL); Agriculture Commissioner launched the Agriculture and Aquaculture Producers Natural Disaster Recovery Loan (interest-free, launched Oct 12); SNAP replacement benefits for storm food loss (request by Oct 19 at MyFLFamilies.com/Isaias); Insurance Assistance Hubs opened Oct 12 at UWF Pensacola (Parking Lot B, 11000 University Parkway) and Destin (Morgan Sports Complex, 4200 Indian Bayou Trail), 9 a.m.-4 p.m. Florida National Guard (~2,013 still activated Tuesday): 12,536 cubic acres of debris and 1,700 miles of roadway cleared, 17,441 cases of water + 8,387 MREs + 14,328 ice bags + 9,937 tarps distributed. All state-owned bridges inspected and reopened; 93% of traffic signals working; tolls suspended on Mid-Bay Bridge, Spence Parkway and Garcon Point Bridge. Curbside debris pickup starts Wednesday in Escambia and Santa Rosa (Santa Rosa estimates ~1.7M cubic yards of vegetative debris). Walmart committed $1M in funding and supplies.",
    "title": "Florida rolls out state recovery aid for Isaias Panhandle: $10M zero-interest business loans, farm loans, SNAP replacement, insurance hubs"
+  },
+  {
+   "id": "isaias-verisk-insured-losses-oct13",
+   "event_time_ist": "Oct 13, 2026",
+   "title": "Verisk puts Isaias insured losses at $1B-$2B, first industry estimate",
+   "summary": "Catastrophe modeler Verisk issued its initial industry insured-loss estimate for Hurricane Isaias: $1 billion to $2 billion in onshore property losses, covering wind and privately insured storm surge from the Oct 9 Florida Panhandle landfall; wind accounts for the vast majority of losses. Worst wind damage west of the landfall point, in Santa Rosa and northeastern Escambia counties; in Okaloosa County trees falling onto homes was the main damage mechanism. Precipitation-induced flood losses are not expected to be significant. Artemis notes two other early estimates in the same range: Euler ILS Partners $2B-$4B and Cotality $2B-$3B.",
+   "source_name": "Reuters (Oct 13, 2026)",
+   "source_url": "https://www.reuters.com/legal/litigation/insured-losses-hurricane-isaias-could-reach-2-billion-verisk-says-2026-10-13/",
+   "links": [
+    "https://www.reuters.com/legal/litigation/insured-losses-hurricane-isaias-could-reach-2-billion-verisk-says-2026-10-13/",
+    "https://www.artemis.bm/news/verisk-estimates-hurricane-isaias-insured-onshore-property-losses-in-1bn-to-2bn-range/"
+   ],
+   "image_urls": [
+    "https://www.electric.coop/wp-content/uploads/2026/10/chelco-2-1024x768.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "6:32 PM PDT, Oct 13",
+   "report_time_ist": "7:02 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T01:33:00Z",
+   "sentiment": {
+    "civilians": "negative"
+   }
   }
  ],
- "last_updated_pdt": "4:35 PM PDT, Oct 13",
- "last_updated_ist": "5:05 AM IST, Oct 14"
+ "last_updated_pdt": "6:32 PM PDT, Oct 13",
+ "last_updated_ist": "7:02 AM IST, Oct 14"
 }

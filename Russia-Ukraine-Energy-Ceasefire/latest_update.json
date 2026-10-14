@@ -1,54 +1,30 @@
 {
- "report_time_pdt": "12:23 AM PDT, Oct 14",
- "report_time_ist": "12:53 PM IST, Oct 14",
+ "report_time_pdt": "12:47 AM PDT, Oct 14",
+ "report_time_ist": "01:17 PM IST, Oct 14",
  "items": [
   {
-   "id": "zelensky-demonstrative-disrespect-wednesday",
-   "event_time_ist": "Night of Oct 13 into Oct 14 (overnight strike wave); Zelensky statement Wednesday morning Oct 14",
-   "title": "Zelensky: Russia showed 'demonstrative disrespect' toward Trump with massive overnight energy strike",
-   "summary": "Zelensky said on X Wednesday that the overnight Russian attack on energy infrastructure used 39 ballistic missiles and 120+ attack drones - 'the very infrastructure covered by the ceasefire announced by the American president' - leaving 600,000+ Ukrainians without power and warning outages could become widespread. He said Russia 'does not consider the American president's statements strong' and 'squandered the opportunity for de-escalation.' Separately, presidential adviser Serhiy Beskrestnov claimed SpaceX imposed a Starlink speed limit overnight without warning Ukrainian forces, disrupting air-defense missions - 'cannot be a coincidence'; Ukraine says partners again gave no early warning of ballistic launches. At a White House briefing, spokeswoman Katie Zacharia, asked whether the US had stopped sharing intel with Kyiv, answered: 'I'll have to get back to you.'",
-   "source_name": "The Times",
-   "source_url": "https://www.thetimes.com/world/russia-ukraine-war/article/ukraine-intelligence-us-row-drone-attacks-dhj9qpnz0",
+   "id": "mod-claims-7-energy-facilities-data-centre",
+   "event_time_ist": "Overnight Oct 13-14, 2026 (claim issued Wednesday Oct 14)",
+   "title": "Russia's Defence Ministry claims overnight strikes hit 7 Ukrainian energy facilities and a Kyiv data centre",
+   "summary": "In a Wednesday statement, Russia's Defence Ministry said its forces struck 7 Ukrainian energy facilities plus a Kyiv data centre in a 'massive' overnight attack that it said targeted facilities benefiting Ukraine's military, carried out with ground-launched missiles and long-range strike drones. Named targets: two heat-and-power plants in Kyiv, one more in the wider Kyiv region, a thermal power plant and an electricity substation, a Kharkiv heat-and-power plant, and a thermal plant in southeast Kharkiv region said to supply Ukraine's military; the Kyiv data centre was described as used to gather intelligence on Russian forces. The open admission contrasts with Tuesday's MOD claim that no energy targets were hit and with Peskov's continued 'contacts are ongoing' line, and it undercuts Trump's announced 'energy ceasefire'.",
+   "source_name": "Devdiscourse (syndicated feed)",
+   "source_url": "https://www.devdiscourse.com/article/international/3992041-russia-says-it-struck-7-ukrainian-energy-infrastucture-facilities-and-a-data-centre",
    "links": [
-    "https://www.threads.com/@abcnews/post/DedxeSvjQ3p"
+    "https://occasionaldigest.com/massive-russian-attack-on-ukraine-kills-at-least-six-cuts-power-in-kyiv-news/",
+    "https://www.instagram.com/p/Ded2_OcFMjr/"
    ],
    "image_urls": [
     "https://eurotoday.org/wp-content/uploads/2026/02/ukraine-power-grid-attack-escalates-energy-conflict-kyiv-2026.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "12:23 AM PDT, Oct 14",
-   "report_time_ist": "12:53 PM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T07:17:53Z",
+   "report_time_pdt": "12:47 AM PDT, Oct 14",
+   "report_time_ist": "01:17 PM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T07:47:52Z",
    "sentiment": {
     "russia": "negative",
-    "ukraine": "neutral",
-    "us": "neutral",
-    "civilians": "negative"
-   }
-  },
-  {
-   "id": "zelensky-downing-street-burnham-wednesday",
-   "event_time_ist": "Wednesday Oct 14 (London)",
-   "title": "Zelensky to meet Burnham at Downing Street Wednesday; UK to pledge faster arms, new sanctions",
-   "summary": "Zelensky visits Downing Street Wednesday after what Foreign Secretary Miliband called 'very difficult few days' in relations with Washington over Trump's diesel deal with Moscow. Burnham is expected to announce accelerated military support - faster deliveries of British lightweight multirole missiles effective against Russian jet-powered drones - and further rounds of sanctions on Russia. Chancellor Healey will use Monday's IMF meetings in Bangkok to urge allies to ban Russian LNG. Burnham phoned Zelensky Saturday to express 'complete solidarity'; the PM says UK support is 'rock solid.'",
-   "source_name": "The Times (PA wire)",
-   "source_url": "http://www.leighjournal.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/",
-   "links": [
-    "https://www.theoldhamtimes.co.uk/news/national/26634139.burnham-meet-zelensky-wake-trumps-diesel-deal-moscow/?ref=rss",
-    "https://newsline24.online/burnham-zelensky-trump-russia-diesel-deal-b3066176-html/"
-   ],
-   "image_urls": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "12:23 AM PDT, Oct 14",
-   "report_time_ist": "12:53 PM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T07:17:53Z",
-   "sentiment": {
-    "ukraine": "positive",
-    "us": "neutral",
-    "eu": "positive",
-    "russia": "negative"
+    "ukraine": "negative",
+    "civilians": "negative",
+    "us": "negative"
    }
   }
  ]

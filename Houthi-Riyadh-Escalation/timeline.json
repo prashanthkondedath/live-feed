@@ -1226,6 +1226,48 @@
         "saudi_govt": "positive",
         "civilians": "neutral"
       }
+    },
+    {
+      "id": "aramco-ceo-office-hit-oct14",
+      "event_time_ist": "Tuesday night, Oct 13, 2026 (Saudi local time); officials' account reported Wednesday, Oct 14",
+      "title": "AP: Aramco chief executive's office among those hit in Tuesday-night Dhahran strike",
+      "summary": "Two regional officials told the AP on Wednesday that the top three floors of the building used by senior Aramco executives in the Dhahran headquarters complex were damaged in Tuesday night's Houthi strike - and that the office of Aramco's chief executive was among those hit. No casualties. The Energy Ministry confirmed an attack on an administrative building causing a 'limited fire'. Aramco did not respond to a request for comment; the Saudi Center for International Communication said it was looking into the matter. Corroborated by AP wire carried in Newsmax and Reflector.",
+      "source_name": "AP via Newsmax",
+      "source_url": "https://www.newsmax.com/newsfront/houthis-aramco-saudi-arabia/2026/10/14/id/1272697",
+      "links": [
+        "https://www.reflector.com/news/national/houthis-struck-saudi-oil-giant-aramcos-headquarters-overnight-regional-officials-say/article_884774e9-b038-5ea5-ac40-032e139babb8.html"
+      ],
+      "image_urls": [
+        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "04:53 AM PDT, Oct 14",
+      "report_time_ist": "05:23 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T11:53:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative"
+      }
+    },
+    {
+      "id": "houthi-ceasefire-outreach-oct14",
+      "event_time_ist": "Wednesday, Oct 14, 2026 (AP interview)",
+      "title": "Senior Houthi official says Oman, Russia and China are pushing for a ceasefire deal",
+      "summary": "Mohamed al-Bukhaiti, a member of the Houthis' political bureau, told the AP on Wednesday that Oman has tried to get both sides back to the negotiating table and that Russia and China also reached out via Iran in search of a ceasefire deal. 'We're welcoming any mediation that leads to an end of the war and the blockade between Sanaa and Riyadh,' he said, adding the Houthis are ready for a comprehensive end of the war, not just a temporary ceasefire. Single-sourced (direct AP interview).",
+      "source_name": "AP via Reflector",
+      "source_url": "https://www.reflector.com/news/national/houthis-struck-saudi-oil-giant-aramcos-headquarters-overnight-regional-officials-say/article_884774e9-b038-5ea5-ac40-032e139babb8.html",
+      "links": [],
+      "image_urls": [
+        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "04:53 AM PDT, Oct 14",
+      "report_time_ist": "05:23 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T11:53:00Z",
+      "sentiment": {
+        "houthis": "positive",
+        "saudi_govt": "neutral"
+      }
     }
   ]
 }

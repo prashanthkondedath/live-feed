@@ -14,8 +14,8 @@
           "label": "New Delhi"
         }
       ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T04:00:54Z",
+      "trend": "warm",
+      "trend_updated_at_utc": "2026-10-14T04:59:54Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 237,
@@ -51,7 +51,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T04:00:54Z"
+        "updated_at_utc": "2026-10-14T04:59:54Z"
       },
       "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders out of Jaffarpur Kalan police station; they were brought to Parliament Street police station at ~3 AM, and on Wednesday morning Oct 14 the SEM court at Mandir Marg remanded Das and Ranka to 5 days' judicial custody — Ajinkya Shinde was released on a personal bond, per LiveLaw. Dipke's first response dared Modi to 'declare an Emergency'; the CJP's official handle called Das and Ranka the 'first in their bloodline to be jailed for unfurling the national flag' and warned 'Emergency 2.0' is here.",
       "watch_for": [
@@ -120,7 +120,7 @@
         "single-sourced": 140,
         "unconfirmed": 8,
         "confirmed_rate": 0.38,
-        "updated_at_utc": "2026-10-14T04:00:54Z"
+        "updated_at_utc": "2026-10-14T04:59:54Z"
       },
       "phase": "standoff"
     },
@@ -670,5 +670,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T04:58:55Z"
+  "updated_at_utc": "2026-10-14T04:59:54Z"
 }

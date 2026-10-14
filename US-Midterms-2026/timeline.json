@@ -960,8 +960,111 @@
       "source_url": "https://www.azcentral.com/story/news/politics/elections/2026/10/08/donald-trump-arizona-midterm-election-rally/92162608007/",
       "summary": "Trump's red-state blitz continues Wed Oct 14 with two rallies missed by earlier sweeps: Bullhead City, AZ (Laughlin Bullhead Int'l Airport; doors 9:30 AM, remarks ~1 PM local) with GOP governor nominee Andy Biggs \u2014 Arizona is one of five Dem-held governorships in Trump-2024 states; then Kalispell, MT (Majestic Valley Arena, remarks ~6:15 PM local) for Aaron Flint in the tight MT-1 House race vs Sam Forstag (replacing retiring Rep. Ryan Zinke). Mohave County went 77% Trump in 2024; Trump's day begins in Las Vegas. Falls on a week when Trump's approval is at its lowest per polls and GOP strategists say the national map is being contested seat-by-seat.",
       "title": "Trump double-header Wednesday: Bullhead City, AZ (with Biggs) then Kalispell, MT (for Flint in tight MT-1)"
+    },
+    {
+      "id": "mn-gov-mason-dixon-klobuchar-50-41-oct13",
+      "event_time_ist": "Oct 13, 2026 (poll released; field dates not reported)",
+      "title": "Star Tribune/KARE 11 poll (Mason-Dixon): Klobuchar leads Demuth 50-41 for Minnesota governor",
+      "summary": "New Mason-Dixon poll for Star Tribune/KARE 11 finds Amy Klobuchar (D) leading Lisa Demuth (R) 50%-41% among likely voters (+/-3.5) in the Minnesota governor's race; the same poll shows AG Keith Ellison (D) ahead of Ron Schutz (R) 48%-40%. Klobuchar's lead is narrower than the 16-point post-primary SurveyUSA read (Sept 18).",
+      "source_name": "Pluribus News",
+      "source_url": "https://pluribusnews.com/news-and-events/pluribus-am-new-polls-in-new-mexico-minnesota-ohio/",
+      "links": [
+        "https://politicalwire.com/2026/10/13/amy-klobuchar-hits-50-for-minnesota-governor/"
+      ],
+      "image_urls": [
+        "https://arc.stimg.co/startribunemedia/WQPAMDTAHC6D3Q3M6AMEVJZAHM.jpg?&w=1200&ar=1.91:1&fit=crop"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:35 PM PDT, Oct 13",
+      "report_time_ist": "9:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:35:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "ohio-gov-poll-split-ramaswamy-loan-oct13",
+      "event_time_ist": "Oct 13, 2026 (roundup; poll release dates vary)",
+      "title": "Ohio governor polls split: GOP-leaning pollsters show Ramaswamy ahead, others show Acton ahead",
+      "summary": "Two Republican-leaning pollsters diverge from the consensus: co/efficient has Vivek Ramaswamy (R) up 45-43 and Big Data 46-44 over Amy Acton (D), while USA Today/Suffolk has Acton up 50-41 and YouGov/Bowling Green State 48-45. Ramaswamy loaned his campaign another $5M after Acton outraised him nearly 2-to-1 in September (Ohio Capital Journal).",
+      "source_name": "Pluribus News",
+      "source_url": "https://pluribusnews.com/news-and-events/pluribus-am-new-polls-in-new-mexico-minnesota-ohio/",
+      "links": [],
+      "image_urls": [
+        "https://static.notus.org/dims4/default/85f7c51/2147483647/strip/true/crop/8463x4760+0+441/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F30%2Fca%2Fe7d0cef44ed78a1c5bb5369503d2%2Fap25055850495721.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:35 PM PDT, Oct 13",
+      "report_time_ist": "9:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:35:00Z",
+      "sentiment": {
+        "democrats": "neutral",
+        "republicans": "neutral"
+      }
+    },
+    {
+      "id": "rga-vermont-400k-scott-oct13",
+      "event_time_ist": "Oct 13, 2026 (reported)",
+      "title": "RGA spends in Vermont for first time since 2018: $400K super PAC buy backing Gov. Phil Scott",
+      "summary": "The Republican Governors Association dropped $400,000 into a super PAC supporting Gov. Phil Scott (R) for online and TV ads against economist Amanda Janoo (D) - the first RGA spending in Vermont since 2018, signaling the race is genuinely competitive despite the state's GOP-leaning governor history (Vermont Public).",
+      "source_name": "Pluribus News",
+      "source_url": "https://pluribusnews.com/news-and-events/pluribus-am-new-polls-in-new-mexico-minnesota-ohio/",
+      "links": [],
+      "image_urls": [
+        "https://i0.wp.com/www.sevendaysvt.com/wp-content/uploads/2015/12/12-01-15_phil_scott537a1000-scaled.webp?fit=2560%2C1707&ssl=1"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:35 PM PDT, Oct 13",
+      "report_time_ist": "9:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:35:00Z",
+      "sentiment": {
+        "republicans": "positive",
+        "democrats": "negative"
+      }
+    },
+    {
+      "id": "collins-pac-wrong-portland-oct12",
+      "event_time_ist": "Oct 8-11, 2026 (ad run; reported Oct 12)",
+      "title": "Pro-Collins super PAC's $25K ad buy ran in Portland, Oregon instead of Portland, Maine",
+      "summary": "Defending Main Street SuperPAC's media vendor (Cross Screen Media) placed ~$25K of digital ads attacking Democratic Senate nominee Troy Jackson in the Portland, OREGON market (Oct 8-11, 1M+ impressions per Google Ads Transparency Center) instead of Portland, Maine. The error was flagged by viewers; the PAC's president said she was 'absolutely furious,' the ads were pulled and fully refunded, and the spots now run in Maine. Troy Jackson mocked the mix-up on X.",
+      "source_name": "USA Today",
+      "source_url": "https://www.usatoday.com/story/news/politics/elections/2026/10/12/portland-oregon-maine-susan-collins-ad-mixup/92222391007/",
+      "links": [
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4763316/susan-collins-pac-spends-thousands-troy-jackson-wrong-portland/"
+      ],
+      "image_urls": [
+        "https://npr.brightspotcdn.com/dims4/default/d62ec8d/2147483647/strip/true/crop/2655x1394+0+251/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2Fd0%2F3bd2022648b1a60404f7534a9cfd%2Fcollins-jackson.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:35 PM PDT, Oct 13",
+      "report_time_ist": "9:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:35:00Z",
+      "sentiment": {
+        "republicans": "negative",
+        "democrats": "positive"
+      }
+    },
+    {
+      "id": "nm-early-voting-oct13-update",
+      "event_time_ist": "Oct 13, 2026 (SoS participation report)",
+      "title": "New Mexico early voting hits 29,786 ballots statewide through Oct 13",
+      "summary": "New Mexico Secretary of State participation reports (released Oct 13): 29,786 ballots cast statewide since early voting began Oct 6 (27,122 in-person + 2,664 absentee); Bernalillo leads with 4,036, then Dona Ana 3,532 (Dems 2,169 / Reps 843 / unaffiliated 508) and Santa Fe 3,092. 81,153 absentee ballots requested statewide; expanded early voting sites open Oct 17-31.",
+      "source_name": "Organ Mountain News",
+      "source_url": "https://www.organmountainnews.com/dona-ana-county-early-voting-turnout-2026-general-election/",
+      "links": [],
+      "image_urls": [
+        "https://nm.news/wp-content/uploads/2025/10/Rer_earlyvoting05-400x312.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:35 PM PDT, Oct 13",
+      "report_time_ist": "9:05 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T03:35:00Z",
+      "sentiment": {
+        "voters": "positive"
+      }
     }
   ],
-  "report_time_pdt": "6:27 PM PDT, Oct 13, 2026",
-  "report_time_ist": "6:57 AM IST, Oct 14, 2026"
+  "report_time_pdt": "8:35 PM PDT, Oct 13",
+  "report_time_ist": "9:05 AM IST, Oct 14"
 }

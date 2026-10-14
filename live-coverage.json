@@ -15,20 +15,20 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T02:07:04Z",
+      "trend_updated_at_utc": "2026-10-14T02:46:47Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 232,
+        "items_in_window": 233,
         "sides": {
           "cjp_protesters": {
             "positive": 85,
-            "negative": 19,
+            "negative": 20,
             "neutral": 2,
             "overall": "positive"
           },
           "police_govt": {
             "positive": 8,
-            "negative": 113,
+            "negative": 114,
             "neutral": 21,
             "overall": "negative"
           },
@@ -51,7 +51,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T02:07:04Z"
+        "updated_at_utc": "2026-10-14T02:46:47Z"
       },
       "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders — Ranka, Das and others — out of Jaffarpur Kalan police station; CJP legal head Ratna Singh says the trio are under preventive arrest on charges including bond violation, will be produced in court Wednesday Oct 14, and could be sent to Tihar in judicial custody.",
       "watch_for": [
@@ -115,12 +115,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 232,
-        "confirmed": 86,
+        "items_in_window": 233,
+        "confirmed": 87,
         "single-sourced": 138,
         "unconfirmed": 8,
         "confirmed_rate": 0.37,
-        "updated_at_utc": "2026-10-14T02:07:04Z"
+        "updated_at_utc": "2026-10-14T02:46:47Z"
       },
       "phase": "standoff"
     },
@@ -662,5 +662,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T02:42:41Z"
+  "updated_at_utc": "2026-10-14T02:46:47Z"
 }

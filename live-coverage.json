@@ -391,14 +391,14 @@
         }
       ],
       "trend": "emerging",
-      "trend_updated_at_utc": "2026-10-14T15:53:35Z",
+      "trend_updated_at_utc": "2026-10-14T19:56:47Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 81,
+        "items_in_window": 82,
         "sides": {
           "civilians": {
             "positive": 14,
-            "negative": 50,
+            "negative": 51,
             "neutral": 10,
             "overall": "negative"
           },
@@ -411,7 +411,7 @@
           "us_govt": {
             "positive": 6,
             "negative": 0,
-            "neutral": 8,
+            "neutral": 9,
             "overall": "neutral"
           },
           "energy_markets": {
@@ -421,7 +421,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-14T15:53:35Z"
+        "updated_at_utc": "2026-10-14T19:56:47Z"
       },
       "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened — NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend — while damage tallies keep rising across Guerrero, Colima and Baja California Sur, with Ensenada's death toll from Tropical Cyclone Rachel's remnant flooding reaching 7 on Tuesday Oct 13. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B–$2B for onshore property. DeSantis also raised Florida's storm-related death toll to six; by Wednesday Oct 14 the storm-wide toll reached nine, after the Greenwood County coroner reported 67-year-old Christopher John Miller died Oct 11 when a tree fell on his home in Ninety Six, South Carolina, during Isaias's remnants; by Wednesday morning Oct 14, just over 20,000 customers remained without power — mainly Escambia and Santa Rosa counties — down from 45,000+ Tuesday. Wednesday's NHC updates (Oct 14): Hurricane Simon dipped to 105 mph and drifted southwestward — NHC calls it 'compact' — keeping the weekend coast-approach threat for Sonora; Tropical Storm Trudy strengthened to 50 mph with the track shifted west, and is now expected to reach hurricane strength within 24 hours. Latest NHC advisories (Wed Oct 14, 8-9 AM MST/CST): Hurricane Simon weakened to 90 mph (Category 1), drifting southwestward; Mexico dropped its last coastal watch, leaving no coastal watches or warnings in effect for now, though Baja California Sur watches may be required in the next day or two; Tropical Storm Trudy strengthened to 60 mph and is now expected to become a hurricane tonight and a major hurricane by Friday.",
       "watch_for": [
@@ -457,12 +457,12 @@
       "trend_direction": "falling",
       "verification": {
         "window": "7d",
-        "items_in_window": 81,
+        "items_in_window": 82,
         "confirmed": 49,
-        "single-sourced": 32,
+        "single-sourced": 33,
         "unconfirmed": 0,
         "confirmed_rate": 0.6,
-        "updated_at_utc": "2026-10-14T15:53:35Z"
+        "updated_at_utc": "2026-10-14T19:56:47Z"
       },
       "phase": "intensifying"
     },
@@ -698,5 +698,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T19:04:58Z"
+  "updated_at_utc": "2026-10-14T19:56:47Z"
 }

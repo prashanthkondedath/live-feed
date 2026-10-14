@@ -1571,6 +1571,27 @@
         "trump": "neutral",
         "voters": "negative"
       }
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "published Oct 13, 2026 (5:23 PM IST)",
+      "id": "ohio-sw-inperson-surge-oct13",
+      "image_urls": [
+        "https://www.whbc.com/wp-content/uploads/2026/04/GettyImages-1240419679-scaled-e1775576721169.jpg?icb=1780516090"
+      ],
+      "links": [],
+      "report_time_ist": "12:58 PM IST, Oct 14, 2026",
+      "report_time_pdt": "12:28 AM PDT",
+      "reported_at_utc": "2026-10-14T07:28:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "voters": "positive"
+      },
+      "source_name": "WLWT 5 (Cincinnati, NBC)",
+      "source_url": "https://www.facebook.com/wlwt5/posts/pfbid0ey6HH4sXFXsgsFPuJ2A86euf4Uy7xqbfjxk9vqmL9dTXuNwWpl",
+      "summary": "WLWT (NBC, Cincinnati) reports in-person early voting in southwest Ohio rose sharply across the first four early-voting days, outpacing the 2022 midterms; Hamilton County commenters cite Democrats casting 56% of in-person ballots Tue-Fri. Adds to the Ohio picture already in the feed (SoS tally: 228,470 statewide through ~Oct 12; CNN/Catalist: Dems overperforming even in Trump-friendly counties). Single-sourced - local-station original, no second outlet yet.",
+      "title": "In-person early voting rises sharply in southwest Ohio"
     }
   ],
   "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",

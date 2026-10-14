@@ -1686,6 +1686,26 @@
         "republicans": "negative",
         "voters": "neutral"
       }
+    },
+    {
+      "id": "hamilton-10-6m-q3-haul",
+      "event_time_ist": "Oct 13, 2026 (~4:36 PM ET / 2:06 AM IST Oct 14, report published)",
+      "title": "Kansas Senate: Adam Hamilton raised $10.6M in Q3",
+      "summary": "Kansas Democrat Adam Hamilton raised $10.6 million in the third quarter of 2026 across his Senate campaign and joint fundraising committees, per Politico (via Political Wire, Oct 13). Politico frames it as Democrats' 'newfound bullishness' about flipping a Kansas Senate seat for the first time since 1932. Context: the race was recently shifted to Cook Toss Up / MS NOW Lean R, SLF has reserved $8.2M+ for Sen. Marshall, and SMP is running a $5M ad blitz for Hamilton. Single-sourced (Politico original + Political Wire retelling is one reporting chain).",
+      "source_name": "Political Wire (citing Politico)",
+      "source_url": "https://politicalwire.com/2026/10/13/adam-hamilton-reports-10-6-million-q3-haul/",
+      "links": [],
+      "image_urls": [
+        "https://mycharisma.com/wp-content/uploads/2026/08/Adam-Hamilton-Facebook.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "3:58 PM PDT, Oct 14",
+      "report_time_ist": "4:28 AM IST, Oct 15",
+      "reported_at_utc": "2026-10-14T10:58:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
     }
   ],
   "report_time_pdt": "12:16 AM PDT, Oct 14, 2026",

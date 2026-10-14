@@ -144,10 +144,10 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T06:52:45Z",
+      "trend_updated_at_utc": "2026-10-14T07:07:45Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 50,
+        "items_in_window": 51,
         "sides": {
           "civilians": {
             "positive": 2,
@@ -157,15 +157,15 @@
           },
           "houthis": {
             "positive": 2,
-            "negative": 35,
+            "negative": 36,
             "neutral": 3,
             "overall": "negative"
           },
           "saudi_govt": {
             "positive": 16,
-            "negative": 15,
+            "negative": 16,
             "neutral": 9,
-            "overall": "positive"
+            "overall": "mixed"
           },
           "us": {
             "positive": 1,
@@ -174,7 +174,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-14T06:52:45Z"
+        "updated_at_utc": "2026-10-14T07:07:45Z"
       },
       "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24. Turkey's Erdogan called MBS on Tuesday to condemn the Houthi attacks and pledged continued support, while Trump called the Houthis 'behaving very badly' and said he may ask Erdogan to help Saudi Arabia.",
       "watch_for": [
@@ -230,12 +230,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 50,
-        "confirmed": 30,
+        "items_in_window": 51,
+        "confirmed": 31,
         "single-sourced": 20,
         "unconfirmed": 0,
-        "confirmed_rate": 0.6,
-        "updated_at_utc": "2026-10-14T06:52:45Z"
+        "confirmed_rate": 0.61,
+        "updated_at_utc": "2026-10-14T07:07:45Z"
       },
       "phase": "escalation"
     },
@@ -686,5 +686,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T06:52:45Z"
+  "updated_at_utc": "2026-10-14T07:07:45Z"
 }

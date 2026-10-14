@@ -264,32 +264,32 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T07:18:15Z",
+      "trend_updated_at_utc": "2026-10-14T07:48:17Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 37,
+        "items_in_window": 38,
         "sides": {
           "russia": {
             "positive": 3,
-            "negative": 22,
+            "negative": 23,
             "neutral": 10,
             "overall": "negative"
           },
           "ukraine": {
             "positive": 10,
-            "negative": 12,
+            "negative": 13,
             "neutral": 7,
             "overall": "negative"
           },
           "us": {
             "positive": 4,
-            "negative": 5,
+            "negative": 6,
             "neutral": 14,
             "overall": "neutral"
           },
           "civilians": {
             "positive": 2,
-            "negative": 13,
+            "negative": 14,
             "neutral": 1,
             "overall": "negative"
           },
@@ -306,7 +306,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-14T07:18:15Z"
+        "updated_at_utc": "2026-10-14T07:48:17Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) — now confirmed by Kyiv Independent — marks the clearest sign yet the 'energy ceasefire' is not holding. Wednesday morning Oct 14 brought further strikes on both sides: Reuters reported Mayor Vitali Klitschko saying Russian air strikes killed one person and injured one more in Kyiv while hitting energy facilities, and a Ukrainian drone attack killed one person and damaged houses in Balakovo in Russia's Saratov region, per the governor. On Wednesday Oct 14, Zelensky said the overnight Russian attack used 39 ballistic missiles and 120+ attack drones — 'demonstrative disrespect' toward Trump's ceasefire claim — leaving 600,000+ Ukrainians without power; he is meeting UK PM Andy Burnham at Downing Street on Wednesday, with Burnham expected to pledge faster arms deliveries and new sanctions.",
       "watch_for": [
@@ -358,12 +358,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 37,
-        "confirmed": 35,
+        "items_in_window": 38,
+        "confirmed": 36,
         "single-sourced": 2,
         "unconfirmed": 0,
         "confirmed_rate": 0.95,
-        "updated_at_utc": "2026-10-14T07:18:15Z"
+        "updated_at_utc": "2026-10-14T07:48:17Z"
       },
       "phase": "contested-ceasefire"
     },
@@ -690,5 +690,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T07:42:28Z"
+  "updated_at_utc": "2026-10-14T07:48:17Z"
 }

@@ -1179,6 +1179,52 @@
         "iran": "negative",
         "us": "positive"
       }
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Evening of Oct 13, 2026 local time (Wasilla, Alaska; overnight Tuesday, published 04:24 UTC Oct 14)",
+      "id": "trump-alaska-hit-them-hard",
+      "image_urls": [
+        "https://matzav.com/wp-content/uploads/2026/10/trump-4-696x391.jpg"
+      ],
+      "links": [
+        "https://jbiznews.com/were-going-to-hit-them-hard-trump-threatens-iran-as-tehran-escalates-shipping-attacks/",
+        "https://www.newsbeep.com/769783/"
+      ],
+      "report_time_ist": "2026-10-14 11:26 AM IST",
+      "report_time_pdt": "2026-10-13 10:56 PM PDT",
+      "reported_at_utc": "2026-10-14T05:56:06Z",
+      "sentiment": {
+        "iran": "negative",
+        "us": "negative"
+      },
+      "source_name": "JFeed",
+      "source_url": "https://www.jfeed.com/news-world/tmvqx7",
+      "summary": "At a campaign rally in Wasilla, Alaska (campaigning for Sen. Dan Sullivan), Trump declared: \"Wait and see what we do to Iran. We're going to hit them hard... because we're pretty much fed up.\" He called Iran \"a failed state\" with 300% inflation that \"doesn't pay its soldiers,\" said a decision on Iran comes \"very soon,\" claimed Iran's nuclear facilities are buried under \"thousands of tons of rock\" and that Tehran was two weeks from a bomb. A sharp rhetorical break from his Oct 8 \"no strikes before the midterms\" line.",
+      "title": "Trump threatens Iran at Alaska rally: \"We're going to hit them hard\""
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Reported Oct 13, 2026 (conversations took place last week)",
+      "id": "axios-trump-netanyahu-renewed-strikes",
+      "image_urls": [
+        "https://www.whitehouse.gov/wp-content/uploads/2025/07/p20250707dt-0134_54639879622_o.jpg?resize=1536,1024"
+      ],
+      "links": [
+        "https://srnnews.com/the-media-line-netanyahu-president-trump-discuss-renewed-iran-strikes-ahead-of-elections/",
+        "https://zambianobserver.com/trump-netanyahu-discussed-possible-iran-operation-before-elections-axios/"
+      ],
+      "report_time_ist": "2026-10-14 11:26 AM IST",
+      "report_time_pdt": "2026-10-13 10:56 PM PDT",
+      "reported_at_utc": "2026-10-14T05:56:06Z",
+      "sentiment": {
+        "iran": "negative",
+        "us": "neutral"
+      },
+      "source_name": "Matzav (carrying Axios/Channel 12 reporting)",
+      "source_url": "https://matzav.com/war-before-the-elections-netanyahu-reportedly-urged-trump-to-launch-new-iran-offensive-as-idf-chief-warns-of-election-disruption/",
+      "summary": "Axios (Barak Ravid, 4 sources: 2 US officials, 1 Israeli official, 1 with knowledge) reported Trump and Netanyahu discussed last week a major new operation against Iran before Israel's Oct 27 election and the US Nov 3 midterms. Netanyahu cited worrying Iranian nuclear rebuild steps (incl. possible Pickaxe Mountain enrichment site); Trump told him to \"go ahead and get ready\" but made no commitment. IDF and CENTCOM are on alert finalizing preparations (heavy bombing of energy infrastructure + nuclear targets); Hegseth and CENTCOM leaders are the strongest advocates, most Trump advisers prefer economic pressure. IDF chief Zamir told Joint Chiefs Chairman Caine renewed fighting within three weeks could force postponing Israel's Oct 27 election. White House official called the report \"false\" (reiterating no pre-midterm strikes); Israeli PMO denied Netanyahu pressured Trump.",
+      "title": "Axios: Trump and Netanyahu discussed renewed Iran operation before elections"
     }
   ],
   "last_updated_pdt": "1:12 PM PDT, Oct 13, 2026",

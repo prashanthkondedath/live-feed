@@ -1,1 +1,27 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Released Oct 13, 2026 (1:42 AM IST, Oct 14 per Phoenix Focal byline)","id":"az-highground-statewide-poll-oct13","image_urls":["https://cdn.koevoice.com/images/focalnews/branded/fe7fa321163e48d194e22837771d1075/og.jpg"],"links":["https://focalnews.org/phoenix-az/politics/arizona-democrats-lead-statewide-contests-in-new-poll-with-independents-boosting-hobbs","https://politicalwire.com/2026/10/13/katie-hobbs-way-up-in-arizona-governors-race/"],"report_time_ist":"10:42 AM IST, Oct 14","report_time_pdt":"10:12 PM PDT, Oct 13","reported_at_utc":"2026-10-14T05:12:32Z","sentiment":{"democrats":"positive","republicans":"negative"},"source_name":"HighGround Public Affairs (pollster release, via Phoenix Focal)","source_url":"https://azhighground.com/hurricane-season-for-arizona-republicans/","summary":"HighGround Public Affairs survey of 400 likely Arizona voters (MoE +/-4.9), released Oct 13: Gov. Katie Hobbs (D) leads Rep. Andy Biggs (R) 50.5% to 33.7% (+16.8); Dems lead all five statewide contests tested — AG Kris Mayes +15 over Warren Petersen, SoS Adrian Fontes +12 over Alexander Kolodin, treasurer Nick Mansour +9 over Elijah Norton, SPI Teresa Leyba Ruiz +6.4 over Kimberly Yee. Republican candidates are getting only 68-75% of GOP voters while Hobbs takes independents 58-20.5, even under HighGround's R+8 electorate assumption. Pollster Chuck Coughlin calls it 'hurricane season for Arizona Republicans'; pollster says numbers will likely narrow before Election Day.","title":"HighGround AZ poll: Hobbs +16.8 over Biggs; Democrats lead all 5 statewide races"},{"confidence":"single-sourced","event_time_ist":"Planned for Wed, Oct 21, 2026 (reported Oct 13, 2026 ~10:12 PM PDT / Oct 14 10:42 AM IST)","id":"trump-sc-greenville-rally-oct21","image_urls":["https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"],"links":[],"report_time_ist":"10:42 AM IST, Oct 14","report_time_pdt":"10:12 PM PDT, Oct 13","reported_at_utc":"2026-10-14T05:12:32Z","sentiment":{"republicans":"positive","trump":"positive"},"source_name":"MS NOW","source_url":"https://biztoc.com/x/08c5164895c2afc3","summary":"MS NOW (Oct 13, four sources) reports Trump is finalizing plans to rally with Sen. Darline Graham in Greenville, SC on Wed, Oct 21 — venue TBA, plans subject to change — as the SC Senate race tightens (Rasmussen: Graham 49, Andrews 45). It would extend his rally blitz with back-to-back Carolinas stops (Greenville, NC on Oct 20; Greenville, SC on Oct 21) following Oct 17 KY, Oct 19 KS, Oct 16 GA, and tomorrow's Oct 14 AZ + MT double-header. Senate Leadership Fund is spending $5M on Graham; Trump has already attacked Dem Annie Andrews on social media. Only MS NOW has original reporting so far (biztoc reprint + Wikipedia citing it count as the same story) — treating as single-sourced.","title":"Trump finalizing plans for Oct 21 Greenville, SC rally with Sen. Darline Graham"}],"report_time_ist":"10:42 AM IST, Oct 14","report_time_pdt":"10:12 PM PDT, Oct 13"}
+{
+  "report_time_pdt": "10:28 PM PDT, Oct 13",
+  "report_time_ist": "10:58 AM IST, Oct 14",
+  "items": [
+    {
+      "id": "newsom-new-hampshire-oct17",
+      "event_time_ist": "Sat, Oct 17, 2026",
+      "title": "Newsom to campaign across New Hampshire on Saturday, Oct 17 for midterm Democrats",
+      "summary": "Gov. Gavin Newsom (D-CA) will campaign across New Hampshire on Saturday, Oct 17, 2026 - voter rallies, canvassing launches and fundraisers - including an Exeter voter-mobilization event with Senate candidate Rep. Chris Pappas, a Nashua canvassing launch with Pappas and gubernatorial nominee Cinde Warmington at a field office funded via Newsom's political arm, and an evening meet-and-greet with congressional candidate Stefany Shaheen. His team says he has raised $6.5M+ for Democrats nationally this cycle and funneled $526K+ to NH Democrats via 23,500+ contributions. The visit doubles as early 2028 positioning: the DNC's approved 2028 calendar puts NH third, after SC and NV. Reported Oct 13 (NY Post, 8:27 pm ET); Pluribus AM cites WMUR.",
+      "source_name": "New York Post",
+      "source_url": "https://nypost.com/2026/10/13/us-news/gavin-newsom-to-parachute-back-into-new-hampshire-ahead-of-midterm-elections/",
+      "links": [
+        "https://pluribusnews.com/news-and-events/pluribus-am-new-polls-in-new-mexico-minnesota-ohio/"
+      ],
+      "image_urls": [
+        "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-11/251111-gavin-newsom-lr-d87466.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "10:28 PM PDT, Oct 13",
+      "report_time_ist": "10:58 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T05:28:00Z",
+      "sentiment": {
+        "democrats": "positive"
+      }
+    }
+  ]
+}

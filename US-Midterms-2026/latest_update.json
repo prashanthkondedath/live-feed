@@ -1,29 +1,28 @@
 {
-  "report_time_pdt": "9:01 AM PDT, Oct 14",
-  "report_time_ist": "9:31 PM IST, Oct 14",
+  "report_time_pdt": "9:12 AM PDT, Oct 14",
+  "report_time_ist": "9:42 PM IST, Oct 14",
   "items": [
     {
-      "id": "stetson-fl-oct-poll-donalds-jolly",
-      "event_time_ist": "Poll released Tue, Oct 13, 2026 (reported Oct 14, 2026)",
-      "title": "New Stetson October Florida poll: Donalds +11 for governor, Moody +11 for Senate",
-      "summary": "Stetson University's Center for Public Opinion Research released its October Florida poll (826 adults, 716 registered voters, MoE +/-4.2): Byron Donalds (R) leads David Jolly (D) 52-41 for governor and Sen. Ashley Moody (R) leads Angie Nixon (D) 52-41 in the Senate race; Florida GOP leads the generic House ballot 50-41. Trump's Florida approval is 50-49 (vs Pew national 30%, Oct 8); DeSantis favorability 55%. Amendment 3 (property-tax exemption) sits at 56%, below the 60% passage threshold. Caveats: Florida Politics analyst Steve Vancore criticized the opt-in online panel ('too many Trump voters by ~5 pts'); the September Stetson poll had drawn the same critique and was held unconfirmed by this watch. The numbers track other recent surveys (James Madison Institute Oct 9: Donalds +10; NBC6/Telemundo/Mason-Dixon: Donalds 48-41, Moody 50-40) but clash with a Change Research (D) poll showing the governor's race tied 47-47 on Oct 12 and DDHQ's recent toss-up reclassification.",
-      "source_name": "Daytona Beach News-Journal (USA Today network)",
-      "source_url": "https://www.news-journalonline.com/story/news/politics/elections/2026/10/14/stetsons-latest-poll-tracks-trumps-favorability-in-florida/92236301007/",
+      "id": "ap-new-voting-laws-gop-states-oct12",
+      "event_time_ist": "Published Oct 12, 2026",
+      "title": "AP investigation: 3+ dozen new voting laws taking effect this year in GOP states, many mirroring Trump's stalled federal proposals",
+      "summary": "An AP investigation by Gary Fields and Julie Carr Smyth (published Mon, Oct 12) found more than three dozen voting laws passed in Republican-controlled states taking effect for the first time this year: tougher voter-ID rules, proof-of-citizenship requirements, stricter mail-in ballot deadlines and new voter-roll maintenance procedures. Trump's federal pushes (proof-of-citizenship law, national voter-ID executive order, USPS mail-voting limits) failed to clear Congress/courts in time; conservative state legislatures advanced their own versions. Brennan Center identified nearly 40 laws in 21 states that make it harder for eligible voters to register, stay on the rolls or cast ballots; supporters call them common-sense safeguards.",
+      "source_name": "Political Wire (via Associated Press investigation)",
+      "source_url": "https://politicalwire.com/2026/10/12/voters-in-many-states-are-being-met-with-new-voting-rules/",
       "links": [
-        "https://politicalwire.com/2026/10/13/republicans-hold-solid-lead-in-florida-races/",
-        "https://cybernistas.com/general/poll-donalds-moody-hold-double-digit-leads-in-florida-races/"
+        "https://politicalwire.com/2026/10/12/voters-in-many-states-are-being-met-with-new-voting-rules/",
+        "https://www.breakingnownews.com/ap-reports-new-voting-rule-changes-in-gop-states-ahead-of-the-midterms-432044"
       ],
       "image_urls": [
-        "https://cybernistas.com/wp-content/uploads/2026/10/407467-poll-donalds-moody-hold-double-digit-leads-in-florida-races.jpg"
+        "https://bipartisanpolicy.org/wp-content/uploads/2023/03/Primary-Turnout-Report_image-1024x726.jpg"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "9:01 AM PDT, Oct 14",
-      "report_time_ist": "9:31 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T16:01:00Z",
+      "confidence": "confirmed",
+      "report_time_pdt": "9:12 AM PDT, Oct 14",
+      "report_time_ist": "9:42 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T16:12:00Z",
       "sentiment": {
-        "democrats": "negative",
         "republicans": "positive",
-        "trump": "positive"
+        "democrats": "negative"
       }
     }
   ]

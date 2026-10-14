@@ -1706,6 +1706,28 @@
       "source_url": "https://www.nhc.noaa.gov/cyclones/",
       "summary": "NHC Advisory 4 (issued 3:00 AM CST Wed, Oct 14): Trudy up to 50 mph (1002 mb) ~405 mi S of Acapulco, moving WNW at 10 mph. A recent ASCAT pass repositioned the center farther WSW, shifting the forecast track west of the previous call - the center now expected to remain offshore of southwestern/west-central Mexico, though long-range track uncertainty is large. Rapid intensification still forecast: hurricane within ~24h, major hurricane around Friday; NHC says coastal watches will likely be required later today for portions of southwestern/west-central Mexico.",
       "title": "Trudy strengthens to 50 mph; track shifts west, hurricane expected within 24h"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "~9:51 PM IST, Oct 11",
+      "id": "isaias-south-carolina-death-oct14",
+      "image_urls": [
+        "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/668/376/gettyimages-2299556570-scaled.jpg?ve=1&tl=1"
+      ],
+      "links": [
+        "https://gray-whns-prod.gtv-cdn.com/2026/10/11/coroner-elderly-man-dies-after-tree-falls-home-during-isaias/",
+        "https://www.youtube.com/watch?v=z045Uvp071A"
+      ],
+      "report_time_ist": "7:36 PM IST, Oct 14",
+      "report_time_pdt": "7:06 AM PDT, Oct 14",
+      "reported_at_utc": "2026-10-14T14:06:00Z",
+      "sentiment": {
+        "civilians": "negative"
+      },
+      "source_name": "FOX Carolina",
+      "source_url": "https://gray-whns-prod.gtv-cdn.com/2026/10/11/coroner-elderly-man-dies-after-tree-falls-home-during-isaias/",
+      "summary": "The Greenwood County Coroner's Office said 67-year-old Christopher John Miller died Sunday, Oct 11, after a large tree collapsed onto his home at 6802 Highway 702 in Ninety Six, South Carolina, during the remnants of Hurricane Isaias. He was pronounced dead at 12:21 p.m. ET; cause blunt-force trauma, ruled accidental. That lifts the Isaias US death toll to 9 (6 Florida, 2 Alabama, 1 South Carolina). Image is a verified Getty photo of Isaias tree damage in Milton, FL, Oct 10 (representative, same storm).",
+      "title": "Isaias storm toll reaches 9: man killed by fallen tree in South Carolina"
     }
   ],
   "last_updated_pdt": "6:32 PM PDT, Oct 13",

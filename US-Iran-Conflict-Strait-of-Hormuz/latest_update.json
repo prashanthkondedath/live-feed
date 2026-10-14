@@ -1,1 +1,30 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"Oct 14, 2026, Wednesday morning local time (exact time unknown)","id":"sirik-fishing-boat-drone-incident-oct14","image_urls":["https://media.karnaval.ir/uploads/2021/05/4211843f-bbd1-417e-b3bb-7a0d204bd1ef.jpg"],"links":["https://www.devdiscourse.com/article/international/3992076-three-fishermen-injured-in-drone-incident-off-southern-iran-tasnim-news-agency-reports","https://anewz.tv/region/middle-east/25475/saudi-aramco-administrative-building-attacked/news"],"report_time_ist":"1:38 PM IST, Oct 14, 2026","report_time_pdt":"01:08 AM PDT, Oct 14, 2026","reported_at_utc":"2026-10-14T08:08:00Z","sentiment":{"iran":"negative"},"source_name":"Reuters / Tasnim","source_url":"https://www.devdiscourse.com/article/international/3992076-three-fishermen-injured-in-drone-incident-off-southern-iran-tasnim-news-agency-reports","summary":"Three fishermen were injured when a fishing boat was struck in an incident involving an unidentified drone near Sirik in southern Iran's Hormozgan province on Wednesday, the provincial governor's office said, as reported by Reuters and carried by Tasnim news agency. Tasnim cited local sources as describing it as an attack by a US drone, but Iranian authorities have not officially confirmed the circumstances or who was responsible. It is the first reported US-linked drone strike on an Iranian vessel in the area since the Sept 14 Kargan drone-boat clash.","title":"Three fishermen injured in drone incident off Sirik, southern Iran"},{"confidence":"confirmed","event_time_ist":"Oct 14, 2026, Wednesday morning Saudi time","id":"riyadh-aerial-threat-alert-lifted-oct14","image_urls":["https://i0.wp.com/astig.ph/wp-content/uploads/2026/10/riyadh-skyline-saudi-arabia.jpg?w=1160&ssl=1"],"links":["https://www.devdiscourse.com/article/international/3992065-saudis-lift-alert-warning-for-possible-aerial-threat-in-riyadh","https://scoopfeeds.com/article/75e079f8-66b0-54f4-8a82-2d521fd762a0"],"report_time_ist":"1:38 PM IST, Oct 14, 2026","report_time_pdt":"01:08 AM PDT, Oct 14, 2026","reported_at_utc":"2026-10-14T08:08:00Z","sentiment":{"markets":"neutral"},"source_name":"Reuters / Arab News","source_url":"https://www.devdiscourse.com/article/international/3992065-saudis-lift-alert-warning-for-possible-aerial-threat-in-riyadh","summary":"Saudi authorities issued a mobile alert warning of a possible aerial threat in Riyadh and the Al-Kharj governorate on Wednesday amid the sharp Houthi-Saudi escalation, then sent a second message saying the danger had passed, according to Reuters and Arab News. No strikes in the capital were confirmed. The alert came hours after the Houthi missile hit on Aramco's Dhahran headquarters complex (already alerted) and Saudi coalition interceptions around Riyadh and the south.","title":"Saudi Arabia issues then lifts aerial-threat alert for Riyadh"}],"report_time_ist":"1:38 PM IST, Oct 14, 2026","report_time_pdt":"01:08 AM PDT, Oct 14, 2026"}
+{
+ "report_time_pdt": "02:40 AM PDT, Oct 14, 2026",
+ "report_time_ist": "3:10 PM IST, Oct 14, 2026",
+ "items": [
+  {
+   "id": "irgc-container-ship-mine-sunk-oct14",
+   "event_time_ist": "date unknown",
+   "title": "IRGC Navy claims container ship sank after striking mine south of Hormuz",
+   "summary": "Iranian state media on Wednesday (Oct 14) shared an IRGC Navy statement saying a container ship carrying 2,500+ containers sank south of the Strait of Hormuz after hitting a naval mine while on what the Guards called an 'unauthorised and dangerous route'; the statement warned local vessels and fishermen to take care. No vessel identity, flag, crew status, or independent/UKMTO confirmation; first IRGC mine claim against a container ship (Oct 10-12 claims were tankers). Iranian-state-only, so unconfirmed.",
+   "source_name": "Devdiscourse (syndicated feed)",
+   "source_url": "https://www.devdiscourse.com/article/international/3992167-irans-guards-say-container-ship-sinks-in-strait-of-hormuz-after-hitting-mine",
+   "links": [
+    "https://www.devdiscourse.com/article/international/3992167-irans-guards-say-container-ship-sinks-in-strait-of-hormuz-after-hitting-mine",
+    "https://www.instagram.com/p/DeeC5gFl0UD/",
+    "https://www.instagram.com/p/DeeDrk3IJYd/"
+   ],
+   "image_urls": [
+    "https://utahheadline.com/wp-content/uploads/2026/07/13EB2EF593aF8433D08-768x512.jpg"
+   ],
+   "confidence": "unconfirmed",
+   "report_time_pdt": "02:40 AM PDT, Oct 14, 2026",
+   "report_time_ist": "3:10 PM IST, Oct 14, 2026",
+   "reported_at_utc": "2026-10-14T09:40:00Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   }
+  }
+ ]
+}

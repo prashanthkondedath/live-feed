@@ -5304,6 +5304,34 @@
     "cjp_protesters": "negative",
     "police_govt": "negative"
    }
+  },
+  {
+   "id": "das-ranka-shinde-preventive-arrest-court-oct14",
+   "event_time_ist": "overnight, Oct 14 (reported ~1:30 AM IST, Oct 14)",
+   "title": "Detained trio under 'preventive arrest', to be produced in court today; Ratna Singh names charges including bond violation — Tihar judicial custody possible",
+   "summary": "Multiple outlets (NDTV, News18 India, SAAM TV, Sun News Tamil, Mathrubhumi News, Times Now) citing CJP legal head Ratna Singh report Saurav Das, Ashutosh Ranka and Ajinkya Shinde are under preventive arrest over the Tue-AM Jantar Mantar gate-climb/Tricolour-hoisting and will be produced before a court on Wednesday, Oct 14. Named charges: trespass, violation of the Oct-11 one-year peace bond, obstruction of a public official's duty. NDTV cites Ratna Singh's post saying the three could be sent to judicial custody in Tihar Jail. News18's graphics add the police allegation that the protesters broke open the door of the JDU office to enter the protest site. Overnight, Ratna Singh told reporters (MaatiTak night statement) protesters were held nearly 24 hours without lawyer access or stated grounds, alleging Delhi Police acted 'on orders from above'. The official @cockroachjantaparty 'kidnapped' claim post from Oct 13 was earlier deleted from the handle.",
+   "source_name": "NDTV / News18 India / SAAM TV / Sun News Tamil / Mathrubhumi News / Times Now (via Instagram), citing CJP legal head Ratna Singh",
+   "source_url": "https://www.instagram.com/p/DedPVakk7Z1/",
+   "links": [
+    "https://www.instagram.com/p/DedPVakk7Z1/",
+    "https://www.instagram.com/reel/DedOfsLSlsW/",
+    "https://www.instagram.com/reel/DedQinNkojs/",
+    "https://www.instagram.com/p/DedNB0FiDfK/",
+    "https://www.instagram.com/p/DedK6m_Gdwe/",
+    "https://www.instagram.com/p/DedNfNyCJiE/",
+    "https://www.instagram.com/reel/DedLy7GoX8p/"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "7:07 PM PDT, Oct 13",
+   "report_time_ist": "7:37 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T02:07:00Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "negative"
+   }
   }
  ]
 }

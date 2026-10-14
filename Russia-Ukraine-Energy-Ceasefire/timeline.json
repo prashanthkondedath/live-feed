@@ -941,6 +941,31 @@
    "source_url": "https://www.europesays.com/russia/75937/",
    "summary": "Updated casualty figures for the overnight Russian strike wave on Ukraine's energy infrastructure: at least six people killed — a multistorey building strike in Kyiv's Desnianskyi district killed two, another in Golosiivsky district killed one (per Ukraine's state emergency service); two more killed and six wounded in the Dnipropetrovsk region, one killed in Zaporizhzhia. Missile attacks also reported in Kharkiv, Zhytomyr, Sumy and Chernihiv regions. Mayor Klitschko urged residents to remain in shelters; DTEK reported emergency power cuts in several Kyiv districts after the 'massive' ballistic missile strike (Russia's Defence Ministry claimed 7 energy facilities + a Kyiv data centre hit). Separately, Moscow mayor Sobyanin said Russian air defences downed nearly 500 Ukrainian drones heading for the capital overnight, with the Russian military claiming 902 drones downed nationwide.",
    "title": "Overnight Oct 13-14 strike-wave toll rises: at least six killed across Ukraine"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday, Oct 13 (Kremlin daily briefing)",
+   "id": "peskov-no-link-diesel-deal-peace-talks",
+   "image_urls": [
+    "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
+   ],
+   "links": [
+    "https://informat.ro/en/international/peskov-rejects-link-between-russian-diesel-and-peace-talks-143308",
+    "https://anewz.tv/world/world-news/25426/trump-says-russia-ukraine-energy-ceasefire-is-in-effect/news",
+    "https://www.instagram.com/reel/Ded9UEbgM_O/"
+   ],
+   "report_time_ist": "03:17 PM IST, Oct 14",
+   "report_time_pdt": "02:47 AM PDT, Oct 14",
+   "reported_at_utc": "2026-10-14T09:47:45Z",
+   "sentiment": {
+    "eu": "negative",
+    "russia": "neutral",
+    "us": "neutral"
+   },
+   "source_name": "BOE Report (Reuters-sourced)",
+   "source_url": "https://boereport.com/2026/10/13/kremlin-says-it-sees-no-direct-link-between-us-diesel-deal-and-russias-ukraine-stance/",
+   "summary": "Kremlin spokesman Dmitry Peskov said Tuesday he sees 'no direct connection' between the deal on exporting Russian diesel to the US and Moscow's stance on Ukraine peace talks — a direct rebuttal of the Reuters report (alerted Oct 13) that Trump's envoys told Ukrainian officials the diesel deal was meant to 'soften' Moscow and draw it back into negotiations. Peskov framed it as 'a highly mutually beneficial area of Russian-American cooperation' serving US, global-market and Russian interests; dismissed European criticism of the deal as 'cynical' given Europe still buys some Russian oil and LNG; said Russia will keep supplying its 'competitive commodities' to global markets (small oil flows to Slovakia/Hungary via the Druzhba pipeline continue). He also said Moscow has only seen media reports of the US-EU four-pillar peace plan.",
+   "title": "Kremlin sees 'no direct link' between US diesel deal and Ukraine peace talks — Peskov (catch-up, Tuesday briefing)"
   }
  ]
 }

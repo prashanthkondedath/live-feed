@@ -1,1 +1,30 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Tue, Oct 13, 2026 (~6:23 PM IST)","id":"erdogan-mbs-call-oct13","image_urls":["https://tob.news/wp-content/uploads/2026/08/defence-pact.jpg"],"links":["https://scoopfeeds.com/article/622f42bd-e677-5cf8-acc9-fff2f2dd63dd","https://www.europesays.com/turkiye/60664/","https://etleboro.org/g/1046e90538eaf680bb9dc50c6bfe2d85en/erdoğan-condemns-houthi-attacks-in-call-with-saudi-crown-prince"],"report_time_ist":"12:22 PM IST, Oct 14","report_time_pdt":"11:52 PM PDT, Oct 13","reported_at_utc":"2026-10-14T06:52:05Z","sentiment":{"houthis":"negative","saudi_govt":"positive"},"source_name":"WE News English (citing Saudi Press Agency)","source_url":"https://wenewsenglish.com/turkiye-slams-houthi-attacks-on-saudi-arabia/","summary":"Turkish President Recep Tayyip Erdogan called Saudi Crown Prince Mohammed bin Salman on Tuesday and condemned the Houthi attacks on Saudi territory 'in the strongest terms', per Turkey's Communications Directorate, expressing condolences for those killed and saying 'Turkiye will stand by Saudi Arabia in the coming period'. The Saudi Press Agency confirmed the call, with Erdogan affirming 'full solidarity' and support for measures safeguarding the Kingdom's security. The call lands as the Turkey-Saudi-Pakistan Makkah Joint Defence Agreement reportedly heads toward parliamentary approval in Ankara.","title":"Erdogan condemns Houthi attacks in call with MBS, pledges Turkey's continued support"},{"confidence":"confirmed","event_time_ist":"Tue, Oct 13, 2026 (exact time unknown)","id":"trump-may-ask-erdogan-oct13","image_urls":["https://mf.b37mrtl.ru/files/2026.08/xxl/6a8221ba85f540025736dd3d.jpg"],"links":["https://navroze.in/trump-says-houthis-are-behaving-very-badly-and-may-seek-turkish-president-erdogans-support-for-saudi-arabia/","https://punjabkhabarnama.com/2026/10/14/trump-says-houthis-are-behaving-very-badly-and-may-seek-turkish-president-erdogans-support-for-saudi-arabia/"],"report_time_ist":"12:22 PM IST, Oct 14","report_time_pdt":"11:52 PM PDT, Oct 13","reported_at_utc":"2026-10-14T06:52:05Z","sentiment":{"houthis":"negative","saudi_govt":"positive","us":"neutral"},"source_name":"europesays.com (via Moneycontrol)","source_url":"https://www.europesays.com/turkiye/60664/","summary":"President Trump told reporters on Tuesday that he had spoken with Saudi Crown Prince Mohammed bin Salman about the Houthi escalation, said the Iran-backed group was 'behaving very badly', and floated a new angle: that he may ask Turkish President Erdogan to intervene in support of Saudi Arabia. The remark adds a Turkey-mediation dimension to the US-intervention deliberation already underway since Oct 11.","title":"Trump says Houthis 'behaving very badly', may ask Erdogan to help Saudi Arabia"}],"report_time_ist":"12:22 PM IST, Oct 14","report_time_pdt":"11:52 PM PDT, Oct 13"}
+{
+  "report_time_pdt": "12:10 AM PDT, Oct 14",
+  "report_time_ist": "12:40 PM IST, Oct 14",
+  "items": [
+    {
+      "id": "aramco-hq-office-tower-damage-oct13",
+      "event_time_ist": "Tuesday night, Oct 13, 2026 (Saudi local time)",
+      "title": "Aramco HQ office tower in Dhahran hit Tuesday night: top three floors damaged, fire since extinguished",
+      "summary": "A ballistic missile struck an office tower inside Saudi Aramco's headquarters complex in Dhahran on Tuesday night, damaging its top three floors; the building caught fire, a company source told Reuters (three people with knowledge of the matter confirmed the blaze). The Energy Ministry confirmed an 'attack' on an administrative building at the complex causing a 'limited fire', with no casualties; Bloomberg reports the fire was since extinguished. The Saudi-led coalition says fragments of a missile it intercepted and destroyed over Dhahran fell on a residential area — leaving the direct-hit vs intercept-debris accounts unresolved. The Houthis had warned oil workers to stay away from Aramco sites as 'legitimate targets.'",
+      "source_name": "Reuters via Philippine Daily Post",
+      "source_url": "https://philippinedailypost.com/international/missile-hits-headquarters-of-saudi-aramco-source-says-as-houthi-conflict-escalates/",
+      "links": [
+        "https://www.7globe.in/houthis-target-saudi-aramco-compound-limited-fire-reported/",
+        "https://houseofsaud.com/aramco-dhahran-headquarters-missile-strike/",
+        "https://astig.ph/houthi-missiles-saudi-aramco-dhahran-headquarters-oil-2026/"
+      ],
+      "image_urls": [
+        "https://cpiran.org/wp/wp-content/uploads/2026/04/aramco.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "12:10 AM PDT, Oct 14",
+      "report_time_ist": "12:40 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T07:07:29Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative"
+      }
+    }
+  ]
+}

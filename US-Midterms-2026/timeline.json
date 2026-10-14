@@ -1108,6 +1108,28 @@
         "democrats": "positive",
         "voters": "neutral"
       }
+    },
+    {
+      "id": "georgia-day1-turnout-breakdown-oct14",
+      "event_time_ist": "Oct 14, 2026 (VoteHub breakdown posted 1:04 AM ET, Oct 14 / 10:04 PM PDT, Oct 13)",
+      "title": "Georgia day-1 record: demographic breakdown of the 188,628 ballots \u2014 Black voters 36.6%, under-30s just 4.7%",
+      "summary": "After the record 188,628-ballot Georgia day 1, VoteHub's breakdown (posted overnight) shows the electorate's composition: White 50.3%, Black 36.6%, Hispanic 2.1%, Asian 1.6%, Other/Unknown 9.4%; ages 18-29 just 4.7%, 30-44 10.6%, 45-64 38.1%. An election analyst comparing to 2024 Day 1 noted a large youth gap: Black 18-29 turnout running at 42.7% of its 2024 Day-1 level vs 21% for White 18-29. King Williams also reported ~10,000 of 131,000 absentee ballots returned. Single-sourced at the breakdown level (VoteHub/analyst posts); the 188,628 record itself is confirmed.",
+      "source_name": "VoteHub (election data on X)",
+      "source_url": "",
+      "links": [
+        "https://iamkingwilliams.substack.com/p/georgia-early-voting-day-1-recap",
+        "https://www.threads.com/@amandasmildtakes/post/DedNKnzjLlM"
+      ],
+      "image_urls": [
+        "https://www.ap.org/wp-content/uploads/2026/06/Election_2026_Georgia_26139465535955.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:58 PM PDT, Oct 13, 2026",
+      "report_time_ist": "9:28 AM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T03:58:13Z",
+      "sentiment": {
+        "voters": "neutral"
+      }
     }
   ],
   "report_time_pdt": "8:47 PM PDT, Oct 13, 2026",

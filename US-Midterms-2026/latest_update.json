@@ -1,47 +1,79 @@
 {
-  "report_time_pdt": "10:42 PM PDT, Oct 13",
-  "report_time_ist": "11:12 AM IST, Oct 14",
+  "report_time_pdt": "11:12 PM PDT, Oct 13",
+  "report_time_ist": "11:42 AM IST, Oct 14",
   "items": [
     {
-      "id": "ohio-sos-first-early-voting-tally-oct13",
-      "event_time_ist": "Data released ~6 AM PDT / 6:33 PM IST, Oct 13",
-      "title": "Ohio's first statewide early-voting tally: 228,470 ballots cast",
-      "summary": "Ohio Secretary of State Frank LaRose's office released the first statewide early-voting total for the Nov 3 general, compiled from daily reports by all 88 county boards: 228,470 ballots — 194,841 in-person early + 33,629 absentee returned. In-person dominates the mix so far; early in-person voting began Oct 6 and runs through Nov 1. OhioSoS.gov dashboard tracks statewide/county trends. Single-sourced (SoS data via one outlet; no second outlet yet).",
-      "source_name": "New Americans Magazine (quoting Ohio Secretary of State's office)",
-      "source_url": "https://thenewamericansmag.com/ohio-records-228470-in-early-voting/",
+      "id": "axios-ipsos-health-index-oct13",
+      "event_time_ist": "Poll released Oct 13, 2026 (fielded late September)",
+      "title": "Axios/Ipsos American Health Index: 43% back Medicare for All; trust in Trump, CDC health info eroding",
+      "summary": "Axios/Ipsos poll released Oct 13 (n=1,122 US adults, fielded late September): 43% support a Medicare-for-All government-run health insurance program vs 24% opposed and 32% unsure; supporters outnumber opponents nearly 2-to-1. Two-thirds (66%) say the federal government should spend more tax dollars to lower health costs, and 69% worry about rising costs. Trust erosion: under 20% trust Trump on health information (down from 31% in March 2025), 25% trust HHS Sec. RFK Jr., and ~50% trust the CDC (down from 62%). Partisan split: 62% of Dems and 47% of independents support, 52% of Republicans oppose; top anti reason is fear of worse care quality (38%). Axios: findings open a path for swing-state candidates on affordability. Corroborated across pollster release (Ipsos, Dem-adjacent/independent), The Hill (center), Daily Caller (Rep-leaning).",
+      "source_name": "Ipsos",
+      "source_url": "https://www.ipsos.com/en-us/axios-ipsos-american-health-index",
       "links": [
-        "https://thenewamericansmag.com/ohio-records-228470-in-early-voting/"
+        "https://www.ipsos.com/en-us/axios-ipsos-american-health-index",
+        "https://www.kcau9.com/news/national-news/poll-43-percent-support-medicare-for-all/",
+        "https://dailycaller.com/2026/10/13/medicare-for-all-healthcare-axios-ipsos-poll"
       ],
       "image_urls": [
-        "https://www.whbc.com/wp-content/uploads/2026/04/GettyImages-1240419679-scaled-e1775576721169.jpg?icb=1780516090"
+        "https://intel.morningconsult.com/mc-content/_next/image?url=https%3A%2F%2Fpro-assets.morningconsult.com%2Fwp-uploads%2F2018%2F11%2FGettyImages-809452080.jpg&w=768&q=100"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "10:42 PM PDT, Oct 13",
-      "report_time_ist": "11:12 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T05:42:48Z",
+      "confidence": "confirmed",
+      "report_time_pdt": "11:12 PM PDT, Oct 13",
+      "report_time_ist": "11:42 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T06:12:19Z",
       "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative",
         "voters": "neutral"
       }
     },
     {
-      "id": "ddhq-independents-35pc-made-up-oct13",
-      "event_time_ist": "Poll released Oct 13 (fielded Oct 5-9)",
-      "title": "NewsNation/DDHQ finding: independents lean Democratic, but only 35% have made up their minds",
-      "summary": "New finding from the already-timeline NewsNation/DDHQ poll (TrueDot.ai, 974 LV Oct 5-9, MoE ±3.2): independents lean Democratic, yet only 35% say their minds are made up — a large undecided bloc three weeks out. Companion to the poll's vote-confidence numbers (46% believe all votes will be counted accurately) reported 9:55 PM. Pollster's own release, single-sourced.",
-      "source_name": "NewsNation (pollster's own graphic)",
-      "source_url": "https://www.facebook.com/NewsNationNow/posts/pfbid024HSXywPq6K11fbLvJGzX1Cmnryph5YgirSXGW4ZGDPXN4kk23wtbt5TFigt3rpqpl",
+      "id": "uh-hobby-harris-county-talarico-oct12",
+      "event_time_ist": "Poll published by UH Oct 12, 2026 (fielded Oct 3-8)",
+      "title": "UH Hobby poll: Talarico leads Paxton by 22 points among Harris County voters",
+      "summary": "University of Houston Hobby School 2026 general-election survey (2,750 Harris County participants, fielded Oct 3-8, MoE +/-1.87%): Democrat James Talarico leads Republican Ken Paxton by 22 percentage points in the TX U.S. Senate race among Harris County voters - more than triple the 7-point edge Democrat Lesley Briones holds over Republican Mike Sanchez in the Harris County judge race. UH notes Talarico's Harris County margin is nearly double what Rep. Collin Allred commanded there in the 2024 Senate race. Confirmed via pollster release (uh.edu) + USA Today Oct 13 coverage.",
+      "source_name": "University of Houston Hobby School",
+      "source_url": "https://www.uh.edu/news-events/stories/2026/october/10122026-hobby-harris-county-judge.php",
       "links": [
-        "https://www.facebook.com/NewsNationNow/posts/pfbid024HSXywPq6K11fbLvJGzX1Cmnryph5YgirSXGW4ZGDPXN4kk23wtbt5TFigt3rpqpl"
+        "https://www.uh.edu/news-events/stories/2026/october/10122026-hobby-harris-county-judge.php",
+        "https://www.usatoday.com/story/news/politics/2026/10/13/texas-senate-polls-talarico-paxton-trump/92229448007/"
       ],
       "image_urls": [
-        "https://substackcdn.com/image/fetch/$s_!iPgD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F274d9255-704d-4de5-9114-f8f55c239687_699x700.png"
+        "https://i.abcnewsfe.com/a/b63e8408-76d4-4964-be27-5f4f98ae4b14/James-Talarico-6-gty-gmh-260203_1770123610125_hpEmbed_3x2.jpg?w=992"
       ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "10:42 PM PDT, Oct 13",
-      "report_time_ist": "11:12 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T05:42:48Z",
+      "confidence": "confirmed",
+      "report_time_pdt": "11:12 PM PDT, Oct 13",
+      "report_time_ist": "11:42 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T06:12:19Z",
       "sentiment": {
         "democrats": "positive",
+        "republicans": "negative",
+        "voters": "neutral"
+      }
+    },
+    {
+      "id": "musgraves-noem-talarico-feud-oct12",
+      "event_time_ist": "Feud unfolded Oct 10-12, 2026 (Musgraves clapback posted Monday night, Oct 12)",
+      "title": "Kacey Musgraves brings Talarico onstage in Dallas; Kristi Noem diss sparks viral feud",
+      "summary": "Country star Kacey Musgraves introduced Democratic TX Senate nominee James Talarico onstage at her Dallas Middle of Nowhere tour stop Saturday, Oct 10, returning him to the spotlight after his 12-day campaign-trail absence; Talarico thanked her on X. Former DHS secretary Kristi Noem fired back on X: 'I'll take Ella Langley over Kacey Musgraves any day... if I'm choosin' Texas, I'll take Ken Paxton over James Talarico.' Singer Ella Langley untagged herself from Noem's tweet, and Musgraves replied Monday night, Oct 12: 'I don't think you have a dog in this fight but if you did you would have shot it' - a jab at the dog-killing passage in Noem's memoir. Corroborated across indy100, Paste Magazine, and Cybernistas.",
+      "source_name": "Paste Magazine",
+      "source_url": "https://www.pastemagazine.com/article/kacey-musgraves-claps-back-at-kristi-noem-over-james-talarico-diss",
+      "links": [
+        "https://www.indy100.com/celebrities/kacey-musgraves-kristi-noem-dog",
+        "https://www.pastemagazine.com/article/kacey-musgraves-claps-back-at-kristi-noem-over-james-talarico-diss",
+        "https://cybernistas.com/general/james-talarico-introduced-by-country-singer-kacey-musgraves-at-texas-festival-after-12-day-absence-from-campaign-trail/"
+      ],
+      "image_urls": [
+        "https://media.cdn.setlistfm.com/large/news/2026-05/1777930544690/KaceyMusgraves_Jason%20Kempin%3AGetty%20Images%20for%20Spotify%20GettyImages-2273873599.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "11:12 PM PDT, Oct 13",
+      "report_time_ist": "11:42 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T06:12:19Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
         "voters": "neutral"
       }
     }

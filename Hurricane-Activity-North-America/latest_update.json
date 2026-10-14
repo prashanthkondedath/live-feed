@@ -1,1 +1,47 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"~9:51 PM IST, Oct 11","id":"isaias-south-carolina-death-oct14","image_urls":["https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/668/376/gettyimages-2299556570-scaled.jpg?ve=1&tl=1"],"links":["https://gray-whns-prod.gtv-cdn.com/2026/10/11/coroner-elderly-man-dies-after-tree-falls-home-during-isaias/","https://www.youtube.com/watch?v=z045Uvp071A"],"report_time_ist":"7:36 PM IST, Oct 14","report_time_pdt":"7:06 AM PDT, Oct 14","reported_at_utc":"2026-10-14T14:06:00Z","sentiment":{"civilians":"negative"},"source_name":"FOX Carolina","source_url":"https://gray-whns-prod.gtv-cdn.com/2026/10/11/coroner-elderly-man-dies-after-tree-falls-home-during-isaias/","summary":"The Greenwood County Coroner's Office said 67-year-old Christopher John Miller died Sunday, Oct 11, after a large tree collapsed onto his home at 6802 Highway 702 in Ninety Six, South Carolina, during the remnants of Hurricane Isaias. He was pronounced dead at 12:21 p.m. ET; cause blunt-force trauma, ruled accidental. That lifts the Isaias US death toll to 9 (6 Florida, 2 Alabama, 1 South Carolina). Image is a verified Getty photo of Isaias tree damage in Milton, FL, Oct 10 (representative, same storm).","title":"Isaias storm toll reaches 9: man killed by fallen tree in South Carolina"}],"report_time_ist":"7:36 PM IST, Oct 14","report_time_pdt":"7:06 AM PDT, Oct 14"}
+{
+  "report_time_pdt": "8:52 AM PDT, Oct 14",
+  "report_time_ist": "9:22 PM IST, Oct 14",
+  "items": [
+    {
+      "id": "simon-advisory-29-90mph-oct14",
+      "event_time_ist": "8:00 AM MST, Oct 14 (9:30 PM IST, Oct 14)",
+      "title": "Simon weakens to Category 1 (90 mph); Mexico drops its last coastal watch",
+      "summary": "NHC Advisory 29 (8 AM MST Wed Oct 14): Hurricane Simon's max winds fell to 90 mph (150 km/h, 975 mb) at 19.7N 108.1W - ~165 mi WSW of Cabo Corrientes and ~250 mi SSE of Cabo San Lucas - drifting SW at 2 mph. Mexico discontinued the Hurricane Watch for Las Islas Marias, so no coastal watches or warnings remain in effect anywhere. NHC notes watches/warnings may be required for portions of Baja California Sur in the next day or two; a turn toward the north or north-northwest is forecast by Friday, with weakening into the weekend.",
+      "source_name": "National Hurricane Center (Advisory 29)",
+      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP5%2Bshtml/091446.shtml?text",
+      "links": [],
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:52 AM PDT, Oct 14",
+      "report_time_ist": "9:22 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T15:52:21Z",
+      "sentiment": {
+        "mexico_govt": "neutral"
+      }
+    },
+    {
+      "id": "trudy-advisory-5-60mph-oct14",
+      "event_time_ist": "9:00 AM CST, Oct 14 (8:30 PM IST, Oct 14)",
+      "title": "Trudy strengthens to 60 mph; NHC: hurricane tonight, major hurricane Friday",
+      "summary": "NHC Advisory 5 (9 AM CST Wed Oct 14): Tropical Storm Trudy strengthened to 60 mph (95 km/h, 998 mb) at 11.5N 99.5W - ~375 mi S of Acapulco, ~610 mi SSE of Manzanillo - moving WNW at 13 mph. Rapid strengthening is forecast: hurricane by tonight, major hurricane by Friday. The track turns N/NNW Thursday and could bring Trudy near the coast of southwestern Mexico on Saturday. No coastal watches or warnings are in effect, but NHC says watches will likely be required later today or tonight for southwestern and west-central Mexico.",
+      "source_name": "National Hurricane Center (Advisory 5)",
+      "source_url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP1+html/200847.shtml",
+      "links": [
+        "https://www.usatoday.com/story/news/weather/2026/10/14/tropical-storm-trudy-path-tracker-spaghetti-models-hurricane/92245494007/"
+      ],
+      "image_urls": [
+        "https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:52 AM PDT, Oct 14",
+      "report_time_ist": "9:22 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T15:52:21Z",
+      "sentiment": {
+        "civilians": "negative",
+        "mexico_govt": "neutral"
+      }
+    }
+  ]
+}

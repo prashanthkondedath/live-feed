@@ -140,28 +140,28 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-13T22:41:33Z",
+      "trend_updated_at_utc": "2026-10-14T02:11:47Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 43,
+        "items_in_window": 47,
         "sides": {
           "civilians": {
             "positive": 1,
-            "negative": 20,
+            "negative": 23,
             "neutral": 6,
             "overall": "negative"
           },
           "houthis": {
             "positive": 2,
-            "negative": 31,
+            "negative": 33,
             "neutral": 3,
             "overall": "negative"
           },
           "saudi_govt": {
             "positive": 14,
-            "negative": 13,
-            "neutral": 6,
-            "overall": "positive"
+            "negative": 15,
+            "neutral": 8,
+            "overall": "negative"
           },
           "us": {
             "positive": 1,
@@ -170,7 +170,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-13T22:41:33Z"
+        "updated_at_utc": "2026-10-14T02:11:47Z"
       },
       "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17.",
       "watch_for": [
@@ -214,12 +214,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 43,
-        "confirmed": 25,
-        "single-sourced": 18,
+        "items_in_window": 47,
+        "confirmed": 27,
+        "single-sourced": 20,
         "unconfirmed": 0,
-        "confirmed_rate": 0.58,
-        "updated_at_utc": "2026-10-13T22:41:33Z"
+        "confirmed_rate": 0.57,
+        "updated_at_utc": "2026-10-14T02:11:47Z"
       },
       "phase": "escalation"
     },
@@ -650,5 +650,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T02:07:04Z"
+  "updated_at_utc": "2026-10-14T02:11:47Z"
 }

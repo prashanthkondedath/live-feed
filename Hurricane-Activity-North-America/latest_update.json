@@ -1,28 +1,28 @@
 {
-  "report_time_pdt": "9:34 PM PDT, Oct 13",
-  "report_time_ist": "10:04 AM IST, Oct 14",
+  "report_time_pdt": "11:02 PM PDT, Oct 13",
+  "report_time_ist": "11:32 AM IST, Oct 14",
   "items": [
     {
-      "id": "rachel-ensenada-toll-seven-oct13",
-      "event_time_ist": "Tuesday, Oct 13",
-      "title": "Ensenada Rachel death toll rises to 7",
-      "summary": "Ensenada, Baja California's death toll from Tropical Cyclone Rachel's remnant flooding rose to 7 on Tuesday, Oct 13 after search crews recovered three more bodies in the Maneadero area: Gael Burgos (14), Valentín Lozano (51), and Keila Sandria (32). Five of the seven were members of one family from Hermosillo, Sonora — Érika Ivonne Burgos (35), Silvia Lucero Burgos (30), Gael Burgos (14), Ivonne Regina Terán Burgos (13), and Aarón Vega Burgos (4) — swept away on Oct 10 when an arroyo overflowed. Three people remain officially missing (Luis Fernando López, 17; Rosalinda Olivera, 24; Rosa María Olivera, 44); a 10-year-old boy, Leonel, was found alive near Rancho Cárdenas. Sonora governor Alfonso Durazo said Tuesday his administration is coordinating with Baja California authorities to transport the bodies home. Combined with the Guerrero Simon victim, the Mexico-wide storm death toll now stands at 8.",
-      "source_name": "SonoraPresente",
-      "source_url": "https://sonorapresente.com/en/2026/10/rains-claim-7-lives-in-ensenada-five-victims-were-members-of-a-family-from-hermosillo/",
+      "id": "isaias-florida-toll-six-oct13",
+      "event_time_ist": "Tuesday, Oct 13, 2026 (announced at afternoon news conference in Vernon, FL)",
+      "title": "Isaias: Florida storm-related death toll rises to six (announced Tue, Oct 13)",
+      "summary": "Gov. Ron DeSantis announced Tuesday, Oct 13 that Florida's storm-related death toll from Hurricane Isaias has risen to six. The six Florida deaths include two previously confirmed in Escambia County (a tree fell on a home; carbon monoxide from a generator running inside a garage); the four newly confirmed include a fatal car crash at an intersection where the traffic signal wasn't working and two deaths from storm-related disruptions to medical treatment (per Reuters). Fox Weather's detail: a woman killed when a tree fell on her Escambia County home and a man who died of CO poisoning from improper generator use; DeSantis said the new deaths were 'a little bit more post-storm.' Storm-wide Isaias toll is now 8 (6 FL + 2 AL, per Gov. Kay Ivey). Also in the Tuesday update: DeSantis said ~95% of customers' power restored; PowerOutage.com counts 45,000+ still without power Tuesday, mainly Escambia and Santa Rosa counties; Escambia County's initial damage estimate is ~$64 million for county repairs, emergency response and recovery.",
+      "source_name": "Fox Weather",
+      "source_url": "https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall",
       "links": [
-        "https://sonorapresente.com/en/2026/10/rains-claim-7-lives-in-ensenada-five-victims-were-members-of-a-family-from-hermosillo/",
-        "https://www.instagram.com/reel/DedhAw1jH5W/"
+        "https://www.foxweather.com/weather-news/florida-death-toll-rises-hurricane-isaias-dangerous-landfall",
+        "https://www.reuters.com/business/environment/six-deaths-confirmed-florida-hurricane-isaias-governor-says-2026-10-14/"
       ],
       "image_urls": [
-        "https://estiloinformativo.com/wp-content/uploads/2026/10/Maneadero-Ensenada-10-13-26-696x754.jpg"
+        "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/668/376/gettyimages-2299556570-scaled.jpg?ve=1&tl=1"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "9:34 PM PDT, Oct 13",
-      "report_time_ist": "10:04 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:34:20Z",
+      "report_time_pdt": "11:02 PM PDT, Oct 13",
+      "report_time_ist": "11:32 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T06:03:00Z",
       "sentiment": {
         "civilians": "negative",
-        "mexico_govt": "positive"
+        "us_govt": "positive"
       }
     }
   ]

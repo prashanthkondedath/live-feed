@@ -23,6 +23,29 @@
         "democrats": "neutral",
         "republicans": "negative"
       }
+    },
+    {
+      "id": "nc-senate-wral-surveyusa-poll-oct13",
+      "event_time_ist": "released Tue, Oct 13, 2026 (reported 11:10 PM IST, Oct 13)",
+      "title": "North Carolina Senate: Cooper +14 in new WRAL/SurveyUSA poll (54-40) \u2014 his strongest result yet",
+      "summary": "Former Gov. Roy Cooper (D) leads former RNC chair Michael Whatley (R) 54% to 40% in a WRAL/WSOC poll conducted by SurveyUSA, released Oct 13 \u2014 Cooper's strongest showing, exceeding the margin of error. A separate Trafalgar Group poll (Oct 12) independently had Cooper ahead 48.8-40.9. The open seat (Sen. Thom Tillis retiring) is critical to Senate control: SLF cancelled $6.5M in NC ad reservations, Trump says he's 'worried' about Whatley, and Tillis endorsed Whatley while warning him against campaigning with Trump. NC early voting begins this week.",
+      "source_name": "The Hill",
+      "source_url": "https://thehill.com/homenews/campaign/6145587-roy-cooper-leads-nc-senate-poll/",
+      "links": [
+        "https://www.griffonnews.com/news/nation/election-2026-cooper-leads-whatley-by-nearly-8-in-newest-poll/article_05fed98f-5b27-50d6-8483-62d4b9ce469c.html"
+      ],
+      "image_urls": [
+        "https://i.abcnewsfe.com/a/edd70847-1818-4fba-9140-22452cb69730/cooper-whatley-ap-gmh-260303_1772589435190_hpMain_16x9.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "6:30 PM PDT, Oct 13, 2026",
+      "report_time_ist": "7:00 AM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T01:30:08Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      }
     }
   ]
 }

@@ -1063,8 +1063,53 @@
       "sentiment": {
         "voters": "positive"
       }
+    },
+    {
+      "id": "tarrant-county-injunction-denied-oct13",
+      "event_time_ist": "Oct 13, 2026 (Tuesday; exact time of day unknown)",
+      "title": "Judge denies bid to restore 92 Tarrant County polling sites before midterms",
+      "summary": "A judge denied a temporary injunction on Tuesday Oct 13, so the 92 Election Day polling sites cut by Tarrant County's Republican commissioners (316 in 2022 down to 224 for Nov 3; early-vote sites 50 to 47) will NOT be restored before early voting begins (Oct 19-30 in TX). Four Fort Worth residents \u2014 Councilmember Deborah Peoples, retired judges Maryellen Hicks and Kathleen Hicks, and ISD trustee Camille Rodriguez \u2014 filed suit Oct 2 alleging the cuts disproportionately burden Black and Hispanic voters (e.g., ZIP 76103 lost all its sites); county leaders defend the 3-2 Sept. 1 vote as cost savings (~$1M). The case moves to discovery, unlikely to change the map before November.",
+      "source_name": "The Shorthorn (UTA) / Courier Texas / particle.news",
+      "source_url": "https://www.theshorthorn.com/news/election/tarrant-county-faces-lawsuit-over-cut-voting-sites-for-november-midterms/article_dbd64426-32fc-444f-89b9-7d3b0fb990bb.html",
+      "links": [
+        "https://couriertexas.com/news/politics/tarrant-county-sues-tim-ohare/",
+        "https://www.fwweekly.com/2026/10/07/news-roundup-24/",
+        "https://particle.news/story/judge-denies-request-to-reopen-92-tarrant-county-polling-sites"
+      ],
+      "image_urls": [
+        "https://bloximages.newyork1.vip.townnews.com/theshorthorn.com/content/tncms/assets/v3/editorial/d/04/d04189eb-2d50-4440-8e8d-9982ecfc658c/6a72a392863c0.image.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:47 PM PDT, Oct 13, 2026",
+      "report_time_ist": "9:17 AM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T03:47:00Z",
+      "sentiment": {
+        "voters": "negative",
+        "democrats": "negative",
+        "republicans": "positive"
+      }
+    },
+    {
+      "id": "virginia-early-voting-spanberger-oct13",
+      "event_time_ist": "interview clip posted ~6:33 AM IST, Oct 14, 2026",
+      "title": "Spanberger touts record Virginia early voting: 450,000+ vs ~200,000 at same point in 2022",
+      "summary": "Virginia Gov. Abigail Spanberger, in a Scott MacFarlane (CBS) interview circulating Oct 13, said more than 450,000 Virginians had already voted \u2014 vs just over 200,000 at the same point in 2022 \u2014 calling it 'extraordinary voter turnout' across the state, including rural and historically Republican districts. Single-sourced (MeidasTouch Threads repost); Virginia is already the national early-vote leader this cycle. Spanberger's figure has not been independently verified against SoS data this run.",
+      "source_name": "MeidasTouch (Threads repost of Scott MacFarlane/CBS interview)",
+      "source_url": "https://www.threads.com/@meidastouch/post/DedKJMQAtUO",
+      "links": [],
+      "image_urls": [
+        "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1500w,f_auto,q_auto:best/rockcms/2025-10/251027-abigail-spanberger-zz-bb0dcd.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "8:47 PM PDT, Oct 13, 2026",
+      "report_time_ist": "9:17 AM IST, Oct 14, 2026",
+      "reported_at_utc": "2026-10-14T03:47:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "voters": "neutral"
+      }
     }
   ],
-  "report_time_pdt": "8:35 PM PDT, Oct 13",
-  "report_time_ist": "9:05 AM IST, Oct 14"
+  "report_time_pdt": "8:47 PM PDT, Oct 13, 2026",
+  "report_time_ist": "9:17 AM IST, Oct 14, 2026"
 }

@@ -1,7 +1,7 @@
 {
   "coverages": [
     {
-      "description": "Live coverage of the Cockroach Janta Party's protest movement \u2014 detentions, ultimatums, court cases, INDIA-bloc actions and on-ground developments in Delhi.",
+      "description": "Live coverage of the Cockroach Janta Party's protest movement — detentions, ultimatums, court cases, INDIA-bloc actions and on-ground developments in Delhi.",
       "folder": "CJP-Protest-2-India",
       "id": "cjp-protest-2-india",
       "location": "Delhi, India",
@@ -15,20 +15,20 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T02:46:47Z",
+      "trend_updated_at_utc": "2026-10-14T03:36:21Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 233,
+        "items_in_window": 234,
         "sides": {
           "cjp_protesters": {
             "positive": 85,
             "negative": 20,
-            "neutral": 2,
+            "neutral": 3,
             "overall": "positive"
           },
           "police_govt": {
             "positive": 8,
-            "negative": 114,
+            "negative": 115,
             "neutral": 21,
             "overall": "negative"
           },
@@ -51,9 +51,9 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T02:46:47Z"
+        "updated_at_utc": "2026-10-14T03:36:21Z"
       },
-      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated \u2014 Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march \u2014 amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders \u2014 Ranka, Das and others \u2014 out of Jaffarpur Kalan police station; overnight, Ratna Singh said the trio had been brought to Parliament Street police station at ~3 AM and will be produced before a SEM court at Mandir Marg on Wednesday Oct 14, facing preventive-arrest charges including bond violation, and could be sent to Tihar in judicial custody.",
+      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders — Ranka, Das and others — out of Jaffarpur Kalan police station; overnight, Ratna Singh said the trio had been brought to Parliament Street police station at ~3 AM and will be produced before a SEM court at Mandir Marg on Wednesday Oct 14, facing preventive-arrest charges including bond violation, and could be sent to Tihar in judicial custody.",
       "watch_for": [
         {
           "event": "Detained trio (Das, Ranka, Shinde) produced in court; possible Tihar judicial custody",
@@ -115,17 +115,17 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 233,
-        "confirmed": 87,
+        "items_in_window": 234,
+        "confirmed": 88,
         "single-sourced": 138,
         "unconfirmed": 8,
-        "confirmed_rate": 0.37,
-        "updated_at_utc": "2026-10-14T02:46:47Z"
+        "confirmed_rate": 0.38,
+        "updated_at_utc": "2026-10-14T03:36:21Z"
       },
       "phase": "standoff"
     },
     {
-      "description": "Live coverage of the Houthi-Saudi escalation \u2014 missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
+      "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
       "folder": "Houthi-Riyadh-Escalation",
       "id": "houthi-riyadh-escalation",
       "location": "Saudi Arabia / Red Sea region",
@@ -176,7 +176,7 @@
         },
         "updated_at_utc": "2026-10-14T03:07:59Z"
       },
-      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley \u2014 the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24.",
+      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24.",
       "watch_for": [
         {
           "event": "Riyadh airport NOTAM expiry; reopening decision",
@@ -236,7 +236,7 @@
       "phase": "escalation"
     },
     {
-      "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' \u2014 strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
+      "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
       "folder": "Russia-Ukraine-Energy-Ceasefire",
       "id": "russia-ukraine-energy-ceasefire",
       "location": "Ukraine / Russia / Eastern Europe",
@@ -304,7 +304,7 @@
         },
         "updated_at_utc": "2026-10-14T03:32:39Z"
       },
-      "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes \u2014 contradicting Trump's same-day denial \u2014 and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near R\u00e9union (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) \u2014 now confirmed by Kyiv Independent \u2014 marks the clearest sign yet the 'energy ceasefire' is not holding.",
+      "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) — now confirmed by Kyiv Independent — marks the clearest sign yet the 'energy ceasefire' is not holding.",
       "watch_for": [
         {
           "event": "Kremlin confirmation or rejection of the energy ceasefire",
@@ -360,7 +360,7 @@
       "phase": "contested-ceasefire"
     },
     {
-      "description": "Live coverage of hurricane and tropical-storm activity impacting North America \u2014 NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
+      "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
       "folder": "Hurricane-Activity-North-America",
       "id": "hurricane-activity-north-america",
       "location": "North America (Atlantic basin, Gulf of Mexico, US Gulf/East coasts, Mexico's Pacific coast)",
@@ -411,7 +411,7 @@
         },
         "updated_at_utc": "2026-10-14T03:04:53Z"
       },
-      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened \u2014 NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend \u2014 while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B\u2013$2B for onshore property.",
+      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened — NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend — while damage tallies keep rising across Guerrero, Colima and Baja California Sur. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B–$2B for onshore property.",
       "watch_for": [
         {
           "event": "Trudy forecast rapid intensification to a major hurricane",
@@ -456,8 +456,8 @@
     },
     {
       "id": "us-iran-conflict-strait-of-hormuz",
-      "title": "U.S.\u2013Iran Conflict & Strait of Hormuz",
-      "description": "Live coverage of the U.S.\u2013Iran confrontation \u2014 military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
+      "title": "U.S.–Iran Conflict & Strait of Hormuz",
+      "description": "Live coverage of the U.S.–Iran confrontation — military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
       "location": "Persian Gulf / Middle East",
       "folder": "US-Iran-Conflict-Strait-of-Hormuz",
       "status": "active",
@@ -500,7 +500,7 @@
         },
         "updated_at_utc": "2026-10-14T03:25:28Z"
       },
-      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone \u2014 the war's highest single-day total \u2014 and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar \u2014 the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures.",
+      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -565,7 +565,7 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House \u2014 Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups \u2014 with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening \u2014 a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) \u2014 as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop. Late Tuesday pinned Trump's North Carolina stop to Greenville on Tue Oct 20, and data showed NC early voting down ~19% vs 2022 with the Democratic share falling; fresh polls put Democrat Troy Jackson ahead of Susan Collins 50-46 in Maine's Senate race (with Obama's endorsement), Deb Haaland up 49-42 in New Mexico's governor race, and Tina Kotek with her first public-poll lead (46-44) in Oregon's governor race \u2014 as Obama ramped up involvement with a Detroit GOTV rally on Oct 24 and 24 recorded ads. Georgia set a midterm first-day early-voting record on Tuesday Oct 13 (170,000+ ballots), and New Mexico's first-week early vote (Oct 6-8) saw Democrats cast more than double the Republican ballots, with 29,786 ballots statewide through Oct 13. A Star Tribune/KARE 11 (Mason-Dixon) poll has Klobuchar leading Demuth 50-41 in Minnesota's governor race; the RGA spent in Vermont for the first time since 2018 ($400K backing Gov. Phil Scott); a pro-Collins super PAC's $25K digital ad buy mistakenly ran in Portland, Oregon instead of Portland, Maine and was pulled; and Trump added a Wednesday double-header (Bullhead City, AZ and Kalispell, MT) to his rally schedule.",
+      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop. Late Tuesday pinned Trump's North Carolina stop to Greenville on Tue Oct 20, and data showed NC early voting down ~19% vs 2022 with the Democratic share falling; fresh polls put Democrat Troy Jackson ahead of Susan Collins 50-46 in Maine's Senate race (with Obama's endorsement), Deb Haaland up 49-42 in New Mexico's governor race, and Tina Kotek with her first public-poll lead (46-44) in Oregon's governor race — as Obama ramped up involvement with a Detroit GOTV rally on Oct 24 and 24 recorded ads. Georgia set a midterm first-day early-voting record on Tuesday Oct 13 (170,000+ ballots), and New Mexico's first-week early vote (Oct 6-8) saw Democrats cast more than double the Republican ballots, with 29,786 ballots statewide through Oct 13. A Star Tribune/KARE 11 (Mason-Dixon) poll has Klobuchar leading Demuth 50-41 in Minnesota's governor race; the RGA spent in Vermont for the first time since 2018 ($400K backing Gov. Phil Scott); a pro-Collins super PAC's $25K digital ad buy mistakenly ran in Portland, Oregon instead of Portland, Maine and was pulled; and Trump added a Wednesday double-header (Bullhead City, AZ and Kalispell, MT) to his rally schedule.",
       "watch_for": [
         {
           "event": "Election Day",
@@ -670,5 +670,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T03:32:39Z"
+  "updated_at_utc": "2026-10-14T03:36:21Z"
 }

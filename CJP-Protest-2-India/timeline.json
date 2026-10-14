@@ -5282,6 +5282,28 @@
    "sentiment": {
     "india_bloc": "negative"
    }
+  },
+  {
+   "id": "cjp-ranka-das-moved-jaffarpur-2am-oct14",
+   "event_time_ist": "~2:30 AM IST, Oct 14",
+   "title": "Delhi Police moved detained leaders Ranka, Das (and others) out of Jaffarpur Kalan PS ~2:30 AM; destination unknown",
+   "summary": "Nighttime transfer: Delhi Police escorted CJP leaders including Ashutosh Ranka and Sourav Das out of the Jaffarpur Kalan police station at ~2:30 AM and loaded them into a white tourist van as a crowd filmed; on-screen text asks where police took them. Both The Lallantop's on-the-ground team and the MaatiTak reel independently captured the 2 AM move. Whereabouts now unknown — watch for release vs transfer/production before magistrate.",
+   "source_name": "MaatiTak (@officialmaatitak) IG reel; corroborated by The Lallantop (India Today Group) ground report",
+   "source_url": "https://www.instagram.com/reel/DedKxzUoAA_/",
+   "links": [
+    "https://www.youtube.com/watch?v=FwReh9MFuyE"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "6:15 PM PDT, Oct 13",
+   "report_time_ist": "6:45 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T01:15:53Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "negative"
+   }
   }
  ]
 }

@@ -1,75 +1,29 @@
 {
-  "report_time_pdt": "8:44 AM PDT, Oct 14",
-  "report_time_ist": "9:14 PM IST, Oct 14",
+  "report_time_pdt": "9:01 AM PDT, Oct 14",
+  "report_time_ist": "9:31 PM IST, Oct 14",
   "items": [
     {
-      "id": "trump-syracuse-blakeman-rally-oct9",
-      "event_time_ist": "Fri, Oct 9, 2026 (evening local ET; ~6:30 AM IST Oct 10)",
-      "title": "Trump headlines Syracuse, NY rally for Blakeman's bid to unseat Hochul (catch-up, Oct 9)",
-      "summary": "President Trump held a Friday-night rally at the Syracuse Oncenter on Oct 9, 2026 for Republican gubernatorial nominee Bruce Blakeman's challenge to Gov. Kathy Hochul, missed by earlier sweeps. Boxing legend Mike Tyson flew in on Air Force One and took the stage ('there's no way in the world I would ever be here if it wasn't for a president like Donald Trump'), along with Yankees president Randy Levine, Energy Secretary Chris Wright, EPA chief Lee Zeldin and House Republicans. Trump also endorsed NY House candidates Kailee Buller (NY-22, vs Rep. John Mannion) and Anthony Constantino (open NY-21), attacked Hochul on crime, immigration and energy bills, touted Micron's $100B NY semiconductor project, and closed with 'pretend I'm on the freaking ballot.' Blakeman framed the race as taxes/utility-bills/public-safety vs Hochul.",
-      "source_name": "Fox News",
-      "source_url": "https://foxnews.com/politics/trump-rallies-new-york-crowd-republican-bruce-blakemans-bid-replace-gov-kathy-hochul",
+      "id": "stetson-fl-oct-poll-donalds-jolly",
+      "event_time_ist": "Poll released Tue, Oct 13, 2026 (reported Oct 14, 2026)",
+      "title": "New Stetson October Florida poll: Donalds +11 for governor, Moody +11 for Senate",
+      "summary": "Stetson University's Center for Public Opinion Research released its October Florida poll (826 adults, 716 registered voters, MoE +/-4.2): Byron Donalds (R) leads David Jolly (D) 52-41 for governor and Sen. Ashley Moody (R) leads Angie Nixon (D) 52-41 in the Senate race; Florida GOP leads the generic House ballot 50-41. Trump's Florida approval is 50-49 (vs Pew national 30%, Oct 8); DeSantis favorability 55%. Amendment 3 (property-tax exemption) sits at 56%, below the 60% passage threshold. Caveats: Florida Politics analyst Steve Vancore criticized the opt-in online panel ('too many Trump voters by ~5 pts'); the September Stetson poll had drawn the same critique and was held unconfirmed by this watch. The numbers track other recent surveys (James Madison Institute Oct 9: Donalds +10; NBC6/Telemundo/Mason-Dixon: Donalds 48-41, Moody 50-40) but clash with a Change Research (D) poll showing the governor's race tied 47-47 on Oct 12 and DDHQ's recent toss-up reclassification.",
+      "source_name": "Daytona Beach News-Journal (USA Today network)",
+      "source_url": "https://www.news-journalonline.com/story/news/politics/elections/2026/10/14/stetsons-latest-poll-tracks-trumps-favorability-in-florida/92236301007/",
       "links": [
-        "https://thenewshouse.com/off-campus/trump-rallies-syracuse-supporters-at-the-oncenter/",
-        "https://nypost.com/2026/10/09/us-news/trump-pledges-to-partner-with-blakeman-to-straighten-out-new-york-crime-illegal-immigration-and-energy-prices-ill-be-there-within-24-hours/"
+        "https://politicalwire.com/2026/10/13/republicans-hold-solid-lead-in-florida-races/",
+        "https://cybernistas.com/general/poll-donalds-moody-hold-double-digit-leads-in-florida-races/"
       ],
       "image_urls": [
-        "https://i.iplsc.com/-/000MUCV4CT3YM9E8-C461.jpg"
+        "https://cybernistas.com/wp-content/uploads/2026/10/407467-poll-donalds-moody-hold-double-digit-leads-in-florida-races.jpg"
       ],
-      "confidence": "confirmed",
-      "report_time_pdt": "8:44 AM PDT, Oct 14",
-      "report_time_ist": "9:14 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T15:44:38Z",
+      "confidence": "single-sourced",
+      "report_time_pdt": "9:01 AM PDT, Oct 14",
+      "report_time_ist": "9:31 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T16:01:00Z",
       "sentiment": {
-        "republicans": "positive",
         "democrats": "negative",
-        "trump": "positive"
-      }
-    },
-    {
-      "id": "trump-clarksville-tennessee-rally-oct10",
-      "event_time_ist": "Sat, Oct 10, 2026 (~3 PM CT / ~1:30 AM IST Oct 11)",
-      "title": "Trump rallies Clarksville, TN for Hagerty and Blackburn with Kid Rock (catch-up, Oct 10)",
-      "summary": "President Trump headlined a midterm rally at F&M Bank Arena in Clarksville, TN on Sat Oct 10, 2026 \u2014 a replacement stop after his planned Alabama-Georgia football-game appearance was dropped over storm safety (remnants of Hurricane Isaias). Kid Rock opened for ~4,500 supporters; Trump campaigned for Sen. Bill Hagerty's reelection and Marsha Blackburn's gubernatorial bid, repeated the $5,000 'Trump dividend' promise, touted the $6.6B Korea Zinc smelter (largest private investment in TN history) and Memphis crime-task-force operations, called Iranian leaders 'crazy,' and floated renaming the Strait of Hormuz the 'Trump Strait' and an ocean the 'Trump Ocean.' His signature line: 'pretend. Just pretend that I'm running.'",
-      "source_name": "Fox News",
-      "source_url": "https://foxnews.com/politics/president-talks-trump-ocean-trades-jokes-tennessee-crowd-kid-rock-kicks-sprawling-rally",
-      "links": [
-        "https://www.wvlt.tv/2026/10/10/live-updates-president-trump-attend-rally-clarksville-ahead-midterm-election/"
-      ],
-      "image_urls": [
-        "https://kansasfrw.org/wp-content/uploads/2025/04/20240718_213652-scaled.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "8:44 AM PDT, Oct 14",
-      "report_time_ist": "9:14 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T15:44:38Z",
-      "sentiment": {
         "republicans": "positive",
-        "democrats": "negative",
         "trump": "positive"
-      }
-    },
-    {
-      "id": "cnn-ad-wars-spending-efficiency-oct14",
-      "event_time_ist": "published morning Oct 14, 2026 (ET)",
-      "title": "CNN/AdImpact: GOP spending nearly 2x Dems on Senate TV ads but getting only ~40% more reach",
-      "summary": "New CNN analysis of AdImpact data (published Oct 14): across nine competitive Senate races last month, Republicans outspent Democrats $233M to $121M on broadcast TV ads \u2014 nearly 100% more \u2014 but saw only about 40% more gross rating points. Republicans paid ~$274 per GRP vs $201 for Democrats; in some September races Democrats actually outpaced Republicans in GRPs entirely. Cause: ~9 in 10 GOP ad dollars flowed through outside groups paying elevated late-cycle rates, while Democratic campaigns used discounted candidate rates and earlier, cheaper reservations. Veteran GOP strategist John Thomas: Republicans are 'spending more to get less.' Follows the earlier-reported $682M-vs-$491M GOP ad-reservation advantage through Election Day.",
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/14/politics/midterms-ad-wars-republican-spending?cid=external-feeds_iluminar_meta",
-      "links": [
-        "https://politicalwire.com/2026/10/14/republicans-are-spending-more-to-get-less/",
-        "https://www.tmj4.com/politics/america-votes/republicans-are-flooding-senate-races-with-ad-money-but-paying-a-premium"
-      ],
-      "image_urls": [
-        "https://digilant.com/wp-content/uploads/2026/02/Political-Advertising-2026-Midterms.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "8:44 AM PDT, Oct 14",
-      "report_time_ist": "9:14 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T15:44:38Z",
-      "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative"
       }
     }
   ]

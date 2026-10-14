@@ -1061,6 +1061,51 @@
       "source_url": "https://www.reuters.com/business/energy/us-blockade-keeps-iranian-crude-exports-zero-october-report-says-2026-10-13/",
       "summary": "The US blockade has kept Iranian seaborne crude exports at zero through all of October, per energy-intelligence firm Vortexa \u2014 exports fell to zero in the second week of September from ~230,000 bpd and stayed there; 43 million barrels of Iranian crude sit trapped west of the Strait of Hormuz, with 83 million barrels total on the water. Iran's LPG exports fell 48% month-on-month, lowest since at least January 2023. Vortexa's Claire Jungman: the blockade 'is doing what years of sanctions never managed.' Russia now makes up 80% of 'high-risk exports' (Iran, Russia, Venezuela), whose combined 4.73M bpd in September was down from 6.39M a year earlier.",
       "title": "US blockade kept Iranian crude exports at zero all of October \u2014 Vortexa, Oct 13"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Oct 13, 2026 (exact hour of statements not published)",
+      "id": "centcom-azmaei-hormuz-rebuttal",
+      "image_urls": [
+        "https://gcaptain.com/wp-content/uploads/2026/05/U.S.-Navy-destroyers-hormuz.jpeg"
+      ],
+      "links": [
+        "https://live.eastoranews.com/2026/10/14/centcom-rejects-irans-claim-to-control-the-strait-of-hormuz-saying-u-s-022251"
+      ],
+      "report_time_ist": "8:54 AM IST, Oct 14",
+      "report_time_pdt": "8:24 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-14T03:24:52Z",
+      "sentiment": {
+        "iran": "negative",
+        "us": "positive"
+      },
+      "source_name": "JFeed",
+      "source_url": "https://www.jfeed.com/latest-news/centcom-rejects-iranian-claim-of-strait-of-hormuz-control-54847",
+      "summary": "IRGC Navy Rear Admiral Ali Azmaei told Iranian state TV his forces were 'waiting' for US warships to approach the strait's entrance to sink them, claimed a US carrier retreated 700 km, and said Iran exercises 'smart control' by issuing transit permits. CENTCOM dismissed it in an X post: the IRGC navy commander 'has no navy,' the strait is controlled by US forces and regional partners, which helped move over 19 million barrels of crude through the waterway on Monday. Exchange came alongside UKMTO reports of Tuesday's tanker + container-ship strikes in the strait (already in feed).",
+      "title": "CENTCOM rejects Azmaei's claim of Iranian control over Hormuz; says commander 'has no navy'"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Oct 13, 2026 (exact hour of call not published)",
+      "id": "rubio-miliband-hormuz-call",
+      "image_urls": [
+        "https://laplumadiario.com/wp-content/uploads/2026/09/Ed-Milliband-Marco-Rubio.jpg.webp"
+      ],
+      "links": [
+        "https://hiindia.com/us-uk-discuss-iran-hormuz-security/"
+      ],
+      "report_time_ist": "8:54 AM IST, Oct 14",
+      "report_time_pdt": "8:24 PM PDT, Oct 13",
+      "reported_at_utc": "2026-10-14T03:24:52Z",
+      "sentiment": {
+        "iran": "negative",
+        "markets": "neutral",
+        "us": "positive"
+      },
+      "source_name": "Nation Press",
+      "source_url": "https://www.nationpress.com/international/rubio-miliband-align-on-hormuz-and-iran",
+      "summary": "US Secretary of State Marco Rubio and UK Foreign Secretary Ed Miliband spoke by phone Oct 13 (State Dept readout via spokesman Tommy Pigott), reiterating a shared commitment to safeguarding transit in the Strait of Hormuz and 'holding Iran to account for its actions.' They also discussed stabilizing global energy markets, a negotiated end to the Russia-Ukraine war, and securing US assets in Britain. No new sanctions, naval deployments, or operational arrangements were announced.",
+      "title": "Rubio, Miliband discuss Hormuz security in call; pledge Iran accountability, no new measures announced"
     }
   ],
   "last_updated_pdt": "1:12 PM PDT, Oct 13, 2026",

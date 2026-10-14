@@ -1154,7 +1154,7 @@
       }
     },
     {
-      "confidence": "single-sourced",
+      "confidence": "confirmed",
       "event_time_ist": "Wednesday morning, Oct 14, 2026 (~10:41-10:45 AM Riyadh time announcement; launch time unverified)",
       "id": "coalition-riyadh-missile-intercept-wednesday-oct14",
       "image_urls": [
@@ -1162,7 +1162,9 @@
       ],
       "links": [
         "https://www.instagram.com/reel/Ded31ZcO0m_/",
-        "https://www.instagram.com/p/Ded4Es_F1h4/"
+        "https://www.instagram.com/p/Ded4Es_F1h4/",
+        "https://www.reuters.com/business/energy/yemens-houthis-vow-more-attacks-saudi-airports-oil-facilities-after-aramco-hq-2026-10-14/",
+        "https://www.thelevantfiles.org/2026/10/live-aramco-hit-saudihouthi-war.html"
       ],
       "report_time_ist": "1:22 PM IST, Oct 14",
       "report_time_pdt": "12:52 AM PDT, Oct 14",
@@ -1174,7 +1176,7 @@
       },
       "source_name": "Al Bilad Press / Kuwait News / regional breaking-news accounts (SPA-branded graphics)",
       "source_url": "https://www.instagram.com/p/Ded4LpHEZ_0/",
-      "summary": "Three near-simultaneous SPA-branded Arabic breaking-news graphics posted by regional accounts (Al Bilad Press Bahrain at 10:41 AM Riyadh time, Kuwait News, and a Saudi breaking-news account) carry a coalition announcement: 'interception and destruction of a ballistic missile launched by the terrorist Houthi militia toward Riyadh.' No news outlet has yet corroborated a fresh Wednesday launch, and no casualty or debris details are reported. Caveat: the boilerplate wording matches the coalition's Monday intercept announcement, so it is possible — though the Wednesday-morning timing pattern suggests otherwise — that the graphics restate an earlier interception. Treated as a possible new event, single-sourced.",
+      "summary": "Three near-simultaneous SPA-branded Arabic breaking-news graphics posted by regional accounts (Al Bilad Press Bahrain at 10:41 AM Riyadh time, Kuwait News, and a Saudi breaking-news account) carry a coalition announcement: 'interception and destruction of a ballistic missile launched by the terrorist Houthi militia toward Riyadh.' No news outlet has yet corroborated a fresh Wednesday launch, and no casualty or debris details are reported. Caveat: the boilerplate wording matches the coalition's Monday intercept announcement, so it is possible — though the Wednesday-morning timing pattern suggests otherwise — that the graphics restate an earlier interception. Treated as a possible new event, single-sourced. UPDATE 3:36 AM PDT Oct 14: Reuters independently confirmed the Wednesday intercept (loud booms heard in Riyadh); Saudi authorities issued a 'possible aerial threat' alert for Riyadh and Al-Kharj, then Civil Defense posted the 'danger has passed' message and lifted the alerts. No immediate casualties/damage reported from this interception.",
       "title": "Coalition says it intercepted another Houthi ballistic missile toward Riyadh on Wednesday morning"
     },
     {
@@ -1200,6 +1202,29 @@
         "houthis": "positive",
         "saudi_govt": "negative",
         "civilians": "negative"
+      }
+    },
+    {
+      "id": "wednesday-intercept-confirmed-alert-lifted-oct14",
+      "event_time_ist": "Wednesday, Oct 14, 2026 (intercept announced ~10:41-10:45 AM Riyadh time; aerial-threat alert issued and lifted the same morning)",
+      "title": "Reuters confirms Wednesday Riyadh intercept; air-raid alert issued then lifted",
+      "summary": "Reuters now independently confirms what had been single-sourced SPA-branded graphics: the Saudi-led coalition intercepted a Houthi ballistic missile fired toward Riyadh on Wednesday, with loud booms heard in the capital. Saudi authorities issued a 'possible aerial threat' alert for Riyadh — civil-defence air-raid warnings also covered neighbouring Al-Kharj governorate per AP/Anadolu — then Civil Defense posted the 'danger has passed' message and lifted the alerts. No immediate reports of casualties or damage from this interception; it is distinct from Tuesday-night interception debris that injured 4 and damaged 15 Riyadh homes (already in timeline). This upgrades the previously single-sourced Wednesday-intercept item to confirmed.",
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/business/energy/yemens-houthis-vow-more-attacks-saudi-airports-oil-facilities-after-aramco-hq-2026-10-14/",
+      "links": [
+        "https://www.thelevantfiles.org/2026/10/live-aramco-hit-saudihouthi-war.html"
+      ],
+      "image_urls": [
+        "https://texty.org.ua/media/images/1_ugFVTXO.original.2e16d0ba.fill-1200x630.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "3:36 AM PDT, Oct 14",
+      "report_time_ist": "4:06 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T10:36:50Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "neutral"
       }
     }
   ]

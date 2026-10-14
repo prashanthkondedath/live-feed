@@ -1,27 +1,25 @@
 {
-  "report_time_pdt": "9:12 PM PDT, Oct 13",
-  "report_time_ist": "9:42 AM IST, Oct 14",
+  "report_time_pdt": "9:27 PM PDT, Oct 13",
+  "report_time_ist": "9:57 AM IST, Oct 14",
   "items": [
     {
-      "id": "talarico-flu-rumor-debunked-oct12",
-      "event_time_ist": "Denials and fact-checks published Oct 11-12, 2026; Talarico off trail Sept 26-Oct 9, 2026",
-      "title": "Viral claim that Talarico was treated at an Ohio mental-health facility debunked (TX Senate)",
-      "summary": "Texas Democrat James Talarico was off the campaign trail Sept 26-Oct 9 with what he and his campaign said was the flu (diagnosed Sept 30 after a Dallas urgent-care visit). Right-wing influencers claimed he had checked into Ohio's Lindner Center of Hope, including audio of a purported phone call with a staffer. The facility issued a formal denial Oct 11: Talarico 'has never received treatment from Lindner Center of Hope'; Talarico replied he has 'never even been to Ohio'; NYT reported campaign-provided security footage showed him at his Austin home Oct 1-8; PolitiFact rated the claim 'Pants on Fire'. Paxton had demanded 'proof of life' and a doctor's note; Trump mocked the absence at his Oct 7 San Antonio rally. Talarico returned Oct 9 at Austin City Limits and told KXAS Oct 11 it was 'a nasty case of the flu'. Polls still show Talarico leading Paxton narrowly (RCP avg Talarico +2.8).",
-      "source_name": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/state/texas/2026/10/12/talarico-health-rumors-spark-hipaa-debate-after-hospital-denial/92214855007/",
+      "id": "quinnipiac-pa-governor-shapiro-59-oct7",
+      "event_time_ist": "released ~10:15 PM IST, Oct 7, 2026 (fielded Oct 1-5)",
+      "title": "Quinnipiac: Shapiro 59%, Garrity 34% in PA governor race; voters favor Dems to win House control by 15 points",
+      "summary": "Quinnipiac University poll of 1,159 PA likely voters (fielded Oct 1-5, 2026, MoE +/-3.9) released Oct 7, 2026: Gov. Josh Shapiro (D) leads GOP challenger Stacy Garrity 59%-34%, with Libertarian Ken Krawchuk at 2%. Shapiro job approval 63%; 56% satisfied with how things are going in PA. Same poll: voters favor Democrats to win control of the U.S. House by 15 points; Trump disapproval 60%. RCP average (Sept 15-Oct 5) has Shapiro +23.2 (56.0 vs 32.8); Cook rates Solid D, Sabato Likely D. (Missed by earlier runs; catch-up item.)",
+      "source_name": "Quinnipiac University Poll",
+      "source_url": "https://poll.qu.edu/images/polling/pa/pa10072026_pgrx47.pdf",
       "links": [
-        "https://nypost.com/2026/10/12/us-news/conspiracies-mount-after-texas-senate-democratic-candidate-james-talaricos-absence-for-nine-days-due-to-nasty-case-of-the-flu/",
-        "https://www.cnn.com/2026/10/12/politics/talarico-conspiracy-theory-maga-trump?cid=external-feeds_iluminar_meta",
-        "https://www.poynter.org/fact-checking/2026/james-talarico-psychiatric-hospital-rumor/",
-        "https://foxnews.com/politics/ken-paxton-calls-james-talarico-11-day-absence-trump-rally-prompting-response-campaign"
+        "https://www.usatoday.com/story/news/politics/2026/10/07/fetterman-approval-quinnipiac-poll/92142138007/",
+        "https://www.realclearpolling.com/elections/governor/2026/pennsylvania"
       ],
       "image_urls": [
-        "https://i.abcnewsfe.com/a/b63e8408-76d4-4964-be27-5f4f98ae4b14/James-Talarico-6-gty-gmh-260203_1770123610125_hpEmbed_3x2.jpg?w=992"
+        "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/pennsylvania-governor-josh-shapiro.jpg?ve=1&tl=1"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "9:12 PM PDT, Oct 13",
-      "report_time_ist": "9:42 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T04:12:13Z",
+      "report_time_pdt": "9:27 PM PDT, Oct 13",
+      "report_time_ist": "9:57 AM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T04:27:03Z",
       "sentiment": {
         "democrats": "positive",
         "republicans": "negative",

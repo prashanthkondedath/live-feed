@@ -474,31 +474,31 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T03:25:28Z",
+      "trend_updated_at_utc": "2026-10-14T03:55:45Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 49,
+        "items_in_window": 51,
         "sides": {
           "us": {
             "positive": 8,
-            "negative": 15,
+            "negative": 17,
             "neutral": 8,
             "overall": "negative"
           },
           "iran": {
             "positive": 8,
-            "negative": 24,
+            "negative": 26,
             "neutral": 8,
             "overall": "negative"
           },
           "markets": {
             "positive": 2,
-            "negative": 29,
+            "negative": 31,
             "neutral": 5,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T03:25:28Z"
+        "updated_at_utc": "2026-10-14T03:55:45Z"
       },
       "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures.",
       "watch_for": [
@@ -542,12 +542,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 49,
-        "confirmed": 39,
+        "items_in_window": 51,
+        "confirmed": 41,
         "single-sourced": 7,
         "unconfirmed": 3,
         "confirmed_rate": 0.8,
-        "updated_at_utc": "2026-10-14T03:25:28Z"
+        "updated_at_utc": "2026-10-14T03:55:45Z"
       },
       "phase": "standoff"
     },
@@ -670,5 +670,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T03:42:54Z"
+  "updated_at_utc": "2026-10-14T03:55:45Z"
 }

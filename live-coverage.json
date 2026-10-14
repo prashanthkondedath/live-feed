@@ -144,26 +144,26 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T12:53:38Z",
+      "trend_updated_at_utc": "2026-10-14T18:24:16Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 60,
+        "items_in_window": 61,
         "sides": {
           "civilians": {
             "positive": 2,
-            "negative": 25,
+            "negative": 26,
             "neutral": 9,
             "overall": "negative"
           },
           "houthis": {
             "positive": 4,
-            "negative": 43,
+            "negative": 44,
             "neutral": 3,
             "overall": "negative"
           },
           "saudi_govt": {
             "positive": 18,
-            "negative": 21,
+            "negative": 22,
             "neutral": 10,
             "overall": "negative"
           },
@@ -174,7 +174,7 @@
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-14T12:53:38Z"
+        "updated_at_utc": "2026-10-14T18:24:16Z"
       },
       "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24. Turkey's Erdogan called MBS on Tuesday to condemn the Houthi attacks and pledged continued support, while Trump called the Houthis 'behaving very badly' and said he may ask Erdogan to help Saudi Arabia. On Wednesday morning Oct 14, the coalition said it intercepted another Houthi ballistic missile aimed at Riyadh. Late Wednesday Oct 14, the Houthis publicly claimed responsibility for strikes on Aramco's Dhahran facilities, King Khalid International Airport and a Riyadh refinery, pledging their operations against Saudi airports and oil facilities would continue in the coming days. On Wednesday morning, Reuters independently confirmed the coalition intercepted another Houthi ballistic missile toward Riyadh — loud booms heard in the capital — and Saudi authorities issued then lifted an aerial-threat alert for Riyadh. Wednesday afternoon brought further developments: AP reported two regional officials saying Aramco's chief executive's office was among the rooms hit in the Tuesday-night Dhahran strike; senior Houthi official Mohamed al-Bukhaiti told the AP that Oman, Russia and China are pushing for a ceasefire deal; the WSJ reported (citing a Conflict Armament Research report) that the Houthis are attempting to manufacture an advanced medium-range ballistic missile using Chinese-delivered parts — components for a version of Iran's Kheibar Shekan family; and the French embassy advised French citizens to avoid the airports in Riyadh, Jeddah and Dammam. Wednesday afternoon, Reuters reported sources saying Aramco's Dhahran HQ suffered 'extensive damage' in the Tuesday-night strike — staff sent home and some functions shifted abroad — while Brent held ~$106 as traders priced Houthi-Saudi supply risk.",
       "watch_for": [
@@ -230,12 +230,12 @@
       "trend_direction": "steady",
       "verification": {
         "window": "7d",
-        "items_in_window": 60,
-        "confirmed": 39,
+        "items_in_window": 61,
+        "confirmed": 40,
         "single-sourced": 21,
         "unconfirmed": 0,
-        "confirmed_rate": 0.65,
-        "updated_at_utc": "2026-10-14T12:53:38Z"
+        "confirmed_rate": 0.66,
+        "updated_at_utc": "2026-10-14T18:24:16Z"
       },
       "phase": "escalation"
     },
@@ -698,5 +698,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T18:03:43Z"
+  "updated_at_utc": "2026-10-14T18:24:16Z"
 }

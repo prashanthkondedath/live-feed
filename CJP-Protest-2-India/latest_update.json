@@ -1,30 +1,26 @@
 {
- "report_time_pdt": "7:07 PM PDT, Oct 13",
- "report_time_ist": "7:37 AM IST, Oct 14",
+ "report_time_pdt": "7:46 PM PDT, Oct 13",
+ "report_time_ist": "8:16 AM IST, Oct 14",
  "items": [
   {
-   "id": "das-ranka-shinde-preventive-arrest-court-oct14",
-   "event_time_ist": "overnight, Oct 14 (reported ~1:30 AM IST, Oct 14)",
-   "title": "Detained trio under 'preventive arrest', to be produced in court today; Ratna Singh names charges including bond violation — Tihar judicial custody possible",
-   "summary": "Multiple outlets (NDTV, News18 India, SAAM TV, Sun News Tamil, Mathrubhumi News, Times Now) citing CJP legal head Ratna Singh report Saurav Das, Ashutosh Ranka and Ajinkya Shinde are under preventive arrest over the Tue-AM Jantar Mantar gate-climb/Tricolour-hoisting and will be produced before a court on Wednesday, Oct 14. Named charges: trespass, violation of the Oct-11 one-year peace bond, obstruction of a public official's duty. NDTV cites Ratna Singh's post saying the three could be sent to judicial custody in Tihar Jail. News18's graphics add the police allegation that the protesters broke open the door of the JDU office to enter the protest site. Overnight, Ratna Singh told reporters (MaatiTak night statement) protesters were held nearly 24 hours without lawyer access or stated grounds, alleging Delhi Police acted 'on orders from above'. The official @cockroachjantaparty 'kidnapped' claim post from Oct 13 was earlier deleted from the handle.",
-   "source_name": "NDTV / News18 India / SAAM TV / Sun News Tamil / Mathrubhumi News / Times Now (via Instagram), citing CJP legal head Ratna Singh",
-   "source_url": "https://www.instagram.com/p/DedPVakk7Z1/",
+   "id": "das-ranka-shinde-parliament-street-sem-oct14",
+   "event_time_ist": "~3:00 AM - 5:38 AM IST, Oct 14",
+   "title": "Overnight whereabouts resolved: detained trio brought to Parliament Street PS ~3 AM; SEM production at Mandir Marg expected — outcome still unreported",
+   "summary": "CJP legal head Ratna Singh's overnight X posts (livemint; corroborated by thedailyjagran and Latestly) resolve the 'destination unknown' open question: Saurav Das, Ashutosh Ranka and Ajinkya Shinde were brought to Parliament Street Police Station at ~3 AM IST Oct 14 in a private van, after the ~2:30 AM move out of Jaffarpur Kalan PS; they were held nearly 24 hours without lawyer access or stated grounds. Singh's 5:38 AM IST update said the trio are likely to be produced before the Special Executive Magistrate (SEM) at Mandir Marg Police Station within an hour (due ~6:30-7:00 AM IST); the production outcome is still unreported as of this run. Delhi Police's position remains 'preventive arrest' (ANI); Singh calls the arrests illegal and says Tihar judicial custody is possible.",
+   "source_name": "livemint (HT Media); corroborated by thedailyjagran (Jagran Prakashan) and Latestly — all citing CJP legal head Ratna Singh's X posts",
+   "source_url": "https://www.livemint.com/news/india/cjp-lawyer-says-saurav-das-ashutosh-ranka-and-ajinkya-shinde-arrested-calls-it-illegal-what-we-know-so-far-11791938743502.html",
    "links": [
-    "https://www.instagram.com/p/DedPVakk7Z1/",
-    "https://www.instagram.com/reel/DedOfsLSlsW/",
-    "https://www.instagram.com/reel/DedQinNkojs/",
-    "https://www.instagram.com/p/DedNB0FiDfK/",
-    "https://www.instagram.com/p/DedK6m_Gdwe/",
-    "https://www.instagram.com/p/DedNfNyCJiE/",
-    "https://www.instagram.com/reel/DedLy7GoX8p/"
+    "https://www.livemint.com/news/india/cjp-lawyer-says-saurav-das-ashutosh-ranka-and-ajinkya-shinde-arrested-calls-it-illegal-what-we-know-so-far-11791938743502.html",
+    "https://www.thedailyjagran.com/india/news/cjp-claims-saurav-das-ashutosh-ranka-ajinkya-shinde-arrested-delhi-police-says-preventive-arrest-10332636",
+    "https://www.latestly.com/india/news/delhi-police-detain-cjp-activists-saurav-das-ashutosh-ranka-after-jantar-mantar-entry-attempt-7643680.html"
    ],
    "image_urls": [
     "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "7:07 PM PDT, Oct 13",
-   "report_time_ist": "7:37 AM IST, Oct 14",
-   "reported_at_utc": "2026-10-14T02:07:00Z",
+   "report_time_pdt": "7:46 PM PDT, Oct 13",
+   "report_time_ist": "8:16 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T02:46:00Z",
    "sentiment": {
     "cjp_protesters": "negative",
     "police_govt": "negative"

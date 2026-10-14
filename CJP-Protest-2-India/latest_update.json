@@ -1,27 +1,27 @@
 {
- "report_time_pdt": "3:42 PM PDT, Oct 13",
- "report_time_ist": "4:12 AM IST, Oct 14",
+ "report_time_pdt": "6:15 PM PDT, Oct 13",
+ "report_time_ist": "6:45 AM IST, Oct 14",
  "items": [
   {
-   "id": "rahul-gandhi-journalist-shove-allegation-oct13",
-   "event_time_ist": "~8-8:30 PM IST, Oct 12 (reported Oct 13)",
-   "title": "Pregnant journalist alleges Rahul Gandhi pushed her during Oct 12 INDIA-bloc march; BJP amplifies, Congress denies",
-   "summary": "Oneindia journalist Richa Parashar, who says she is 3 months pregnant, alleges Rahul Gandhi grabbed her hand and pulled her as she covered the Oct 12 INDIA-bloc march near the Supreme Court; she says she fell on the steps (hurting hand/knees, breaking her phone) and her cameraperson fell on top of her. She was admitted to hospital. BJP leaders Pradeep Bhandari, Rajesh Bhatia and Umang Bajaj visited her in hospital; Bhandari alleged Gandhi 'shoved and pushed her to the ground'. Congress MP Pawan Khera called the claims 'completely false'; Jebi Mather accused the BJP of 'scripting narratives'. Key facts remain unverified.",
-   "source_name": "IANS",
-   "source_url": "https://ianslive.in/rahul-gandhi-manhandled-female-journalist-bjp-congress-hits-back--20261013135424",
+   "id": "cjp-ranka-das-moved-jaffarpur-2am-oct14",
+   "event_time_ist": "~2:30 AM IST, Oct 14",
+   "title": "Delhi Police moved detained leaders Ranka, Das (and others) out of Jaffarpur Kalan PS ~2:30 AM; destination unknown",
+   "summary": "Nighttime transfer: Delhi Police escorted CJP leaders including Ashutosh Ranka and Sourav Das out of the Jaffarpur Kalan police station at ~2:30 AM and loaded them into a white tourist van as a crowd filmed; on-screen text asks where police took them. Both The Lallantop's on-the-ground team and the MaatiTak reel independently captured the 2 AM move. Whereabouts now unknown — watch for release vs transfer/production before magistrate.",
+   "source_name": "MaatiTak (@officialmaatitak) IG reel; corroborated by The Lallantop (India Today Group) ground report",
+   "source_url": "https://www.instagram.com/reel/DedKxzUoAA_/",
    "links": [
-    "https://ianslive.in/rahul-gandhi-manhandled-female-journalist-bjp-congress-hits-back--20261013135424",
-    "https://www.youtube.com/watch?v=0mUFlupdJcw"
+    "https://www.youtube.com/watch?v=FwReh9MFuyE"
    ],
    "image_urls": [
-    "https://img.youtube.com/vi/0mUFlupdJcw/maxresdefault.jpg"
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "3:42 PM PDT, Oct 13",
-   "report_time_ist": "4:12 AM IST, Oct 14",
-   "reported_at_utc": "2026-10-13T22:42:07Z",
+   "report_time_pdt": "6:15 PM PDT, Oct 13",
+   "report_time_ist": "6:45 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T01:15:53Z",
    "sentiment": {
-    "india_bloc": "negative"
+    "cjp_protesters": "negative",
+    "police_govt": "negative"
    }
   }
  ]

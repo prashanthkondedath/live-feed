@@ -1268,6 +1268,54 @@
         "houthis": "positive",
         "saudi_govt": "neutral"
       }
+    },
+    {
+      "id": "houthi-china-parts-missile-oct14",
+      "event_time_ist": "Oct 14 (report published Wednesday)",
+      "title": "WSJ/CAR: Houthis building advanced ballistic missile with Chinese-supplied parts",
+      "summary": "According to a Conflict Armament Research report viewed by the WSJ before publication, Yemen's Houthis are attempting to manufacture their own advanced medium-range ballistic missile using Chinese-delivered parts - components for a version of Iran's Kheibar Shekan precision-guided missile, including motor and airframe parts, stabilizing fins and solid-propellant rocket-motor components recovered from two shipments Yemeni authorities intercepted in 2025. The planned weapon would fly roughly 1,900-2,000 km, putting all of Saudi Arabia and Israel in range. CAR cautions it is unclear how far production has advanced, and the suppliers' involvement does not necessarily imply backing by the Chinese government. Corroborated by WSJ, Islamabad Post, All Israel News, JFeed and Eastora News.",
+      "source_name": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/world/middle-east/houthi-missile-china-parts-5c2b2516",
+      "links": [
+        "https://www.wsj.com/world/middle-east/houthi-missile-china-parts-5c2b2516",
+        "https://islamabadpost.com.pk/houthis-attempting-to-build-advanced-missiles-using-chinese-parts-report/"
+      ],
+      "image_urls": [
+        "https://islamabadpost.com.pk/wp-content/uploads/2026/10/NEWS-222-696x389.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "05:22 AM PDT, Oct 14",
+      "report_time_ist": "05:52 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T12:22:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "us": "negative"
+      }
+    },
+    {
+      "id": "france-embassy-airport-warning-oct13",
+      "event_time_ist": "Oct 13 (advisory issued Tuesday)",
+      "title": "French embassy tells citizens to avoid Riyadh, Jeddah and Dammam airports",
+      "summary": "The French embassy in Saudi Arabia advised French citizens on Tuesday to avoid the airports in Riyadh, Jeddah and Dammam, announcing the guidance in an Instagram post that gave no reason. France had previously confirmed a French woman was injured in the Oct 10 Riyadh airport strike. Corroborated by France 24 and JFeed.",
+      "source_name": "JFeed",
+      "source_url": "https://www.jfeed.com/latest-news/french-embassy-warns-citizens-to-avoid-major-saudi-airports-54740",
+      "links": [
+        "https://www.jfeed.com/latest-news/french-embassy-warns-citizens-to-avoid-major-saudi-airports-54740",
+        "https://schonheits.com/news/cmv6ounpg11a3tlu78bsbt6se?lang=en"
+      ],
+      "image_urls": [
+        "https://thetraveler.s3.amazonaws.com/images/hero/riyadh-airport-stranded-travellers-disruption.jpg_1200x675.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "05:22 AM PDT, Oct 14",
+      "report_time_ist": "05:52 PM IST, Oct 14",
+      "reported_at_utc": "2026-10-14T12:22:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "civilians": "negative"
+      }
     }
   ]
 }

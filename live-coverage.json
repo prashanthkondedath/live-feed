@@ -252,7 +252,7 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T02:48:38Z",
+      "trend_updated_at_utc": "2026-10-14T03:32:39Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 33,
@@ -294,7 +294,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-14T02:48:38Z"
+        "updated_at_utc": "2026-10-14T03:32:39Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, a reported new Russian strike wave hit Kyiv-region energy plants (TPP-5, Trypillia TPP), the clearest sign yet the 'energy ceasefire' is not holding.",
       "watch_for": [
@@ -343,11 +343,11 @@
       "verification": {
         "window": "7d",
         "items_in_window": 33,
-        "confirmed": 30,
-        "single-sourced": 3,
+        "confirmed": 31,
+        "single-sourced": 2,
         "unconfirmed": 0,
-        "confirmed_rate": 0.91,
-        "updated_at_utc": "2026-10-14T02:48:38Z"
+        "confirmed_rate": 0.94,
+        "updated_at_utc": "2026-10-14T03:32:39Z"
       },
       "phase": "contested-ceasefire"
     },
@@ -662,5 +662,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-14T03:27:49Z"
+  "updated_at_utc": "2026-10-14T03:32:39Z"
 }

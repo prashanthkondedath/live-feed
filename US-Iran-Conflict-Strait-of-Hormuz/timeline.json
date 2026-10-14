@@ -1337,6 +1337,30 @@
    "source_url": "https://www.devdiscourse.com/article/international/3992065-saudis-lift-alert-warning-for-possible-aerial-threat-in-riyadh",
    "summary": "Saudi authorities issued a mobile alert warning of a possible aerial threat in Riyadh and the Al-Kharj governorate on Wednesday amid the sharp Houthi-Saudi escalation, then sent a second message saying the danger had passed, according to Reuters and Arab News. No strikes in the capital were confirmed. The alert came hours after the Houthi missile hit on Aramco's Dhahran headquarters complex (already alerted) and Saudi coalition interceptions around Riyadh and the south.",
    "title": "Saudi Arabia issues then lifts aerial-threat alert for Riyadh"
+  },
+  {
+   "id": "irgc-container-ship-mine-sunk-oct14",
+   "event_time_ist": "date unknown",
+   "title": "IRGC Navy claims container ship sank after striking mine south of Hormuz",
+   "summary": "Iranian state media on Wednesday (Oct 14) shared an IRGC Navy statement saying a container ship carrying 2,500+ containers sank south of the Strait of Hormuz after hitting a naval mine while on what the Guards called an 'unauthorised and dangerous route'; the statement warned local vessels and fishermen to take care. No vessel identity, flag, crew status, or independent/UKMTO confirmation; first IRGC mine claim against a container ship (Oct 10-12 claims were tankers). Iranian-state-only, so unconfirmed.",
+   "source_name": "Devdiscourse (syndicated feed)",
+   "source_url": "https://www.devdiscourse.com/article/international/3992167-irans-guards-say-container-ship-sinks-in-strait-of-hormuz-after-hitting-mine",
+   "links": [
+    "https://www.devdiscourse.com/article/international/3992167-irans-guards-say-container-ship-sinks-in-strait-of-hormuz-after-hitting-mine",
+    "https://www.instagram.com/p/DeeC5gFl0UD/",
+    "https://www.instagram.com/p/DeeDrk3IJYd/"
+   ],
+   "image_urls": [
+    "https://utahheadline.com/wp-content/uploads/2026/07/13EB2EF593aF8433D08-768x512.jpg"
+   ],
+   "confidence": "unconfirmed",
+   "report_time_pdt": "02:40 AM PDT, Oct 14, 2026",
+   "report_time_ist": "3:10 PM IST, Oct 14, 2026",
+   "reported_at_utc": "2026-10-14T09:40:00Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative"
+   }
   }
  ],
  "last_updated_pdt": "11:40 PM PDT, Oct 13, 2026",

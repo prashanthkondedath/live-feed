@@ -1165,6 +1165,78 @@
    "source_url": "https://www.youtube.com/shorts/F6P28iGaYk8",
    "summary": "Former US special envoy for Ukraine and Russia Keith Kellogg told DW News that Ukraine should keep striking Russian oil refineries despite Trump's request to stop -- asked how Zelensky should respond, he answered 'Burn all the refineries.' Kellogg dismissed the US-Russia diesel deal (300,000 metric tons) as driven by domestic US needs, said it does not mean America betrayed Ukraine, noted Europe still buys Russian oil and LNG, and urged Kyiv not to quit. The segment cited Zelensky saying 30 energy facilities were damaged overnight -- consistent with the 26 power + 4 oil-and-gas sites tallied in this feed on Oct 14.",
    "title": "Former Trump envoy Keith Kellogg to Ukraine: 'Burn all the refineries'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 14, 2026 — daytime (Moscow); claims published ~8:24 PM IST",
+   "id": "novak-claims-two-refineries-hit-oct14",
+   "image_urls": [
+    "https://i1.prth.gr/images/1168x656/jpg/files/2025-08-10/saratov-petrelaio.jpg"
+   ],
+   "links": [
+    "https://anewz.tv/world/world-news/25474/air-defence-heard-over-kyiv-after-deadly-russian-strike/news",
+    "https://www.zerohedge.com/energy/ukraine-attacks-two-more-refineries-after-trumps-proclaimed-energy-ceasefire-kremlin",
+    "https://www.europesays.com/ukraine/56184/"
+   ],
+   "report_time_ist": "11:52 PM IST, Oct 14",
+   "report_time_pdt": "11:22 AM PDT, Oct 14",
+   "reported_at_utc": "2026-10-14T18:22:41Z",
+   "sentiment": {
+    "russia": "negative",
+    "ukraine": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://anewz.tv/world/world-news/25474/air-defence-heard-over-kyiv-after-deadly-russian-strike/news",
+   "summary": "Russian Deputy PM Alexander Novak said Wednesday that Ukraine attacked two refineries 'today' — in the Saratov and Ryazan regions — adding 'we see no indication that the Ukrainian side is moving towards an energy ceasefire' (TASS named both plants). Neither region's governor reported a refinery hit: Rostov's Slyusar reported 160+ drones downed with no ground impact, Saratov's Busargin reported a civilian killed and houses damaged in Balakovo without mentioning the refinery, and Meduza found no explosion or fire reports on monitoring channels. Zelensky adviser Dmytro Lytvyn rejected the reports as fake, saying Ukraine struck a data centre and one unnamed second target — no refineries.",
+   "title": "Moscow claims Ukraine struck two refineries on Oct 14; Kyiv calls the reports fake"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 14, 2026 (Wednesday; reported ~5:02 PM IST)",
+   "id": "lutsk-drone-strike-three-killed-oct14",
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "links": [
+    "https://www.reuters.com/world/europe/russian-attack-ukraines-western-city-lutsk-kills-three-governor-says-2026-10-14/",
+    "https://www.tbsnews.net/world/russian-attack-ukraines-western-city-lutsk-kills-three-governor-says-1573201",
+    "https://policy-wire.com/russian-drone-attack-on-western-ukrainian-city-of-lutsk-kills-three-and-injures-twelve/"
+   ],
+   "report_time_ist": "11:52 PM IST, Oct 14",
+   "report_time_pdt": "11:22 AM PDT, Oct 14",
+   "reported_at_utc": "2026-10-14T18:22:41Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russian-attack-ukraines-western-city-lutsk-kills-three-governor-says-2026-10-14/",
+   "summary": "A Russian attack on the western city of Lutsk on Wednesday killed three and injured at least 12, regional governor Roman Romaniuk said on Telegram. Drone debris hit a warehouse (Policy-Wire: the Evrogurt food-store warehouse on Konyakina Street, engulfed by fire) and a residential building was damaged as well.",
+   "title": "Russian attack on western Lutsk kills 3, injures at least 12"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 14, 2026 (Wednesday; interview reported ~9:58 PM IST)",
+   "id": "zelensky-piers-morgan-painful-oct14",
+   "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+   ],
+   "links": [
+    "https://srnnews.com/ukraines-zelenskiy-says-it-is-painful-for-trump-to-choose-a-different-side/",
+    "https://anewz.tv/world/world-news/25474/air-defence-heard-over-kyiv-after-deadly-russian-strike/news"
+   ],
+   "report_time_ist": "11:52 PM IST, Oct 14",
+   "report_time_pdt": "11:22 AM PDT, Oct 14",
+   "reported_at_utc": "2026-10-14T18:22:41Z",
+   "sentiment": {
+    "ukraine": "negative",
+    "us": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://srnnews.com/ukraines-zelenskiy-says-it-is-painful-for-trump-to-choose-a-different-side/",
+   "summary": "In a Piers Morgan Uncensored interview aired Wednesday (recorded in London during his Burnham visit), Zelensky said it was 'painful' when Trump took another side after Trump said Zelensky should be replaced: 'It's painful when President Trump chooses one side, not our side... If you are in the middle, you have to stay in the middle.' Asked if he felt betrayed: 'Really, yes … but it's a little bit more complicated than just my emotions or my feelings'; added 'It's a pity we are losing (a) strong partner' and 'We are not selling our country … it's not about business for us.'",
+   "title": "Zelensky: 'painful' when Trump 'chooses one side, not our side'"
   }
  ]
 }

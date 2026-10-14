@@ -1,29 +1,28 @@
 {
-  "report_time_pdt": "8:38 PM PDT, Oct 13",
-  "report_time_ist": "9:08 AM IST, Oct 14",
-  "items": [
-    {
-      "id": "das-ranka-shinde-5day-judicial-custody-oct14",
-      "event_time_ist": "~9:00 AM IST, Oct 14",
-      "title": "CJP trio sent to 5 days' judicial custody after SEM Mandir Marg production",
-      "summary": "SAAM TV (verified @saamtvnews, 3.1M followers) live Marathi BIG BREAKING segment at ~9:00 AM IST Oct 14: CJP leaders Saurav Das, Ashutosh Ranka and Ajinkya Shinde sent to 5 days' jail ('CJP netyanna 5 divasancha turungvas'); the segment shows a spokesperson criticizing the Modi government for jailing the activists, calling the arrests politically motivated suppression of dissent. Within the same minute, VOB News Network (@vob.network) posted a Hindi 'BREAKING NEWS' graphic: three CJP leaders sent to 5 days of judicial custody — naming Sourav Das, Ashutosh Ranka and Ajinkya Shinde (spellings rendered 'Tanka'/'Animesh' in the graphic); charges: entering Jantar Mantar without permission, obstructing government work, violating bond conditions; notes the Oct-10 detention and Jantar Mantar's de-notification; Tihar Jail named. This is the long-awaited outcome of Ratna Singh's 5:38 AM IST 'SEM Mandir Marg within one hour' post — production landed ~2-3h late, ~9:00 AM IST. Caveat: as of ~9:08 AM IST no mainstream web outlet has yet carried the custody outcome; both sources are IG video/graphic news posts.",
-      "source_name": "SAAM TV (@saamtvnews)",
-      "source_url": "https://www.instagram.com/reel/Deda5IoAeNa/",
-      "links": [
-        "https://www.instagram.com/reel/Deda5IoAeNa/",
-        "https://www.instagram.com/reel/Deda7pUiXPy/"
-      ],
-      "image_urls": [
-        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "8:38 PM PDT, Oct 13",
-      "report_time_ist": "9:08 AM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T03:38:00Z",
-      "sentiment": {
-        "police_govt": "negative",
-        "cjp_protesters": "neutral"
-      }
-    }
-  ]
+ "report_time_pdt": "8:41 PM PDT, Oct 13",
+ "report_time_ist": "9:11 AM IST, Oct 14",
+ "items": [
+  {
+   "id": "dipke-coward-modi-emergency-x-post-oct14",
+   "event_time_ist": "~8:50 AM IST, Oct 14",
+   "title": "Dipke's first response to the 5-day custody order: dares Modi to 'declare an Emergency'",
+   "summary": "CJP founder Abhijeet Dipke issued his first reaction to the SEM Mandir Marg custody order via his verified X account @abhijeet_dipke (post dated 8:50 AM IST, Oct 14; screenshot reposted to his IG @abhijeetdipke with caption 'Coward.', ~13.6K likes). He says 'Ashu' and 'Saurav' were sent to 5 days' judicial custody for 'unfurling tricolour at Jantar Mantar,' and directly challenges PM Narendra Modi to 'show some guts' and officially declare an Emergency instead of using 'cowardly tactics' to crush dissent. Note: his post names only Das and Ranka (2 of the 3) — Shinde's custody status rests on the SAAM TV/VOB graphics alone. Self-published leader statement; no second outlet yet covering the post itself.",
+   "source_name": "Abhijeet Dipke (verified @abhijeet_dipke, via IG @abhijeetdipke)",
+   "source_url": "https://www.instagram.com/p/Deda94avKio/",
+   "links": [
+    "https://www.instagram.com/p/Deda94avKio/"
+   ],
+   "image_urls": [
+    "https://jagoindiajago.news/wp-content/uploads/2026/06/PTI06_06_2026_000287B.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "8:41 PM PDT, Oct 13",
+   "report_time_ist": "9:11 AM IST, Oct 14",
+   "reported_at_utc": "2026-10-14T03:41:52Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "bjp": "negative"
+   }
+  }
+ ]
 }

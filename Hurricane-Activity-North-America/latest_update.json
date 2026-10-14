@@ -1,46 +1,25 @@
 {
-  "report_time_pdt": "8:52 AM PDT, Oct 14",
-  "report_time_ist": "9:22 PM IST, Oct 14",
+  "report_time_pdt": "12:53 PM PDT, Oct 14",
+  "report_time_ist": "1:23 AM IST, Oct 15",
   "items": [
     {
-      "id": "simon-advisory-29-90mph-oct14",
-      "event_time_ist": "8:00 AM MST, Oct 14 (9:30 PM IST, Oct 14)",
-      "title": "Simon weakens to Category 1 (90 mph); Mexico drops its last coastal watch",
-      "summary": "NHC Advisory 29 (8 AM MST Wed Oct 14): Hurricane Simon's max winds fell to 90 mph (150 km/h, 975 mb) at 19.7N 108.1W - ~165 mi WSW of Cabo Corrientes and ~250 mi SSE of Cabo San Lucas - drifting SW at 2 mph. Mexico discontinued the Hurricane Watch for Las Islas Marias, so no coastal watches or warnings remain in effect anywhere. NHC notes watches/warnings may be required for portions of Baja California Sur in the next day or two; a turn toward the north or north-northwest is forecast by Friday, with weakening into the weekend.",
-      "source_name": "National Hurricane Center (Advisory 29)",
-      "source_url": "https://www.nhc.noaa.gov/text/refresh/MIATCPEP5%2Bshtml/091446.shtml?text",
+      "id": "pensacola-private-property-damage-70m-oct14",
+      "event_time_ist": "Wednesday, Oct 14 (Mayor Reeves weekly press conference)",
+      "title": "Pensacola mayor: Isaias caused at least $70M in private-property damage in city",
+      "summary": "Pensacola Mayor D.C. Reeves said at his Wednesday weekly press conference (Oct 14) that city private property owners have reported an estimated $70 million in Hurricane Isaias damage through Escambia County's Citizen Damage Report tool - the first city private-property estimate, expected to rise as assessment teams continue. Reeves said the figure is critical to meeting FEMA individual-assistance designation criteria. Separate figure: Escambia County announced Oct 13 a $64M initial estimate for county-owned buildings/facilities (not private property); Pensacola's city-owned-building assessment is still underway.",
+      "source_name": "Pensacola News Journal",
+      "source_url": "https://www.pnj.com/story/news/local/pensacola/2026/10/14/pensacola-hurricane-isaias-residents-damage-at-70-million/92246454007/",
       "links": [],
       "image_urls": [
-        "https://www.nhc.noaa.gov/storm_graphics/EP20/EP202026_wind_probs_34_F120_sm2.png"
+        "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/10/668/376/gettyimages-2299556570-scaled.jpg?ve=1&tl=1"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "8:52 AM PDT, Oct 14",
-      "report_time_ist": "9:22 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T15:52:21Z",
-      "sentiment": {
-        "mexico_govt": "neutral"
-      }
-    },
-    {
-      "id": "trudy-advisory-5-60mph-oct14",
-      "event_time_ist": "9:00 AM CST, Oct 14 (8:30 PM IST, Oct 14)",
-      "title": "Trudy strengthens to 60 mph; NHC: hurricane tonight, major hurricane Friday",
-      "summary": "NHC Advisory 5 (9 AM CST Wed Oct 14): Tropical Storm Trudy strengthened to 60 mph (95 km/h, 998 mb) at 11.5N 99.5W - ~375 mi S of Acapulco, ~610 mi SSE of Manzanillo - moving WNW at 13 mph. Rapid strengthening is forecast: hurricane by tonight, major hurricane by Friday. The track turns N/NNW Thursday and could bring Trudy near the coast of southwestern Mexico on Saturday. No coastal watches or warnings are in effect, but NHC says watches will likely be required later today or tonight for southwestern and west-central Mexico.",
-      "source_name": "National Hurricane Center (Advisory 5)",
-      "source_url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP1+html/200847.shtml",
-      "links": [
-        "https://www.usatoday.com/story/news/weather/2026/10/14/tropical-storm-trudy-path-tracker-spaghetti-models-hurricane/92245494007/"
-      ],
-      "image_urls": [
-        "https://www.nhc.noaa.gov/storm_graphics/EP21/EP212026_wind_probs_34_F120_sm2.png"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "8:52 AM PDT, Oct 14",
-      "report_time_ist": "9:22 PM IST, Oct 14",
-      "reported_at_utc": "2026-10-14T15:52:21Z",
+      "report_time_pdt": "12:53 PM PDT, Oct 14",
+      "report_time_ist": "1:23 AM IST, Oct 15",
+      "reported_at_utc": "2026-10-14T19:53:24Z",
       "sentiment": {
         "civilians": "negative",
-        "mexico_govt": "neutral"
+        "us_govt": "neutral"
       }
     }
   ]

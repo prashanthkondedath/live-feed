@@ -5790,6 +5790,78 @@
     "cjp_protesters": "positive",
     "bjp": "negative"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "10:30 AM IST, Oct 15",
+   "id": "sc-hearing-day-oct15",
+   "image_urls": [
+    "https://www.livelaw.in/h-upload/2026/09/03/697939-whatsapp-image-2026-09-03-at-170856-1.webp"
+   ],
+   "links": [
+    "https://www.barandbench.com/news/litigation/delhi-protests-assaults-and-detentions-the-18-petitions-filed-before-supreme-court",
+    "https://www.livelaw.in/top-stories/plea-in-supreme-court-seeks-guidelines-against-political-protests-inside-court-premises-contempt-proceedings-against-rahul-gandhi-554752",
+    "https://www.thetimesofbengal.com/general/cec-sir-row-supreme-court-to-hear-rahul-gandhi-india-bloc-leaders-plea-against-gyanesh-kumar-and-sir/"
+   ],
+   "report_time_ist": "1:15 PM IST, Oct 15, 2026",
+   "report_time_pdt": "12:45 AM PDT, Oct 15, 2026",
+   "reported_at_utc": "2026-10-15T07:45:26Z",
+   "sentiment": {
+    "courts": "neutral",
+    "india_bloc": "neutral"
+   },
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/top-stories/supreme-court-to-hear-pleas-on-delhi-protest-crackdown-rahul-gandhis-plea-against-ecis-sir-today-554719",
+   "summary": "The Supreme Court hears today (Oct 15) the full bundle of petitions arising from the CJP protest crackdown, listed at 10:30 AM IST before CJI Surya Kant and Justice Joymalya Bagchi: Rahul Gandhi and nine other INDIA bloc leaders' SIR writ petition (W.P.(C) No. 001351/2026) against the ECI's electoral-roll revision; AIMIM chief Asaduddin Owaisi's SIR plea (alerted Oct 14); contempt petitions over the Oct-10 metro/train/internet curbs; SCBA and SCAORA petitions over alleged detention/manhandling of lawyers; journalist organisations' petitions (Free Speech Collective, Network of Women in Media, Delhi Union of Journalists) alleging assault/detention of reporters; Menaka Guruswamy's habeas corpus plea naming detained leaders including Arvind Kejriwal and Mamata Banerjee; a challenge to the constitutional validity of BNSS Section 172; and Swaty Singh's challenge to the Jantar Mantar denotification. BarandBench counts 18 petitions in all. Also on Tuesday the Court had sought the personal presence of a senior Delhi Police officer to explain the alleged assault on women journalists.",
+   "title": "Supreme Court hearing day: ~18 petitions listed today (Oct 15) before CJI bench — Rahul Gandhi SIR writ plea, Owaisi plea, crackdown/journalist/lawyer petitions"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~9:14 AM IST, Oct 15",
+   "id": "delhi-police-commissioner-affidavit-oct15",
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "links": [
+    "https://www.livelaw.in/top-stories/supreme-court-delhi-protest-delhi-police-action-cjp-violations-554761",
+    "https://english.dainikjagranmpcg.com/top-stories/delhi-internet-shutdown-centre-apologises-to-supreme-court/article-38679",
+    "https://www.7globe.in/oct-10-jantar-mantar-protest-permission-denied-due-to-violence-during-cjp-protest-on-jul-20-delhi-police-india-news/"
+   ],
+   "report_time_ist": "1:15 PM IST, Oct 15, 2026",
+   "report_time_pdt": "12:45 AM PDT, Oct 15, 2026",
+   "reported_at_utc": "2026-10-15T07:45:26Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "positive"
+   },
+   "source_name": "The Daily Jagran (byline Aditya Jha)",
+   "source_url": "https://www.thedailyjagran.com/india/news/cjp-protest-october-10-delhi-police-denies-contempt-of-supreme-court-home-secy-issues-unconditional-apology-over-internet-suspension-10332770",
+   "summary": "Delhi Police Commissioner Anurag Kumar filed a fresh affidavit in the Supreme Court on Thursday defending the Oct-10 restrictions, saying permission for the CJP's Jantar Mantar protest was denied because of the group's record: the July 20 CJP protest drew 30,000+ people including persons with rioting/rape/murder records who attacked police with stones and sticks in 'mob violence and lynching'-like scenes; the Oct 6-8 marches choked central Delhi; the NEET protest overstayed permissions by 36+ days; the Sansad Chalo march proceeded despite Sec 163 BNSS orders; injuries to over a dozen police personnel; and detained protesters punctured the tyres of the buses holding them and smashed window shields. Separately, Union Home Secretary Govind Mohan tendered an 'unconditional apology' to the Court over the Oct-10 mobile-internet suspension, while denying wilful non-compliance (said it was needed to stop rumour-spreading); Railway Board chairman Satish Kumar said train curbs were imposed after review to maintain public order; DMRC told the Court metro service was restored from 10 PM on Oct 10 per the Court's order (45 stations had been shut 9 PM Oct 9 to 6 PM Oct 10). One outlet (newspop.in) reports 7,000+ people were detained across Delhi during the operation — single-sourced.",
+   "title": "Delhi Police Commissioner files affidavit in SC defending Oct-10 curbs (cites July 20 violence, police injuries, bus vandalism); Union Home Secretary tenders 'unconditional apology' over internet ban"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~6:30 AM IST, Oct 15",
+   "id": "contempt-plea-oct12-march-oct15",
+   "image_urls": [
+    "https://www.jagranimages.com/images/2026/07/21/article/image/CJP-Protest-(7)-1784609409821_v.webp"
+   ],
+   "links": [
+    "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-plea-seeks-ban-on-political-protests-inside-court-premises-criminal-contempt-action-against-rahul-gandhi/",
+    "https://lawbeat.in/top-stories/plea-in-supreme-court-to-frame-protest-guidelines-for-court-complexes-consider-contempt-against-rahul-gandhi-1642035",
+    "https://www.thehindubusinessline.com/news/govt-response-to-allegations-of-illegal-detention-clampdown-ready-but-needs-fine-tuning-govt-to-sc/article71580766.ece/amp/"
+   ],
+   "report_time_ist": "1:15 PM IST, Oct 15, 2026",
+   "report_time_pdt": "12:45 AM PDT, Oct 15, 2026",
+   "reported_at_utc": "2026-10-15T07:45:26Z",
+   "sentiment": {
+    "courts": "neutral",
+    "india_bloc": "negative"
+   },
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/top-stories/plea-in-supreme-court-seeks-guidelines-against-political-protests-inside-court-premises-contempt-proceedings-against-rahul-gandhi-554752",
+   "summary": "Four advocates (petition filed by Divyansh Bisht, mentioned by Senior Advocate Gaurav Bhatia) have moved the Supreme Court seeking a uniform framework banning political demonstrations inside court premises and regulating protests near the SC/High Courts, plus consideration of criminal contempt proceedings against Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav and TMC MP Mahua Moitra over the Oct-12 'March for Democracy' toward the Court registry. The plea seeks preservation of CCTV footage, visitor registers, access-control records and security reports from Oct 12, and asks the Court to examine whether leaders' conduct interfered with the administration of justice. Listed for hearing today (Oct 15) before CJI Surya Kant and Justice Joymalya Bagchi.",
+   "title": "Advocates' plea in SC seeks ban on political protests inside court premises, criminal-contempt consideration vs Rahul Gandhi, Kharge, Akhilesh, Mahua Moitra over Oct-12 march"
   }
  ]
 }

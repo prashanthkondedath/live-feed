@@ -6099,6 +6099,28 @@
    "source_url": "https://www.instagram.com/reel/Dei_7A5ODNw/",
    "summary": "A Tiranga rally was held at Azad Maidan, Mumbai on Oct 16: young demonstrators waved Indian flags and chanted 'Inquilab Zindabad'/'Jai Hind', with placards opposing EVMs and demanding cancellation of SIR; a large AISA banner identified the organizers. A live blog noted Mumbai police had permitted CJP's 'Lehra Do Tiranga' demonstration at Azad Maidan (permission detail single-sourced via trendkia). No violence depicted. This is the first protest-front outside Delhi in this arc.",
    "title": "Tiranga rally held at Mumbai's Azad Maidan (Oct 16) — first protest front outside Delhi"
+  },
+  {
+   "id": "dipke-police-at-residence-oct16",
+   "event_time_ist": "~2:10 PM IST, Oct 16",
+   "title": "Delhi Police reaches Dipke's Delhi residence ahead of 5 PM Tiranga march",
+   "summary": "Delhi Police personnel reached the Delhi residence where CJP founder Abhijeet Dipke is staying, about three hours before today's 5 PM 'Lehra Do Tiranga' march at Central Park, Connaught Place. NDTV India's breaking reel aired visuals of multiple uniformed police officers gathered outside the residential street with vehicles parked nearby. Aaj Tak's graphic identifies the residence as that of an associate (Anish Gavande) where Dipke is staying. The visit follows Dipke's Thursday claim that police/IB were monitoring his residence and his statement that he was 'ready to go to jail' for waving the national flag. No official Delhi Police statement on the visit or any detention yet; Dipke himself has not confirmed the visit publicly.",
+   "source_name": "NDTV India",
+   "source_url": "https://www.instagram.com/reel/DeiwIV-ANfR/",
+   "links": [
+    "https://www.instagram.com/reel/DeibYL0ikMK/",
+    "https://www.instagram.com/reel/DeiwIV-ANfR/"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "1:51 AM PDT, Oct 16, 2026",
+   "report_time_ist": "2:21 PM IST, Oct 16, 2026",
+   "reported_at_utc": "2026-10-16T08:51:14Z",
+   "sentiment": {
+    "police_govt": "negative"
+   }
   }
  ]
 }

@@ -6686,6 +6686,55 @@
    "source_url": "https://english.amarujaladigital.com/national/india-bloc-meets-joint-agitation-amid-sir-row-impeachment-notice-against-cec-on-agenda",
    "summary": "CATCH-UP (never alerted): at the national INDIA bloc meeting on Wednesday, Congress pitched a 'massive agitation to save democracy'; sources said a draft notice for a motion to remove CEC Gyanesh Kumar in the Lok Sabha and Rajya Sabha was ready and would be deliberated for approval; K.C. Venugopal said an action plan would be formalized after suggestions. DMK and AAP skipped the meeting; Akhilesh Yadav was absent over Rajya Sabha nominations. (Distinct from the Oct-13 symbolic 'impeach the CEC' mock-parliament proposal.)",
    "title": "CATCH-UP: INDIA Bloc discussed draft removal-motion notice against CEC at Wednesday meeting"
+  },
+  {
+   "id": "sc-browbeat-notices-march-oct15",
+   "event_time_ist": "~Oct 15, 2026 (Thursday hearing; reported Oct 16)",
+   "title": "SC issues notices to Rahul, Kharge, Akhilesh and others over Oct-12 march; CJI: 'Nobody can browbeat us'",
+   "summary": "CATCH-UP (never alerted): at Thursday's hearing, a bench of CJI Surya Kant and Justice Joymalya Bagchi issued notices on pleas seeking a regulatory framework for protests and processions near judicial complexes and criminal contempt proceedings against Rahul Gandhi, Mallikarjun Kharge, Akhilesh Yadav, Mahua Moitra and others over their Oct-12 'March for Democracy' to the apex court; CJI observed 'nobody can browbeat us' and that judges are not sitting in ivory towers; ordered preservation of CCTV footage of SC premises; separately issued notice to the ECI, CEC Gyanesh Kumar and the two ECs on the opposition leaders' SIR plea itself; declined to act on a contempt plea against Kerala Congress over remarks on the CJI.",
+   "source_name": "LiveLaw",
+   "source_url": "https://Www.livelaw.in/top-stories/supreme-court-notice-rahul-gandhi-political-leaders-march-554802",
+   "links": [
+    "https://www.nagalandpost.com/sc-issues-notice-to-ec-on-rahul-gandhis-plea-on-sir-irregularities/",
+    "https://www.7globe.in/nobody-can-browbeat-judiciary-sc-issues-notice-to-rahul-gandhi-akhilesh-yadav-and-others-over-october-12-march-india-news/",
+    "https://dainiknewslive.in/nobody-can-browbeat-judiciary-supreme-court-pulls-up-rahul-gandhi/",
+    "https://www.thedailyjagran.com/india/news/supreme-court-hearing-on-sir-petitions-notice-to-election-commission-rahul-gandhi-cec-gyanesh-kumar-cjp-congress-10332803"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "7:25 AM PDT, Oct 16, 2026",
+   "report_time_ist": "7:55 PM IST, Oct 16, 2026",
+   "reported_at_utc": "2026-10-16T14:25:00Z",
+   "sentiment": {
+    "courts": "neutral",
+    "india_bloc": "negative"
+   }
+  },
+  {
+   "id": "sc-raut-explain-remarks-contempt-oct15",
+   "event_time_ist": "~Oct 15, 2026 (Thursday hearing; reported Oct 16)",
+   "title": "SC orders Sanjay Raut to explain remarks against CJI; AG clears criminal contempt move",
+   "summary": "CATCH-UP (never alerted): the same bench said the INDIA bloc's SIR plea would be entertained at Sanjay Raut's instance only provisionally, subject to him explaining his conduct over claims that the CJI and 60-70 judges played badminton with BJP leaders in London; Raut is petitioner no.6 in the joint plea. Separately, AG R Venkataramani granted consent to the Supreme Court Bar Association to initiate criminal contempt proceedings against Raut and journalist Nikhil Wagle over their remarks on the CJI and judiciary; SCBA has filed a criminal contempt petition; Wagle deleted his post and tendered an unconditional apology to the CJI and the court. Two more opposition leaders — VCK's Thol. Thirumavalavan and NC's Sajjat Ahmad Kichloo — joined the petition, taking the petitioners to 13.",
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/top-stories/supreme-court-asks-sanjay-raut-to-explain-remarks-against-cji-judges-while-entertaining-india-bloc-petition-554928",
+   "links": [
+    "https://www.barandbench.com/news/litigation/supreme-court-asks-sanjay-raut-to-explain-conduct-over-remarks-against-judiciary",
+    "https://ianslive.in/sc-seeks-explanation-from-sanjay-raut-over-conduct-in-plea-challenging-sir--20261016095705",
+    "https://www.nationpress.com/all/sc-contempt-notice-to-raut-wagle-over-cji-remarks"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "7:25 AM PDT, Oct 16, 2026",
+   "report_time_ist": "7:55 PM IST, Oct 16, 2026",
+   "reported_at_utc": "2026-10-16T14:25:00Z",
+   "sentiment": {
+    "courts": "neutral",
+    "india_bloc": "negative"
+   }
   }
  ]
 }

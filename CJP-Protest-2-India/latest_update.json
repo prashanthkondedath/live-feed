@@ -1,1 +1,52 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"~1:00 PM IST, Oct 16","id":"aap-tiranga-rally-rashtrapati-bhavan-oct16","image_urls":["https://aniportalimages.s3.amazonaws.com/media/details/ANI-20261016073757.png"],"links":["https://apnamatvchannel.com/india/sheer-madness-aaps-saurabh-bharadwaj-slams-security-curbs-as-party-stages-tiranga-rally/","https://www.devdiscourse.com/article/politics/3993484-sheer-madness-aaps-saurabh-bharadwaj-slams-security-curbs-as-party-stages-tiranga-rally","https://trendkia.com/en/live/live-cjp-tiranga-march-under-tight-delhi-police-vigil-curbs-in-place-after-high-court-allows-protest-48037","https://www.youtube.com/shorts/03Kz2XUzybE"],"report_time_ist":"3:50 PM IST, Oct 16","report_time_pdt":"3:20 AM PDT, Oct 16","reported_at_utc":"2026-10-16T10:20:39Z","sentiment":{"bjp":"negative","india_bloc":"positive","police_govt":"negative"},"source_name":"ANI (carried by APNA MA TV)","source_url":"https://apnamatvchannel.com/india/sheer-madness-aaps-saurabh-bharadwaj-slams-security-curbs-as-party-stages-tiranga-rally/","summary":"AAP workers and supporters staged a 'Tiranga Rally' in the national capital today, Oct 16, directing their agitation against the Election Commission over alleged institutional irregularities in the SIR. AAP Delhi chief Saurabh Bharadwaj, holding the national flag, told ANI it was 'sheer madness' to bar Indians from unfurling the Tricolour and said the rally was being held 'right in front of the Rashtrapati Bhavan'. He questioned the massive security deployment ('50,000 security personnel... to stop the Tricolour') and the Central Park closure, rebutted BJP charges that the protests are a conspiracy to incite anarchy, and stressed the rally would be 'completely peaceful - in Mahatma Gandhi's way'. An Indian Express video shows the rally carrying a 200-ft Tiranga. Separately, AAP leader Gopal Rai backed the 'Tiranga Lahra Do' call on X and urged cadres to join the flag movement. No detentions reported from the AAP rally as of report time.","title":"AAP stages 'Tiranga Rally' near Rashtrapati Bhavan ahead of CJP's 5 PM march"}],"report_time_ist":"3:50 PM IST, Oct 16","report_time_pdt":"3:20 AM PDT, Oct 16"}
+{
+ "report_time_pdt": "3:51 AM PDT, Oct 16",
+ "report_time_ist": "4:21 PM IST, Oct 16",
+ "items": [
+  {
+   "id": "sc-rahul-gandhi-journalist-ia-oct16",
+   "event_time_ist": "~Friday morning IST, Oct 16",
+   "title": "SC lists on Oct 26 journalist's plea alleging Rahul Gandhi pushed her during Oct-12 march",
+   "summary": "The Supreme Court (CJI Surya Kant + Justice Joymalya Bagchi) agreed on Friday to list on Oct 26 an interlocutory application by journalist Richa Parashar alleging Rahul Gandhi grabbed and pulled her while she covered the Oct-12 opposition march to the SC registry, and that his security then pushed her, leaving her fallen and later hospitalised. The Congress denies the claim. Sr Adv Gaurav Bhatia mentioned the application in advocate Digant Mishra's petition seeking guidelines on demonstrations within court premises; the CJI also confirmed that notice has been issued in all connected matters.",
+   "source_name": "Bar & Bench",
+   "source_url": "https://www.barandbench.com/news/litigation/journalist-moves-supreme-court-alleging-rahul-gandhi-pushed-her-during-october-12-march",
+   "links": [
+    "https://www.barandbench.com/news/litigation/journalist-moves-supreme-court-alleging-rahul-gandhi-pushed-her-during-october-12-march",
+    "https://www.livelaw.in/top-stories/supreme-court-agrees-to-hear-application-alleging-rahul-gandhi-pushed-pregnant-journalist-during-october-12-march-554975",
+    "https://indialegallive.com/constitutional-law-news/courts-news/journalist-moves-supreme-court-alleging-rahul-gandhi-pushed-her-during-october-12-march-hearing-on-october-26/"
+   ],
+   "image_urls": [
+    "https://delhibulletin.in/wp-content/uploads/2026/04/suprem_court.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:51 AM PDT, Oct 16",
+   "report_time_ist": "4:21 PM IST, Oct 16",
+   "reported_at_utc": "2026-10-16T10:51:05Z",
+   "sentiment": {
+    "india_bloc": "negative",
+    "courts": "neutral"
+   }
+  },
+  {
+   "id": "dcp-sharma-legal-action-warning-oct16",
+   "event_time_ist": "~4:03 PM IST, Oct 16",
+   "title": "DCP Sachin Sharma warns of legal action if 5 PM Tiranga march defies Sec 163",
+   "summary": "DCP New Delhi Sachin Sharma urged protesters to abide by the law ahead of CJP's 5 PM 'Lehra Do Tiranga' march at Connaught Place, saying Abhijeet Dipke has been informed that Sec 163 BNSS is in force in the New Delhi district and has been made aware of its implications, including during the festive season; he added that police will take 'whatever legal action is appropriate' against violations.",
+   "source_name": "The Daily Jagran (live blog)",
+   "source_url": "https://www.thedailyjagran.com/india/news/cjp-tiranga-march-live-updates-connaught-place-abhijeet-dipke-protest-in-delhi-police-central-park-saurav-das-gyanesh-kumar-cp-cec-sir-lb-30000354",
+   "links": [
+    "https://www.thedailyjagran.com/india/news/cjp-tiranga-march-live-updates-connaught-place-abhijeet-dipke-protest-in-delhi-police-central-park-saurav-das-gyanesh-kumar-cp-cec-sir-lb-30000354"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "3:51 AM PDT, Oct 16",
+   "report_time_ist": "4:21 PM IST, Oct 16",
+   "reported_at_utc": "2026-10-16T10:51:05Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "neutral"
+   }
+  }
+ ]
+}

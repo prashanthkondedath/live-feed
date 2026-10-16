@@ -6460,6 +6460,28 @@
     "cjp_protesters": "negative",
     "police_govt": "neutral"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~Oct 16 (reported; directive issued Oct 15)",
+   "id": "eci-readable-voter-rolls-oct16",
+   "image_urls": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj92osWnMo1P7w_hJwL3k92uUdju9GksO5kJ2K1o4WTPpXgPi_mJeaKt9hD4zHN17tYD-LYM7DaGDpVbKSVu5WFtElKh8kYRzynT5jaOcoApP74GNgRQcTlYrj67awcsQAvkXNqaPyGuB4Hp495ja0Rma5NcdJbc1ofHtGP9fOLrepRgZ2KwBrJNOGEWKU"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/india/news/ssr-exercise-and-readable-pdf-version-of-voters-list-whats-behind-ecs-two-moves-in-24-hours-amid-sir-row-10332966",
+    "https://news89.com/amid-massive-protests-election-commissions-2-moves-long-demanded-by-oppn/"
+   ],
+   "report_time_ist": "6:21 PM IST, Oct 16, 2026",
+   "report_time_pdt": "5:51 AM PDT, Oct 16, 2026",
+   "reported_at_utc": "2026-10-16T12:51:29Z",
+   "sentiment": {
+    "india_bloc": "positive"
+   },
+   "source_name": "Daily Jagran (with PTI inputs)",
+   "source_url": "https://www.thedailyjagran.com/india/news/ssr-exercise-and-readable-pdf-version-of-voters-list-whats-behind-ecs-two-moves-in-24-hours-amid-sir-row-10332966",
+   "summary": "The Election Commission will share machine-readable ('readable PDF') draft and final electoral rolls — soft copies, plus addition/deletion/modification supplements — with recognised political parties for the first time, a reversal after years of refusing the demand citing privacy/fudging concerns and a 2018 Supreme Court order that backed its stance. Congress (@INCIndia, Oct 16 X post) claimed the concession as a victory for Rahul Gandhi's long-running demand, saying the ECI had finally 'bowed'. Commentator Mohit Chauhan asked whether the ECI will also release the pre-SIR machine-readable rolls, noting SIR risks burying evidence of earlier deletions.",
+   "title": "ECI to share 'readable' (machine-readable) voter rolls with parties for the first time; Congress claims victory"
   }
  ]
 }

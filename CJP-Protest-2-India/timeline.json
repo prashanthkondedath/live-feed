@@ -6735,6 +6735,51 @@
     "courts": "neutral",
     "india_bloc": "negative"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~2:21 PM IST, Oct 16 (bench order issued Friday; first reported 2:21 PM IST)",
+   "id": "sc-raut-wagle-showcause-oct16",
+   "image_urls": [
+    "https://indialegallive.com/wp-content/uploads/2024/05/sentinelassam-english_2024-02_0eb244ad-e9d4-4d84-8b27-ec7d70c8f7fe_Supreme_Court-5-696x445.webp"
+   ],
+   "links": [
+    "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-issues-contempt-notices-to-sanjay-raut-nikhil-wagle-over-remarks-against-cji-surya-kant/",
+    "https://www.thehindubusinessline.com/news/supreme-court-issues-contempt-notices-to-sanjay-raut-nikhil-wagle-over-remarks-on-cji/article71592166.ece",
+    "https://www.thedailyjagran.com/lite/india/news/supreme-court-issues-contempt-notice-to-sanjay-raut-nikhil-wagle-over-comments-against-cji-10332952"
+   ],
+   "report_time_ist": "9:06 PM IST, Oct 16",
+   "report_time_pdt": "9:06 AM PDT, Oct 16",
+   "reported_at_utc": "2026-10-16T16:06:42Z",
+   "sentiment": {
+    "courts": "neutral",
+    "india_bloc": "negative"
+   },
+   "source_name": "India Legal (IndiaLegalLive); PTI via The Hindu BusinessLine",
+   "source_url": "https://indialegallive.com/constitutional-law-news/courts-news/supreme-court-issues-contempt-notices-to-sanjay-raut-nikhil-wagle-over-remarks-against-cji-surya-kant/",
+   "summary": "A bench of CJI Surya Kant and Justice Joymalya Bagchi on Friday issued show-cause notices to Shiv Sena (UBT) MP Sanjay Raut and journalist Nikhil Wagle in criminal contempt proceedings over remarks targeting the CJI and the judiciary, on a plea filed by the Supreme Court Bar Association after AG R Venkataramani granted consent. The bench exempted both from personal appearance for now and will consider their explanations before deciding next steps. Raut — petitioner no. 6 in the INDIA-bloc SIR writ — had alleged the CJI and 60-70 judges played badminton with BJP leaders in London; the AG noted the circulated photos were actually from Thyagaraj Stadium, Delhi (Nov 2025). Wagle had deleted his abusive X post and apologized.",
+   "title": "SC issues show-cause notices to Sanjay Raut, Nikhil Wagle in criminal contempt over remarks against CJI"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Friday, Oct 16 (reported ~4:59 PM IST)",
+   "id": "keralam-mock-funeral-cec-oct16",
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/lite/india/keralam-congress-workers-stage-mock-funeral-of-cec-gyanesh-kumar-dump-ashes-in-toilet-10332976"
+   ],
+   "report_time_ist": "9:06 PM IST, Oct 16",
+   "report_time_pdt": "9:06 AM PDT, Oct 16",
+   "reported_at_utc": "2026-10-16T16:06:42Z",
+   "sentiment": {
+    "india_bloc": "positive"
+   },
+   "source_name": "The Daily Jagran (citing NDTV report)",
+   "source_url": "https://www.thedailyjagran.com/lite/india/keralam-congress-workers-stage-mock-funeral-of-cec-gyanesh-kumar-dump-ashes-in-toilet-10332976",
+   "summary": "Congress workers in Kerala's Palakkad on Friday staged a mock funeral of CEC Gyanesh Kumar — carrying a mock bier from the DCC office to the Stadium Bus Stand, burning his garlanded photograph on a pyre with Hindu-cremation-style rituals, then dumping the 'ashes' into a toilet — to protest the ECI's SIR handling. The act drew attention as Congress had earlier criticized the SFI for a similar mock funeral of a Palakkad college principal. Part of the nationwide Congress campaign demanding Kumar's removal over SIR.",
+   "title": "Congress workers in Palakkad stage mock funeral of CEC Gyanesh Kumar, dump 'ashes' in toilet"
   }
  ]
 }

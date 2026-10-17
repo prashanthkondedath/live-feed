@@ -7501,6 +7501,30 @@
     "cjp_protesters": "positive",
     "police_govt": "neutral"
    }
+  },
+  {
+   "confidence": "single-sourced (wire only)",
+   "event_time_ist": "~Sat morning IST, Oct 17 (published ~5:50 AM IST, Oct 17; never evaluated by earlier runs)",
+   "id": "india-bloc-condemn-eci-detentions-oct17",
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "links": [
+    "https://mumbaipress.com/attack-on-democratic-rights-india-bloc-leaders-on-detentions-of-anti-eci-protestors/"
+   ],
+   "report_time_ist": "6:21 AM PDT / 6:51 PM IST",
+   "report_time_pdt": "6:21 AM PDT / 6:51 PM IST",
+   "reported_at_utc": "2026-10-17T13:21:40Z",
+   "sentiment": {
+    "bjp": "negative",
+    "cjp_protesters": "positive",
+    "india_bloc": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "Nation Press",
+   "source_url": "https://www.nationpress.com/national/india-bloc-slams-eci-protest-detentions",
+   "summary": "INDIA bloc MPs on Saturday condemned the Oct-16/17 detentions of ECI/SIR protesters in Delhi as an attack on democracy. CPI(M) Rajya Sabha MP V. Sivadasan alleged detentions were carried out 'only because of directions from the Home Ministry,' that detainees (hundreds of students, including women) were not informed of reasons for hours and were manhandled; 'Our fight will continue.' SP RS MP Awadhesh Prasad drew an undeclared-Emergency parallel; Congress spokesperson Surendra Rajput called the arrests of Tiranga-march participants 'colonial-era policing' by 'followers of the British'; Shiv Sena (UBT)'s Priyanka Chaturvedi invoked Sushma Swaraj and Arun Jaitley on the right to dissent and flagged the Jantar Mantar de-notification as weakening democratic foundations.",
+   "title": "INDIA bloc leaders condemn Oct-16/17 ECI protest detentions; allege Home Ministry orders, manhandling"
   }
  ]
 }

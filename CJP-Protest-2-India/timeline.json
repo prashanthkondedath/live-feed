@@ -7550,6 +7550,29 @@
         "police_govt": "neutral",
         "india_bloc": "negative"
       }
+    },
+    {
+      "id": "cjp-tihar-jail-details-ie-oct17",
+      "event_time_ist": "~9:00 PM IST, Oct 17",
+      "title": "Indian Express reports Tihar jail-logistics details for Das and Ranka",
+      "summary": "The Indian Express reports that Saurav Das is inmate No. 3752 in ward 3 of Tihar Jail No. 2 (the same jail block where Umar Khalid is currently housed, in a different cell, and where Arvind Kejriwal was previously held) and Ashutosh Ranka is inmate No. 1784 in ward 15 of Jail No. 4, after being moved from Jail No. 2. Both are in high-security wards with 'NO OTHER INMATE ALLOWED', under CCTV surveillance; police cited 'serious apprehension' they would reoffend if bailed. The report says the two were visited in jail by CJP founder Abhijeet Dipke and legal head Ratna Singh, implying Dipke is out after his conditional bail. News18 Marathi independently reports the two leaders are in separate wards under strict security; Inshorts carries the Indian Express details.",
+      "source_name": "The Indian Express",
+      "source_url": "https://www.instagram.com/p/DembwI2DUqr/",
+      "links": [
+        "https://inshorts.com/en/news/cjp-s-das-lodged-in-tihar-block-with-umar-khalid--not-allowed-to-go-out-during-day--report-1792231234061",
+        "https://www.youtube.com/watch?v=IG801LQuA9o"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "8:51 AM PDT, Oct 17",
+      "report_time_ist": "9:21 PM IST, Oct 17",
+      "reported_at_utc": "2026-10-17T15:51:20Z",
+      "sentiment": {
+        "cjp_protesters": "neutral",
+        "police_govt": "neutral"
+      }
     }
   ]
 }

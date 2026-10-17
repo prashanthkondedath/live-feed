@@ -7195,14 +7195,17 @@
    }
   },
   {
-   "confidence": "single-sourced",
+   "confidence": "confirmed",
    "event_time_ist": "12:00 PM IST, Oct 17 (announced ~10:19 AM IST, Oct 17)",
    "id": "dipke-sem-12pm-mandir-marg-oct17",
    "image_urls": [
     "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
    ],
    "links": [
-    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034"
+    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
+    "https://www.devdiscourse.com/article/politics/3993983-cjps-abhijeet-dipke-to-be-produced-before-magistrate-at-mandir-marg-police-station-today",
+    "https://www.latestly.com/agency-news/india-news-cjps-abhijeet-dipke-to-be-produced-before-magistrate-at-mandir-marg-police-station-today-7647787.html",
+    "https://scoopfeeds.com/article/87d3928d-7a62-5467-89ef-eed399add505"
    ],
    "report_time_ist": "10:50 AM IST, Oct 17",
    "report_time_pdt": "10:20 PM PDT, Oct 16",
@@ -7214,7 +7217,7 @@
    },
    "source_name": "The Daily Jagran",
    "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
-   "summary": "CJP founder Abhijeet Dipke will be presented before the Special Executive Magistrate (SEM) court at Mandir Marg police station at 12 PM IST today, following his Oct-16 preventive arrest under BNSS Sections 126 and 170 ahead of the 'Lehra Do Tiranga' march. Police say he was served two notices not to visit Central Park, Connaught Place, and had furnished a Rs 50,000 peace bond on Oct 10. The 12 PM timing is so far carried only by the Daily Jagran newsroom (article + verified IG graphic).",
+   "summary": "CJP founder Abhijeet Dipke will be presented before the Special Executive Magistrate (SEM) court at Mandir Marg police station at 12 PM IST today, following his Oct-16 preventive arrest under BNSS Sections 126 and 170 ahead of the 'Lehra Do Tiranga' march. Police say he was served two notices not to visit Central Park, Connaught Place, and had furnished a Rs 50,000 peace bond on Oct 10. The 12 PM timing is so far carried only by the Daily Jagran newsroom (article + verified IG graphic). Corroboration leg (~11:20 AM IST Oct 17): devdiscourse (independent digital) carries counsel Ratna Singh's own X post confirming 12 PM Mandir Marg production; ANI agency copy via LatestLY (wire); The Hindu live blog via scoopfeeds.",
    "title": "Dipke to be presented before SEM court at 12 PM IST today at Mandir Marg PS"
   },
   {
@@ -7263,6 +7266,57 @@
    "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
    "summary": "After her release from preventive detention early Saturday (formalities under Section 65 of the Delhi Police Act), AISA national president Neha Bora alleged protesters are being arrested 'for no valid reason' and kept in custody for hours, and demanded the immediate release of Dipke and all other illegally detained protesters: 'Abhijeet should be released. I wasn't even aware he had been detained.' She also reiterated the demand for CEC Gyanesh Kumar's impeachment and withdrawal of the SIR exercise.",
    "title": "Neha Bora's post-release statement: demands Dipke's release, alleges illegal detentions"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~8:53 PM IST, Oct 16",
+   "id": "rathee-london-parliament-square-oct17",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/12/template/image/DHRUV-RATHEE-1791788900890.webp"
+   ],
+   "links": [
+    "https://www.livemint.com/news/trends/dhruv-rathee-calls-for-protest-at-london-s-parliament-square-time-world-sees-reality-of-vote-chor-11792207934128.html",
+    "https://www.thedailyjagran.com/india/news/dhruv-rathee-takes-vote-chori-issue-to-london-to-protest-outside-british-parliament-time-to-ring-international-bells-10333038",
+    "https://londonstreets.uk/dhruv-rathee-vote-chori-protest-parliament-square/",
+    "https://inshorts.com/en/news/dhruv-rathee-announces--vote-chori--protest-in-london--says--time-to-ring-international-bells--1792209226118",
+    "https://www.gulte.com/political-news/436770/dhruv-rathee-takes-vote-chori-protest-to-london/amp"
+   ],
+   "report_time_ist": "1:50 PM IST, Oct 17",
+   "report_time_pdt": "1:20 AM PDT",
+   "reported_at_utc": "2026-10-17T08:20:58Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "LiveMint",
+   "source_url": "https://www.livemint.com/news/trends/dhruv-rathee-calls-for-protest-at-london-s-parliament-square-time-world-sees-reality-of-vote-chor-11792207934128.html",
+   "summary": "YouTuber Dhruv Rathee posted on X late Friday night (Oct 16) that he had just reached London and urged supporters to gather at the Mahatma Gandhi statue in Parliament Square at noon on Saturday, Oct 17: 'It's time the world sees the reality of vote chor and murderer of democracy... International danka bajane ka time aa gaya hai.' First international-stage escalation of the anti-SIR/CJP-linked agitation; Rathee was detained from his Gurugram home on Oct 10 and released Oct 11 after ~18 hours.",
+   "title": "Dhruv Rathee calls for protest at London's Parliament Square against 'vote chori'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~1:18 PM IST, Oct 17",
+   "id": "dmk-mps-removal-resolution-oct17",
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+   ],
+   "links": [
+    "https://scoopfeeds.com/article/00f53cc7-9ec3-5944-80ba-d75a90163603",
+    "https://www.devdiscourse.com/article/headlines/3994062-we-have-already-supported-cjp-dmk-mp-kanimozhi",
+    "https://desitalkchicago.com/tamil-nadu-mk-stalin-chairs-dmk-mps-meeting-on-sir-other-key-issues-today/",
+    "https://dainiknewslive.in/key-dmk-huddle-in-chennai-today-amid-protests-over-sir-delimitation-buzz/"
+   ],
+   "report_time_ist": "1:50 PM IST, Oct 17",
+   "report_time_pdt": "1:20 AM PDT",
+   "reported_at_utc": "2026-10-17T08:20:58Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "india_bloc": "positive"
+   },
+   "source_name": "The Hindu",
+   "source_url": "https://scoopfeeds.com/article/00f53cc7-9ec3-5944-80ba-d75a90163603",
+   "summary": "A DMK parliamentary party meeting at Anna Arivalayam (Chennai) today, chaired by M.K. Stalin, adopted a resolution demanding CEC Gyanesh Kumar's removal: 'He must be removed and subjected to an appropriate inquiry' (for SIR voter deletions overriding fellow ECs' objections). Demanded a return to paper ballots (EVM/VVPAT discrepancies), a representation to the President seeking complete SIR cancellation before the Assembly elections, and future polls on existing rolls. Backed CJP/student-group protests as 'a greater impact than those organised by the Congress' (dig at Congress). DMK MP Kanimozhi said 'We have already supported CJP'; she attended the Oct-16 Chennai Rajarathinam Stadium student-group protest demanding Kumar's resignation.",
+   "title": "DMK MPs meet (chaired by Stalin) demands CEC Gyanesh Kumar's removal, return to paper ballots"
   }
  ]
 }

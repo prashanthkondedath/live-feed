@@ -1,28 +1,28 @@
 {
-  "report_time_pdt": "10:53 PM PDT, Oct 17",
-  "report_time_ist": "11:23 AM IST, Oct 18",
-  "items": [
-    {
-      "id": "das-ranka-release-push-sunday-decision-oct17",
-      "event_time_ist": "~10:51 PM IST, Oct 17",
-      "title": "CJP pushes for Das/Ranka release: SEM release application filed, Sunday decision expected; party threatens legal action if not released by tomorrow",
-      "summary": "CJP's legal team has applied to the Special Executive Magistrate for the release of Saurav Das and Ashutosh Ranka from judicial custody after placing their surety documents on record; the two were sent to JC because their sureties were unavailable on the day of detention, and a decision is expected by Sunday (Oct 18) afternoon, with Delhi Police verifying the sureties (per India Today sources). Separately, a CJP statement carried by reporter @vishal_reports (posted ~10:51 PM IST, Oct 17) says that if Das and Ranka are not released by tomorrow, the party will pursue legal action against everyone involved in keeping them in jail and extending their custody; the party says it consulted senior lawyer Kapil Sibal, claiming the duo were jailed after going to Jantar Mantar without any crime or formal charges.",
-      "source_name": "DainikNews Live",
-      "source_url": "https://dainiknewslive.in/cjp-seeks-saurav-das-ashutosh-rankas-release-decision-expected-on-sunday/",
-      "links": [
-        "https://dainiknewslive.in/cjp-seeks-saurav-das-ashutosh-rankas-release-decision-expected-on-sunday/"
-      ],
-      "image_urls": [
-        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Jail-784x441.jpg"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "10:53 PM PDT, Oct 17",
-      "report_time_ist": "11:23 AM IST, Oct 18",
-      "reported_at_utc": "2026-10-17T17:53:00Z",
-      "sentiment": {
-        "cjp_protesters": "positive",
-        "police_govt": "negative"
-      }
-    }
-  ]
+ "report_time_pdt": "10:53 AM PDT, Oct 17",
+ "report_time_ist": "11:23 PM IST, Oct 17",
+ "items": [
+  {
+   "id": "das-ranka-release-push-sunday-decision-oct17",
+   "event_time_ist": "~10:51 PM IST, Oct 17",
+   "title": "CJP pushes for Das/Ranka release: SEM release application filed, Sunday decision expected; party threatens legal action if not released by tomorrow",
+   "summary": "CJP's legal team has applied to the Special Executive Magistrate for the release of Saurav Das and Ashutosh Ranka from judicial custody after placing their surety documents on record; the two were sent to JC because their sureties were unavailable on the day of detention, and a decision is expected by Sunday (Oct 18) afternoon, with Delhi Police verifying the sureties (per India Today sources). Separately, a CJP statement carried by reporter @vishal_reports (posted ~10:51 PM IST, Oct 17) says that if Das and Ranka are not released by tomorrow, the party will pursue legal action against everyone involved in keeping them in jail and extending their custody; the party says it consulted senior lawyer Kapil Sibal, claiming the duo were jailed after going to Jantar Mantar without any crime or formal charges.",
+   "source_name": "DainikNews Live",
+   "source_url": "https://dainiknewslive.in/cjp-seeks-saurav-das-ashutosh-rankas-release-decision-expected-on-sunday/",
+   "links": [
+    "https://dainiknewslive.in/cjp-seeks-saurav-das-ashutosh-rankas-release-decision-expected-on-sunday/"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Jail-784x441.jpg"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "10:53 AM PDT, Oct 17",
+   "report_time_ist": "11:23 PM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T17:53:00Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   }
+  }
+ ]
 }

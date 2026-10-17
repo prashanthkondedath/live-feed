@@ -1,57 +1,31 @@
 {
- "report_time_pdt": "7:55 PM PDT, Oct 16",
- "report_time_ist": "8:25 AM IST, Oct 17",
+ "report_time_pdt": "8:23 PM PDT, Oct 16",
+ "report_time_ist": "8:53 AM IST, Oct 17",
  "items": [
   {
-   "id": "neha-bora-released-oct17",
-   "event_time_ist": "~early morning IST, Oct 17",
-   "title": "AISA chief Neha Bora released from preventive detention",
-   "summary": "All India Students' Association president Neha Bora was released early Saturday morning after completing formalities under Section 65 of the Delhi Police Act, Delhi Police said (via PTI). She was detained at Mandi House on Friday evening en route to the 'Lehra Do Tiranga' march. In her first statement after release she alleged protesters are detained without valid reason and held for hours, questioned overnight detentions of women ('ought to be released after sunset'), said lawyers were denied access to her for hours, and demanded Abhijeet Dipke's immediate release plus Gyanesh Kumar's impeachment and a halt to SIR.",
-   "source_name": "livemint (PTI/Delhi Police)",
-   "source_url": "https://www.livemint.com/news/india/cjp-protest-aisa-chief-neha-bora-released-from-detention-abhijeet-dipke-to-be-produced-before-sem-court-11792200447919.html",
+   "id": "kharge-ramesh-infiltrators-arc-oct14",
+   "event_time_ist": "Wednesday, Oct 14, 2026 (X posts; ANI carried Ramesh's ~1:17 PM IST)",
+   "title": "CATCH-UP (never alerted): Kharge, Ramesh escalate SIR fight — Kharge accuses Shah of branding ~13.3 crore Indians 'infiltrators'; Ramesh dubs SIR 'Shah Instigated Removal'",
+   "summary": "CATCH-UP: these Oct-14 statements fell through the cracks of that day's runs and were never alerted. Congress president Mallikarjun Kharge posted on X accusing HM Amit Shah of insulting Indian identity by describing the ~13.3 crore people allegedly excluded by SIR as 'infiltrators'; he condemned the Jantar Mantar protest curbs ('First vote theft, then theft of the right to protest'), accused the BJP of an authoritarian agenda, and accused the government of shielding CEC Gyanesh Kumar. Jairam Ramesh (two X posts) dubbed SIR the 'Shah Instigated Removal' and posed three questions to Shah: how many infiltrators were detected, deleted, and deported after ~100 crore Indians went through SIR — asking whether the government suggests 14 crore Indians are infiltrators. SP chief Akhilesh Yadav issued a poetic 'One voice of One India' X post against alleged electoral fraud. Context: Shah on Tuesday (Oct 13) had said the opposition should be ready for a 'crushing defeat' in 2029 and claimed the country could see through Rahul Gandhi's 'plan' to get infiltrators registered as voters.",
+   "source_name": "The Legitimate News",
+   "source_url": "https://thelegitimatenews.com/kharge-ramesh-turn-up-heat-on-modi-govt-over-sir-demand-answers-on-infiltrators/",
    "links": [
-    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
-    "https://www.7globe.in/women-ought-to-be-released-after-sunset-neha-bora-questions-night-long-detentions-over-anti-sir-stir-india-news/",
-    "https://www.instagram.com/p/Dek5jERH7IJ/",
-    "https://www.instagram.com/p/Dek4zM_k3OG/",
-    "https://www.instagram.com/p/Dek7o-uiAyt/"
+    "https://thelegitimatenews.com/kharge-ramesh-turn-up-heat-on-modi-govt-over-sir-demand-answers-on-infiltrators/",
+    "https://www.gtcnews.com/national-news/jairam-ramesh-poses-3-questions-to-amit-shah-over-sir-6067",
+    "https://www.devdiscourse.com/article/politics/3992003-detected-deleted-deported-jairam-ramesh-poses-3-questions-to-amit-shah-over-sir",
+    "https://scoopfeeds.com/article/d90a843e-ff02-5261-bbb1-13016709d883",
+    "https://inshorts.com:443/en/news/congress--sp-slam-sir-process--question-amit-shah-1791962544021"
    ],
    "image_urls": [
-    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
+    "https://thelegitimatenews.com/wp-content/uploads/2026/10/by-path-11-1-696x714.jpg"
    ],
    "confidence": "confirmed",
-   "report_time_pdt": "7:55 PM PDT, Oct 16",
-   "report_time_ist": "8:25 AM IST, Oct 17",
-   "reported_at_utc": "2026-10-17T02:55:00Z",
+   "report_time_pdt": "8:23 PM PDT, Oct 16",
+   "report_time_ist": "8:53 AM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T03:23:00Z",
    "sentiment": {
-    "cjp_protesters": "positive",
-    "police_govt": "negative",
-    "bjp": "negative"
-   }
-  },
-  {
-   "id": "dipke-sem-production-oct17",
-   "event_time_ist": "~5:00 PM IST, Oct 16 (detention); SEM production scheduled later today, Oct 17",
-   "title": "Abhijeet Dipke under BNSS preventive arrest; to be produced before SEM court today",
-   "summary": "Delhi Police placed CJP founder Abhijeet Dipke under preventive arrest (action under BNSS Sections 126 and 170, breach of peace) after detaining him Friday evening ahead of the 'Lehra Do Tiranga' march at Connaught Place. Police will produce him before the Special Executive Magistrate (SEM) court — the same court that granted him conditional bail on Oct 10 — later today. CJP legal head Ratna Singh alleged Dipke's location remains unknown to his team and lawyers have not been allowed to meet him; Zee24Taas/Saam TV clips show CJP supporters asking 'Where have you kept Abhijeet Dipke?' outside police stations.",
-   "source_name": "thedailyjagran (Delhi Police via JND)",
-   "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
-   "links": [
-    "https://www.livemint.com/news/india/cjp-protest-aisa-chief-neha-bora-released-from-detention-abhijeet-dipke-to-be-produced-before-sem-court-11792200447919.html",
-    "https://www.instagram.com/reel/DelCW8hDUi9/",
-    "https://www.instagram.com/reel/DelA9SmHP0T/"
-   ],
-   "image_urls": [
-    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
-   ],
-   "confidence": "confirmed",
-   "report_time_pdt": "7:55 PM PDT, Oct 16",
-   "report_time_ist": "8:25 AM IST, Oct 17",
-   "reported_at_utc": "2026-10-17T02:55:00Z",
-   "sentiment": {
-    "cjp_protesters": "negative",
-    "police_govt": "neutral",
-    "courts": "neutral"
+    "bjp": "negative",
+    "india_bloc": "neutral"
    }
   }
  ]

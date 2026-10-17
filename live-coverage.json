@@ -15,10 +15,10 @@
         }
       ],
       "trend": "warm",
-      "trend_updated_at_utc": "2026-10-17T12:49:18Z",
+      "trend_updated_at_utc": "2026-10-17T13:22:32Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 311,
+        "items_in_window": 309,
         "sides": {
           "police_govt": {
             "positive": 6,
@@ -28,13 +28,13 @@
           },
           "india_bloc": {
             "positive": 65,
-            "negative": 31,
+            "negative": 30,
             "neutral": 10,
             "overall": "positive"
           },
           "cjp_protesters": {
-            "positive": 119,
-            "negative": 36,
+            "positive": 120,
+            "negative": 35,
             "neutral": 8,
             "overall": "positive"
           },
@@ -51,7 +51,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-17T12:49:18Z"
+        "updated_at_utc": "2026-10-17T13:22:32Z"
       },
       "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders out of Jaffarpur Kalan police station; they were brought to Parliament Street police station at ~3 AM, and on Wednesday morning Oct 14 the SEM court at Mandir Marg remanded Das and Ranka to 5 days' judicial custody — Ajinkya Shinde was released on a personal bond, per LiveLaw. Dipke's first response dared Modi to 'declare an Emergency'; the CJP's official handle called Das and Ranka the 'first in their bloodline to be jailed for unfurling the national flag' and warned 'Emergency 2.0' is here. Overnight into Wednesday, Dipke posted an IG reel demanding Ranka and Das's release. Late Tuesday night, Rahul Gandhi publicly backed CJP on X, calling waving the Tricolour 'not a crime' and jailing young protesters 'an act of cowardice'; Wednesday morning, Dipke issued his first video statement after the custody order, charging an 'unofficial Emergency' and rejecting the 'Urban Naxalism' tag. On Wednesday (~10:53 AM IST Oct 14), Delhi Police released an official statement on the arrests — citing alleged repeated attempts to disturb public peace and instigate others through social media, publishing FIR numbers, and revealing that Ajinkya Shinde was bound down for six months (he was released on a personal bond). On Wednesday (~2:10 PM IST Oct 14), AIMIM chief Asaduddin Owaisi moved the Supreme Court challenging the SIR of electoral rolls, opening a second front in the ballot-revision litigation alongside the INDIA bloc's pending writ petition. On Wednesday afternoon Oct 14 (~3:27 PM IST), Dipke arrived in Delhi from Hingoli — fulfilling his Oct-13 pledge — with PTI footage showing him mobbed by reporters at the airport terminal. Later on Wednesday afternoon (~4:37 PM IST Oct 14), in his first Delhi press scrum since arriving from Hingoli, Dipke answered BJP leader Piyush Goyal's charge that Congress bribed former CECs with Padma awards, challenged lawyer Harish Salve and Maharashtra CM Devendra Fadnavis to produce evidence for their foreign-funding claims and hand it to Home Minister Amit Shah, and argued hoisting the Tricolour cannot be treated as a peace-bond violation, invoking the Constitution, Dr. B.R. Ambedkar and voting rights. Late Wednesday, Dipke called a fresh 'Lehra Do Tiranga' protest march at Central Park, Connaught Place, Delhi, for Oct 16 at 5 PM, protesting Das and Ranka's 5-day judicial custody. Late Wednesday (~2:49 PM IST Oct 14), Dipke announced the 11 CJP volunteers detained in Tuesday's Jantar Mantar gate-entry incident had been released — 'Spirits unbroken, waving the tricolour the moment they walked free' — independently corroborated by Livemint citing CJP legal head Ratna Singh. Late Wednesday (~8:02 PM IST Oct 14), Saket Court proceedings targeted YouTuber Dhruv Rathee — fresh dasti summons in the 2018 defamation case (Ct. Cases 5786/2018, issued Oct 12 by JM Rahul Jain citing Rathee's presence in India for the CJP protest), plus a separate civil defamation suit over his Ram-Sita video with the next hearing Nov 5. Late Wednesday (~8:59 PM IST Oct 14), singer Mary Millben alleged US donors were funding CJP and called for youth counter-protests; Dipke rejected the claim on X.",
       "watch_for": [
@@ -115,12 +115,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 308,
-        "confirmed": 149,
-        "single-sourced": 151,
+        "items_in_window": 305,
+        "confirmed": 148,
+        "single-sourced": 149,
         "unconfirmed": 8,
-        "confirmed_rate": 0.48,
-        "updated_at_utc": "2026-10-17T12:49:18Z"
+        "confirmed_rate": 0.49,
+        "updated_at_utc": "2026-10-17T13:22:32Z"
       },
       "phase": "standoff"
     },
@@ -698,5 +698,5 @@
       }
     }
   ],
-  "updated_at_utc": "2026-10-17T12:49:18Z"
+  "updated_at_utc": "2026-10-17T13:22:32Z"
 }

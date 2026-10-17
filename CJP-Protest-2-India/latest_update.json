@@ -1,30 +1,28 @@
 {
-  "report_time_pdt": "6:53 AM PDT, Oct 17",
-  "report_time_ist": "7:23 PM IST, Oct 17",
+  "report_time_pdt": "8:51 AM PDT, Oct 17",
+  "report_time_ist": "9:21 PM IST, Oct 17",
   "items": [
     {
-      "id": "fir-25-tally-delhi-police-oct17",
-      "event_time_ist": "~8:52 AM IST, Oct 17",
-      "title": "CATCH-UP: Delhi Police registered 25 FIRs over SIR protests since Oct 2 — Rahul Gandhi and Priyanka Gandhi Vadra among those named (The Hindu)",
-      "summary": "Delhi Police have registered 25 FIRs in connection with the series of protests in the national capital since October 2, 2026, per police sources, covering alleged vandalism of public property, assaults and scuffles involving police personnel, obstruction of government work, and violations of prohibitory orders under BNSS Section 163 in the New Delhi district. Several political leaders, including Leader of Opposition Rahul Gandhi and Congress leader Priyanka Gandhi Vadra, have been named in the cases. The tally includes the Oct-7 FIR against Rahul Gandhi, Priyanka Gandhi Vadra and other INDIA bloc MPs for allegedly entering Akashvani Bhavan premises without permission during their march toward Nirvachan Sadan (ECI HQ). DCP Shrishti Pandey said protests were not permitted at Jantar Mantar or any other location while the restrictions remained in force. The figure dates to an Oct-9 ANI wire report ('till Thursday') and was republished/updated by The Hindu on Oct 17 — it was never evaluated in earlier runs, hence this catch-up.",
-      "source_name": "The Hindu (via scoopfeeds)",
-      "source_url": "https://scoopfeeds.com/article/ac9df8d6-3fbb-5580-af94-0d3a89c0760e",
+      "id": "cjp-tihar-jail-details-ie-oct17",
+      "event_time_ist": "~9:00 PM IST, Oct 17",
+      "title": "Indian Express reports Tihar jail-logistics details for Das and Ranka",
+      "summary": "The Indian Express reports that Saurav Das is inmate No. 3752 in ward 3 of Tihar Jail No. 2 (the same jail block where Umar Khalid is currently housed, in a different cell, and where Arvind Kejriwal was previously held) and Ashutosh Ranka is inmate No. 1784 in ward 15 of Jail No. 4, after being moved from Jail No. 2. Both are in high-security wards with 'NO OTHER INMATE ALLOWED', under CCTV surveillance; police cited 'serious apprehension' they would reoffend if bailed. The report says the two were visited in jail by CJP founder Abhijeet Dipke and legal head Ratna Singh, implying Dipke is out after his conditional bail. News18 Marathi independently reports the two leaders are in separate wards under strict security; Inshorts carries the Indian Express details.",
+      "source_name": "The Indian Express",
+      "source_url": "https://www.instagram.com/p/DembwI2DUqr/",
       "links": [
-        "https://www.devdiscourse.com/article/politics/3989526-delhi-police-register-around-25-firs-over-protests-since-october-2-sources",
-        "http://inshorts.com/en/news/25-firs-filed-over-anti-ec-protests-in-delhi-since-oct-2--rahul-gandhi--priyanka-named-1791540780761",
-        "https://news.webindia123.com/news/Articles/India/20261009/4508813.html",
-        "https://desitalkchicago.com/delhi-police-register-around-25-firs-over-protests-since-october-2-sources/"
+        "https://inshorts.com/en/news/cjp-s-das-lodged-in-tihar-block-with-umar-khalid--not-allowed-to-go-out-during-day--report-1792231234061",
+        "https://www.youtube.com/watch?v=IG801LQuA9o"
       ],
       "image_urls": [
         "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "6:53 AM PDT, Oct 17",
-      "report_time_ist": "7:23 PM IST, Oct 17",
-      "reported_at_utc": "2026-10-17T13:53:20Z",
+      "report_time_pdt": "8:51 AM PDT, Oct 17",
+      "report_time_ist": "9:21 PM IST, Oct 17",
+      "reported_at_utc": "2026-10-17T15:51:20Z",
       "sentiment": {
-        "police_govt": "neutral",
-        "india_bloc": "negative"
+        "cjp_protesters": "neutral",
+        "police_govt": "neutral"
       }
     }
   ]

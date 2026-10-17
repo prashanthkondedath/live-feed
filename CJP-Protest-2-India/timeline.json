@@ -7317,6 +7317,26 @@
    "source_url": "https://scoopfeeds.com/article/00f53cc7-9ec3-5944-80ba-d75a90163603",
    "summary": "A DMK parliamentary party meeting at Anna Arivalayam (Chennai) today, chaired by M.K. Stalin, adopted a resolution demanding CEC Gyanesh Kumar's removal: 'He must be removed and subjected to an appropriate inquiry' (for SIR voter deletions overriding fellow ECs' objections). Demanded a return to paper ballots (EVM/VVPAT discrepancies), a representation to the President seeking complete SIR cancellation before the Assembly elections, and future polls on existing rolls. Backed CJP/student-group protests as 'a greater impact than those organised by the Congress' (dig at Congress). DMK MP Kanimozhi said 'We have already supported CJP'; she attended the Oct-16 Chennai Rajarathinam Stadium student-group protest demanding Kumar's resignation.",
    "title": "DMK MPs meet (chaired by Stalin) demands CEC Gyanesh Kumar's removal, return to paper ballots"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "~5:00 PM IST, Oct 16 (BBC report published ~4:42 AM IST, Oct 17)",
+   "id": "bbc-dipke-detention-report-oct17",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/12/template/image/Dipke-(1)-1791785248624.webp"
+   ],
+   "links": [],
+   "report_time_ist": "2:20 PM IST, Oct 17",
+   "report_time_pdt": "1:50 AM PDT",
+   "reported_at_utc": "2026-10-17T08:50:22Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "BBC (republished by Geneva Times)",
+   "source_url": "https://thegenevatimes.ch/cjp-abhijeet-dipke-cockroach-party-founder-detained-ahead-of-central-park-delhi-protest/",
+   "summary": "BBC on-the-ground reporting from the Oct-16 'Lehra Do Tiranga' crackdown: BBC journalists personally saw officers surround Dipke as he approached his car and force him into a police vehicle, with some supporters trying to stop the vehicle from leaving. Hundreds had gathered in Connaught Place waving Indian flags and shouting slogans despite a heavy security presence; police sealed off Central Park and deployed thousands of police and paramilitary personnel. The BBC notes the police response was 'more restrained than during last weekend's sweeping crackdown.' CJP spokesperson Mehr Pasricha told the BBC: 'They may detain three people, but how will they stop 30 tomorrow? How will they stop 300 leaders?' Anish Gawande, the NCP-SCP spokesperson who had been hosting Dipke, said: 'Detaining a lone man walking with the national flag in his hand is a bit of a joke.' Police have not publicly confirmed the grounds for Dipke's detention or responded to CJP's latest allegations.",
+   "title": "BBC eyewitness: officers forced Dipke into van; Mehr — 'how will they stop 300 leaders?'; Gawande — detention 'a bit of a joke'"
   }
  ]
 }

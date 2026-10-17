@@ -7193,6 +7193,76 @@
    "sentiment": {
     "cjp_protesters": "neutral"
    }
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "12:00 PM IST, Oct 17 (announced ~10:19 AM IST, Oct 17)",
+   "id": "dipke-sem-12pm-mandir-marg-oct17",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034"
+   ],
+   "report_time_ist": "10:50 AM IST, Oct 17",
+   "report_time_pdt": "10:20 PM PDT, Oct 16",
+   "reported_at_utc": "2026-10-17T05:20:28Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "courts": "neutral",
+    "police_govt": "neutral"
+   },
+   "source_name": "The Daily Jagran",
+   "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
+   "summary": "CJP founder Abhijeet Dipke will be presented before the Special Executive Magistrate (SEM) court at Mandir Marg police station at 12 PM IST today, following his Oct-16 preventive arrest under BNSS Sections 126 and 170 ahead of the 'Lehra Do Tiranga' march. Police say he was served two notices not to visit Central Park, Connaught Place, and had furnished a Rs 50,000 peace bond on Oct 10. The 12 PM timing is so far carried only by the Daily Jagran newsroom (article + verified IG graphic).",
+   "title": "Dipke to be presented before SEM court at 12 PM IST today at Mandir Marg PS"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "~10:19 AM IST, Oct 17 (reported)",
+   "id": "ratna-singh-sem-release-demand-oct17",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034"
+   ],
+   "report_time_ist": "10:50 AM IST, Oct 17",
+   "report_time_pdt": "10:20 PM PDT, Oct 16",
+   "reported_at_utc": "2026-10-17T05:20:28Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "courts": "neutral",
+    "police_govt": "negative"
+   },
+   "source_name": "The Daily Jagran",
+   "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
+   "summary": "CJP legal head Ratna Singh posted on X demanding the SEM court release Dipke, calling the arrest unlawful: 'He merely urged people to unfurl the Tiranga - how can that by itself be a crime?' Singh flagged that Dipke was picked up outside his residence with no information about his whereabouts and that even his lawyers have been unable to meet him, raising due-process and fundamental-rights concerns.",
+   "title": "CJP legal head Ratna Singh demands SEM release Dipke, calls arrest unlawful"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "~morning IST, Oct 17",
+   "id": "bora-post-release-statement-oct17",
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
+   ],
+   "links": [
+    "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
+    "https://powercorridors.in/abhijeet-dipke-placed-under-preventive-arrest-neha-released/",
+    "https://www.livemint.com/news/india/cjp-protest-aisa-chief-neha-bora-released-from-detention-abhijeet-dipke-to-be-produced-before-sem-court-11792200447919.html"
+   ],
+   "report_time_ist": "10:50 AM IST, Oct 17",
+   "report_time_pdt": "10:20 PM PDT, Oct 16",
+   "reported_at_utc": "2026-10-17T05:20:28Z",
+   "sentiment": {
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
+   },
+   "source_name": "The Daily Jagran (PTI video); Power Corridors; Mint (HT)",
+   "source_url": "https://www.thedailyjagran.com/india/news/abhijeet-dipke-under-preventive-arrest-neha-bora-released-after-lehra-do-tiranga-protest-in-delhi-10333034",
+   "summary": "After her release from preventive detention early Saturday (formalities under Section 65 of the Delhi Police Act), AISA national president Neha Bora alleged protesters are being arrested 'for no valid reason' and kept in custody for hours, and demanded the immediate release of Dipke and all other illegally detained protesters: 'Abhijeet should be released. I wasn't even aware he had been detained.' She also reiterated the demand for CEC Gyanesh Kumar's impeachment and withdrawal of the SIR exercise.",
+   "title": "Neha Bora's post-release statement: demands Dipke's release, alleges illegal detentions"
   }
  ]
 }

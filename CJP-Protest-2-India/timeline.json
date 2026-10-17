@@ -7596,6 +7596,29 @@
     "cjp_protesters": "negative",
     "police_govt": "neutral"
    }
+  },
+  {
+   "id": "rathee-bailable-warrant-saket-oct17",
+   "event_time_ist": "~11:55 AM IST, Oct 17",
+   "title": "Saket Court issues bailable warrant against Dhruv Rathee in 2018 defamation case",
+   "summary": "Judicial Magistrate Rahul Jain (Saket Courts, Delhi) issued a bailable warrant against YouTuber Dhruv Rathee in the 2018 criminal defamation case filed by Vikas Sankrityayan alias Vikas Pandey (founder of the 'I Support Narendra Modi' page) over Rathee's May 2018 'BJP IT Cell Part II' video. The court acted after being told the fresh dasti summons ordered on Oct 12 could not be served because the process server found the premises locked; his lawyer submitted he is in London and cannot appear in person. The matter is listed for Oct 31, 2026.",
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/news-updates/delhi-court-issues-bailable-warrants-against-youtuber-dhruv-rathee-in-2018-defamation-case-555149",
+   "links": [
+    "https://www.barandbench.com/news/litigation/delhi-court-issues-bailable-warrant-to-youtuber-dhruv-rathee-in-2018-defamation-case",
+    "https://hiindia.com/delhi-court-issues-bailable-warrant-against-youtuber-dhruv-rathee-in-2018-defamation-case/",
+    "https://www.nationpress.com/national/bailable-warrant-against-dhruv-rathee-in-defamation-case"
+   ],
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/12/template/image/DHRUV-RATHEE-1791788900890.webp"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "9:52 AM PDT, Oct 17",
+   "report_time_ist": "10:22 PM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T16:52:00Z",
+   "sentiment": {
+    "courts": "neutral"
+   }
   }
  ]
 }

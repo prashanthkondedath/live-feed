@@ -1,1 +1,31 @@
-{"items":[{"confidence":"single-sourced (wire only)","event_time_ist":"~Sat morning IST, Oct 17 (published ~5:50 AM IST, Oct 17; never evaluated by earlier runs)","id":"india-bloc-condemn-eci-detentions-oct17","image_urls":["https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"],"links":["https://mumbaipress.com/attack-on-democratic-rights-india-bloc-leaders-on-detentions-of-anti-eci-protestors/"],"report_time_ist":"6:21 AM PDT / 6:51 PM IST","report_time_pdt":"6:21 AM PDT / 6:51 PM IST","reported_at_utc":"2026-10-17T13:21:40Z","sentiment":{"bjp":"negative","cjp_protesters":"positive","india_bloc":"positive","police_govt":"negative"},"source_name":"Nation Press","source_url":"https://www.nationpress.com/national/india-bloc-slams-eci-protest-detentions","summary":"INDIA bloc MPs on Saturday condemned the Oct-16/17 detentions of ECI/SIR protesters in Delhi as an attack on democracy. CPI(M) Rajya Sabha MP V. Sivadasan alleged detentions were carried out 'only because of directions from the Home Ministry,' that detainees (hundreds of students, including women) were not informed of reasons for hours and were manhandled; 'Our fight will continue.' SP RS MP Awadhesh Prasad drew an undeclared-Emergency parallel; Congress spokesperson Surendra Rajput called the arrests of Tiranga-march participants 'colonial-era policing' by 'followers of the British'; Shiv Sena (UBT)'s Priyanka Chaturvedi invoked Sushma Swaraj and Arun Jaitley on the right to dissent and flagged the Jantar Mantar de-notification as weakening democratic foundations.","title":"INDIA bloc leaders condemn Oct-16/17 ECI protest detentions; allege Home Ministry orders, manhandling"}],"report_time_ist":"6:21 AM PDT / 6:51 PM IST","report_time_pdt":"6:21 AM PDT / 6:51 PM IST"}
+{
+  "report_time_pdt": "6:53 AM PDT, Oct 17",
+  "report_time_ist": "7:23 PM IST, Oct 17",
+  "items": [
+    {
+      "id": "fir-25-tally-delhi-police-oct17",
+      "event_time_ist": "~8:52 AM IST, Oct 17",
+      "title": "CATCH-UP: Delhi Police registered 25 FIRs over SIR protests since Oct 2 — Rahul Gandhi and Priyanka Gandhi Vadra among those named (The Hindu)",
+      "summary": "Delhi Police have registered 25 FIRs in connection with the series of protests in the national capital since October 2, 2026, per police sources, covering alleged vandalism of public property, assaults and scuffles involving police personnel, obstruction of government work, and violations of prohibitory orders under BNSS Section 163 in the New Delhi district. Several political leaders, including Leader of Opposition Rahul Gandhi and Congress leader Priyanka Gandhi Vadra, have been named in the cases. The tally includes the Oct-7 FIR against Rahul Gandhi, Priyanka Gandhi Vadra and other INDIA bloc MPs for allegedly entering Akashvani Bhavan premises without permission during their march toward Nirvachan Sadan (ECI HQ). DCP Shrishti Pandey said protests were not permitted at Jantar Mantar or any other location while the restrictions remained in force. The figure dates to an Oct-9 ANI wire report ('till Thursday') and was republished/updated by The Hindu on Oct 17 — it was never evaluated in earlier runs, hence this catch-up.",
+      "source_name": "The Hindu (via scoopfeeds)",
+      "source_url": "https://scoopfeeds.com/article/ac9df8d6-3fbb-5580-af94-0d3a89c0760e",
+      "links": [
+        "https://www.devdiscourse.com/article/politics/3989526-delhi-police-register-around-25-firs-over-protests-since-october-2-sources",
+        "http://inshorts.com/en/news/25-firs-filed-over-anti-ec-protests-in-delhi-since-oct-2--rahul-gandhi--priyanka-named-1791540780761",
+        "https://news.webindia123.com/news/Articles/India/20261009/4508813.html",
+        "https://desitalkchicago.com/delhi-police-register-around-25-firs-over-protests-since-october-2-sources/"
+      ],
+      "image_urls": [
+        "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "6:53 AM PDT, Oct 17",
+      "report_time_ist": "7:23 PM IST, Oct 17",
+      "reported_at_utc": "2026-10-17T13:53:20Z",
+      "sentiment": {
+        "police_govt": "neutral",
+        "india_bloc": "negative"
+      }
+    }
+  ]
+}

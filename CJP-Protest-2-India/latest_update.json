@@ -1,28 +1,28 @@
 {
- "report_time_pdt": "9:20 AM PDT",
- "report_time_ist": "9:50 PM IST, Oct 17",
+ "report_time_pdt": "9:52 AM PDT, Oct 17",
+ "report_time_ist": "10:22 PM IST, Oct 17",
  "items": [
   {
-   "id": "cjp-crpf-slap-allegation-oct16",
-   "event_time_ist": "~evening IST, Oct 16",
-   "title": "Delhi Police claims woman protester slapped a CRPF constable during Oct-16 'Lehra Do Tiranga' march; CCTV review underway, legal action planned",
-   "summary": "Delhi Police has released video of an alleged assault near Rajiv Chowk Metro Station Gate No. 6 (by Palika Bazaar) during CJP's 'Lehra Do Tiranga' march on the evening of Oct 16. Police claim a woman posing as a YouTuber slapped a woman CRPF constable amid the gathering, and say CCTV and other footage are being examined to identify those involved and initiate legal action. The claim is carried by Republic Bharat (IG segment posted ~9:26 PM IST Oct 17), NDTV and India TV, all with police-source framing. Caution: the allegation is police-sourced and the video is not independently authenticated; no mainstream-print, independent-digital, wire or fact-checker coverage of this specific claim was found, and it is one allegation amid conflicting viral-video narratives from Oct-16 detentions (both sides allege assaults).",
-   "source_name": "Republic Bharat",
-   "source_url": "https://www.instagram.com/reel/DemeoTbDbTN/",
+   "id": "rathee-bailable-warrant-saket-oct17",
+   "event_time_ist": "~11:55 AM IST, Oct 17",
+   "title": "Saket Court issues bailable warrant against Dhruv Rathee in 2018 defamation case",
+   "summary": "Judicial Magistrate Rahul Jain (Saket Courts, Delhi) issued a bailable warrant against YouTuber Dhruv Rathee in the 2018 criminal defamation case filed by Vikas Sankrityayan alias Vikas Pandey (founder of the 'I Support Narendra Modi' page) over Rathee's May 2018 'BJP IT Cell Part II' video. The court acted after being told the fresh dasti summons ordered on Oct 12 could not be served because the process server found the premises locked; his lawyer submitted he is in London and cannot appear in person. The matter is listed for Oct 31, 2026.",
+   "source_name": "LiveLaw",
+   "source_url": "https://www.livelaw.in/news-updates/delhi-court-issues-bailable-warrants-against-youtuber-dhruv-rathee-in-2018-defamation-case-555149",
    "links": [
-    "https://www.youtube.com/watch?v=sb1_9SYyB-w",
-    "https://www.youtube.com/watch?v=Ob17OJxtPFI"
+    "https://www.barandbench.com/news/litigation/delhi-court-issues-bailable-warrant-to-youtuber-dhruv-rathee-in-2018-defamation-case",
+    "https://hiindia.com/delhi-court-issues-bailable-warrant-against-youtuber-dhruv-rathee-in-2018-defamation-case/",
+    "https://www.nationpress.com/national/bailable-warrant-against-dhruv-rathee-in-defamation-case"
    ],
    "image_urls": [
-    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"
+    "https://images.thedailyjagran.com/images/2026/10/12/template/image/DHRUV-RATHEE-1791788900890.webp"
    ],
-   "confidence": "single-sourced",
-   "report_time_pdt": "9:20 AM PDT",
-   "report_time_ist": "9:50 PM IST, Oct 17",
-   "reported_at_utc": "2026-10-17T16:20:40Z",
+   "confidence": "confirmed",
+   "report_time_pdt": "9:52 AM PDT, Oct 17",
+   "report_time_ist": "10:22 PM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T16:52:00Z",
    "sentiment": {
-    "cjp_protesters": "negative",
-    "police_govt": "neutral"
+    "courts": "neutral"
    }
   }
  ]

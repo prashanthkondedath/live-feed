@@ -7150,6 +7150,49 @@
    "source_url": "https://www.instagram.com/p/DekIxucTrAV/",
    "summary": "In an official Instagram post (~4:38 PM IST Oct 16) that earlier IG-CLI pulls missed due to cache gaps, CJP's party account said it had written to the SHO and the Commissioner of Police, Delhi, for 'immediate information and release of @abhijeetdipke from his illegal detention' ahead of the 'Lehra Do Tiranga' march. Self-reported by the party; no independent confirmation of the letters or any response.",
    "title": "CJP wrote to Delhi Police SHO and CP demanding Dipke's information and release"
+  },
+  {
+   "id": "shinde-night-scrum-dipke-whereabouts-oct17",
+   "event_time_ist": "~9:30 AM IST, Oct 17 (reel of overnight press scrum)",
+   "title": "Ajinkya Shinde's overnight press scrum: police still haven't confirmed Dipke's location after 8+ hours",
+   "summary": "Verified Saam TV (3.1M followers) Marathi reel posted ~9:30 AM IST Oct 17 shows CJP's interim national organisation head Ajinkya Shinde addressing the media overnight outside Parliament Street police station: he says he personally went to the station yet Delhi Police have still not confirmed founder Abhijeet Dipke's location, held for over eight hours since Friday-evening's detention; on-screen graphics read 'Abhijeet Dipke still not released' and 'Police not giving official information.' Dipke's production before the Special Executive Magistrate court (expected today, Oct 17) remains pending. The underlying whereabouts dispute was reported earlier; Shinde's in-person visit and public statement are new.",
+   "source_name": "Saam TV (IG, verified)",
+   "source_url": "https://www.instagram.com/reel/DelMywGiVp_/",
+   "links": [
+    "https://www.instagram.com/reel/DelMywGiVp_/"
+   ],
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/17/article/image/neha-dipke-x-(1)-1792202068691_m.webp"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "9:21 PM PDT, Oct 16",
+   "report_time_ist": "9:51 AM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T04:21:38Z",
+   "sentiment": {
+    "cjp_protesters": "negative",
+    "police_govt": "negative"
+   }
+  },
+  {
+   "id": "press-club-march-2pm-plan-oct17",
+   "event_time_ist": "announced ~8:41 AM IST, Oct 17; march scheduled 2:00 PM IST, Oct 17",
+   "title": "News Nation: CJP + student orgs (AISA, AISF, SFI) announced a 2 PM march today from Press Club to Jantar Mantar",
+   "summary": "News Nation TV's verified IG (1.1M followers) breaking-news bulletin posted ~8:41 AM IST Oct 17 reports an announcement of a fresh protest today: CJP workers plus student organisations AISA, AISF and SFI are preparing to march from the Press Club to Jantar Mantar at 2:00 PM IST today (Oct 17). No second outlet has carried the plan yet, and no police response or permission status has been reported. Jantar Mantar remains de-notified as a protest venue since Oct 12 and BNSS 163 curbs apply in central Delhi.",
+   "source_name": "News Nation TV (IG, verified)",
+   "source_url": "https://www.instagram.com/reel/DelHFmhEmca/",
+   "links": [
+    "https://www.instagram.com/reel/DelHFmhEmca/"
+   ],
+   "image_urls": [
+    "https://images.thedailyjagran.com/images/2026/10/16/article/image/CJP-Protest-1792156025682_m.webp"
+   ],
+   "confidence": "single-sourced",
+   "report_time_pdt": "9:21 PM PDT, Oct 16",
+   "report_time_ist": "9:51 AM IST, Oct 17",
+   "reported_at_utc": "2026-10-17T04:21:38Z",
+   "sentiment": {
+    "cjp_protesters": "neutral"
+   }
   }
  ]
 }

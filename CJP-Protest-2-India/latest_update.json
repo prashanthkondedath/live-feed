@@ -1,1 +1,29 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"~12:36 AM IST, Oct 18","id":"news24-justice-morcha-night-sit-in-oct18","image_urls":["https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Protest-784x441.jpg"],"links":[],"report_time_ist":"12:51 AM IST, Oct 18","report_time_pdt":"12:21 PM PDT, Oct 17","reported_at_utc":"2026-10-17T19:21:00Z","sentiment":{"cjp_protesters":"positive","police_govt":"negative"},"source_name":"News24 (@news24official, verified IG)","source_url":"https://www.instagram.com/reel/Dem0PL0BZRb/","summary":"News24's verified 'Reporter Uncut' field report (posted ~12:36 AM IST Oct 18) from Delhi shows a Justice Morcha sit-in still on late Saturday night, continuing the same faction's action after the 2 PM Press Club march interception. A 20-year-old woman student, visibly upset and crying, told the reporter on camera she was detained and beaten by authorities after participating in the protests. Demonstrators demanded CEC Gyanesh Kumar's resignation, a 'reclaim Jantar Mantar' and a rollback of SIR; placards read 'Arrest Prosecute Gyanesh Kumar!!' and 'Reclaim Jantar Mantar'. The beating allegation is on-camera testimony single-sourced to this News24 report — no second outlet is carrying this specific sit-in yet.","title":"Justice Morcha night sit-in continues; 20-year-old student alleges detention and beating"}],"report_time_ist":"12:51 AM IST, Oct 18","report_time_pdt":"12:21 PM PDT, Oct 17"}
+{
+ "report_time_pdt": "6:51 PM PDT, Oct 17",
+ "report_time_ist": "7:21 AM IST, Oct 18",
+ "items": [
+  {
+   "id": "london-parliament-square-rally-outcome-oct17",
+   "event_time_ist": "~4:30 PM IST, Oct 17 (Saturday; rally had been called for noon London time)",
+   "title": "London Parliament Square rally held: protesters and counter-protesters converge over SIR row",
+   "summary": "ANI (published Oct 17, 7:38 PM IST) confirms Dhruv Rathee's Saturday-noon London rally actually happened: a polarised crowd converged on Parliament Square, sharply split between supporters and opponents of CEC Gyanesh Kumar and the Cockroach Janta Party. It is the first post-event confirmation after earlier runs found no coverage of the rally's outcome. The same ANI copy recaps already-reported arcs (Friday London Modi-counter-protest, Friday Connaught Place Tiranga rallies, Dipke's Friday detention and Saturday conditional bail).",
+   "source_name": "ANI (via LatestLY)",
+   "source_url": "https://www.latestly.com/agency-news/world-news-protest-vs-counter-protest-in-uk-amid-row-over-poll-body-chief-gyanesh-kumar-7648377.html",
+   "links": [
+    "https://www.youtube.com/shorts/zBAx2jLzCdA",
+    "https://apnamatvchannel.com/world/protest-vs-counter-protest-in-uk-amid-row-over-poll-body-chief-gyanesh-kumar/",
+    "https://www.indianeconomicobserver.com/news/protest-vs-counter-protest-in-uk-amid-row-over-poll-body-chief-gyanesh-kumar20261017192448//"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/ANI-20261017135306-784x441.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "6:51 PM PDT, Oct 17",
+   "report_time_ist": "7:21 AM IST, Oct 18",
+   "reported_at_utc": "2026-10-18T01:51:56Z",
+   "sentiment": {
+    "cjp_protesters": "positive"
+   }
+  }
+ ]
+}

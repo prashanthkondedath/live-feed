@@ -1,1 +1,9 @@
-{"feed_id": "hurricane-activity-north-america", "title": "Hurricane Activity Impacting North America", "status": "active", "check_frequency": "every 15 minutes", "last_check_utc": "2026-10-14T19:53:24Z", "last_published_utc": "2026-10-14T19:53:24Z", "items_count": 82}
+{
+ "feed_id": "hurricane-activity-north-america",
+ "title": "Hurricane Activity Impacting North America",
+ "status": "archived",
+ "check_frequency": "every 15 minutes",
+ "last_check_utc": "2026-10-14T19:53:24Z",
+ "last_published_utc": "2026-10-14T19:53:24Z",
+ "items_count": 82
+}

@@ -127,8 +127,143 @@
    "source_url": "https://americamornings.com/france-erupts-rioting-looting-and-fires-follow-protests-over-living-costs-and-education/",
    "summary": "Interior Minister Laurent Nuñez offered his resignation, acknowledging the police failure to contain the weekend rioting; the offer was reportedly refused. President Macron denounced the violence ('no place for violence in our Republic') and PM Sébastien Lecornu called the clashes 'extremely intense.' The unrest lands days before a critical parliamentary vote on the government budget, with Jean-Luc Mélenchon's France Unbowed and Marine Le Pen's National Rally both courting the discontent ahead of the 2027 presidential election.",
    "title": "Oct 19: Interior Minister Nuñez offers resignation — reportedly refused; budget vote looms"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 19, 2026 (evening, CET)",
+   "id": "paris-protests-oct19-curfews-imposed",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "links": [
+    "https://www.tbsnews.net/worldbiz/europe/france-imposes-curfews-parts-paris-other-cities-after-weekend-riots-1577971",
+    "https://anewz.tv/world/world-news/25675/france-imposes-local-curfews-after-weekend-of-riots/news",
+    "https://signalpostnews.com/france-curfews-lecornu-weekend-riots-october-2026",
+    "https://www.travelweekly.com/Europe-Travel/France-prime-minister-curfews-after-violence-rioting"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "govt_police": "positive",
+    "protesters": "negative"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.thenews.pk/print/1443975-france-imposes-curfews-in-parts-of-paris-other-cities-after-weekend-of-riots",
+   "summary": "Prime Minister Sébastien Lecornu asked prefects and municipalities to impose 'partial and localised' curfews from Monday evening in riot-hit areas, ruled out a blanket Paris curfew, and refused to rule out a state of emergency. Paris police banned protests in parts of the capital from 8pm and imposed a curfew around Place de la République and Les Halles from 11pm to 6am Tuesday. Minors' curfews (8pm–6am, two days) were set in Lille, Douai, Wattignies and Denain; Nice imposed a minors' curfew; Marseille banned all gatherings and demonstrations; Bordeaux set a week-long 10pm–7am minors' curfew. Curfews were extended Tuesday evening 'wherever required.' Lecornu blamed a far-left movement trying to sow 'profound disorder' ahead of the April 2027 presidential election.",
+   "title": "Oct 19: Lecornu orders partial/localized curfews — Paris protest bans from 8pm, République curfew 11pm–6am"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 19, 2026 (morning, CET)",
+   "id": "paris-protests-oct19-louvre-blocked",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "links": [
+    "https://signalpostnews.com/france-curfews-lecornu-weekend-riots-october-2026",
+    "https://www.travelweekly.com/Europe-Travel/France-prime-minister-curfews-after-violence-rioting",
+    "https://www.usatoday.com/story/news/world/2026/10/19/why-protests-in-france/92330338007/"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "protesters": "positive"
+   },
+   "source_name": "Le Monde",
+   "source_url": "https://www.lemonde.fr/en/france/article/2026/10/19/students-block-louvre-leading-to-sometimes-tense-exchanges-with-tourists_6758840_7.html",
+   "summary": "École du Louvre students arrived at 8am and blocked the museum's entrances; the Louvre did not open at its scheduled 9am opening and stayed closed all day, with tense exchanges between students and disappointed ticket-holding tourists. Blockades also went up at Sciences Po on Monday.",
+   "title": "Oct 19: École du Louvre students block the Louvre at dawn; museum stays closed"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 17–19, 2026",
+   "id": "paris-protests-oct19-weekend-toll-updated",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-5d974e44f654.jpg"
+   ],
+   "links": [
+    "https://www.7globe.in/partial-curfews-in-france-as-govt-battles-unrest-pm-lecornu-doesnt-rule-out-imposing-emergency/",
+    "https://www.livefromeurope.eu/tag/fc33c4d9-b939-4fbe-ba88-ae18d799b8bd"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "govt_police": "negative",
+    "protesters": "negative"
+   },
+   "source_name": "AP / Reuters (Justice Minister Gérald Darmanin)",
+   "source_url": "https://www.travelweekly.com/Europe-Travel/France-prime-minister-curfews-after-violence-rioting",
+   "summary": "Justice Minister Gérald Darmanin said more than 2,330 people were taken into police custody over the weekend — 855 in the Paris region, 70% adults — sharply revising the earlier ~400-arrest figure. Nearly 1,000 police and gendarmes were injured, at least 3,000 businesses were damaged or looted (AP), and one protester died of a heart attack.",
+   "title": "Weekend toll updated: ~2,330 in custody (855 in Paris), ~1,000 officers injured, ~3,000 shops damaged or looted"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 18, 2026 (evening, CET)",
+   "id": "paris-protests-oct18-macron-address-gulf",
+   "image_urls": [],
+   "links": [
+    "https://signalpostnews.com/france-curfews-lecornu-weekend-riots-october-2026",
+    "http://themorning-post.blogspot.com/2026/10/europe-erupts-from-france-riots-to.html"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "govt_police": "neutral",
+    "opposition": "negative",
+    "protesters": "negative"
+   },
+   "source_name": "Bloomberg (via Moneyweb)",
+   "source_url": "https://www.moneyweb.co.za/news/international/french-violence-raises-alert-as-protests-flare-across-europe/",
+   "summary": "In a rare Sunday-night televised address, President Macron said the nation felt 'anger' and 'shame,' blamed far-left activists and 'many delinquents,' and promised a hard line: 'Those who destroyed must pay. Those who looted must pay back.' The opposition dismissed the address as empty. He then left France for a Gulf tour (Kuwait, UAE, Bahrain, Qatar) aimed at securing fuel supplies to cut pump prices — a trip critics called out of touch.",
+   "title": "Oct 18: Macron's televised address promises a 'hard line' — then he leaves for a Gulf fuel tour"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Calls announced Oct 17–19, 2026; actions Oct 24 and Nov 5, 2026",
+   "id": "paris-protests-new-action-dates-oct24-nov5",
+   "image_urls": [],
+   "links": [
+    "https://www.thenews.pk/print/1443975-france-imposes-curfews-in-parts-of-paris-other-cities-after-weekend-of-riots",
+    "https://thoughtfulindia.com/2026/10/france-student-protests-explained-indian-students/"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "protesters": "positive",
+    "unions": "positive"
+   },
+   "source_name": "Reuters / NonRev Travel News",
+   "source_url": "https://nonrevtravelnews.com/2026/10/18/france-record-arrests-after-violent-cost-of-living-protests-national-strike-set-for-november-5/",
+   "summary": "Yellow-vest groups called a second national day of action for Saturday, October 24 (Reuters, single-sourced). Separately, five union federations — CFDT, CGT, FO, UNSA and FSU — called a national day of strikes and demonstrations over pay and public services for November 5 (call dated Oct 5), with the four main SNCF rail unions backing it, so TGV/TER/Intercités/Transilien disruption is likely.",
+   "title": "New action dates: yellow vests call a second day of action Oct 24; five unions call a national strike Nov 5"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 19–20, 2026",
+   "id": "paris-protests-oct19-business-relief-stolen-goods",
+   "image_urls": [],
+   "links": [
+    "https://www.livefromeurope.eu/tag/fc33c4d9-b939-4fbe-ba88-ae18d799b8bd",
+    "https://thoughtfulindia.com/2026/10/france-student-protests-explained-indian-students/"
+   ],
+   "report_time_ist": "4:15 AM IST, Oct 21",
+   "report_time_pdt": "3:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T22:45:00Z",
+   "sentiment": {
+    "govt_police": "positive",
+    "protesters": "negative"
+   },
+   "source_name": "Reuters (via 7globe)",
+   "source_url": "https://www.7globe.in/partial-curfews-in-france-as-govt-battles-unrest-pm-lecornu-doesnt-rule-out-imposing-emergency/",
+   "summary": "Lecornu announced a financial support fund for damaged and looted businesses, accelerated insurance claim assessments, full state-funded furlough pay from Tuesday for staff of closed shops, and partial unemployment benefits. Separately, Digital Affairs Minister Anne Le Henaff summoned Vinted, eBay, Amazon, Leboncoin, Meta and TikTok over listings of suspected stolen goods from the looting, demanding their removal (reported by 7globe and livefromeurope).",
+   "title": "Oct 19–20: business support fund and furlough pay announced; resale platforms summoned over stolen-loot listings"
   }
  ],
- "last_updated_pdt": "2:36 PM PDT, Oct 20",
- "last_updated_ist": "3:06 AM IST, Oct 21"
+ "last_updated_pdt": "3:45 PM PDT, Oct 20",
+ "last_updated_ist": "4:15 AM IST, Oct 21"
 }

@@ -1,0 +1,134 @@
+{
+ "report_time_pdt": "2:36 PM PDT, Oct 20",
+ "report_time_ist": "3:06 AM IST, Oct 21",
+ "items": [
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Mid-Sep 2026",
+   "id": "paris-protests-sep-student-blockades-begin",
+   "image_urls": [],
+   "links": [
+    "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+    "https://www.laviezine.com/1664432/protests-erupt-across-france-against-rising-living-costs-and-in-support-of-students/"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "neutral"
+   },
+   "source_name": "Signal Post News",
+   "source_url": "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+   "summary": "High school students in Paris's poor northern suburbs began blockading their lycées in mid-September 2026 over crumbling classrooms and deteriorating public services. The student movement — later joined by unions, pensioners, farmers and Yellow Vest veterans — became the seed of a nationwide cost-of-living revolt.",
+   "title": "Mid-Sep 2026: Paris lycée students begin school blockades over crumbling classrooms"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 17, 2026",
+   "id": "paris-protests-oct17-nationwide-day-550k",
+   "image_urls": [],
+   "links": [
+    "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+    "https://www.ap.org/news-highlights/spotlights/2026/violent-protests-in-france-as-police-battle-demonstrators-in-photos/",
+    "https://openchronicle.org/2026/10/17/france-rocked-by-nationwide-protests-as-clashes-fires-and-looting-erupt-in-paris-and-major-cities/"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "protesters": "positive",
+    "unions": "positive",
+    "govt_police": "negative",
+    "opposition": "positive"
+   },
+   "source_name": "Signal Post News",
+   "source_url": "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+   "summary": "France's Interior Ministry counted 550,000 demonstrators across more than 140 towns and cities on Saturday, Oct 17 — double its own forecast — including 110,000 in Paris. The CGT union claimed 800,000. Students, trade unions, teachers, pensioners, farmers and Yellow Vest veterans marched over rising living costs, stagnant wages and failing public services; the CGT backed the day calling for higher wages and pensions and lower prices.",
+   "title": "Oct 17: 550,000 march nationwide in cost-of-living day of action; 110,000 in Paris"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 17, 2026 (evening)",
+   "id": "paris-protests-oct17-paris-clashes-republique",
+   "image_urls": [],
+   "links": [
+    "https://www.ap.org/news-highlights/spotlights/2026/violent-protests-in-france-as-police-battle-demonstrators-in-photos/",
+    "https://www.laviezine.com/1664432/protests-erupt-across-france-against-rising-living-costs-and-in-support-of-students/"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "negative"
+   },
+   "source_name": "Associated Press",
+   "source_url": "https://www.ap.org/news-highlights/spotlights/2026/violent-protests-in-france-as-police-battle-demonstrators-in-photos/",
+   "summary": "After a largely peaceful main march, masked groups clashed with riot police in Paris's eastern and northern districts on Saturday evening. Cars were set ablaze at Place de la République, shops were looted and barricades erected; police responded with tear gas and water cannon. Similar violence was reported in Marseille, Rennes, Toulouse and Angers, including attempted looting and attacks on officers and government buildings.",
+   "title": "Oct 17 evening: Clashes at Place de la République — tear gas, water cannon, burning cars, looting"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 17, 2026",
+   "id": "paris-protests-oct17-town-halls-attacked",
+   "image_urls": [],
+   "links": [
+    "https://franceinenglish.com/p/massive-protests-across-france-against-rising-living-costs-marked-by-violence-and-looting",
+    "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "negative"
+   },
+   "source_name": "France in English",
+   "source_url": "https://franceinenglish.com/p/massive-protests-across-france-against-rising-living-costs-marked-by-violence-and-looting",
+   "summary": "The unrest spread beyond Paris on Oct 17: the town hall in Limoges was set on fire, a tourist office in Lyon was torched, and rioters in Marseille stormed the town hall, destroying statues and furniture before being dispersed. Paris Mayor's office and national officials condemned the scale of the destruction.",
+   "title": "Oct 17: Town halls attacked across France — Limoges burned, Lyon office torched, Marseille stormed"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Oct 17–18, 2026",
+   "id": "paris-protests-oct17-arrests-injuries-teen-hand",
+   "image_urls": [],
+   "links": [
+    "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+    "https://americamornings.com/france-erupts-rioting-looting-and-fires-follow-protests-over-living-costs-and-education/"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "negative"
+   },
+   "source_name": "Signal Post News",
+   "source_url": "https://signalpostnews.com/france-protests-550000-nationwide-town-halls-burned-october-2026",
+   "summary": "Interior Minister Laurent Nuñez put arrests at roughly 400 nationwide, including 195 in Paris, with about 60 internal security officers injured and two hospitalized unconscious. A 15-year-old boy lost a hand when a police stun grenade exploded — an incident that further inflamed public anger and sharpened student protests' anti-police messaging; a severe grenade injury was also reported in Saint-Étienne.",
+   "title": "Oct 17–18: ~400 arrested nationwide (195 in Paris); ~60 officers injured; teen loses hand to stun grenade"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Oct 19, 2026",
+   "id": "paris-protests-oct19-nunez-resignation-budget",
+   "image_urls": [],
+   "links": [
+    "https://americamornings.com/france-erupts-rioting-looting-and-fires-follow-protests-over-living-costs-and-education/"
+   ],
+   "report_time_ist": "3:06 AM IST, Oct 21",
+   "report_time_pdt": "2:36 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-20T21:36:38Z",
+   "sentiment": {
+    "govt_police": "negative",
+    "opposition": "positive"
+   },
+   "source_name": "America Mornings",
+   "source_url": "https://americamornings.com/france-erupts-rioting-looting-and-fires-follow-protests-over-living-costs-and-education/",
+   "summary": "Interior Minister Laurent Nuñez offered his resignation, acknowledging the police failure to contain the weekend rioting; the offer was reportedly refused. President Macron denounced the violence ('no place for violence in our Republic') and PM Sébastien Lecornu called the clashes 'extremely intense.' The unrest lands days before a critical parliamentary vote on the government budget, with Jean-Luc Mélenchon's France Unbowed and Marine Le Pen's National Rally both courting the discontent ahead of the 2027 presidential election.",
+   "title": "Oct 19: Interior Minister Nuñez offers resignation — reportedly refused; budget vote looms"
+  }
+ ]
+}

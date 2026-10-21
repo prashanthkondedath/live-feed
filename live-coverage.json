@@ -263,50 +263,44 @@
           "label": "Kharkiv"
         }
       ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T18:28:58Z",
+      "trend": "warm",
+      "trend_updated_at_utc": "2026-10-21T03:50:14Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 51,
+        "items_in_window": 23,
         "sides": {
+          "civilians": {
+            "positive": 0,
+            "negative": 11,
+            "neutral": 0,
+            "overall": "negative"
+          },
           "russia": {
-            "positive": 5,
-            "negative": 30,
-            "neutral": 12,
+            "positive": 4,
+            "negative": 14,
+            "neutral": 3,
             "overall": "negative"
           },
           "ukraine": {
-            "positive": 12,
-            "negative": 20,
-            "neutral": 8,
+            "positive": 6,
+            "negative": 12,
+            "neutral": 2,
             "overall": "negative"
           },
           "us": {
-            "positive": 4,
-            "negative": 8,
-            "neutral": 20,
+            "positive": 1,
+            "negative": 5,
+            "neutral": 9,
             "overall": "neutral"
           },
-          "civilians": {
-            "positive": 2,
-            "negative": 20,
-            "neutral": 1,
-            "overall": "negative"
-          },
           "eu": {
-            "positive": 8,
-            "negative": 3,
-            "neutral": 2,
-            "overall": "positive"
-          },
-          "uk": {
             "positive": 1,
-            "negative": 0,
-            "neutral": 0,
-            "overall": "positive"
+            "negative": 4,
+            "neutral": 2,
+            "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T18:28:58Z"
+        "updated_at_utc": "2026-10-21T03:50:14Z"
       },
       "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) — now confirmed by Kyiv Independent — marks the clearest sign yet the 'energy ceasefire' is not holding. Wednesday morning Oct 14 brought further strikes on both sides: Reuters reported Mayor Vitali Klitschko saying Russian air strikes killed one person and injured one more in Kyiv while hitting energy facilities, and a Ukrainian drone attack killed one person and damaged houses in Balakovo in Russia's Saratov region, per the governor. On Wednesday Oct 14, Zelensky said the overnight Russian attack used 39 ballistic missiles and 120+ attack drones — 'demonstrative disrespect' toward Trump's ceasefire claim — leaving 600,000+ Ukrainians without power; he is meeting UK PM Andy Burnham at Downing Street on Wednesday, with Burnham expected to pledge faster arms deliveries and new sanctions. On Wednesday, Russia's Defence Ministry claimed the overnight wave struck 7 Ukrainian energy facilities plus a Kyiv data centre. By Wednesday morning the overnight strike-wave toll had risen to at least six killed across Ukraine. On Wednesday morning Oct 14, Italy's PM Giorgia Meloni told parliament the US-Russia diesel deal was a 'very risky choice' that undercuts efforts to force Putin to negotiate; Zelensky detailed the overnight wave's toll — equipment damaged at 26 power-system facilities and four oil-and-gas facilities, 600,000+ without power — and urged Trump for stronger sanctions and more Patriots, while Peskov denied any direct link between the diesel deal and Moscow's Ukraine stance. On Wednesday Oct 14, Peskov gave the Kremlin's clearest position yet: the energy ceasefire's provisions are 'not established' and work continues — with no Kremlin confirmation of Trump's Oct 11 claim. The same day, Romania scrambled F-16s after drones were detected near the Ukraine border. Wednesday (Oct 14, reported 7:33 AM PDT), CNN detailed the SpaceX Starshield restriction: the cap targets Ukraine's military-grade Starshield terminals (not consumer Starlink) — terminals lose link above 100 mph, with the 7th Rapid Reaction Corps telling Reuters of 10-20 sec dropouts even at 110-120 km/h, forcing some mission cancellations; Ukraine learned of it via SpaceX customer support only after filing a complaint, with no prior warning, and Kyiv's MOD is now in contact with the US, SpaceX and NATO while testing backup channels; Musk publicly criticized Zelensky over the dispute. CNN also raised the overnight strike-wave toll to at least 10 killed and dozens injured (Kyiv 3/21, Kharkiv 4/41, Dnipropetrovsk 2/6, Zaporizhzhia 1), noting Ukraine downed only 4 of the 39 ballistic missiles — underscoring the interceptor shortage Zelensky has been flagging. In a new clarification (reported Oct 14 by Axios), a White House official said Trump's 'energy ceasefire' proposal covers only oil refineries — 'refinery for refinery' — and does NOT cover power grids, sharply narrowing the scope of the Oct 11 claim. Late Wednesday (Oct 14, DW segment), former Trump special envoy for Ukraine Keith Kellogg told DW that Ukraine should keep striking Russian refineries despite Trump's request to stop — asked how Zelensky should respond, he answered 'Burn all the refineries' — dismissing the US-Russia diesel deal as driven by domestic US needs. Late Wednesday Oct 14, Deputy PM Alexander Novak claimed Ukraine struck two refineries that day — in the Saratov and Ryazan regions — saying Moscow sees no Ukrainian move toward an energy ceasefire (Kyiv called the reports fake); a daytime Russian attack on the western city of Lutsk killed 3 and injured at least 12; and in a Piers Morgan interview aired Wednesday, Zelensky said it was 'painful' when Trump 'chooses one side, not our side' after Trump said Zelensky should be replaced.",
       "watch_for": [
@@ -359,15 +353,15 @@
       ],
       "curation_updated_at_utc": "2026-10-21T03:38:39Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
-      "trend_direction": "steady",
+      "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 51,
-        "confirmed": 49,
-        "single-sourced": 2,
+        "items_in_window": 23,
+        "confirmed": 23,
+        "single-sourced": 0,
         "unconfirmed": 0,
-        "confirmed_rate": 0.96,
-        "updated_at_utc": "2026-10-14T18:28:58Z"
+        "confirmed_rate": 1.0,
+        "updated_at_utc": "2026-10-21T03:50:14Z"
       },
       "phase": "contested-ceasefire"
     },
@@ -816,5 +810,5 @@
       "phase": "escalating"
     }
   ],
-  "updated_at_utc": "2026-10-21T03:45:02Z"
+  "updated_at_utc": "2026-10-21T03:50:14Z"
 }

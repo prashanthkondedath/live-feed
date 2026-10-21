@@ -53,18 +53,18 @@
         },
         "updated_at_utc": "2026-10-21T09:43:32Z"
       },
-      "current_summary": "Dipke was preventively arrested under BNSS Secs 126/170 on Oct 16 ahead of the 'Lehra Do Tiranga' march at CP Central Park, and on Oct 17 (~4:50 PM IST) the SEM court granted him conditional bail — released on a one-year peace bond plus Rs 50,000 surety. Co-conveners Saurav Das and Ashutosh Ranka remain in Tihar (Das in Jail No. 2, Ranka in Jail No. 4 — Indian Express logged them as inmates 3752 and 1784) after their Oct 14 five-day judicial custody; CJP's legal team filed an SEM release application on Oct 17 with a decision expected Oct 18 (single-sourced). The Oct 16 march went ahead as a flash protest near Jantar Mantar with detentions, while Dhruv Rathee's Saturday-noon London rally at Parliament Square on Oct 17 drew polarised supporters and opponents (ANI-confirmed), and Saket Court issued a bailable warrant against Rathee in the 2018 defamation case. Dipke has called a self-pause of CJP street activity till after Diwali (Nov 8).",
+      "current_summary": "Das and Ranka's Sunday (Oct 18) SEM hearing ended with no release; on Monday evening a newly-appointed SEM (Ritu Raj) extended their judicial custody two more days till Oct 21 after rejecting their sureties, and Delhi Police transferred both cases (the Oct 13 Jantar Mantar trespass case and the Oct 16 march case) to the Crime Branch's Inter-State Cell. On Wednesday Oct 21 the two withdrew their Delhi High Court plea against the custody extension and were told to await a 2 PM SEM hearing. Dipke's preventive-arrest case ended with his Oct 17 conditional bail (one-year peace bond + Rs 50,000 surety), and on Oct 20 he announced in a video message that CJP will hold no protests at all until Diwali — the day after Diwali (Nov 8) became the resume target. A 30-foot cockroach effigy was burnt alongside Ravana at the Pitampura Dussehra on Oct 20, which Dipke thanked organizers for as 'free publicity.' Rathee's Saturday-noon London rally Oct 17 was ANI-confirmed (polarised turnout), and Saket Court issued a bailable warrant against him in the 2018 defamation case (civil-suit next hearing Nov 5).",
       "watch_for": [
         {
-          "event": "Confirmed outcome of CJP's Oct 17 SEM release bid for Das and Ranka",
-          "date": null
+          "event": "SEM hearing on Das/Ranka release/custody (2 PM, new SEM; both cases moved to Crime Branch Inter-State Cell)",
+          "date": "2026-10-21"
         },
         {
           "event": "Saket Court defamation suit next hearing (Rathee Ram-Sita video civil case)",
           "date": "2026-11-05"
         },
         {
-          "event": "CJP street activity resumes after Diwali self-pause (Dipke's Dussehra call)",
+          "event": "CJP street activity resumes after Diwali self-pause (Dipke's Oct 20 video call)",
           "date": "2026-11-08"
         },
         {
@@ -83,15 +83,15 @@
       "key_figures": [
         {
           "name": "Abhijeet Dipke",
-          "role": "CJP founder; preventively arrested Oct 16, granted conditional SEM bail Oct 17 (one-year peace bond + Rs 50,000 surety); self-paused CJP street activity till after Diwali"
+          "role": "CJP founder; conditional SEM bail Oct 17 (one-year peace bond + Rs 50,000 surety); announced Oct 20 that CJP holds no protests until Diwali"
         },
         {
           "name": "Saurav Das",
-          "role": "CJP co-convener; in Tihar Jail No. 2 after Oct 14 remand; SEM release bid filed Oct 17, decision expected Oct 18 (single-sourced)"
+          "role": "CJP co-convener; in Tihar Jail No. 2 (inmate 3752); custody extended till Oct 21 by new SEM after sureties rejected; HC plea withdrawn, awaiting 2 PM SEM hearing Oct 21"
         },
         {
           "name": "Ashutosh Ranka",
-          "role": "CJP co-convener; in Tihar Jail No. 4 after Oct 14 remand; SEM release bid filed Oct 17"
+          "role": "CJP co-convener; in Tihar Jail No. 4 (inmate 1784); custody extended till Oct 21; both cases transferred to Crime Branch Inter-State Cell"
         },
         {
           "name": "Rahul Gandhi",
@@ -106,7 +106,7 @@
           "role": "CJP legal head; handling the Das/Ranka release applications"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-10T04:30:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -172,7 +172,7 @@
         },
         "updated_at_utc": "2026-10-21T09:45:31Z"
       },
-      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight. Over Oct 20-21 the coalition reported intercepting a Houthi ballistic missile aimed at Riyadh (destroying its launch platform), five drones and a cruise missile over the Medina region; GCC foreign ministers at the Oct 18 Manama ministerial council condemned the attacks and pushed for a Houthi terrorist designation alongside US-Iran dialogue.",
+      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. On Oct 20-21 the coalition reported intercepting a Houthi ballistic missile aimed at Riyadh (destroying its launch platform), five drones and a cruise missile over the Medina region; Yemen's armed forces spokesman (government side) claimed 744 strikes in 24 hours under 'Operation Dawn of Yemen', neutralizing ~200 Houthis. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight. Brent hit a five-month high ($111.75 intraday Oct 20) on the war risk premium. GCC foreign ministers at the Oct 18 Manama ministerial council condemned the attacks and pushed for a Houthi terrorist designation alongside US-Iran dialogue.",
       "watch_for": [
         {
           "event": "Riyadh airport full recovery; GACA NOTAM A3650/26 review",
@@ -206,26 +206,26 @@
         },
         {
           "name": "Turki al-Maliki",
-          "role": "Coalition spokesman; announced Oct 17–19 interceptions and the Najran AH-6i crash"
+          "role": "Coalition spokesman; announced Oct 17–19 and Oct 20-21 interceptions (ballistic missile aimed at Riyadh, five drones, Medina-region cruise missile)"
         },
         {
           "name": "Mohammed bin Salman",
           "role": "Reported pressing Trump for US military action against Houthis"
         },
         {
-          "name": "Mohamed al-Bukhaiti",
-          "role": "Senior Houthi political-bureau official; told the AP Oct 14 that Oman, Russia and China are pushing for a ceasefire deal"
+          "name": "Majed al-Nuzaily",
+          "role": "Spokesman for Yemen's (government) armed forces; claimed 744 strikes and ~200 Houthis neutralized in 24h under 'Operation Dawn of Yemen'"
         },
         {
           "name": "Donald Trump",
           "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
         },
         {
-          "name": "Recep Tayyip Erdogan",
-          "role": "Turkish president; called MBS to condemn the Houthi attacks, pledged support; Trump said he may ask Erdogan to help Saudi Arabia"
+          "name": "Mohamed al-Bukhaiti",
+          "role": "Senior Houthi political-bureau official; told the AP Oct 14 that Oman, Russia and China are pushing for a ceasefire deal"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -302,10 +302,10 @@
         },
         "updated_at_utc": "2026-10-21T09:45:09Z"
       },
-      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff landed in St. Petersburg on Wednesday morning Oct 21 for his meeting with Putin at the Constantine Palace (first half of Wednesday, with Dmitriev joining), while Jared Kushner joins virtually — Axios's Ravid reports Witkoff is presenting an updated peace proposal aimed at a 'pathway toward direct trilateral and broader multilateral negotiations.' Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov - a Druzhba-network hub - sparking a fire at a fuel tank (Governor Pervyshov confirmed). On Oct 19 a Russian drone struck a park in Nova Vodolaha, Kharkiv region, killing six including three children, while 22 bipartisan House lawmakers urged Trump (Oct 15 letter) to revoke the Russian diesel import licence. Overnight Oct 20–21, Russian strikes hit energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions, killing four — hours ahead of Witkoff's Wednesday meeting with Putin.",
+      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. On Wednesday morning Oct 21 Trump's envoy Steve Witkoff met Putin at the Constantine Palace in St. Petersburg (Kushner joined virtually with an updated peace proposal) — an opening goodwill gesture saw Russia release a detained 74-year-old US retiree, and Witkoff cited a 'basis for a ceasefire' aimed at a pathway toward direct trilateral talks. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Witkoff in Oslo, saying US intelligence-sharing 'works now'. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov — a Druzhba-network hub — sparking a fuel-tank fire (Governor Pervyshov confirmed). On Oct 19 a Russian drone struck a park in Nova Vodolaha, Kharkiv region, killing six including three children, while 22 bipartisan House lawmakers urged Trump (Oct 15 letter) to revoke the Russian diesel import licence. Overnight Oct 20–21, Russian strikes hit energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions, killing four — hours ahead of the Witkoff-Putin meeting.",
       "watch_for": [
         {
-          "event": "Witkoff meets Putin in St. Petersburg (Constantine Palace, Oct 21 AM); Kushner joins virtually with updated peace proposal",
+          "event": "Outcome of Oct 21 Witkoff-Putin St. Petersburg talks (Kushner virtual; US detainee released as goodwill; updated peace proposal)",
           "date": "2026-10-21"
         },
         {
@@ -340,7 +340,7 @@
         },
         {
           "name": "Steve Witkoff",
-          "role": "Trump's envoy; met Zelensky in Oslo Oct 20 ('very productive'); in St. Petersburg Oct 21 presenting updated peace proposal to Putin (Kushner joins virtually)"
+          "role": "Trump's envoy; met Zelensky in Oslo Oct 20; met Putin at Constantine Palace Oct 21 (Kushner virtual) with updated peace proposal — Russia released a detained US retiree as goodwill, Witkoff cites 'basis for a ceasefire'"
         },
         {
           "name": "Dmitry Peskov",
@@ -355,7 +355,7 @@
           "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T09:45:00Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -510,10 +510,10 @@
         },
         "updated_at_utc": "2026-10-21T09:59:42Z"
       },
-      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 21 morning a tanker was struck by an unknown projectile 11 nm west of Oman's Bukha — the fire was extinguished and the crew is safe — while WSJ/Kpler data for the week ending Oct 18 showed Gulf oil exports actually topped prewar levels despite the attacks. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'. On Oct 20 Qatar and Pakistan proposed Iran receive the interest earned on ~$6B of frozen funds in Qatari banks in exchange for confidential IAEA inspections; Araghchi said the strait stays closed until Washington accepts Tehran's conditions. On Oct 19 Defense Secretary Pete Hegseth made an unannounced visit to Israel, discussing Iran with Netanyahu.",
+      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 21 morning a tanker was struck by an unknown projectile 11 nm west of Oman's Bukha — the fire was extinguished and the crew is safe — while WSJ/Kpler data for the week ending Oct 18 showed Gulf oil exports actually topped prewar levels despite the attacks. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. CNN reported Oct 19 (multiple US officials) that the US military has drawn up new Iran strike plans including possible use of the GBU-43/B 'MOAB' on energy and nuclear targets if Trump resumes combat before or after Nov 3; advisers are privately unsure his no-strike pledge is definitive. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 19 Araqchi mocked Trump's 'soon finish the job' warning on X and accused Netanyahu of pushing the US into war; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'. On Oct 20 Qatar and Pakistan proposed Iran receive the interest earned on ~$6B of frozen funds in Qatari banks in exchange for confidential IAEA inspections; Araghchi said the strait stays closed until Washington accepts Tehran's conditions. On Oct 19 Defense Secretary Pete Hegseth made an unannounced visit to Israel, discussing Iran with Netanyahu.",
       "watch_for": [
         {
-          "event": "US midterm elections; Trump ruled out pre-midterm strikes",
+          "event": "US midterm elections; Trump ruled out pre-midterm strikes (CNN: new strike plans incl. possible MOAB use after Nov 3)",
           "date": "2026-11-03"
         },
         {
@@ -555,7 +555,7 @@
           "role": "IMO chief; said Oct 21 mines remain on the strait's traffic-separation route — cannot declare it safe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T09:45:00Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -583,11 +583,15 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20, part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Fort Myers, FL (confirmed for Fri Oct 23 at FGCU's Alico Arena, plus a second planned Florida rally), Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots (+12% vs 2022), Michigan hit 789,572 ballots (mail requests +17% vs 2022), and Florida's first-day early vote nearly doubled in Orange County with 2.6M ballots already returned across four states plus Pima County; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events. Georgia GOP governor nominee Rick Jackson will skip Trump's Macon rally on Sat Oct 24, and Barack Obama will headline a 'United for Georgia' rally in Atlanta on Oct 28 for Ossoff and Bottoms. An Oct 18 Post-ABC News/Ipsos poll put Trump's approval at 33%, a record low, with Democrats +8 on the House ballot (52-44); NBC's Decision Desk poll the same day found 34% approval and 55-45 preferring Democratic congressional control. Trump added Lubbock (2:30 PM) and Waco (6 PM) rallies for Paxton on Oct 27, with Talarico staging a dueling Lubbock rally the same evening.",
+      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). On Oct 19 the DOJ filed an emergency motion in Central District of California court (United States v. California, No. 2:26-cv-12025) seeking to freeze ~20,000 mail ballots, and charged 28 people in 'Operation Protect the Vote' the same day; the RNC countered by expanding its vote-protection operation (directors in 22 states, 21,500 poll workers, 179 active cases). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20 (nearly 2-hour speech), part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Fort Myers, FL (confirmed for Fri Oct 23 at FGCU's Alico Arena, plus a second planned Florida rally), Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots (+12% vs 2022), Michigan hit 789,572 ballots (mail requests +17% vs 2022), and Florida's first-day early vote nearly doubled in Orange County with 2.6M ballots already returned across four states plus Pima County; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events. Georgia GOP governor nominee Rick Jackson will skip Trump's Macon rally on Sat Oct 24, and Barack Obama will headline a 'United for Georgia' rally in Atlanta on Oct 28 for Ossoff and Bottoms. An Oct 18 Post-ABC News/Ipsos poll put Trump's approval at 33%, a record low, with Democrats +8 on the House ballot (52-44); NBC's Decision Desk poll the same day found 34% approval and 55-45 preferring Democratic congressional control. Prediction markets (DeFi Rate, Oct 21): Democrats 65% for the Senate (+2 pts on the week), 91% for the House (+1).",
       "watch_for": [
         {
           "event": "Election Day",
           "date": "2026-11-03"
+        },
+        {
+          "event": "Federal court ruling on DOJ's emergency motion to freeze ~20,000 California mail ballots",
+          "date": null
         },
         {
           "event": "Obama Detroit GOTV rally with Abdul El-Sayed and Jocelyn Benson",
@@ -637,7 +641,7 @@
         }
       ],
       "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-21T09:45:00Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
       "trend": "hot",
       "trend_direction": "rising",
@@ -718,25 +722,25 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T09:42:13Z",
+      "trend_updated_at_utc": "2026-10-21T10:39:57Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 29,
+        "items_in_window": 30,
         "sides": {
           "protesters": {
-            "positive": 5,
+            "positive": 6,
             "negative": 16,
             "neutral": 2,
             "overall": "negative"
           },
           "govt_police": {
             "positive": 6,
-            "negative": 11,
+            "negative": 12,
             "neutral": 8,
             "overall": "negative"
           },
           "unions": {
-            "positive": 5,
+            "positive": 6,
             "negative": 0,
             "neutral": 0,
             "overall": "positive"
@@ -748,16 +752,16 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T09:42:13Z"
+        "updated_at_utc": "2026-10-21T10:39:57Z"
       },
-      "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and is meeting union leaders at Matignon on Wednesday Oct 21 (10:30am) and party leaders Thursday Oct 22, while the budget revenue-side vote was postponed to Oct 27. Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations. On Oct 20 Toulouse became the first city to impose an all-ages nighttime curfew (hypercentre 11:59 PM-5 AM, Oct 22-25), while Marseille extended its hypercentre/shopping-district curfew (minors 10 PM-5 AM) through Oct 23.",
+      "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and met union leaders at Matignon on Wednesday Oct 21 at 10:30 AM, with party leaders due Thursday Oct 22 at 2:30 PM, while the budget revenue-side vote was postponed to Oct 27. France Info confirmed Oct 21 that two people died in Paris during the Oct 17–18 unrest, alongside the Interior Ministry's consolidated toll: 2,397 arrests, 997 security-forces injured (seven seriously). Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). The Matignon talks opened Oct 21 with CGT chief Sophie Binet demanding 'political answers' and the CGT set to decide Wednesday on joining the Oct 24 demos; the student coordination (CNL, 27 cities) issued a communique Oct 21 calling for a Paris march on Thursday Oct 22 (2 PM, Salpêtrière to Bastille) and announcing a new national coordination. Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations. On Oct 20 Toulouse became the first city to impose an all-ages nighttime curfew (hypercentre 11:59 PM-5 AM, Oct 22-25), while Marseille extended its hypercentre/shopping-district curfew (minors 10 PM-5 AM) through Oct 23. Unrest spread overseas: two gendarmerie mobile squadrons deployed in La Réunion (Centaure armor, helicopter) with urban violence also reported in Martinique and Guadeloupe. Correction: the OTRE/FAI trucker mobilization planned for Oct 21-22 was suspended Oct 16 after government concessions and is NOT happening.",
       "watch_for": [
         {
-          "event": "Unions at Matignon (Lecornu; CFDT €100 SMIC demand)",
+          "event": "CGT decides Wednesday on joining Oct 24 demos after Matignon talks",
           "date": "2026-10-21"
         },
         {
-          "event": "Party leaders at Matignon (Le Pen/Bardella skipping, LFI silent)",
+          "event": "Student march Paris (Salpêtrière to Bastille, 2 PM) + party leaders at Matignon (Le Pen/Bardella skipping, LFI silent)",
           "date": "2026-10-22"
         },
         {
@@ -784,15 +788,15 @@
         },
         {
           "name": "Sébastien Lecornu",
-          "role": "Prime Minister; meeting unions Oct 21 and parties Oct 22; imposed localized curfews; admitted intel failures and static deployments"
+          "role": "Prime Minister; met unions Oct 21, parties Oct 22; imposed localized curfews; admitted intel failures and static deployments"
         },
         {
           "name": "Laurent Nuñez",
           "role": "Interior Minister; apologized Oct 20 ('I accept my share of responsibility'); faces LFI's CJR complaint; parliament inquiry launched"
         },
         {
-          "name": "CGT",
-          "role": "Union confederation backing the protests; claimed 800,000 turnout on Oct 17; joining Nov 5 national strike"
+          "name": "Sophie Binet",
+          "role": "CGT chief; demanded 'political answers' at Matignon talks Oct 21; CGT to decide Wednesday on joining Oct 24 demos; union's day of action is Nov 5"
         },
         {
           "name": "Manuel Bompard",
@@ -803,20 +807,20 @@
           "role": "National Rally leader courting the protest vote; skipping Oct 22 Matignon meeting (sending reps)"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
+      "curation_updated_at_utc": "2026-10-21T10:39:22Z",
       "started_at_utc": "2026-10-20T21:36:38Z",
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 29,
-        "confirmed": 26,
+        "items_in_window": 30,
+        "confirmed": 27,
         "single-sourced": 3,
         "unconfirmed": 0,
         "confirmed_rate": 0.9,
-        "updated_at_utc": "2026-10-21T09:42:13Z"
+        "updated_at_utc": "2026-10-21T10:39:57Z"
       },
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T09:59:42Z"
+  "updated_at_utc": "2026-10-21T10:39:57Z"
 }

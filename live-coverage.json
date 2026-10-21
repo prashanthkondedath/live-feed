@@ -140,37 +140,37 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T06:45:18Z",
+      "trend_updated_at_utc": "2026-10-21T07:44:45Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 28,
+        "items_in_window": 25,
         "sides": {
+          "civilians": {
+            "positive": 0,
+            "negative": 9,
+            "neutral": 5,
+            "overall": "negative"
+          },
           "houthis": {
             "positive": 3,
-            "negative": 22,
+            "negative": 19,
             "neutral": 1,
             "overall": "negative"
           },
           "saudi_govt": {
-            "positive": 11,
-            "negative": 13,
+            "positive": 9,
+            "negative": 12,
             "neutral": 2,
             "overall": "negative"
           },
           "us": {
             "positive": 0,
             "negative": 1,
-            "neutral": 5,
+            "neutral": 4,
             "overall": "neutral"
-          },
-          "civilians": {
-            "positive": 0,
-            "negative": 9,
-            "neutral": 5,
-            "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T06:45:18Z"
+        "updated_at_utc": "2026-10-21T07:44:45Z"
       },
       "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight. Over Oct 20-21 the coalition reported intercepting a Houthi ballistic missile aimed at Riyadh (destroying its launch platform), five drones and a cruise missile over the Medina region; GCC foreign ministers at the Oct 18 Manama ministerial council condemned the attacks and pushed for a Houthi terrorist designation alongside US-Iran dialogue.",
       "watch_for": [
@@ -230,12 +230,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 28,
-        "confirmed": 22,
+        "items_in_window": 25,
+        "confirmed": 19,
         "single-sourced": 6,
         "unconfirmed": 0,
-        "confirmed_rate": 0.79,
-        "updated_at_utc": "2026-10-21T06:45:18Z"
+        "confirmed_rate": 0.76,
+        "updated_at_utc": "2026-10-21T07:44:45Z"
       },
       "phase": "escalation"
     },
@@ -818,5 +818,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T07:40:00Z"
+  "updated_at_utc": "2026-10-21T07:44:45Z"
 }

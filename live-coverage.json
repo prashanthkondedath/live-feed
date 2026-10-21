@@ -722,10 +722,10 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T13:41:58Z",
+      "trend_updated_at_utc": "2026-10-21T14:41:06Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 37,
+        "items_in_window": 39,
         "sides": {
           "protesters": {
             "positive": 6,
@@ -735,7 +735,7 @@
           },
           "govt_police": {
             "positive": 7,
-            "negative": 14,
+            "negative": 16,
             "neutral": 11,
             "overall": "negative"
           },
@@ -746,13 +746,13 @@
             "overall": "positive"
           },
           "opposition": {
-            "positive": 5,
+            "positive": 6,
             "negative": 2,
             "neutral": 0,
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T13:41:58Z"
+        "updated_at_utc": "2026-10-21T14:41:06Z"
       },
       "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) while the budget revenue-side vote was postponed to Oct 27. France Info confirmed Oct 21 that two people died in Paris during the Oct 17–18 unrest, alongside the Interior Ministry's consolidated toll: 2,397 arrests, 997 security-forces injured (seven seriously). Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). The Oct 21 Matignon union talks ended empty-handed — Lecornu announced 'aucune mesure' — and the CGT confirmed it will join the Oct 24 marches and escalate with the Nov 5 national strike; the student coordination (CNL, 27 cities) issued a communique Oct 21 calling for a Paris march on Thursday Oct 22 (2 PM, Salpêtrière to Bastille) and announcing a new national coordination. Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and now backed by the CGT — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations; the Oct 17 movement's coordination declared the Oct 24 Paris route: Bastille to Opera. On Oct 20 Toulouse became the first city to impose an all-ages nighttime curfew (hypercentre 11:59 PM-5 AM, Oct 22-25), while Marseille extended its hypercentre/shopping-district curfew (minors 10 PM-5 AM) through Oct 23. Unrest spread overseas: two gendarmerie mobile squadrons deployed in La Réunion (Centaure armor, helicopter) with urban violence also reported in Martinique and Guadeloupe. Correction: the OTRE/FAI trucker mobilization planned for Oct 21-22 was suspended Oct 16 after government concessions and is NOT happening. On Oct 21 Macron warned would-be rioters from Qatar (his Gulf tour stop) and scheduled a Thursday intel meeting on the Oct 17 security failures; the unrest hit markets and business — France's 10-year bond yield reached 5% for the first time since 2002, and Carrefour cut its margin targets blaming the riots. On Oct 20 evening Mélenchon confirmed LFI will attend Thursday's Matignon parties meeting — 'and spoil it'; the Paris prosecutor said none of the ~300 suspects presented so far claimed a political motive, while the rights ombudsman logged 46 police-ethics complaints; and the firefighters' intersyndicale extended its strike through Dec 4.",
       "watch_for": [
@@ -816,15 +816,15 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 37,
-        "confirmed": 33,
-        "single-sourced": 4,
+        "items_in_window": 39,
+        "confirmed": 34,
+        "single-sourced": 5,
         "unconfirmed": 0,
-        "confirmed_rate": 0.89,
-        "updated_at_utc": "2026-10-21T13:41:58Z"
+        "confirmed_rate": 0.87,
+        "updated_at_utc": "2026-10-21T14:41:06Z"
       },
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T13:54:15Z"
+  "updated_at_utc": "2026-10-21T14:41:06Z"
 }

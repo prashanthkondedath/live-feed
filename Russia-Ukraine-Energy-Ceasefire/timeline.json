@@ -1237,6 +1237,128 @@
    "source_url": "https://srnnews.com/ukraines-zelenskiy-says-it-is-painful-for-trump-to-choose-a-different-side/",
    "summary": "In a Piers Morgan Uncensored interview aired Wednesday (recorded in London during his Burnham visit), Zelensky said it was 'painful' when Trump took another side after Trump said Zelensky should be replaced: 'It's painful when President Trump chooses one side, not our side... If you are in the middle, you have to stay in the middle.' Asked if he felt betrayed: 'Really, yes … but it's a little bit more complicated than just my emotions or my feelings'; added 'It's a pity we are losing (a) strong partner' and 'We are not selling our country … it's not about business for us.'",
    "title": "Zelensky: 'painful' when Trump 'chooses one side, not our side'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Thursday, Oct 15 (Financial Times interview published Thursday; drone strike early Thursday local time)",
+   "id": "zelensky-block-out-ryazan-oct15",
+   "image_urls": [
+    "https://empr.media/wp-content/uploads/2025/10/fire-2.png"
+   ],
+   "links": [
+    "https://985theriver.com/2026/10/15/zelenskiy-says-ukraine-will-resume-strikes-on-russian-refineries-ft-reports/",
+    "https://newsgazette.com.ng/zelensky-to-resume-strikes-on-russian-refineries-as-energy-truce-collapses/"
+   ],
+   "report_time_ist": "9:18 AM IST, Oct 21",
+   "report_time_pdt": "8:48 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T03:48:07Z",
+   "sentiment": {
+    "russia": "negative",
+    "ukraine": "positive",
+    "us": "negative"
+   },
+   "source_name": "NY Post",
+   "source_url": "https://nypost.com/2026/10/15/world-news/volodymyr-zelensky-defies-trumps-ban-on-russian-oil-refinery-strikes-ukraine-will-resume-attacks-were-done/",
+   "summary": "After three days of restraint, Zelensky told the Financial Times (published Thursday Oct 15): 'The block (on attacking refineries) is out. We're done.' Hours later Ukrainian drones struck the Rosneft refinery in Ryazan (~5% of Russia's refining throughput), with Governor Malkov confirming a fire. Zelensky accused Washington of throttling Starshield access and threatening to cut intel-sharing ('if you will not stop, we will block intelligence'); Kyiv said access was restored by Thursday morning. Trump, on Newsmax Thursday, called the resumed refinery strikes 'a disgrace' and said Zelensky was 'more difficult to deal with than Putin.' White House sources maintained the 'ceasefire' only ever covered refineries, not power plants.",
+   "title": "'The block is out. We're done' - Ukraine resumes refinery strikes, hits Ryazan"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Overnight Oct 17 into Oct 18 (Sunday)",
+   "id": "st-petersburg-drone-wave-oct18",
+   "image_urls": [
+    "https://politis.ro/wp-content/uploads/2026/06/sankt-petersburg.webp"
+   ],
+   "links": [
+    "https://nypost.com/2026/10/18/world-news/blaze-at-st-petersburg-oil-sites-as-ukraine-launches-more-than-1000-drones-at-russia/",
+    "https://dailycaller.com/2026/10/18/ukraine-drones-russia-oil-st-petersburg-trump-sanctions"
+   ],
+   "report_time_ist": "9:18 AM IST, Oct 21",
+   "report_time_pdt": "8:48 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T03:48:07Z",
+   "sentiment": {
+    "civilians": "negative",
+    "russia": "negative",
+    "ukraine": "positive"
+   },
+   "source_name": "Wall Street Journal",
+   "source_url": "https://www.wsj.com/world/europe/ukrainian-drone-strike-hits-putins-hometown-striking-oil-terminal-cec1ce9c",
+   "summary": "Largest Ukrainian drone attack on St. Petersburg since the war began: the Petersburg Oil Terminal and Ruchyi oil depot were set ablaze, plus a VK data center, an Ozon logistics center, and Yanino substations (20,000 without power). Governor Beglov reported 1 killed, 5 hospitalized, 12 residential buildings damaged; Pulkovo flights restricted. Russia's Defence Ministry claimed 1,015 Ukrainian drones downed across 15 regions. Zelensky said the strikes were fair retribution, noting Russia had hit Ukrainian energy, oil and gas sites 76 times in the past week despite Trump's announced 'energy ceasefire.'",
+   "title": "Ukraine launches ~1,000-drone attack on St. Petersburg, sets oil terminal ablaze"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Friday, Oct 16 (executive order; Zelensky remarks Oct 17-18)",
+   "id": "trump-graham-act-waiver-oct16",
+   "image_urls": [
+    "https://retire.ly/cdn-cgi/image/width=512,format=auto,quality=82,fit=scale-down/wp-content/uploads/2026/09/president-trump-signing-an-executive-order-768x432.jpg"
+   ],
+   "links": [
+    "https://dailycaller.com/2026/10/18/ukraine-drones-russia-oil-st-petersburg-trump-sanctions",
+    "https://www.thetimes.com/world/russia-ukraine-war/article/trump-claims-to-be-negotiating-peace-as-rift-with-zelensky-deepens-5dl5c69dp"
+   ],
+   "report_time_ist": "9:18 AM IST, Oct 21",
+   "report_time_pdt": "8:48 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T03:48:07Z",
+   "sentiment": {
+    "eu": "negative",
+    "russia": "positive",
+    "ukraine": "negative",
+    "us": "negative"
+   },
+   "source_name": "SANA via europesays",
+   "source_url": "https://www.europesays.com/conflicts/41783/",
+   "summary": "Trump signed an executive order Friday pausing the Lindsey O. Graham Sanctioning Russia and Iran Act's sanctions on Moscow, citing US national interest. Zelensky said the decision to 'completely disregard' the sanctions was a 'historic mistake' that would embolden Putin and prolong the war; Kremlin envoy Kirill Dmitriev praised it as historic. The waiver landed during a weekend Russian strike wave on 15+ Ukrainian energy sites (332 drones overnight Saturday; 550,000+ homes without power per Zelensky). Trump posted Sunday he was in the 'process of negotiating peace' and again jabbed Zelensky over refinery strikes hurting world diesel markets, adding Zelensky may not want to end the war.",
+   "title": "Trump waives Graham Act sanctions on Russia; Zelensky calls it a 'historic mistake'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Reported Sunday, Oct 18 (WSJ); Kremlin confirmed Monday, Oct 19",
+   "id": "putin-trump-xi-summit-proposal-oct19",
+   "image_urls": [
+    "https://resize.tripster.ru/HunczdkSn940Aa0e56f_kabLP10=/fit-in/1080x810/filters:no_upscale()/https://cdn.tripster.ru/photos/72bf2203-5125-4a39-91b8-89fd2aa93496.jpg"
+   ],
+   "links": [
+    "https://www.thehindubusinessline.com/news/world/trump-open-to-putin-xi-summit-but-would-focus-on-nuclear-arms/article71603257.ece/amp/",
+    "https://www.military.com/putin-proposes-trump-xi-summit-on-ukraine-war-leaving-kyiv-outside-talks"
+   ],
+   "report_time_ist": "9:18 AM IST, Oct 21",
+   "report_time_pdt": "8:48 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T03:48:07Z",
+   "sentiment": {
+    "eu": "negative",
+    "russia": "positive",
+    "ukraine": "negative",
+    "us": "neutral"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/china/putin-proposes-summit-with-trump-xi-discuss-ukraine-deal-wsj-says-2026-10-19/",
+   "summary": "The Wall Street Journal reported Putin proposed a trilateral summit with Trump and Xi to negotiate an end to the Ukraine war - raised on the Oct 9 Putin-Trump call - on the sidelines of the Nov 18-19 APEC summit in Shenzhen. Peskov confirmed Oct 19 that all three sides acknowledge the 'hypothetical possibility'; a senior US official said Trump had not agreed but could be receptive. Trump said Monday he would do it, but to talk nuclear weapons and denuclearization - 'not so much for Ukraine, because Russia, frankly, has been fine on Ukraine.' Zelensky told Bloomberg Trump is trying to force Ukraine's surrender.",
+   "title": "Putin proposes Trump-Xi summit on Ukraine at APEC Shenzhen, without Kyiv"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday, Oct 20 (Oslo)",
+   "id": "oslo-summit-witkoff-oct20",
+   "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+   ],
+   "links": [
+    "https://gephardtdaily.com/top-stories/zelensky-to-meet-with-u-s-envoys-in-norway-amid-tensions-with-trump/",
+    "https://networktoday.org/zelensky-touts-positive-signals-from-american-side-after-norway-summit-call-with-rubio/"
+   ],
+   "report_time_ist": "9:18 AM IST, Oct 21",
+   "report_time_pdt": "8:48 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T03:48:07Z",
+   "sentiment": {
+    "russia": "neutral",
+    "ukraine": "positive",
+    "us": "positive"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/ukraines-zelenskiy-travels-norway-talks-war-security-tuesday-2026-10-20/",
+   "summary": "Zelensky flew to Oslo for talks with Trump's envoy Steve Witkoff (Kushner via video) alongside Norwegian PM Store and Finnish President Stubb. Both sides called the talks 'very productive': Zelensky said US intelligence-sharing and early warning 'works now' and that he hoped Starlink access would follow; he reiterated Ukraine is 'ready not to hit sensitive parts of Russia's energy sector if Russia stops hitting ours' - 'Putin said no' - and proposed moving to a 'trilateral meeting of the leaders.' Hours earlier Trump had told reporters Zelensky 'doesn't know what he's talking about' and that it was 'time for somebody else to negotiate on behalf of Ukraine.' Witkoff is due to travel to St. Petersburg Wednesday Oct 21 to meet Putin.",
+   "title": "Zelensky and Witkoff meet in Oslo; intel-sharing restored, Witkoff to see Putin Wednesday"
   }
  ]
 }

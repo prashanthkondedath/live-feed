@@ -651,8 +651,32 @@
    "source_url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-recoit-les-syndicats-qui-exigent-des-reponses-politiques-avant-de-nouvelles-manifestations-e6d46e7eec4b836e395bdf97117f0e6e",
    "summary": "The Matignon talks opened Wednesday morning with the five unions (CFDT, CGT, FO, CFTC, CFE-CGC) plus Interior Minister Nunez. CGT chief Sophie Binet arriving at Matignon: 'You don't answer a social mobilization with repression, you answer it with political responses to demands' - calling for more school resources and abolition of Parcoursup. The CGT is to decide DURING THE DAY whether to join Saturday's yellow-vest Oct 24 call (its Paris branch already joined). Political pile-on Wednesday: ex-president Hollande called the government 'weak' and Macron 'absent'; Edouard Philippe criticized Macron staying on his Gulf trip; Le Pen hit 'a failing power that no longer has the upper hand'. New: the US, China and Germany issued travel advisories for France after the weekend rioting (per AFP via TBS; single-sourced pending a second outlet).",
    "title": "Matignon union talks open: Binet demands political answers; CGT to decide Wednesday on joining Oct 24; US/China/Germany issue travel advisories"
+  },
+  {
+   "id": "paris-oct21-act2-route-bastille-opera",
+   "event_time_ist": "Oct 21, 2026 (announced Wednesday morning, France, CEST); march planned Sat Oct 24",
+   "title": "Oct 24 Paris 'act II' route declared: Bastille to Opera",
+   "summary": "Gilets jaunes coordinator Benjamin Ball announced on France 2 on Wednesday Oct 21 morning that the Oct 17 movement's coordination filed a declaration with the Paris police prefecture for Saturday Oct 24's 'act II' march: a route from Place de la Bastille to Opera. CGT Paris and the Union etudiante say they will join at Bastille from 2 PM; the coordination's map lists ~340 actions nationwide; AFP reports nurses joining too. Caveats: the filing came Wednesday, a day past the legal three-day declaration deadline (due Tuesday midnight), and Bastille and Saint-Lazare (near Opera) sit inside the current Paris curfew/protest-ban perimeter - so prefect Patrice Faure can still reroute or ban it. Nuñez says he will personally pilot Saturday's security operation and warns even declared demos can be banned without service-d'ordre guarantees; Lecornu admitted Tuesday the Oct 17 doctrine was 'too static and not mobile enough'. The Economy Minister said Wednesday on RTL the government will do everything to prevent Saturday's chaos repeating.",
+   "source_name": "sortiraparis.com",
+   "source_url": "https://www.sortiraparis.com/actualites/a-paris/articles/355171-manifestation-du-24-octobre-a-paris-rassemblement-parcours-et-arme-mobilise",
+   "links": [
+    "https://artia13.city/la-coordination-des-gilets-jaunes-depose-une-declaration-pour-manifester-samedi-a-paris/?fsp_sid=87096",
+    "https://infostourisme.com/a-la-une/24-octobre-2026-mobilisation-nationale-en-france-manifestations-transports-paris-bordeaux-et-consequences-possibles-pour-les-voyageurs-et-le-tourisme/2026/"
+   ],
+   "image_urls": [
+    "https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "3:38 AM PDT, Oct 21",
+   "report_time_ist": "4:08 PM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T10:38:00Z",
+   "sentiment": {
+    "protesters": "positive",
+    "unions": "positive",
+    "govt_police": "negative"
+   }
   }
  ],
- "last_updated_pdt": "2:45 AM PDT, Oct 21",
- "last_updated_ist": "3:15 PM IST, Oct 21"
+ "last_updated_pdt": "3:38 AM PDT, Oct 21",
+ "last_updated_ist": "4:08 PM IST, Oct 21"
 }

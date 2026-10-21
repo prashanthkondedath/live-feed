@@ -172,7 +172,7 @@
         },
         "updated_at_utc": "2026-10-21T04:47:52Z"
       },
-      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha.",
+      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight.",
       "watch_for": [
         {
           "event": "Riyadh airport full recovery; GACA NOTAM A3650/26 review",
@@ -225,7 +225,7 @@
           "role": "Turkish president; called MBS to condemn the Houthi attacks, pledged support; Trump said he may ask Erdogan to help Saudi Arabia"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T05:40:33Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -510,7 +510,7 @@
         },
         "updated_at_utc": "2026-10-21T04:50:24Z"
       },
-      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe.",
+      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -543,19 +543,19 @@
           "role": "Iranian FM; said Oct 18 the six-day Hormuz reopening offer stands if the US lifts the blockade, ends oil-export sanctions and hostilities"
         },
         {
-          "name": "UKMTO",
-          "role": "Documented 24+ October incidents in the strait; AFP counted four ship attacks on Oct 13 alone"
+          "name": "Ali Abdollahi",
+          "role": "Chief of staff of Iran's armed forces; warned Oct 20 that a renewed attack will draw a 'much stronger and more forceful response'"
         },
         {
-          "name": "Andy Burnham",
-          "role": "UK PM; blamed IRGC for RAF Fairford plot, 29 nations backed attribution"
+          "name": "Marco Rubio",
+          "role": "US Secretary of State; accused Iran of 'Nazi U-boat tactics' against shipping in an Oct 20 Mumbai interview, called a deal 'tough'"
         },
         {
           "name": "Arsenio Dominguez",
           "role": "IMO chief; said Oct 21 mines remain on the strait's traffic-separation route — cannot declare it safe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T05:40:33Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -583,7 +583,7 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20, part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots, Michigan hit 780K; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events.",
+      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20, part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots, Michigan hit 780K; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events. Georgia GOP governor nominee Rick Jackson will skip Trump's Macon rally on Sat Oct 24, and Barack Obama will headline a 'United for Georgia' rally in Atlanta on Oct 28 for Ossoff and Bottoms.",
       "watch_for": [
         {
           "event": "Election Day",
@@ -604,6 +604,10 @@
         {
           "event": "Archive this tracker",
           "date": "2026-11-04"
+        },
+        {
+          "event": "Obama headlines 'United for Georgia' rally in Atlanta for Ossoff and Bottoms",
+          "date": "2026-10-28"
         }
       ],
       "key_figures": [
@@ -633,7 +637,7 @@
         }
       ],
       "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T05:40:33Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
       "trend": "warm",
       "trend_direction": "rising",
@@ -714,21 +718,21 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T01:43:51Z",
+      "trend_updated_at_utc": "2026-10-21T05:40:34Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 22,
+        "items_in_window": 24,
         "sides": {
           "protesters": {
             "positive": 4,
-            "negative": 12,
+            "negative": 14,
             "neutral": 1,
             "overall": "negative"
           },
           "govt_police": {
             "positive": 6,
             "negative": 9,
-            "neutral": 4,
+            "neutral": 6,
             "overall": "negative"
           },
           "unions": {
@@ -744,7 +748,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T01:43:51Z"
+        "updated_at_utc": "2026-10-21T05:40:34Z"
       },
       "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and is meeting union leaders at Matignon on Wednesday Oct 21 (10:30am) and party leaders Thursday Oct 22, while the budget revenue-side vote was postponed to Oct 27. Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations.",
       "watch_for": [
@@ -804,15 +808,15 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 22,
-        "confirmed": 19,
+        "items_in_window": 24,
+        "confirmed": 21,
         "single-sourced": 3,
         "unconfirmed": 0,
-        "confirmed_rate": 0.86,
-        "updated_at_utc": "2026-10-21T01:43:51Z"
+        "confirmed_rate": 0.88,
+        "updated_at_utc": "2026-10-21T05:40:34Z"
       },
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T04:50:24Z"
+  "updated_at_utc": "2026-10-21T05:40:34Z"
 }

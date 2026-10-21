@@ -1,1 +1,53 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Announced Tuesday, Oct 20, 2026 (daytime, CEST); troops deploy Saturday, Oct 24, 2026","id":"paris-protests-oct20-sentinelle-troops-oct24","image_urls":["https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"],"links":["https://lejdf.fr/nunez-mobilise-sentinelle-gign-et-raid-pour-le-24-octobre-cf385b/","https://benews.fr/sentinelle-mobilisee-samedi-pour-degager-policiers-et-gendarmes/","https://lesgiletsjaunesdeforcalquier.fr/2026/10/le-gouvernement-mobilise-larmee/","https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/"],"report_time_ist":"7:12 AM IST, Oct 21","report_time_pdt":"6:42 PM PDT, Oct 20","reported_at_utc":"2026-10-21T01:42:00Z","sentiment":{"govt_police":"positive","protesters":"negative"},"source_name":"Le Journal des Français","source_url":"https://lejdf.fr/nunez-mobilise-sentinelle-gign-et-raid-pour-le-24-octobre-cf385b/","summary":"Interior Minister Laurent Nuñez told lawmakers during Tuesday's National Assembly Q&A that Sentinelle soldiers will take over static guard missions for Saturday's 'Act II' protests, freeing police and gendarmes for crowd control. Lecornu promised a 'massive' deployment and admitted the Oct 17 setup had been 'too static and not mobile enough.' Nuñez announced a doctrine shift to 'reactivity and mobility' with BRI, GIGN, RAID, helicopters, Centaure armored vehicles and water cannons — the July 2023 riot scheme, reinforced — and said he is studying bans on non-notified demonstrations judged likely to disrupt public order, and even on declared marches whose organizers look unable to prevent spillover. Soldiers will not man the march lines themselves; they take over sensitive fixed sites.","title":"Nuñez announces Sentinelle troops + BRI/GIGN/RAID for Saturday's 'Act II'; government weighs bans on non-notified demos"},{"confidence":"confirmed","event_time_ist":"Tuesday, Oct 20, 2026 (daytime, CEST); inquiry work could start next week","id":"paris-protests-oct20-accountability-inquiry-200-investigators","image_urls":["https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"],"links":["https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/","https://www.jfeed.com/news-world/tn7yae","https://particle.news/story/assembly-launches-inquiry-into-october-17-urban-violence"],"report_time_ist":"7:12 AM IST, Oct 21","report_time_pdt":"6:42 PM PDT, Oct 20","reported_at_utc":"2026-10-21T01:42:00Z","sentiment":{"govt_police":"negative"},"source_name":"Cyprus Inform","source_url":"https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/","summary":"Nuñez apologized in the National Assembly on Tuesday: 'I deeply regret what happened. I accept my share of responsibility.' Lecornu acknowledged intelligence failures, deployments that were too static, and the error of not cancelling scheduled police leave. The Assembly's conference of presidents agreed Tuesday to convert the commission des lois (about 70 members) into a full commission of inquiry into the Oct 17 unrest, with powers to compel documents and sworn testimony; a bureau meeting could happen within 24 hours so work starts next week. Authorities have assigned 200 investigators to identify those involved in the street violence. Targeted curfews — credited with a calmer night (Paris's République was emptied and guarded overnight with a helicopter overhead) — were extended through Tuesday night, with Marseille adding minors' curfews around the hardest-hit commercial areas from Tuesday night. Single-sourced (particle.news, unverified elsewhere): the justice minister says 149 people have been jailed so far and prosecutors were instructed to use 'criminalité organisée' to extend custody.","title":"Nuñez apologizes, accepts responsibility; parliament launches inquiry commission; 200 investigators assigned"}],"report_time_ist":"7:12 AM IST, Oct 21","report_time_pdt":"6:42 PM PDT, Oct 20"}
+{
+ "report_time_pdt": "10:38 PM PDT, Oct 20",
+ "report_time_ist": "11:08 AM IST, Oct 21",
+ "items": [
+  {
+   "id": "paris-protests-oct20-toulouse-curfew",
+   "event_time_ist": "Announced Tue Oct 20, 2026; in force Thu Oct 22 11:59 PM through Sun Oct 25 5:00 AM local Paris time (CEST)",
+   "title": "Toulouse: first all-ages nighttime curfew — hypercentre 11:59 PM–5 AM, Oct 22–25",
+   "summary": "The Haute-Garonne prefecture has imposed a city-centre curfew in Toulouse for the nights of Thursday Oct 22 through Sunday Oct 25, 11:59 PM–5 AM, covering the Capitole, Place Esquirol, rue d'Alsace-Lorraine and the shopping streets worst hit by Oct 17 looting (~30 shops damaged, ~10 looted). Unlike Paris/Lyon/Marseille/Lille/Nice curfews (minors only), this one applies to everyone; violators face a €750 fine. The move comes ahead of Saturday Oct 24's announced 'Act II' demos.",
+   "source_name": "France Bleu / Préfecture de Haute-Garonne",
+   "source_url": "http://otoulouse.net/france-bleu/2026/10/20/violences-du-17-octobre-un-couvre-feu-mis-en-place-a-toulouse-a-partir-de-jeudi-soir/",
+   "links": [
+    "http://otoulouse.net/france-bleu/2026/10/20/violences-du-17-octobre-un-couvre-feu-mis-en-place-a-toulouse-a-partir-de-jeudi-soir/",
+    "https://www.petiterepublique.com/2026/10/20/mise-en-place-dun-couvre-feu-a-toulouse-limite-au-coeur-de-nuit-et-a-un-perimetre-restreint-de-lhypercentre/",
+    "https://www.toulousefm.fr/un-couvre-feu-nocturne-instaure-dans-l-hypercentre-de-toulouse"
+   ],
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:38 PM PDT, Oct 20",
+   "report_time_ist": "11:08 AM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T05:38:00Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "neutral"
+   }
+  },
+  {
+   "id": "paris-protests-oct20-marseille-curfew-friday",
+   "event_time_ist": "In force Tue Oct 20 evening through Fri Oct 23, 2026 (minors' curfew 10 PM–5 AM; hypercentre restrictions from 8 PM)",
+   "title": "Marseille: hypercentre + shopping-district curfew extended through Friday Oct 23",
+   "summary": "Marseille's curfew runs from Tuesday evening through Friday Oct 23 inclusive: a minors' curfew 10 PM–5 AM in the hypercentre (La Canebière) and around shopping hubs (Centre Bourse, Les Terrasses du Port, Les Docks, Le Prado, Le Merlan, Grand Littoral, La Valentine) per the prefecture communiqué reported by Le Figaro; the hypercentre measure began 8 PM Tuesday per Artia13. This extends the earlier Tuesday-only minors' curfew as Lecornu pushes prefects to renew where needed ahead of Saturday Oct 24.",
+   "source_name": "Le Figaro / Préfecture des Bouches-du-Rhône",
+   "source_url": "https://www.lefigaro.fr/marseille/violences-urbaines-un-couvre-feu-pour-mineurs-instaure-des-mardi-soir-a-marseille-20261020",
+   "links": [
+    "https://www.lefigaro.fr/marseille/violences-urbaines-un-couvre-feu-pour-mineurs-instaure-des-mardi-soir-a-marseille-20261020",
+    "https://artia13.city/securite-des-corteges-lecornu-consulte-les-syndicats-sans-inviter-les-lyceens/?fsp_sid=86799"
+   ],
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "10:38 PM PDT, Oct 20",
+   "report_time_ist": "11:08 AM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T05:38:00Z",
+   "sentiment": {
+    "protesters": "negative",
+    "govt_police": "neutral"
+   }
+  }
+ ]
+}

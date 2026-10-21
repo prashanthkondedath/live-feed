@@ -1643,6 +1643,76 @@
         "civilians": "negative",
         "saudi_govt": "negative"
       }
+    },
+    {
+      "id": "riyadh-ballistic-missile-intercept-oct20",
+      "event_time_ist": "Tuesday, Oct 20, 2026 (strike occurred earlier that day; interception announced Tuesday)",
+      "title": "Coalition intercepts Houthi ballistic missile bound for Riyadh, destroys its launch platform",
+      "summary": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile allegedly launched by the Houthis toward Riyadh. Saudi Civil Defense issued an early-warning alert on X; residents reported hearing explosions in the capital before authorities declared the danger had passed. Tuesday evening the coalition announced it had destroyed the ballistic-missile launch platform used to fire the missile, per Brig. Gen. Turki al-Maliki via SPA.",
+      "source_name": "The Chronicle (Anadolu-linked) / Fanar News (QNA via SPA)",
+      "source_url": "https://thechronicle.com.ph/saudi-led-coalition-shoots-down-houthi-missile-targeting-riyadh/",
+      "links": [
+        "https://www.fananews.com/language/en/coalition-forces-destroy-ballistic-missile-launch-platform-targeting-riyadh/"
+      ],
+      "image_urls": [
+        "https://thevoiceforall.com/wp-content/uploads/2026/03/interception-480x384.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "civilians": "negative"
+      }
+    },
+    {
+      "id": "multi-region-interceptions-oct20-21",
+      "event_time_ist": "Wednesday, Oct 21, 2026 (announced; covering the previous 24 hours)",
+      "title": "Coalition says it destroyed five drones aimed at Saudi Arabia; cruise missile downed over Medina region",
+      "summary": "Coalition spokesman Turki al-Maliki announced the interception and destruction of five drones launched toward Saudi Arabia. In the same wave of announcements, air defenses destroyed a cruise missile over the Medina region and a drone targeting the Eastern Province; four drones were neutralized over the past 24 hours across the Riyadh, Eastern and Southern regions. Supply flows from the Eastern Province reportedly not yet disrupted.",
+      "source_name": "stockmarketwatch.com (coalition statement recap)",
+      "source_url": "https://www2.stockmarketwatch.com/stock-market-news/saudi-air-defenses-thwart-multi-city-drone-attacks-china-bond-yields-soften/73346/",
+      "links": [
+        "https://biztoc.com/x/66c27d8c7992b495"
+      ],
+      "image_urls": [
+        "https://www.voiceofemirates.com/wp-content/uploads/2026/07/thwarted-drone-attack-saudi-arabia-860x572.jpeg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "gcc-168-summit-manama-oct18",
+      "event_time_ist": "Sunday, Oct 18, 2026 (168th GCC ministerial council, Manama, Bahrain)",
+      "title": "GCC foreign ministers condemn Houthi attacks, push terrorist designation and US-Iran dialogue",
+      "summary": "At the 168th GCC ministerial summit in Manama, foreign ministers condemned the Houthis' attacks on Saudi airports, holy sites and vital infrastructure, calling for the group's terrorist designation and full implementation of the UN arms embargo (Res. 2216). They backed Saudi Arabia's right to self-defense, urged Russia (Lavrov met the ministers the same day) to press Iran to halt attacks on Gulf states, and called for dialogue to ease US-Iran tensions and for Gulf inclusion in any Iran negotiations covering missiles, drones and proxies.",
+      "source_name": "IRIA News",
+      "source_url": "https://www.ir-ia.com/news/gcc-foreign-ministers-condemn-houthi-attacks-on-saudi-arabia-call-for-dialogue-with-iran/",
+      "links": [
+        "https://www.yementdy.com/news62643.html",
+        "https://twaslnews1.twaslnews.com/6201837/"
+      ],
+      "image_urls": [
+        "https://www.fm.gov.om/wp-content/uploads/GCC-Meeting-2-1200x668.jpeg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
     }
   ]
 }

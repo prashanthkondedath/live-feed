@@ -172,7 +172,7 @@
         },
         "updated_at_utc": "2026-10-21T05:46:03Z"
       },
-      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight.",
+      "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha. On Oct 20 the UK announced RAF Typhoon defensive missions over Saudi skies, France sent forces to guard the Yanbu oil terminal and 100+ US advisers fell under a new joint command; inside Yemen, a Houthi strike on a Taiz residential area killed two teenage girls (AP), while the Houthis claimed Saudi airstrikes on fishing boats off Taiz killed eight. Over Oct 20-21 the coalition reported intercepting a Houthi ballistic missile aimed at Riyadh (destroying its launch platform), five drones and a cruise missile over the Medina region; GCC foreign ministers at the Oct 18 Manama ministerial council condemned the attacks and pushed for a Houthi terrorist designation alongside US-Iran dialogue.",
       "watch_for": [
         {
           "event": "Riyadh airport full recovery; GACA NOTAM A3650/26 review",
@@ -225,7 +225,7 @@
           "role": "Turkish president; called MBS to condemn the Houthi attacks, pledged support; Trump said he may ask Erdogan to help Saudi Arabia"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T05:40:33Z",
+      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
       "started_at_utc": "2026-10-12T18:20:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -302,7 +302,7 @@
         },
         "updated_at_utc": "2026-10-21T05:47:30Z"
       },
-      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21.",
+      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov - a Druzhba-network hub - sparking a fire at a fuel tank (Governor Pervyshov confirmed).",
       "watch_for": [
         {
           "event": "Witkoff meets Putin (after Oct 20 Oslo talks with Zelensky)",
@@ -355,7 +355,7 @@
           "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -510,7 +510,7 @@
         },
         "updated_at_utc": "2026-10-21T05:50:10Z"
       },
-      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'.",
+      "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'. On Oct 20 Qatar and Pakistan proposed Iran receive the interest earned on ~$6B of frozen funds in Qatari banks in exchange for confidential IAEA inspections; Araghchi said the strait stays closed until Washington accepts Tehran's conditions.",
       "watch_for": [
         {
           "event": "US midterm elections; Trump ruled out pre-midterm strikes",
@@ -555,7 +555,7 @@
           "role": "IMO chief; said Oct 21 mines remain on the strait's traffic-separation route — cannot declare it safe"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T05:40:33Z",
+      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -750,7 +750,7 @@
         },
         "updated_at_utc": "2026-10-21T05:40:34Z"
       },
-      "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and is meeting union leaders at Matignon on Wednesday Oct 21 (10:30am) and party leaders Thursday Oct 22, while the budget revenue-side vote was postponed to Oct 27. Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations.",
+      "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and is meeting union leaders at Matignon on Wednesday Oct 21 (10:30am) and party leaders Thursday Oct 22, while the budget revenue-side vote was postponed to Oct 27. Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations. On Oct 20 Toulouse became the first city to impose an all-ages nighttime curfew (hypercentre 11:59 PM-5 AM, Oct 22-25), while Marseille extended its hypercentre/shopping-district curfew (minors 10 PM-5 AM) through Oct 23.",
       "watch_for": [
         {
           "event": "Unions at Matignon (Lecornu; CFDT €100 SMIC demand)",
@@ -803,7 +803,7 @@
           "role": "National Rally leader courting the protest vote; skipping Oct 22 Matignon meeting (sending reps)"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T04:42:20Z",
+      "curation_updated_at_utc": "2026-10-21T06:39:41Z",
       "started_at_utc": "2026-10-20T21:36:38Z",
       "trend_direction": "rising",
       "verification": {

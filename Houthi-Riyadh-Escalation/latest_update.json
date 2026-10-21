@@ -1,93 +1,76 @@
 {
+  "report_time_pdt": "10:45 PM PDT, Oct 20",
+  "report_time_ist": "11:15 AM IST, Oct 21",
   "items": [
     {
-      "id": "uk-typhoon-defensive-missions-oct20",
-      "event_time_ist": "Announced Tuesday, Oct 20, 2026 (UK MoD statement; Defence Secretary informed Parliament same day)",
-      "title": "UK to deploy RAF Typhoon fighter jets on defensive missions over Saudi Arabia",
-      "summary": "The United Kingdom announced Tuesday it will deploy Royal Air Force Typhoon fighter jets to fly defensive counter-air missions over Saudi skies, protecting Saudi cities and critical infrastructure from Houthi missiles and drones. Defence Secretary Wes Streeting told Parliament the jets will not conduct offensive strikes inside Yemen or operate in Yemeni airspace. The package also adds UK military advisers and an Atlas A400M transport aircraft, and extends RAF air-to-air refuelling support for Saudi jets by 90 days. First reported by Bloomberg, confirmed by the MoD Tuesday.",
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl?cid=external-feeds_iluminar_meta",
+      "id": "riyadh-ballistic-missile-intercept-oct20",
+      "event_time_ist": "Tuesday, Oct 20, 2026 (strike occurred earlier that day; interception announced Tuesday)",
+      "title": "Coalition intercepts Houthi ballistic missile bound for Riyadh, destroys its launch platform",
+      "summary": "The Saudi-led coalition said it intercepted and destroyed a ballistic missile allegedly launched by the Houthis toward Riyadh. Saudi Civil Defense issued an early-warning alert on X; residents reported hearing explosions in the capital before authorities declared the danger had passed. Tuesday evening the coalition announced it had destroyed the ballistic-missile launch platform used to fire the missile, per Brig. Gen. Turki al-Maliki via SPA.",
+      "source_name": "The Chronicle (Anadolu-linked) / Fanar News (QNA via SPA)",
+      "source_url": "https://thechronicle.com.ph/saudi-led-coalition-shoots-down-houthi-missile-targeting-riyadh/",
       "links": [
-        "https://www.reuters.com/business/aerospace-defense/uk-fly-raf-missions-defending-saudi-arabia-against-houthi-attacks-bloomberg-2026-10-20/",
-        "https://www.thetimes.com/uk/defence/article/raf-jets-to-protect-saudi-arabias-skies-from-houthi-rebels-cb2gfwqmc"
+        "https://www.fananews.com/language/en/coalition-forces-destroy-ballistic-missile-launch-platform-targeting-riyadh/"
       ],
       "image_urls": [
-        "https://www.raf.mod.uk/sites/raf-beta/assets/File/RAF%20Cosford/Typhoon.jpg"
+        "https://thevoiceforall.com/wp-content/uploads/2026/03/interception-480x384.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "9:47 PM PDT, Oct 20",
-      "report_time_ist": "10:17 AM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T04:47:06Z",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
       "sentiment": {
         "houthis": "negative",
         "saudi_govt": "positive",
-        "us": "neutral"
+        "civilians": "negative"
       }
     },
     {
-      "id": "france-yanbu-us-joint-command-oct20",
-      "event_time_ist": "Reported Tuesday, Oct 20, 2026",
-      "title": "France sends forces to guard Yanbu oil terminal; 100+ US advisers under new joint command",
-      "summary": "Saudi Arabia's plea for allied air-defence help is turning into concrete deployments: France has sent forces to guard the Yanbu oil terminal on the Red Sea coast, and more than 100 American military advisers are working in the kingdom under a newly established joint command, providing intelligence and targeting support, CNN reported Tuesday. Pakistan has personnel stationed in Saudi Arabia under the August mutual-defence pact, and Egypt's parliament is weighing a deployment — marking a further expansion of Western and regional military involvement in the conflict.",
-      "source_name": "CNN",
-      "source_url": "https://www.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl?cid=external-feeds_iluminar_meta",
-      "links": [],
-      "image_urls": [
-        "https://www.raf.mod.uk/sites/raf-beta/assets/File/RAF%20Cosford/Typhoon.jpg"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "9:47 PM PDT, Oct 20",
-      "report_time_ist": "10:17 AM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T04:47:06Z",
-      "sentiment": {
-        "houthis": "negative",
-        "saudi_govt": "positive",
-        "us": "neutral"
-      }
-    },
-    {
-      "id": "taiz-residential-strike-teens-oct20",
-      "event_time_ist": "Tuesday, Oct 20, 2026 (local time)",
-      "title": "Houthi strike on residential area in besieged Taiz kills two teenage girls — AP",
-      "summary": "Houthi rebels struck a residential area in Yemen's third-largest city, Taiz, on Tuesday, killing two teenage girls, the Associated Press reported. UN human rights chief Volker Turk said the Houthis have largely encircled Taiz, cutting off most supply routes and putting civilians at 'grave risk' as food and necessities run short; the UN warns of a deepening humanitarian crisis in the besieged city.",
-      "source_name": "Associated Press (via LA Post)",
-      "source_url": "https://www.lapost.com/content/death-toll-rises-to-60-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months",
-      "links": [],
-      "image_urls": [
-        "https://content.r9cdn.net/rimg/dimg/d7/42/f9eb0b53-city-49250-172d958c719.jpg?crop=true&width=1366&height=768&xhint=0&yhint=0"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "9:47 PM PDT, Oct 20",
-      "report_time_ist": "10:17 AM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T04:47:06Z",
-      "sentiment": {
-        "civilians": "negative",
-        "houthis": "negative"
-      }
-    },
-    {
-      "id": "taiz-fishing-boats-claim-oct21",
-      "event_time_ist": "Tuesday, Oct 21, 2026 (Yemen local time; Houthi claim)",
-      "title": "Houthis claim Saudi airstrikes on two fishing boats off Taiz killed eight",
-      "summary": "The Houthis said Tuesday that Saudi airstrikes on two fishing boats off the coast of Taiz province killed eight people. The claim is unverified, and no coalition response was immediately reported.",
-      "source_name": "AFP (via TOB News)",
-      "source_url": "https://tob.news/yemen-houthi-strike-death-toll-rises-to-73/",
+      "id": "multi-region-interceptions-oct20-21",
+      "event_time_ist": "Wednesday, Oct 21, 2026 (announced; covering the previous 24 hours)",
+      "title": "Coalition says it destroyed five drones aimed at Saudi Arabia; cruise missile downed over Medina region",
+      "summary": "Coalition spokesman Turki al-Maliki announced the interception and destruction of five drones launched toward Saudi Arabia. In the same wave of announcements, air defenses destroyed a cruise missile over the Medina region and a drone targeting the Eastern Province; four drones were neutralized over the past 24 hours across the Riyadh, Eastern and Southern regions. Supply flows from the Eastern Province reportedly not yet disrupted.",
+      "source_name": "stockmarketwatch.com (coalition statement recap)",
+      "source_url": "https://www2.stockmarketwatch.com/stock-market-news/saudi-air-defenses-thwart-multi-city-drone-attacks-china-bond-yields-soften/73346/",
       "links": [
-        "https://hkbusinesswire.com/toll-from-houthi-strike-on-yemen-govt-camp-rises-to-73/"
+        "https://biztoc.com/x/66c27d8c7992b495"
       ],
       "image_urls": [
-        "https://content.r9cdn.net/rimg/dimg/d7/42/f9eb0b53-city-49250-172d958c719.jpg?crop=true&width=1366&height=768&xhint=0&yhint=0"
+        "https://www.voiceofemirates.com/wp-content/uploads/2026/07/thwarted-drone-attack-saudi-arabia-860x572.jpeg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "9:47 PM PDT, Oct 20",
-      "report_time_ist": "10:17 AM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T04:47:06Z",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
       "sentiment": {
-        "civilians": "negative",
-        "saudi_govt": "negative"
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
+      }
+    },
+    {
+      "id": "gcc-168-summit-manama-oct18",
+      "event_time_ist": "Sunday, Oct 18, 2026 (168th GCC ministerial council, Manama, Bahrain)",
+      "title": "GCC foreign ministers condemn Houthi attacks, push terrorist designation and US-Iran dialogue",
+      "summary": "At the 168th GCC ministerial summit in Manama, foreign ministers condemned the Houthis' attacks on Saudi airports, holy sites and vital infrastructure, calling for the group's terrorist designation and full implementation of the UN arms embargo (Res. 2216). They backed Saudi Arabia's right to self-defense, urged Russia (Lavrov met the ministers the same day) to press Iran to halt attacks on Gulf states, and called for dialogue to ease US-Iran tensions and for Gulf inclusion in any Iran negotiations covering missiles, drones and proxies.",
+      "source_name": "IRIA News",
+      "source_url": "https://www.ir-ia.com/news/gcc-foreign-ministers-condemn-houthi-attacks-on-saudi-arabia-call-for-dialogue-with-iran/",
+      "links": [
+        "https://www.yementdy.com/news62643.html",
+        "https://twaslnews1.twaslnews.com/6201837/"
+      ],
+      "image_urls": [
+        "https://www.fm.gov.om/wp-content/uploads/GCC-Meeting-2-1200x668.jpeg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "10:45 PM PDT, Oct 20",
+      "report_time_ist": "11:15 AM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T05:45:25Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive",
+        "us": "neutral"
       }
     }
-  ],
-  "report_time_ist": "10:17 AM IST, Oct 21",
-  "report_time_pdt": "9:47 PM PDT, Oct 20"
+  ]
 }

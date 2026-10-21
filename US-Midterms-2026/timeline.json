@@ -2674,6 +2674,79 @@
         "trump": "negative",
         "voters": "negative"
       }
+    },
+    {
+      "id": "tx-day1-early-voting-records",
+      "event_time_ist": "Day 1 of early voting: October 19, 2026; numbers reported October 20-21, 2026",
+      "title": "Texas shatters first-day early voting records in Harris, Dallas and Tarrant counties",
+      "summary": "Harris County: 104,600+ in-person ballots on Oct 19, the first day of early voting \u2014 crushing the 2018 midterm record of 63,188 (plus 24,794 mail ballots received). Dallas County: 76,079 in-person, topping the 2018 record of 59,389 and the 2020 record of 60,573. Tarrant County (largest GOP-held county): 50,409, up from 29,197 on day 1 of 2022 though slightly below 2024. Collin and Denton counties each topped 34,000 (up 15k-17k vs 2022); El Paso County 22,000+ (second-highest ever). Statewide voter registration hit a record 19M+. Both parties see signs: blue urban counties surged for Talarico, but Republican counties also ran ahead of 2022. Rice's Mark Jones cautions day-1 surges often cannibalize later early voting days and to reserve judgment.",
+      "source_name": "Daily Caller + Fox 26 Houston",
+      "source_url": "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
+      "links": [
+        "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
+        "https://fox26houston.com/election/harris-county-breaks-first-day-early-voting-midterm-record-104k-voters",
+        "https://fox7austin.com/news/2026-election-what-does-early-voting-surge-mean-results",
+        "https://www.usatoday.com/story/opinion/columnist/2026/10/21/early-voting-texas-polls-talarico-paxton/92331691007/",
+        "https://electionlawblog.org/2026/first-day-of-early-voting-in-harris-county-tx-is-strong/"
+      ],
+      "image_urls": [
+        "https://westtexastribune.org/wp-content/uploads/2026/02/20241021-Early-Voting-Ft-Bend-AM-09-copy.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "tx-fighting-oligarchy-tour",
+      "event_time_ist": "October 19-20, 2026 (El Paso rally Oct 19; Houston rally Oct 20)",
+      "title": "Sanders, O'Rourke headline Texas rallies as Talarico skips El Paso for his own Fort Worth event",
+      "summary": "Sanders' 'Fighting Oligarchy' tour hit Texas for the first two days of early voting: Oct 19 rally at El Paso's Abraham Chavez Theatre with Sanders, O'Rourke, Reps. Casar and Escobar backing Talarico/Hinojosa and hammering billionaire (Musk) election spending; Oct 20 at Houston's historic Wheeler Baptist Church with Sanders, O'Rourke, Casar, Menefee and Goodwin. O'Rourke claims on-the-ground energy exceeds his 2018 run and cites the Harris County day-1 turnout record. Talarico did NOT appear at the El Paso rally \u2014 he campaigned separately at North Crowley High School in Fort Worth (his 'Clear Eyes, Full Hearts' tour) after a Denton stop; Fox News Digital pressed his campaign for an explanation. Sanders himself did not name Talarico in his remarks, focusing on donor influence.",
+      "source_name": "Washington Examiner + Fox News Digital",
+      "source_url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
+      "links": [
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
+        "https://texassignal.com/early-voting-starts-in-texas/",
+        "https://letsaddresstexas.substack.com/p/bernie-beto-casar-goodwin-and-menefee"
+      ],
+      "image_urls": [
+        "https://s.hdnux.com/photos/01/10/61/40/19077145/4/640x0.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "fl-early-voting-day1-2.6m-multi-state",
+      "event_time_ist": "Reported October 20-21, 2026 (data as of Oct 19-20, 2026)",
+      "title": "Florida first-day early vote nearly doubles in Orange County; 2.6M ballots back across 4 states + Pima County",
+      "summary": "Orange County, FL: 13,683 in-person votes on day 1 of early voting (Oct 19) vs 7,500 in 2022 \u2014 nearly double (Central Florida Public Media, Oct 20); statewide Florida has at least 1.1M ballots banked (171,015 early in-person + 933,867 mail). Separately, a PoliticsElections Oct 21 roundup of official state data shows 2.66M ballots returned as of Oct 20 across Iowa, North Carolina, Florida, Pennsylvania and Arizona's Pima County, with registered Democrats ahead in returns overall but Republicans narrowly ahead in Florida's early in-person vote. Note: party registration of a returned ballot is not how anyone voted, and unaffiliated voters are a large share in several states.",
+      "source_name": "Central Florida Public Media + PoliticsElections",
+      "source_url": "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
+      "links": [
+        "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
+        "https://politicselections.com/early-voting-numbers-ballots-returned/"
+      ],
+      "image_urls": [
+        "https://capitolballotdesk.com/wp-content/uploads/2026/09/4cdc1ce0-43db-4d0c-941c-84647b73c593-1100x640.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "neutral"
+      }
     }
   ],
   "report_time_pdt": "11:45 AM PDT, Oct 14",

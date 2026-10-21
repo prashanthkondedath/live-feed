@@ -484,21 +484,15 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T09:59:42Z",
+      "trend_updated_at_utc": "2026-10-21T11:45:38Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 21,
         "sides": {
           "iran": {
             "positive": 2,
-            "negative": 11,
-            "neutral": 3,
-            "overall": "negative"
-          },
-          "us": {
-            "positive": 2,
-            "negative": 7,
-            "neutral": 5,
+            "negative": 12,
+            "neutral": 2,
             "overall": "negative"
           },
           "markets": {
@@ -506,9 +500,15 @@
             "negative": 7,
             "neutral": 2,
             "overall": "negative"
+          },
+          "us": {
+            "positive": 2,
+            "negative": 6,
+            "neutral": 6,
+            "overall": "mixed"
           }
         },
-        "updated_at_utc": "2026-10-21T09:59:42Z"
+        "updated_at_utc": "2026-10-21T11:45:38Z"
       },
       "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 21 morning a tanker was struck by an unknown projectile 11 nm west of Oman's Bukha — the fire was extinguished and the crew is safe — while WSJ/Kpler data for the week ending Oct 18 showed Gulf oil exports actually topped prewar levels despite the attacks. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. CNN reported Oct 19 (multiple US officials) that the US military has drawn up new Iran strike plans including possible use of the GBU-43/B 'MOAB' on energy and nuclear targets if Trump resumes combat before or after Nov 3; advisers are privately unsure his no-strike pledge is definitive. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 19 Araqchi mocked Trump's 'soon finish the job' warning on X and accused Netanyahu of pushing the US into war; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe. On Oct 20, Iranian armed forces chief Ali Abdollahi warned any renewed attack would draw a 'much stronger and more forceful response', while Secretary of State Marco Rubio accused Iran of 'Nazi U-boat tactics' against commercial shipping and called a deal 'tough'. On Oct 20 Qatar and Pakistan proposed Iran receive the interest earned on ~$6B of frozen funds in Qatari banks in exchange for confidential IAEA inspections; Araghchi said the strait stays closed until Washington accepts Tehran's conditions. On Oct 19 Defense Secretary Pete Hegseth made an unannounced visit to Israel, discussing Iran with Netanyahu.",
       "watch_for": [
@@ -561,11 +561,11 @@
       "verification": {
         "window": "7d",
         "items_in_window": 21,
-        "confirmed": 18,
-        "single-sourced": 1,
+        "confirmed": 17,
+        "single-sourced": 2,
         "unconfirmed": 2,
-        "confirmed_rate": 0.86,
-        "updated_at_utc": "2026-10-21T09:59:42Z"
+        "confirmed_rate": 0.81,
+        "updated_at_utc": "2026-10-21T11:45:38Z"
       },
       "phase": "escalation"
     },
@@ -826,5 +826,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T11:43:24Z"
+  "updated_at_utc": "2026-10-21T11:45:38Z"
 }

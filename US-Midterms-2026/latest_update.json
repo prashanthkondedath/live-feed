@@ -1,78 +1,89 @@
 {
-  "report_time_pdt": "1:43 AM PDT, Oct 21",
-  "report_time_ist": "2:13 PM IST, Oct 21",
+  "report_time_pdt": "2:50 AM PDT, Oct 21",
+  "report_time_ist": "3:20 PM IST, Oct 21",
   "items": [
     {
-      "id": "tx-day1-early-voting-records",
-      "event_time_ist": "Day 1 of early voting: October 19, 2026; numbers reported October 20-21, 2026",
-      "title": "Texas shatters first-day early voting records in Harris, Dallas and Tarrant counties",
-      "summary": "Harris County: 104,600+ in-person ballots on Oct 19, the first day of early voting \u2014 crushing the 2018 midterm record of 63,188 (plus 24,794 mail ballots received). Dallas County: 76,079 in-person, topping the 2018 record of 59,389 and the 2020 record of 60,573. Tarrant County (largest GOP-held county): 50,409, up from 29,197 on day 1 of 2022 though slightly below 2024. Collin and Denton counties each topped 34,000 (up 15k-17k vs 2022); El Paso County 22,000+ (second-highest ever). Statewide voter registration hit a record 19M+. Both parties see signs: blue urban counties surged for Talarico, but Republican counties also ran ahead of 2022. Rice's Mark Jones cautions day-1 surges often cannibalize later early voting days and to reserve judgment.",
-      "source_name": "Daily Caller + Fox 26 Houston",
-      "source_url": "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
+      "id": "doj-ca-20000-ballots-tro-oct19",
+      "event_time_ist": "Emergency TRO motion filed Monday, Oct 19, 2026 (US time); 'Operation Protect the Vote' charges announced same day",
+      "title": "DOJ seeks emergency court order to freeze ~20,000 California mail ballots; charges 28 in 'Operation Protect the Vote'",
+      "summary": "The Justice Department filed an emergency motion Oct 19 in the U.S. District Court for the Central District of California (United States v. California, No. 2:26-cv-12025) asking a federal judge to order California and Los Angeles County to segregate ~20,000 vote-by-mail ballots from people on a federal 'likely noncitizen' list and not count them until citizenship is verified. The same day DOJ announced 'Operation Protect the Vote': 28 lawful permanent residents charged across California's four federal districts (11 arrested; DOJ says 22 cast ballots). The list was delivered to California on Oct 14 on a thumb drive with a hand-scrawled password on a sticky note, plus a 48-hour ultimatum; California refused, and DOJ sued Oct 15. Gov. Gavin Newsom accused President Trump of attempting to rig the election; DOJ says California's refusal 'hampers' prosecution. Election-law experts are skeptical of DOJ's chances, per NPR. No hearing had been scheduled as of Oct 20. 20,000 is a 'likely' figure the DOJ itself calls 'the floor.'",
+      "source_name": "Democracy Docket",
+      "source_url": "https://www.democracydocket.com/news-alerts/doj-escalates-attack-on-california-demands-immediate-block-on-counting-votes-from-20000-alleged-noncitizens/",
       "links": [
-        "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
-        "https://fox26houston.com/election/harris-county-breaks-first-day-early-voting-midterm-record-104k-voters",
-        "https://fox7austin.com/news/2026-election-what-does-early-voting-surge-mean-results",
-        "https://www.usatoday.com/story/opinion/columnist/2026/10/21/early-voting-texas-polls-talarico-paxton/92331691007/",
-        "https://electionlawblog.org/2026/first-day-of-early-voting-in-harris-county-tx-is-strong/"
+        "https://www.krps.org/2026-10-20/election-tensions-escalate-in-california-as-doj-charges-28-people-with-voting-crimes",
+        "https://mynewsla.com/government/2026/10/19/doj-asks-la-court-to-stop-state-from-counting-suspected-ineligible-ballots/"
       ],
       "image_urls": [
-        "https://westtexastribune.org/wp-content/uploads/2026/02/20241021-Early-Voting-Ft-Bend-AM-09-copy.jpg"
+        "https://www.democracydocket.com/wp-content/uploads/2026/10/GettyImages-2180910203-1024x643.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "1:43 AM PDT, Oct 21",
-      "report_time_ist": "2:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "report_time_pdt": "2:50 AM PDT, Oct 21",
+      "report_time_ist": "3:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T09:50:00Z",
       "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative"
+        "trump": "positive",
+        "republicans": "positive",
+        "democrats": "negative"
       }
     },
     {
-      "id": "tx-fighting-oligarchy-tour",
-      "event_time_ist": "October 19-20, 2026 (El Paso rally Oct 19; Houston rally Oct 20)",
-      "title": "Sanders, O'Rourke headline Texas rallies as Talarico skips El Paso for his own Fort Worth event",
-      "summary": "Sanders' 'Fighting Oligarchy' tour hit Texas for the first two days of early voting: Oct 19 rally at El Paso's Abraham Chavez Theatre with Sanders, O'Rourke, Reps. Casar and Escobar backing Talarico/Hinojosa and hammering billionaire (Musk) election spending; Oct 20 at Houston's historic Wheeler Baptist Church with Sanders, O'Rourke, Casar, Menefee and Goodwin. O'Rourke claims on-the-ground energy exceeds his 2018 run and cites the Harris County day-1 turnout record. Talarico did NOT appear at the El Paso rally \u2014 he campaigned separately at North Crowley High School in Fort Worth (his 'Clear Eyes, Full Hearts' tour) after a Denton stop; Fox News Digital pressed his campaign for an explanation. Sanders himself did not name Talarico in his remarks, focusing on donor influence.",
-      "source_name": "Washington Examiner + Fox News Digital",
-      "source_url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
-      "links": [
-        "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
-        "https://texassignal.com/early-voting-starts-in-texas/",
-        "https://letsaddresstexas.substack.com/p/bernie-beto-casar-goodwin-and-menefee"
-      ],
+      "id": "warren-county-iowa-duplicate-ballots-oct20",
+      "event_time_ist": "Announced and published Oct 20, 2026",
+      "title": "613 Warren County, Iowa voters mistakenly received two absentee ballots",
+      "summary": "Warren County auditor Kimberly Sheets announced that 613 county residents were erroneously sent two absentee ballots for the Nov. 3 general election instead of one. The ballots have been identified and flagged: only one per voter will be counted, and affected voters are being notified. Iowa Secretary of State Paul Pate said safeguards ensure each voter can only have one ballot counted; neither office identified how the error occurred. Iowa's Senate race (Hinson vs. Turek) is the prediction markets' lone toss-up; in-person early voting there began Oct 14.",
+      "source_name": "Des Moines Register",
+      "source_url": "https://www.desmoinesregister.com/story/news/politics/2026/10/20/warren-county-iowa-absentee-ballots-election-2026/92344282007/",
+      "links": [],
       "image_urls": [
-        "https://s.hdnux.com/photos/01/10/61/40/19077145/4/640x0.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "1:43 AM PDT, Oct 21",
-      "report_time_ist": "2:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T08:45:00Z",
-      "sentiment": {
-        "democrats": "positive",
-        "republicans": "negative"
-      }
-    },
-    {
-      "id": "fl-early-voting-day1-2.6m-multi-state",
-      "event_time_ist": "Reported October 20-21, 2026 (data as of Oct 19-20, 2026)",
-      "title": "Florida first-day early vote nearly doubles in Orange County; 2.6M ballots back across 4 states + Pima County",
-      "summary": "Orange County, FL: 13,683 in-person votes on day 1 of early voting (Oct 19) vs 7,500 in 2022 \u2014 nearly double (Central Florida Public Media, Oct 20); statewide Florida has at least 1.1M ballots banked (171,015 early in-person + 933,867 mail). Separately, a PoliticsElections Oct 21 roundup of official state data shows 2.66M ballots returned as of Oct 20 across Iowa, North Carolina, Florida, Pennsylvania and Arizona's Pima County, with registered Democrats ahead in returns overall but Republicans narrowly ahead in Florida's early in-person vote. Note: party registration of a returned ballot is not how anyone voted, and unaffiliated voters are a large share in several states.",
-      "source_name": "Central Florida Public Media + PoliticsElections",
-      "source_url": "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
-      "links": [
-        "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
-        "https://politicselections.com/early-voting-numbers-ballots-returned/"
-      ],
-      "image_urls": [
-        "https://capitolballotdesk.com/wp-content/uploads/2026/09/4cdc1ce0-43db-4d0c-941c-84647b73c593-1100x640.jpg"
+        "https://www.nationaljournal.com/media/media/2026/06/17/election_2_26_iowa_1_8_4.jpg.2600x1462.wide.jpg"
       ],
       "confidence": "single-sourced",
-      "report_time_pdt": "1:43 AM PDT, Oct 21",
-      "report_time_ist": "2:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "report_time_pdt": "2:50 AM PDT, Oct 21",
+      "report_time_ist": "3:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T09:50:00Z",
+      "sentiment": {
+        "voters": "neutral"
+      }
+    },
+    {
+      "id": "defirate-market-tracker-oct21",
+      "event_time_ist": "Tracker updated Oct 21, 2026",
+      "title": "Prediction markets nudge toward Democrats: Senate 65% (+2 pts on the week), House 91% (+1)",
+      "summary": "DeFi Rate's Oct 21 prediction-market tracker: Democrats 65% to win Senate control, up 2 points in 7 days (Kalshi 65.6\u00a2, Polymarket 65\u00a2), and 91% for the House, up 1 point (Kalshi 90.8\u00a2, Polymarket 92\u00a2). Kalshi's live board: Democrats favored in 18 of 35 Senate races; Texas Senate Talarico 63% vs. Paxton 37% remains the most-traded competitive race; Iowa the lone toss-up (Dem 44%); Kansas R 61%, South Carolina's Graham 83%. Markets remain more bullish on Democrats than forecast models (DDHQ and Call the Map ~56-57% Dem Senate). A Democratic sweep is priced around 62\u00a2 on Kalshi.",
+      "source_name": "DeFi Rate",
+      "source_url": "https://defirate.com/?ref=steemhunt",
+      "links": [
+        "https://kalshi.com/category/elections/midterms"
+      ],
+      "image_urls": [
+        "https://coincub.com/wp-content/uploads/2026/04/Prediction-Market-Politics-1024x576.png"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "2:50 AM PDT, Oct 21",
+      "report_time_ist": "3:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T09:50:00Z",
       "sentiment": {
         "democrats": "positive",
-        "republicans": "neutral"
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "rnc-vote-protection-179-cases-oct19",
+      "event_time_ist": "Announced Oct 19, 2026",
+      "title": "RNC expands vote-protection operation: directors in 22 states, 21,500 poll workers, 179 active cases",
+      "summary": "The RNC said Oct 19 it expanded its election-integrity operation with 15 days to Election Day: Election Integrity Directors in 22 target states, more than 21,500 poll workers (double its 2024 total), and 179 active cases across 37 states. The committee cited past outcomes including stopping New York City's attempt to let nearly 800,000 noncitizens vote and a voter-roll records initiative across 48 states, and said it is fighting for proof-of-citizenship to vote at the U.S. Supreme Court. Single-sourced: only the niche legal site Jurelist reported the new figures; no major-outlet corroboration found. Note these are the RNC's own numbers.",
+      "source_name": "Jurelist",
+      "source_url": "https://jurelist.com/news/rnc-cites-179-election-cases-as-it-expands-2026-vote-protection-operation-df4b081a",
+      "links": [],
+      "image_urls": [
+        "https://www.palisadesrepublicans.org/wp-content/uploads/2025/10/Logo.jpeg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "2:50 AM PDT, Oct 21",
+      "report_time_ist": "3:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T09:50:00Z",
+      "sentiment": {
+        "republicans": "positive"
       }
     }
   ]

@@ -1359,6 +1359,30 @@
    "source_url": "https://www.reuters.com/world/ukraines-zelenskiy-travels-norway-talks-war-security-tuesday-2026-10-20/",
    "summary": "Zelensky flew to Oslo for talks with Trump's envoy Steve Witkoff (Kushner via video) alongside Norwegian PM Store and Finnish President Stubb. Both sides called the talks 'very productive': Zelensky said US intelligence-sharing and early warning 'works now' and that he hoped Starlink access would follow; he reiterated Ukraine is 'ready not to hit sensitive parts of Russia's energy sector if Russia stops hitting ours' - 'Putin said no' - and proposed moving to a 'trilateral meeting of the leaders.' Hours earlier Trump had told reporters Zelensky 'doesn't know what he's talking about' and that it was 'time for somebody else to negotiate on behalf of Ukraine.' Witkoff is due to travel to St. Petersburg Wednesday Oct 21 to meet Putin.",
    "title": "Zelensky and Witkoff meet in Oslo; intel-sharing restored, Witkoff to see Putin Wednesday"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Night of Oct 19 into Oct 20, 2026 (overnight Monday–Tuesday)",
+   "id": "tambov-nikolskoye-strike-oct20",
+   "image_urls": [
+    "https://i1.prth.gr/images/1168x656/jpg/files/2025-08-10/saratov-petrelaio.jpg"
+   ],
+   "links": [
+    "https://www.europesays.com/russia/78084/",
+    "https://global1.news/ukrainian-drone-strike-sparks-fire-at-oil-transit-hub-in-tambov-region",
+    "https://www.linkedin.com/posts/euromaidanpress_washington-kept-pressing-kyiv-russian-oil-activity-7518384135267098624-3q7E"
+   ],
+   "report_time_ist": "11:15 AM IST, Oct 21",
+   "report_time_pdt": "10:45 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T05:45:00Z",
+   "sentiment": {
+    "russia": "negative",
+    "ukraine": "positive"
+   },
+   "source_name": "Kyiv Independent (via europesays)",
+   "source_url": "https://www.europesays.com/russia/78084/",
+   "summary": "Overnight Oct 19–20, Ukrainian drones hit the Nikolskoye-1 linear production and dispatch station near Novonikolskoye/Michurinsk in Russia's Tambov Oblast — a Transneft facility on the Druzhba pipeline network with roughly 300,000 tonnes/day pumping capacity. Video from monitoring channel Exilenova+ showed fire and dark smoke at what residents identified as a diesel fuel tank. Governor Yevgeny Pervyshov confirmed a fire 'on the territory of one of the enterprises' in Michurinsky District, said four drones were shot down overnight, and reported no casualties; independent Russian outlet ASTRA identified the facility as Nikolskoye. Ukraine has not commented. The same station was hit before on Aug. 18, 2025 (Ukraine's General Staff confirmed that strike), and the Druzhba line remains a key route for Russian crude to Hungary and Slovakia under an EU sanctions exemption. The strike continued Ukraine's resumed energy-infrastructure campaign (the Ryazan refinery strike on Oct 15 and the ~1,000-drone St. Petersburg attack Oct 17–18). Catch-up: this event occurred during the Oct 20 evening but was missed by the two Oct 20 evening runs.",
+   "title": "Ukrainian drones strike Transneft's Nikolskoye pumping station in Tambov, fire at Druzhba-network hub"
   }
  ]
 }

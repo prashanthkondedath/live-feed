@@ -260,34 +260,34 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T13:48:12Z",
+      "trend_updated_at_utc": "2026-10-21T15:06:34Z",
       "impact_summary": {
         "window": "7d",
         "items_in_window": 23,
         "sides": {
-          "civilians": {
-            "positive": 0,
-            "negative": 7,
-            "neutral": 0,
-            "overall": "negative"
-          },
           "russia": {
             "positive": 5,
-            "negative": 12,
+            "negative": 11,
             "neutral": 2,
             "overall": "negative"
           },
           "ukraine": {
-            "positive": 7,
-            "negative": 12,
-            "neutral": 2,
+            "positive": 8,
+            "negative": 10,
+            "neutral": 3,
             "overall": "negative"
           },
           "us": {
-            "positive": 4,
+            "positive": 5,
+            "negative": 6,
+            "neutral": 4,
+            "overall": "negative"
+          },
+          "civilians": {
+            "positive": 0,
             "negative": 5,
-            "neutral": 5,
-            "overall": "mixed"
+            "neutral": 0,
+            "overall": "negative"
           },
           "eu": {
             "positive": 1,
@@ -296,7 +296,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T13:48:12Z"
+        "updated_at_utc": "2026-10-21T15:06:34Z"
       },
       "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. On Wednesday morning Oct 21 Trump's envoy Steve Witkoff met Putin at the Constantine Palace in St. Petersburg (Kushner joined virtually with an updated peace proposal) — an opening goodwill gesture saw Russia release a detained 74-year-old US retiree, and Witkoff cited a 'basis for a ceasefire' aimed at a pathway toward direct trilateral talks. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Witkoff in Oslo, saying US intelligence-sharing 'works now'. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov — a Druzhba-network hub — sparking a fuel-tank fire (Governor Pervyshov confirmed). On Oct 19 a Russian drone struck a park in Nova Vodolaha, Kharkiv region, killing six including three children, while 22 bipartisan House lawmakers urged Trump (Oct 15 letter) to revoke the Russian diesel import licence. Overnight Oct 20–21, Russian strikes hit energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions, killing four — hours ahead of the Witkoff-Putin meeting. On Oct 20 Zelensky told Corriere della Sera Ukraine backs a mutual energy ceasefire if the US supplies interceptor missiles to defend its grid — and told US senators the Pentagon is holding up European-paid air-defense missiles pending Hegseth's signature, with Kyiv down to 'only a couple' of Patriot interceptors (WaPo). On Oct 21 Peskov explicitly rejected an energy truce — 'Russia needs peace, not a truce' — even as Witkoff cited a 'basis for a ceasefire' after the Constantine Palace talks; Naftogaz separately reported a Russian drone strike on its gas production infrastructure in Kharkiv region. In a Fox & Friends interview aired Wednesday morning Oct 21, Zelensky said he would accept a peace deal 'freezing' the front lines to end the war diplomatically — his first such concession since 2022.",
       "watch_for": [
@@ -357,7 +357,7 @@
         "single-sourced": 1,
         "unconfirmed": 0,
         "confirmed_rate": 0.96,
-        "updated_at_utc": "2026-10-21T13:48:12Z"
+        "updated_at_utc": "2026-10-21T15:06:34Z"
       },
       "phase": "escalation"
     },
@@ -826,5 +826,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T14:48:45Z"
+  "updated_at_utc": "2026-10-21T15:06:34Z"
 }

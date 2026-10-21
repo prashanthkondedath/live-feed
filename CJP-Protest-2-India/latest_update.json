@@ -1,1 +1,28 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Late night IST, Oct 20 (news coverage Oct 21)","id":"dipke-real-leaders-clarification-oct21","image_urls":["https://jagoindiajago.news/wp-content/uploads/2026/06/PTI06_06_2026_000287B.jpg"],"links":["https://www.topindiannews.com/national/cjp-protest-abhijeet-dipke-ashutosh-ranka-saurav-das-crime-branch-case-news-54033","https://inshorts.com/en/news/dipke-clarifies-remarks-after-being-trolled-for-throwing-das--ranka--under-the-bus--1792568007925","https://nowlivo.com/abhijeet-dipke-calls-jailed-cjp-leaders-saurav-das-and-ashutosh-ranka-the-movements-real-leaders/","https://www.instagram.com/reel/DevwxKCIdcm/"],"report_time_ist":"5:12 PM IST, Oct 21","report_time_pdt":"4:42 AM PDT, Oct 21","reported_at_utc":"2026-10-21T11:42:25Z","sentiment":{"cjp_protesters":"positive"},"source_name":"Top Indian News / inshorts / nowlivo / The Logical Indian","source_url":"https://www.topindiannews.com/national/cjp-protest-abhijeet-dipke-ashutosh-ranka-saurav-das-crime-branch-case-news-54033","summary":"Hours after his Oct-20 16-minute video called jailed co-convenors Saurav Das and Ashutosh Ranka the movement's 'real leaders' and said he 'just followed their orders', social-media trolls alleged Dipke was shifting responsibility onto them to keep himself out of controversy. Late on Oct 20, Dipke posted a clarification video: 'I'm not throwing them under the bus but taking pride in having better people by my side... Saurav and Ashu are not just better leaders than me but also better people.' The clarification was carried by The Logical Indian's verified IG reel (Oct 21 ~12:05 PM IST).","title":"Dipke clarifies 'real leaders' remark after trolling alleged he threw jailed Das and Ranka 'under the bus'"}],"report_time_ist":"5:12 PM IST, Oct 21","report_time_pdt":"4:42 AM PDT, Oct 21"}
+{
+ "report_time_pdt": "5:41 AM PDT",
+ "report_time_ist": "6:11 PM IST",
+ "items": [
+  {
+   "id": "das-ranka-police-seeks-3-more-days-oct21",
+   "event_time_ist": "~2:00 PM IST, Oct 21 (SEM surety-reconsideration hearing, Mandir Marg)",
+   "title": "Delhi Police seeks 3 more days of judicial custody for Das and Ranka at today's SEM hearing; decision still pending",
+   "summary": "At the 2 PM IST surety-reconsideration hearing before the Special Executive Magistrate at Mandir Marg PS \u2014 the hearing the Delhi HC told the duo to await when they withdrew their writ plea this morning \u2014 Delhi Police sought THREE more days of judicial custody for CJP co-conveners Saurav Das and Ashutosh Ranka in the Jantar Mantar trespass/peace-bond-breach case (2 FIRs, now with the Crime Branch Inter-State Cell). CJP legal head Ratna Singh was present ahead of proceedings. The IANS report (Oct 21) says the hearing was still underway and the magistrate had not yet pronounced a decision as of ~6 PM IST. No second news outlet is carrying the 3-day request yet; an IG news graphic the same evening corroborates the headline. Also today at the HC: Justice Subramonium Prasad withdrew the duo's plea with the oral remarks 'Then you are not Gen Z' (told Das, 27, and Ranka, 32) and 'Earlier it was a student protest; children were there, but now it's another cause' \u2014 color from the same hearing, not re-alerted as a separate arc.",
+   "source_name": "IANS (via hiindia.com)",
+   "source_url": "https://hiindia.com/delhi-police-seeks-3-day-additional-custody-of-cjp-leaders-saurav-das-ashutosh-ranka/",
+   "links": [
+    "https://hiindia.com/delhi-police-seeks-3-day-additional-custody-of-cjp-leaders-saurav-das-ashutosh-ranka/",
+    "https://www.instagram.com/p/Dewaw2UmyP2/"
+   ],
+   "image_urls": [
+    "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Jail-784x441.jpg"
+   ],
+   "confidence": "single-sourced (wire only)",
+   "report_time_pdt": "5:41 AM PDT",
+   "report_time_ist": "6:11 PM IST",
+   "reported_at_utc": "2026-10-21T12:41:42Z",
+   "sentiment": {
+    "cjp_protesters": "negative"
+   }
+  }
+ ]
+}

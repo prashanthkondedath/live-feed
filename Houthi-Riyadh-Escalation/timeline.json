@@ -1827,6 +1827,29 @@
         "houthis": "negative",
         "saudi_govt": "negative"
       }
+    },
+    {
+      "id": "israel-defense-offer-rubio-interceptors-oct21",
+      "event_time_ist": "Oct 21, 2026 (Fox News analysis published 7:00 AM EDT; Rubio remarks made Tuesday)",
+      "title": "Israel offered to help defend Saudi Arabia; Rubio says interceptors are 'the most in-demand product' in defense",
+      "summary": "Fox News analysis published Oct 21 reports Israel has specifically offered to help defend Saudi Arabia against Houthi attacks and Trump has publicly encouraged Riyadh to accept. Secretary of State Marco Rubio said Tuesday that Riyadh is competing with US allies and the US military itself for limited interceptor supplies, calling interceptors the most in-demand product in the defense field and noting the US has its own needs too. The piece adds Egypt is already assisting the kingdom's defense, and that the Houthis have warned they will move to shutter the Bab al-Mandeb Strait with missile-drone attacks if Gulf nations join the US-Israel war on Iran.",
+      "source_name": "Fox News",
+      "source_url": "https://foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught",
+      "links": [
+        "https://foxnews.com/politics/saudi-arabia-defense-vulnerabilities-trump-problem-houthi-onslaught"
+      ],
+      "image_urls": [
+        "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/houthis-april-3.jpg?ve=1&tl=1"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "5:00 AM PDT, Oct 21",
+      "report_time_ist": "5:30 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T12:00:00Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "negative",
+        "us": "neutral"
+      }
     }
   ]
 }

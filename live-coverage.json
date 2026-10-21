@@ -483,32 +483,32 @@
           "label": "Tehran"
         }
       ],
-      "trend": "warm",
-      "trend_updated_at_utc": "2026-10-21T03:51:09Z",
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-21T04:50:24Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 22,
+        "items_in_window": 21,
         "sides": {
           "iran": {
-            "positive": 0,
-            "negative": 14,
-            "neutral": 2,
-            "overall": "negative"
-          },
-          "markets": {
             "positive": 1,
-            "negative": 10,
+            "negative": 12,
             "neutral": 2,
             "overall": "negative"
           },
           "us": {
             "positive": 1,
-            "negative": 7,
+            "negative": 6,
             "neutral": 4,
+            "overall": "negative"
+          },
+          "markets": {
+            "positive": 1,
+            "negative": 8,
+            "neutral": 2,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T03:51:09Z"
+        "updated_at_utc": "2026-10-21T04:50:24Z"
       },
       "current_summary": "Mine warfare in the Strait of Hormuz escalated sharply: the IRGC Navy said two oil tankers (~2M barrels each) were set ablaze by mines on Oct 17 and two more 'non-compliant' tankers on Oct 20, warning oil companies of a 'heavier price'; Kpler counted at least 18 vessel attacks in the fortnight to Oct 20, and Brent touched a five-month high (~$112, settling ~$109) on Oct 20–21. On Oct 19 Iran claimed US forces struck the Konarak naval base wounding two — the first alleged US strike on Iranian soil since Sept 1 — which Washington disputes. Diplomacy crept back on Oct 18: FM Abbas Araqchi said Tehran's offer to reopen the strait within six days remains on the table if Washington lifts the port blockade, ends oil-export sanctions and hostilities; on Oct 21, IMO chief Arsenio Dominguez said mines remain on the approved traffic-separation route and the agency cannot declare it safe.",
       "watch_for": [
@@ -560,12 +560,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 22,
-        "confirmed": 17,
+        "items_in_window": 21,
+        "confirmed": 16,
         "single-sourced": 2,
         "unconfirmed": 3,
-        "confirmed_rate": 0.77,
-        "updated_at_utc": "2026-10-21T03:51:09Z"
+        "confirmed_rate": 0.76,
+        "updated_at_utc": "2026-10-21T04:50:24Z"
       },
       "phase": "escalation"
     },
@@ -814,5 +814,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T04:50:00Z"
+  "updated_at_utc": "2026-10-21T04:50:24Z"
 }

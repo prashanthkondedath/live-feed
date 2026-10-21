@@ -479,32 +479,32 @@
           "label": "Tehran"
         }
       ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T14:54:14Z",
+      "trend": "warm",
+      "trend_updated_at_utc": "2026-10-21T03:51:09Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 60,
+        "items_in_window": 22,
         "sides": {
-          "us": {
-            "positive": 8,
-            "negative": 19,
-            "neutral": 9,
-            "overall": "negative"
-          },
           "iran": {
-            "positive": 6,
-            "negative": 33,
-            "neutral": 9,
+            "positive": 0,
+            "negative": 14,
+            "neutral": 2,
             "overall": "negative"
           },
           "markets": {
-            "positive": 2,
-            "negative": 32,
-            "neutral": 6,
+            "positive": 1,
+            "negative": 10,
+            "neutral": 2,
+            "overall": "negative"
+          },
+          "us": {
+            "positive": 1,
+            "negative": 7,
+            "neutral": 4,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-14T14:54:14Z"
+        "updated_at_utc": "2026-10-21T03:51:09Z"
       },
       "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. Late Tuesday, ISW assessed Iran is now deliberately targeting ship-to-ship oil transfers in and near Hormuz; the Houthi-controlled foreign ministry warned airlines that Saudi airports are 'unsafe' except Mecca/Medina, spokesman Yahya Saree declared Aramco sites 'legitimate targets' and told workers and civilians to evacuate Aramco compounds and King Khalid International Airport; and the US State Department raised its Saudi travel advisory to Level 3, with Etihad cancelling Riyadh/Dammam/Jeddah flights through Oct 19. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures. On Tuesday, MI5 chief Ken McCallum said Iran is now targeting British military sites — a 'major shift this year' beyond its usual proxy targets — and that the suspected RAF Fairford drone plot was 'not unique'. Late Tuesday, Trump threatened Iran at a Wasilla, Alaska rally — 'Wait and see what we do to them. We're going to hit them hard' — and Axios reported Trump and Netanyahu discussed a renewed Iran operation before the US elections. Late Tuesday, Trump warned the Houthis he will 'never forget' the Saudi attacks and floated an Erdogan intervention; Brent pushed toward $107 as Morgan Stanley raised its Dated Brent forecast $5 on Hormuz/Houthi supply risk. A WSJ report late Tuesday (Oct 13) said Iran is fortifying nuclear sites and rallying the public in anticipation of renewed US strikes after the Nov 3 midterms, with a third US carrier strike group and a Marine expeditionary unit en route, per the report. Wednesday morning added two incidents: three fishermen were injured when an unidentified drone struck a fishing boat off Sirik in southern Iran's Hormozgan province, and Saudi authorities issued then lifted a mobile aerial-threat alert for Riyadh and the Al-Kharj governorate amid the sharp Houthi-Saudi escalation. On Wednesday Oct 14, Iranian state media shared an IRGC Navy claim that a container ship carrying 2,500+ containers sank south of the strait after striking a naval mine (unverified, date of incident unclear). Late Wednesday Oct 14, Iran lodged a formal protest with the IMO (letter dated Oct 9), accusing US forces of misusing VHF Channel 16 in the Persian Gulf to intimidate seafarers. Also late Wednesday Oct 14, Reuters confirmed the Singapore-flagged container ship GFS Pride (2,824 TEU) SANK after a projectile strike — the second vessel lost since the war began, with MPA Singapore confirming all 21 crew evacuated — and the bulk carrier Cape Dao (hit Sep 23) is also sinking after a failed rescue attempt; AFP separately counted FOUR ship attacks on Tuesday Oct 13, not two (GFS Pride, GFS Giselle with minor damage and 22 crew safe, Al Saadiyat with no significant damage, tanker Alfonso of unclear status), pushing UKMTO's October tally to 24 warnings. On Oct 13, twelve bipartisan senators (Republicans McConnell, Tillis, Collins, Armstrong, Murkowski and Cornyn; Democrats Blumenthal, Shaheen, Durbin, Whitehouse, Reed and Coons) wrote to Trump urging him to rescind OFAC General License No. 135, which temporarily eased sanctions to let Russian diesel into global markets — tying Iran-war-driven fuel prices to the sanctions relief.",
       "watch_for": [
@@ -549,15 +549,15 @@
       ],
       "curation_updated_at_utc": "2026-10-21T03:38:39Z",
       "started_at_utc": "2026-10-03T12:00:00Z",
-      "trend_direction": "steady",
+      "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 60,
-        "confirmed": 50,
-        "single-sourced": 6,
-        "unconfirmed": 4,
-        "confirmed_rate": 0.83,
-        "updated_at_utc": "2026-10-14T14:54:14Z"
+        "items_in_window": 22,
+        "confirmed": 17,
+        "single-sourced": 2,
+        "unconfirmed": 3,
+        "confirmed_rate": 0.77,
+        "updated_at_utc": "2026-10-21T03:51:09Z"
       },
       "phase": "standoff"
     },
@@ -810,5 +810,5 @@
       "phase": "escalating"
     }
   ],
-  "updated_at_utc": "2026-10-21T03:50:14Z"
+  "updated_at_utc": "2026-10-21T03:51:09Z"
 }

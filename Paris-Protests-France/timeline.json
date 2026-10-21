@@ -541,8 +541,118 @@
     "protesters": "negative",
     "govt_police": "neutral"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Weekend of Oct 17-18, 2026; France Info confirmation published morning of Oct 21, 2026",
+   "id": "paris-oct21-deaths-confirmed-franceinfo",
+   "image_urls": [
+    "https://www.franceinfo.fr/pictures/fTP3W6jKpPQoxCcFpF2EsE008s8/432x243/filters:format(jpg)/2026/10/19/6ad625e16c472489303548.jpg"
+   ],
+   "links": [
+    "https://altermidi.org/news/manifestations-du-17-octobre-deux-morts-et-de-nombreux-blesses-en-marge-des-rassemblements/"
+   ],
+   "report_time_ist": "3:15 PM IST, Oct 21",
+   "report_time_pdt": "2:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T09:45:00Z",
+   "sentiment": {
+    "govt_police": "negative",
+    "protesters": "negative"
+   },
+   "source_name": "France Info (via Shango republication)",
+   "source_url": "https://www.shango.media/france-info-le-dispositif-de-maintien-de-lordre-deploye-le-17-octobre-etait-il-moins-important-que-lors-des-dernieres-grandes-manifestations-11968618",
+   "summary": "France Info (Tier 2 public broadcaster) confirms the Interior Ministry's consolidated Sunday-evening toll: 2,397 arrests, 997 members of the security forces injured (seven seriously), and TWO deaths in Paris whose circumstances 'remain to be clarified' - one Saturday (a probable cardiac arrest near the Paris cortege, per the police prefecture; Eurodeputy Manon Aubry has demanded explanations), the other found on the ground at Chatelet in the night of Sunday to Monday. Also confirmed: a 17-year-old girl lost an eye in Mulhouse, a 17-year-old boy's hand was torn off by a grenade in Saint-Etienne, and the IGPN (police watchdog) has been seized with four inquiries into Oct 17 events. This upgrades the weekend death count from the single death previously reported to two, and locks in the official custody/injury figures.",
+   "title": "France Info confirms two deaths in Paris during Oct 17-18 unrest; official toll: 2,397 arrests, 997 officers hurt, four IGPN probes"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Thu, Oct 22, 2026 (2 PM local, Paris march); CNL communique issued Wed, Oct 21, 2026",
+   "id": "paris-oct21-student-oct22-march-novo3-call",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-5d974e44f654.jpg"
+   ],
+   "links": [
+    "https://www.sortiraparis.com/actualites/a-paris/articles/355354-manifestation-lyceens-et-etudiants-du-22-octobre-a-paris-infos-et-parcours",
+    "https://paris-luttes.info/manifestation-jeudi-22-octobre-a-21326"
+   ],
+   "report_time_ist": "3:15 PM IST, Oct 21",
+   "report_time_pdt": "2:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T09:45:00Z",
+   "sentiment": {
+    "protesters": "positive"
+   },
+   "source_name": "AFP (via Boursorama)",
+   "source_url": "https://www.boursorama.com/actualite-economique/actualites/les-syndicats-veulent-toujours-faire-entendre-leurs-revendications-le-5-novembre-db6f77ed0b1e909ab02f97aa91229619",
+   "summary": "The Coordination nationale lyceenne, representing delegates from 27 cities after its Oct 18 Paris meeting, issued a communique on Wednesday Oct 21 calling students to take to the streets Thursday Oct 22 AND Saturday Oct 24, backing 'all forms of the mobilization - blockades, demonstrations, occupations'. In Paris, the Oct 22 march (backed by the AG interfac Ile-de-France, the Paris x Banlieue lycee coordination, the national student coordination and the CNL) departs 2 PM from the Hopital Pitie-Salpetriere (Bd de l'Hopital, 13th) via Austerlitz and Gare de Lyon toward Bastille. Demands: more school staff and funding, classes capped at 25, abolition of Parcoursup, release of arrested youths and dropped prosecutions. The coordination also announced a NEW national mobilization day on Tuesday Nov 3, joins the Nov 5 union strike, and set its next national meeting for Oct 29. AFP confirmed the Interfac Ile-de-France voted to continue the movement Thursday with a possible Paris demonstration.",
+   "title": "Student coordination issues Oct 21 communique: Oct 22 Paris march (2 PM, Salpetriere to Bastille), announces new national day Nov 3"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Suspension announced Fri, Oct 16, 2026 (covering the planned Oct 21-22 action)",
+   "id": "paris-oct21-otre-truckers-suspended",
+   "image_urls": [
+    "https://voyage.aprr.fr/sites/default/files/styles/banner_image/public/2022-08/AdobeStock_53207759.jpeg?itok=V2k3LDhf"
+   ],
+   "links": [
+    "https://www.froet.es/francia-movilizaciones-convocada-una-movilizacion-del-transporte-por-carretera-a-partir-del-21-de-octubre/"
+   ],
+   "report_time_ist": "3:15 PM IST, Oct 21",
+   "report_time_pdt": "2:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T09:45:00Z",
+   "sentiment": {
+    "govt_police": "neutral",
+    "protesters": "neutral"
+   },
+   "source_name": "OTRE (official statement)",
+   "source_url": "https://www.otre.org/crise-des-carburants-lotre-suspend-sa-mobilisation-des-21-et-22-octobre-apres-la-confirmation-officielle-des-engagements-du-gouvernement/",
+   "summary": "Correction to today's agenda: the OTRE/FAI road-haulier mobilization in Paris announced for Oct 21-22 over soaring diesel prices is NOT happening. The OTRE suspended it on Oct 16 after the government confirmed in writing the commitments from the Oct 13 transport-ministry meeting - effective diesel price reduction, reinforced fuel indexation, and rapid payment of delayed aid (May-August). The mobilization, which would have represented 3,600 companies and 110,000 employees, is called off while the union waits for the commitments to be implemented on schedule. (Agenda trackers like Ma Vigilance still list it as planned for today.)",
+   "title": "Correction: OTRE/FAI trucker mobilization planned for Oct 21-22 was suspended Oct 16 after government concessions"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Wed, Oct 21, 2026 (published ~7:12 AM UTC)",
+   "id": "paris-oct21-reunion-gendarmerie-squadrons",
+   "image_urls": [
+    "https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"
+   ],
+   "links": [
+    "https://mavigilance.fr/agenda/"
+   ],
+   "report_time_ist": "3:15 PM IST, Oct 21",
+   "report_time_pdt": "2:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T09:45:00Z",
+   "sentiment": {
+    "govt_police": "neutral",
+    "protesters": "negative"
+   },
+   "source_name": "Info Outre-Mer",
+   "source_url": "https://infooutremer.fr/la-reunion-deux-escadrons-de-gendarmes-mobiles-deployes-pour-retablir-lordre/",
+   "summary": "La Reunion: TWO gendarmerie mobile squadrons deployed to 'restore order' - heavy means including four Centaure armored vehicles and the gendarmerie air section helicopter can be engaged; drone surveillance authorizations published for Saint-Denis (Chaudron, Camelias, Barachois), Saint-Andre (Fayard), Saint-Pierre (Ravine Blanche, Boulevard Bank) and Le Port (Cap Sacre-Coeur, Riviere de Galets), valid until Friday Oct 23. The prefect secured the reinforcements from the Interior Ministry after a meeting with Overseas Minister Naima Moutchou and the prefects of Martinique and Guadeloupe - territories also hit by urban violence. Further measures expected Wednesday: bans on public alcohol consumption, jerrycan fuel transport and fireworks mortars; a minors curfew is under study in about six communes. This is the first confirmation of the unrest reaching the overseas territories beyond Reunion.",
+   "title": "Two gendarmerie mobile squadrons deployed in La Reunion; urban violence also reported in Martinique and Guadeloupe"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Wed, Oct 21, 2026 (10:30 AM CEST, Matignon, Paris)",
+   "id": "paris-oct21-matignon-unions-meeting-updates",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "links": [
+    "https://www.tbsnews.net/world/frances-pm-meet-unions-government-prepares-more-protests-1579281"
+   ],
+   "report_time_ist": "3:15 PM IST, Oct 21",
+   "report_time_pdt": "2:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T09:45:00Z",
+   "sentiment": {
+    "govt_police": "negative",
+    "unions": "positive"
+   },
+   "source_name": "AFP (via Boursorama)",
+   "source_url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-recoit-les-syndicats-qui-exigent-des-reponses-politiques-avant-de-nouvelles-manifestations-e6d46e7eec4b836e395bdf97117f0e6e",
+   "summary": "The Matignon talks opened Wednesday morning with the five unions (CFDT, CGT, FO, CFTC, CFE-CGC) plus Interior Minister Nunez. CGT chief Sophie Binet arriving at Matignon: 'You don't answer a social mobilization with repression, you answer it with political responses to demands' - calling for more school resources and abolition of Parcoursup. The CGT is to decide DURING THE DAY whether to join Saturday's yellow-vest Oct 24 call (its Paris branch already joined). Political pile-on Wednesday: ex-president Hollande called the government 'weak' and Macron 'absent'; Edouard Philippe criticized Macron staying on his Gulf trip; Le Pen hit 'a failing power that no longer has the upper hand'. New: the US, China and Germany issued travel advisories for France after the weekend rioting (per AFP via TBS; single-sourced pending a second outlet).",
+   "title": "Matignon union talks open: Binet demands political answers; CGT to decide Wednesday on joining Oct 24; US/China/Germany issue travel advisories"
   }
  ],
- "last_updated_pdt": "10:38 PM PDT, Oct 20",
- "last_updated_ist": "11:08 AM IST, Oct 21"
+ "last_updated_pdt": "2:45 AM PDT, Oct 21",
+ "last_updated_ist": "3:15 PM IST, Oct 21"
 }

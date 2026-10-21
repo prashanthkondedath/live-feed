@@ -1,820 +1,820 @@
 {
-  "coverages": [
+ "coverages": [
+  {
+   "description": "Live coverage of the Cockroach Janta Party's protest movement — detentions, ultimatums, court cases, INDIA-bloc actions and on-ground developments in Delhi.",
+   "folder": "CJP-Protest-2-India",
+   "id": "cjp-protest-2-india",
+   "location": "Delhi, India",
+   "status": "active",
+   "title": "CJP Protest 2.0",
+   "map_points": [
     {
-      "description": "Live coverage of the Cockroach Janta Party's protest movement — detentions, ultimatums, court cases, INDIA-bloc actions and on-ground developments in Delhi.",
-      "folder": "CJP-Protest-2-India",
-      "id": "cjp-protest-2-india",
-      "location": "Delhi, India",
-      "status": "active",
-      "title": "CJP Protest 2.0",
-      "map_points": [
-        {
-          "latitude": 28.6139,
-          "longitude": 77.209,
-          "label": "New Delhi"
-        }
-      ],
-      "trend": "warm",
-      "trend_updated_at_utc": "2026-10-18T02:00:02Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 304,
-        "sides": {
-          "police_govt": {
-            "positive": 5,
-            "negative": 147,
-            "neutral": 39,
-            "overall": "negative"
-          },
-          "india_bloc": {
-            "positive": 63,
-            "negative": 30,
-            "neutral": 10,
-            "overall": "positive"
-          },
-          "cjp_protesters": {
-            "positive": 117,
-            "negative": 34,
-            "neutral": 9,
-            "overall": "positive"
-          },
-          "courts": {
-            "positive": 12,
-            "negative": 3,
-            "neutral": 53,
-            "overall": "neutral"
-          },
-          "bjp": {
-            "positive": 11,
-            "negative": 53,
-            "neutral": 2,
-            "overall": "negative"
-          }
-        },
-        "updated_at_utc": "2026-10-18T02:00:02Z"
-      },
-      "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders out of Jaffarpur Kalan police station; they were brought to Parliament Street police station at ~3 AM, and on Wednesday morning Oct 14 the SEM court at Mandir Marg remanded Das and Ranka to 5 days' judicial custody — Ajinkya Shinde was released on a personal bond, per LiveLaw. Dipke's first response dared Modi to 'declare an Emergency'; the CJP's official handle called Das and Ranka the 'first in their bloodline to be jailed for unfurling the national flag' and warned 'Emergency 2.0' is here. Overnight into Wednesday, Dipke posted an IG reel demanding Ranka and Das's release. Late Tuesday night, Rahul Gandhi publicly backed CJP on X, calling waving the Tricolour 'not a crime' and jailing young protesters 'an act of cowardice'; Wednesday morning, Dipke issued his first video statement after the custody order, charging an 'unofficial Emergency' and rejecting the 'Urban Naxalism' tag. On Wednesday (~10:53 AM IST Oct 14), Delhi Police released an official statement on the arrests — citing alleged repeated attempts to disturb public peace and instigate others through social media, publishing FIR numbers, and revealing that Ajinkya Shinde was bound down for six months (he was released on a personal bond). On Wednesday (~2:10 PM IST Oct 14), AIMIM chief Asaduddin Owaisi moved the Supreme Court challenging the SIR of electoral rolls, opening a second front in the ballot-revision litigation alongside the INDIA bloc's pending writ petition. On Wednesday afternoon Oct 14 (~3:27 PM IST), Dipke arrived in Delhi from Hingoli — fulfilling his Oct-13 pledge — with PTI footage showing him mobbed by reporters at the airport terminal. Later on Wednesday afternoon (~4:37 PM IST Oct 14), in his first Delhi press scrum since arriving from Hingoli, Dipke answered BJP leader Piyush Goyal's charge that Congress bribed former CECs with Padma awards, challenged lawyer Harish Salve and Maharashtra CM Devendra Fadnavis to produce evidence for their foreign-funding claims and hand it to Home Minister Amit Shah, and argued hoisting the Tricolour cannot be treated as a peace-bond violation, invoking the Constitution, Dr. B.R. Ambedkar and voting rights. Late Wednesday, Dipke called a fresh 'Lehra Do Tiranga' protest march at Central Park, Connaught Place, Delhi, for Oct 16 at 5 PM, protesting Das and Ranka's 5-day judicial custody. Late Wednesday (~2:49 PM IST Oct 14), Dipke announced the 11 CJP volunteers detained in Tuesday's Jantar Mantar gate-entry incident had been released — 'Spirits unbroken, waving the tricolour the moment they walked free' — independently corroborated by Livemint citing CJP legal head Ratna Singh. Late Wednesday (~8:02 PM IST Oct 14), Saket Court proceedings targeted YouTuber Dhruv Rathee — fresh dasti summons in the 2018 defamation case (Ct. Cases 5786/2018, issued Oct 12 by JM Rahul Jain citing Rathee's presence in India for the CJP protest), plus a separate civil defamation suit over his Ram-Sita video with the next hearing Nov 5. Late Wednesday (~8:59 PM IST Oct 14), singer Mary Millben alleged US donors were funding CJP and called for youth counter-protests; Dipke rejected the claim on X.",
-      "watch_for": [
-        {
-          "event": "Das and Ranka's 5-day judicial custody ends; next hearing",
-          "date": "2026-10-19"
-        },
-        {
-          "event": "Supreme Court hearing on protest pleas; Delhi HC hears fresh Jantar Mantar PIL",
-          "date": "2026-10-15"
-        },
-        {
-          "event": "Delhi HC metro-stations/Jantar Mantar PILs hearing",
-          "date": "2026-10-16"
-        },
-        {
-          "event": "Delhi HC NSUI outsiders-assault PIL hearing (corrected from November)",
-          "date": "2026-10-16"
-        },
-        {
-          "event": "Supreme Court hearing on INDIA bloc's SIR writ petition",
-          "date": null
-        },
-        {
-          "event": "Lehra Do Tiranga protest march, Central Park, Connaught Place, Delhi (called by Dipke, protesting Das and Ranka's 5-day JC)",
-          "date": "2026-10-16"
-        },
-        {
-          "event": "INDIA-bloc Ramlila Maidan rally with proposed 'impeach the CEC' move",
-          "date": null
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Abhijeet Dipke",
-          "role": "CJP founder; arrived in Delhi Oct 14, fulfilling his Oct-13 pledge; first video statement after custody order charged an 'unofficial Emergency', rejected the 'Urban Naxalism' tag; alleged custodial mistreatment; called a 'Lehra Do Tiranga' march at Connaught Place for Oct 16, 5 PM"
-        },
-        {
-          "name": "Saurav Das",
-          "role": "CJP co-convener; remanded to 5 days' judicial custody Oct 14 (SEM Mandir Marg) in Jantar Mantar trespass case"
-        },
-        {
-          "name": "Ashutosh Ranka",
-          "role": "CJP co-convener; remanded to 5 days' judicial custody Oct 14 (SEM Mandir Marg) in Jantar Mantar trespass case"
-        },
-        {
-          "name": "Rahul Gandhi",
-          "role": "INDIA bloc; publicly backed CJP on X Oct 14 — waving the Tricolour 'not a crime', jailing youth 'an act of cowardice'; told leaders to be ready to mobilise within 24 hours; pledged to challenge de-notification"
-        },
-        {
-          "name": "Ratna Singh",
-          "role": "CJP legal head; confirmed bond-violation charges as Das and Ranka were remanded to 5 days' judicial custody Oct 14"
-        },
-        {
-          "name": "Asaduddin Owaisi",
-          "role": "AIMIM chief; moved the Supreme Court Oct 14 challenging the Election Commission's SIR of electoral rolls — a second front alongside the INDIA bloc's pending writ petition"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-14T19:07:15Z",
-      "started_at_utc": "2026-10-10T04:30:00Z",
-      "trend_direction": "falling",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 300,
-        "confirmed": 153,
-        "single-sourced": 139,
-        "unconfirmed": 8,
-        "confirmed_rate": 0.51,
-        "updated_at_utc": "2026-10-18T02:00:02Z"
-      },
-      "phase": "standoff"
-    },
-    {
-      "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
-      "folder": "Houthi-Riyadh-Escalation",
-      "id": "houthi-riyadh-escalation",
-      "location": "Saudi Arabia / Red Sea region",
-      "status": "paused",
-      "title": "Houthi-Riyadh Escalation",
-      "map_points": [
-        {
-          "latitude": 24.7136,
-          "longitude": 46.6753,
-          "label": "Riyadh"
-        },
-        {
-          "latitude": 26.4207,
-          "longitude": 50.0888,
-          "label": "Dammam"
-        }
-      ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T18:46:08Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 61,
-        "sides": {
-          "civilians": {
-            "positive": 2,
-            "negative": 26,
-            "neutral": 9,
-            "overall": "negative"
-          },
-          "houthis": {
-            "positive": 4,
-            "negative": 44,
-            "neutral": 3,
-            "overall": "negative"
-          },
-          "saudi_govt": {
-            "positive": 18,
-            "negative": 22,
-            "neutral": 10,
-            "overall": "negative"
-          },
-          "us": {
-            "positive": 1,
-            "negative": 1,
-            "neutral": 9,
-            "overall": "neutral"
-          }
-        },
-        "updated_at_utc": "2026-10-14T18:46:08Z"
-      },
-      "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24. Turkey's Erdogan called MBS on Tuesday to condemn the Houthi attacks and pledged continued support, while Trump called the Houthis 'behaving very badly' and said he may ask Erdogan to help Saudi Arabia. On Wednesday morning Oct 14, the coalition said it intercepted another Houthi ballistic missile aimed at Riyadh. Late Wednesday Oct 14, the Houthis publicly claimed responsibility for strikes on Aramco's Dhahran facilities, King Khalid International Airport and a Riyadh refinery, pledging their operations against Saudi airports and oil facilities would continue in the coming days. On Wednesday morning, Reuters independently confirmed the coalition intercepted another Houthi ballistic missile toward Riyadh — loud booms heard in the capital — and Saudi authorities issued then lifted an aerial-threat alert for Riyadh. Wednesday afternoon brought further developments: AP reported two regional officials saying Aramco's chief executive's office was among the rooms hit in the Tuesday-night Dhahran strike; senior Houthi official Mohamed al-Bukhaiti told the AP that Oman, Russia and China are pushing for a ceasefire deal; the WSJ reported (citing a Conflict Armament Research report) that the Houthis are attempting to manufacture an advanced medium-range ballistic missile using Chinese-delivered parts — components for a version of Iran's Kheibar Shekan family; and the French embassy advised French citizens to avoid the airports in Riyadh, Jeddah and Dammam. Wednesday afternoon, Reuters reported sources saying Aramco's Dhahran HQ suffered 'extensive damage' in the Tuesday-night strike — staff sent home and some functions shifted abroad — while Brent held ~$106 as traders priced Houthi-Saudi supply risk. On Wednesday evening Oct 14 (~8:43 PM Riyadh time), the Houthis claimed another ballistic-missile strike on King Khalid International Airport; separately, senior Houthi political-bureau member Mohamed al-Bukhaiti told the AP that Oman, Russia and China are pushing both sides toward a ceasefire deal.",
-      "watch_for": [
-        {
-          "event": "Riyadh airport NOTAM expiry; reopening decision",
-          "date": "2026-10-17"
-        },
-        {
-          "event": "Saudi/coalition retaliation strikes in Yemen",
-          "date": null
-        },
-        {
-          "event": "Possible US military action hinted by Trump after midterms",
-          "date": "2026-11-03"
-        },
-        {
-          "event": "FAA advisory for Saudi airspace expires; EASA bulletin expiry",
-          "date": "2026-11-16"
-        },
-        {
-          "event": "British Airways resumes one daily Riyadh flight",
-          "date": "2026-11-03"
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Yahya Saree",
-          "role": "Houthi military spokesman; threatened Riyadh retaliation, warned Aramco staff"
-        },
-        {
-          "name": "Saudi Energy Minister",
-          "role": "Vowed retaliation after airport and Aramco attacks"
-        },
-        {
-          "name": "Mohammed bin Salman",
-          "role": "Reported pressing Trump for US military action against Houthis"
-        },
-        {
-          "name": "Mohamed al-Bukhaiti",
-          "role": "Senior Houthi political-bureau official; told the AP Oct 14 that Oman, Russia and China are pushing for a ceasefire deal"
-        },
-        {
-          "name": "Donald Trump",
-          "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
-        },
-        {
-          "name": "Recep Tayyip Erdogan",
-          "role": "Turkish president; called MBS to condemn the Houthi attacks, pledged support; Trump said he may ask Erdogan to help Saudi Arabia"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-14T18:38:43Z",
-      "started_at_utc": "2026-10-12T18:20:00Z",
-      "trend_direction": "rising",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 61,
-        "confirmed": 40,
-        "single-sourced": 21,
-        "unconfirmed": 0,
-        "confirmed_rate": 0.66,
-        "updated_at_utc": "2026-10-14T18:46:08Z"
-      },
-      "phase": "escalation"
-    },
-    {
-      "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
-      "folder": "Russia-Ukraine-Energy-Ceasefire",
-      "id": "russia-ukraine-energy-ceasefire",
-      "location": "Ukraine / Russia / Eastern Europe",
-      "status": "paused",
-      "title": "Russia-Ukraine War & Energy Ceasefire",
-      "map_points": [
-        {
-          "latitude": 50.4501,
-          "longitude": 30.5234,
-          "label": "Kyiv"
-        },
-        {
-          "latitude": 55.7558,
-          "longitude": 37.6173,
-          "label": "Moscow"
-        },
-        {
-          "latitude": 49.9935,
-          "longitude": 36.2304,
-          "label": "Kharkiv"
-        }
-      ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T18:28:58Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 51,
-        "sides": {
-          "russia": {
-            "positive": 5,
-            "negative": 30,
-            "neutral": 12,
-            "overall": "negative"
-          },
-          "ukraine": {
-            "positive": 12,
-            "negative": 20,
-            "neutral": 8,
-            "overall": "negative"
-          },
-          "us": {
-            "positive": 4,
-            "negative": 8,
-            "neutral": 20,
-            "overall": "neutral"
-          },
-          "civilians": {
-            "positive": 2,
-            "negative": 20,
-            "neutral": 1,
-            "overall": "negative"
-          },
-          "eu": {
-            "positive": 8,
-            "negative": 3,
-            "neutral": 2,
-            "overall": "positive"
-          },
-          "uk": {
-            "positive": 1,
-            "negative": 0,
-            "neutral": 0,
-            "overall": "positive"
-          }
-        },
-        "updated_at_utc": "2026-10-14T18:28:58Z"
-      },
-      "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) — now confirmed by Kyiv Independent — marks the clearest sign yet the 'energy ceasefire' is not holding. Wednesday morning Oct 14 brought further strikes on both sides: Reuters reported Mayor Vitali Klitschko saying Russian air strikes killed one person and injured one more in Kyiv while hitting energy facilities, and a Ukrainian drone attack killed one person and damaged houses in Balakovo in Russia's Saratov region, per the governor. On Wednesday Oct 14, Zelensky said the overnight Russian attack used 39 ballistic missiles and 120+ attack drones — 'demonstrative disrespect' toward Trump's ceasefire claim — leaving 600,000+ Ukrainians without power; he is meeting UK PM Andy Burnham at Downing Street on Wednesday, with Burnham expected to pledge faster arms deliveries and new sanctions. On Wednesday, Russia's Defence Ministry claimed the overnight wave struck 7 Ukrainian energy facilities plus a Kyiv data centre. By Wednesday morning the overnight strike-wave toll had risen to at least six killed across Ukraine. On Wednesday morning Oct 14, Italy's PM Giorgia Meloni told parliament the US-Russia diesel deal was a 'very risky choice' that undercuts efforts to force Putin to negotiate; Zelensky detailed the overnight wave's toll — equipment damaged at 26 power-system facilities and four oil-and-gas facilities, 600,000+ without power — and urged Trump for stronger sanctions and more Patriots, while Peskov denied any direct link between the diesel deal and Moscow's Ukraine stance. On Wednesday Oct 14, Peskov gave the Kremlin's clearest position yet: the energy ceasefire's provisions are 'not established' and work continues — with no Kremlin confirmation of Trump's Oct 11 claim. The same day, Romania scrambled F-16s after drones were detected near the Ukraine border. Wednesday (Oct 14, reported 7:33 AM PDT), CNN detailed the SpaceX Starshield restriction: the cap targets Ukraine's military-grade Starshield terminals (not consumer Starlink) — terminals lose link above 100 mph, with the 7th Rapid Reaction Corps telling Reuters of 10-20 sec dropouts even at 110-120 km/h, forcing some mission cancellations; Ukraine learned of it via SpaceX customer support only after filing a complaint, with no prior warning, and Kyiv's MOD is now in contact with the US, SpaceX and NATO while testing backup channels; Musk publicly criticized Zelensky over the dispute. CNN also raised the overnight strike-wave toll to at least 10 killed and dozens injured (Kyiv 3/21, Kharkiv 4/41, Dnipropetrovsk 2/6, Zaporizhzhia 1), noting Ukraine downed only 4 of the 39 ballistic missiles — underscoring the interceptor shortage Zelensky has been flagging. In a new clarification (reported Oct 14 by Axios), a White House official said Trump's 'energy ceasefire' proposal covers only oil refineries — 'refinery for refinery' — and does NOT cover power grids, sharply narrowing the scope of the Oct 11 claim. Late Wednesday (Oct 14, DW segment), former Trump special envoy for Ukraine Keith Kellogg told DW that Ukraine should keep striking Russian refineries despite Trump's request to stop — asked how Zelensky should respond, he answered 'Burn all the refineries' — dismissing the US-Russia diesel deal as driven by domestic US needs. Late Wednesday Oct 14, Deputy PM Alexander Novak claimed Ukraine struck two refineries that day — in the Saratov and Ryazan regions — saying Moscow sees no Ukrainian move toward an energy ceasefire (Kyiv called the reports fake); a daytime Russian attack on the western city of Lutsk killed 3 and injured at least 12; and in a Piers Morgan interview aired Wednesday, Zelensky said it was 'painful' when Trump 'chooses one side, not our side' after Trump said Zelensky should be replaced.",
-      "watch_for": [
-        {
-          "event": "Kremlin confirmation or rejection of the energy ceasefire",
-          "date": null
-        },
-        {
-          "event": "EU sanctions package implementation effects",
-          "date": null
-        },
-        {
-          "event": "Fallout from France's shadow-fleet tanker seizure",
-          "date": null
-        },
-        {
-          "event": "Zelensky meets UK PM Burnham at Downing Street; UK faster-arms and new-sanctions pledge",
-          "date": "2026-10-14"
-        },
-        {
-          "event": "Ukraine MOD presses US/SpaceX to resolve Starshield speed restriction on military terminals",
-          "date": null
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Donald Trump",
-          "role": "Claimed the energy ceasefire Oct 11; shrugged off post-truce strikes"
-        },
-        {
-          "name": "Volodymyr Zelensky",
-          "role": "Said Oct 14 overnight Russian energy strike (39 ballistic missiles, 120+ drones) showed 'demonstrative disrespect' toward Trump's ceasefire claim; 600,000+ Ukrainians without power; meets UK PM Burnham at Downing Street Oct 14; confirmed to NPR the US threatened to cut off intel-sharing over refinery strikes"
-        },
-        {
-          "name": "Dmitry Peskov",
-          "role": "Kremlin spokesman; said Oct 14 the energy-ceasefire provisions are 'not established' and work continues — still no Kremlin confirmation of Trump's Oct 11 claim"
-        },
-        {
-          "name": "European Union",
-          "role": "Approved largest sanctions package since 2022"
-        },
-        {
-          "name": "Emmanuel Macron",
-          "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
-        },
-        {
-          "name": "Elon Musk",
-          "role": "SpaceX chief; imposed the 100-mph Starshield speed cap that disrupted Ukrainian drone missions; publicly criticized Zelensky in the dispute"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-14T18:38:43Z",
-      "started_at_utc": "2026-10-12T19:35:00Z",
-      "trend_direction": "steady",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 51,
-        "confirmed": 49,
-        "single-sourced": 2,
-        "unconfirmed": 0,
-        "confirmed_rate": 0.96,
-        "updated_at_utc": "2026-10-14T18:28:58Z"
-      },
-      "phase": "contested-ceasefire"
-    },
-    {
-      "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
-      "folder": "Hurricane-Activity-North-America",
-      "id": "hurricane-activity-north-america",
-      "location": "North America (Atlantic basin, Gulf of Mexico, US Gulf/East coasts, Mexico's Pacific coast)",
-      "status": "archived",
-      "title": "Hurricane Activity Impacting North America",
-      "map_points": [
-        {
-          "latitude": 30.3935,
-          "longitude": -86.4958,
-          "label": "Destin, FL"
-        },
-        {
-          "latitude": 19.052,
-          "longitude": -104.3199,
-          "label": "Manzanillo, Mexico"
-        }
-      ],
-      "trend": "emerging",
-      "trend_updated_at_utc": "2026-10-14T19:56:47Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 82,
-        "sides": {
-          "civilians": {
-            "positive": 14,
-            "negative": 51,
-            "neutral": 10,
-            "overall": "negative"
-          },
-          "mexico_govt": {
-            "positive": 7,
-            "negative": 0,
-            "neutral": 34,
-            "overall": "neutral"
-          },
-          "us_govt": {
-            "positive": 6,
-            "negative": 0,
-            "neutral": 9,
-            "overall": "neutral"
-          },
-          "energy_markets": {
-            "positive": 2,
-            "negative": 1,
-            "neutral": 0,
-            "overall": "positive"
-          }
-        },
-        "updated_at_utc": "2026-10-14T19:56:47Z"
-      },
-      "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened — NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend — while damage tallies keep rising across Guerrero, Colima and Baja California Sur, with Ensenada's death toll from Tropical Cyclone Rachel's remnant flooding reaching 7 on Tuesday Oct 13. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B–$2B for onshore property. DeSantis also raised Florida's storm-related death toll to six; by Wednesday Oct 14 the storm-wide toll reached nine, after the Greenwood County coroner reported 67-year-old Christopher John Miller died Oct 11 when a tree fell on his home in Ninety Six, South Carolina, during Isaias's remnants; by Wednesday morning Oct 14, just over 20,000 customers remained without power — mainly Escambia and Santa Rosa counties — down from 45,000+ Tuesday. Wednesday's NHC updates (Oct 14): Hurricane Simon dipped to 105 mph and drifted southwestward — NHC calls it 'compact' — keeping the weekend coast-approach threat for Sonora; Tropical Storm Trudy strengthened to 50 mph with the track shifted west, and is now expected to reach hurricane strength within 24 hours. Latest NHC advisories (Wed Oct 14, 8-9 AM MST/CST): Hurricane Simon weakened to 90 mph (Category 1), drifting southwestward; Mexico dropped its last coastal watch, leaving no coastal watches or warnings in effect for now, though Baja California Sur watches may be required in the next day or two; Tropical Storm Trudy strengthened to 60 mph and is now expected to become a hurricane tonight and a major hurricane by Friday.",
-      "watch_for": [
-        {
-          "event": "Trudy forecast to become a hurricane tonight, major hurricane by Friday",
-          "date": "2026-10-15"
-        },
-        {
-          "event": "Simon's forecast coast approach this weekend; possible Sunday inland crossing over Sonora",
-          "date": "2026-10-18"
-        },
-        {
-          "event": "Atlantic and Pacific hurricane seasons end",
-          "date": "2026-11-30"
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "National Hurricane Center",
-          "role": "Official advisories and outlooks"
-        },
-        {
-          "name": "Ron DeSantis",
-          "role": "Florida SOE for 25 counties"
-        },
-        {
-          "name": "Kay Ivey",
-          "role": "Alabama SOE for 40 counties"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-20T21:48:35Z",
-      "started_at_utc": "2026-10-12T20:05:00Z",
-      "trend_direction": "falling",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 82,
-        "confirmed": 49,
-        "single-sourced": 33,
-        "unconfirmed": 0,
-        "confirmed_rate": 0.6,
-        "updated_at_utc": "2026-10-14T19:56:47Z"
-      },
-      "phase": "intensifying"
-    },
-    {
-      "id": "us-iran-conflict-strait-of-hormuz",
-      "title": "U.S.–Iran Conflict & Strait of Hormuz",
-      "description": "Live coverage of the U.S.–Iran confrontation — military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
-      "location": "Persian Gulf / Middle East",
-      "folder": "US-Iran-Conflict-Strait-of-Hormuz",
-      "status": "paused",
-      "map_points": [
-        {
-          "latitude": 26.5667,
-          "longitude": 56.25,
-          "label": "Strait of Hormuz"
-        },
-        {
-          "latitude": 35.6892,
-          "longitude": 51.389,
-          "label": "Tehran"
-        }
-      ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-14T14:54:14Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 60,
-        "sides": {
-          "us": {
-            "positive": 8,
-            "negative": 19,
-            "neutral": 9,
-            "overall": "negative"
-          },
-          "iran": {
-            "positive": 6,
-            "negative": 33,
-            "neutral": 9,
-            "overall": "negative"
-          },
-          "markets": {
-            "positive": 2,
-            "negative": 32,
-            "neutral": 6,
-            "overall": "negative"
-          }
-        },
-        "updated_at_utc": "2026-10-14T14:54:14Z"
-      },
-      "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. Late Tuesday, ISW assessed Iran is now deliberately targeting ship-to-ship oil transfers in and near Hormuz; the Houthi-controlled foreign ministry warned airlines that Saudi airports are 'unsafe' except Mecca/Medina, spokesman Yahya Saree declared Aramco sites 'legitimate targets' and told workers and civilians to evacuate Aramco compounds and King Khalid International Airport; and the US State Department raised its Saudi travel advisory to Level 3, with Etihad cancelling Riyadh/Dammam/Jeddah flights through Oct 19. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures. On Tuesday, MI5 chief Ken McCallum said Iran is now targeting British military sites — a 'major shift this year' beyond its usual proxy targets — and that the suspected RAF Fairford drone plot was 'not unique'. Late Tuesday, Trump threatened Iran at a Wasilla, Alaska rally — 'Wait and see what we do to them. We're going to hit them hard' — and Axios reported Trump and Netanyahu discussed a renewed Iran operation before the US elections. Late Tuesday, Trump warned the Houthis he will 'never forget' the Saudi attacks and floated an Erdogan intervention; Brent pushed toward $107 as Morgan Stanley raised its Dated Brent forecast $5 on Hormuz/Houthi supply risk. A WSJ report late Tuesday (Oct 13) said Iran is fortifying nuclear sites and rallying the public in anticipation of renewed US strikes after the Nov 3 midterms, with a third US carrier strike group and a Marine expeditionary unit en route, per the report. Wednesday morning added two incidents: three fishermen were injured when an unidentified drone struck a fishing boat off Sirik in southern Iran's Hormozgan province, and Saudi authorities issued then lifted a mobile aerial-threat alert for Riyadh and the Al-Kharj governorate amid the sharp Houthi-Saudi escalation. On Wednesday Oct 14, Iranian state media shared an IRGC Navy claim that a container ship carrying 2,500+ containers sank south of the strait after striking a naval mine (unverified, date of incident unclear). Late Wednesday Oct 14, Iran lodged a formal protest with the IMO (letter dated Oct 9), accusing US forces of misusing VHF Channel 16 in the Persian Gulf to intimidate seafarers. Also late Wednesday Oct 14, Reuters confirmed the Singapore-flagged container ship GFS Pride (2,824 TEU) SANK after a projectile strike — the second vessel lost since the war began, with MPA Singapore confirming all 21 crew evacuated — and the bulk carrier Cape Dao (hit Sep 23) is also sinking after a failed rescue attempt; AFP separately counted FOUR ship attacks on Tuesday Oct 13, not two (GFS Pride, GFS Giselle with minor damage and 22 crew safe, Al Saadiyat with no significant damage, tanker Alfonso of unclear status), pushing UKMTO's October tally to 24 warnings. On Oct 13, twelve bipartisan senators (Republicans McConnell, Tillis, Collins, Armstrong, Murkowski and Cornyn; Democrats Blumenthal, Shaheen, Durbin, Whitehouse, Reed and Coons) wrote to Trump urging him to rescind OFAC General License No. 135, which temporarily eased sanctions to let Russian diesel into global markets — tying Iran-war-driven fuel prices to the sanctions relief.",
-      "watch_for": [
-        {
-          "event": "US midterm elections; Trump ruled out pre-midterm strikes",
-          "date": "2026-11-03"
-        },
-        {
-          "event": "Iran's formal response to the US reply on seven conditions",
-          "date": null
-        },
-        {
-          "event": "Potential renewed US strikes on Iran after midterms (Tehran fortifying nuclear sites in anticipation)",
-          "date": null
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Donald Trump",
-          "role": "Threatened Iran at Oct 13 Alaska rally — 'We're going to hit them hard'; says war 'will end very soon'"
-        },
-        {
-          "name": "Benjamin Netanyahu",
-          "role": "Israeli PM; discussed a renewed Iran operation with Trump before the US elections, per Axios"
-        },
-        {
-          "name": "Iranian Foreign Minister",
-          "role": "Reviewing US reply; called it 'inadequate' Oct 11"
-        },
-        {
-          "name": "UKMTO",
-          "role": "Confirmed six vessels struck Oct 11; Tuesday projectile strike off Khasab"
-        },
-        {
-          "name": "Andy Burnham",
-          "role": "UK PM; blamed IRGC for RAF Fairford plot, 29 nations backed attribution"
-        },
-        {
-          "name": "Yahya Saree",
-          "role": "Houthi military spokesman; warned airlines Saudi airports 'unsafe', declared Aramco sites legitimate targets, urged evacuations"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-14T14:10:26Z",
-      "started_at_utc": "2026-10-03T12:00:00Z",
-      "trend_direction": "steady",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 60,
-        "confirmed": 50,
-        "single-sourced": 6,
-        "unconfirmed": 4,
-        "confirmed_rate": 0.83,
-        "updated_at_utc": "2026-10-14T14:54:14Z"
-      },
-      "phase": "standoff"
-    },
-    {
-      "id": "us-midterms-2026",
-      "title": "2026 US Midterm Elections",
-      "description": "Polls, early voting, key House/Senate/gubernatorial races, and campaign moves ahead of the Nov 3, 2026 US midterm elections.",
-      "location": "United States",
-      "folder": "US-Midterms-2026",
-      "status": "paused",
-      "map_points": [
-        {
-          "latitude": 38.9072,
-          "longitude": -77.0369,
-          "label": "Washington, DC"
-        }
-      ],
-      "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop. Late Tuesday pinned Trump's North Carolina stop to Greenville on Tue Oct 20, and data showed NC early voting down ~19% vs 2022 with the Democratic share falling; fresh polls put Democrat Troy Jackson ahead of Susan Collins 50-46 in Maine's Senate race (with Obama's endorsement), Deb Haaland up 49-42 in New Mexico's governor race, and Tina Kotek with her first public-poll lead (46-44) in Oregon's governor race — as Obama ramped up involvement with a Detroit GOTV rally on Oct 24 and 24 recorded ads. Georgia set a midterm first-day early-voting record on Tuesday Oct 13 (188,628 ballots — VoteHub breakdown: 50.3% White, 36.6% Black, just 4.7% under-30), and New Mexico's early vote saw Democrats cast more than double the Republican ballots, with 29,786 ballots statewide through Oct 13. A Star Tribune/KARE 11 (Mason-Dixon) poll has Klobuchar leading Demuth 50-41 in Minnesota's governor race; the RGA spent in Vermont for the first time since 2018 ($400K backing Gov. Phil Scott); a pro-Collins super PAC's $25K digital ad buy mistakenly ran in Portland, Oregon instead of Portland, Maine and was pulled; Trump added a Wednesday double-header (Bullhead City, AZ and Kalispell, MT) to his rally schedule; a judge denied restoring 92 Tarrant County, TX polling sites cut by Republican commissioners; and Virginia Gov. Spanberger touted 450,000+ early votes already cast vs ~200,000 at the same point in 2022; a viral claim that Talarico was treated at an Ohio mental-health facility was debunked; and a Quinnipiac poll has Shapiro up 59-34 in the PA governor race with voters favoring Democrats to win House control by 15 points. An Economist/YouGov release Tuesday put Democrats +14 on the generic ballot among likely voters (52-38) — the largest lead of the three-week series — while prediction markets price Democratic Senate control at ~60% (down ~3 pts on the week) and House control steady near 90%. Trump is also finalizing an Oct 21 Greenville, SC rally with Sen. Darline Graham (per MS NOW, Oct 13), and Gov. Gavin Newsom will campaign across New Hampshire on Saturday Oct 17, with an Exeter rally and a Nashua canvassing launch alongside Senate candidate Chris Pappas. Ohio's first statewide early-voting tally showed 228,470 ballots cast; a NewsNation/DDHQ poll found only 46% of voters trust all midterm votes will be counted accurately, and independents lean Democratic but just 35% have made up their minds. A University of Houston/Hobby poll late Tuesday had Talarico up 22 points over Paxton among Harris County voters. The DOJ said 64 foreign nationals were charged with illegal voting across 17 states in a five-week crackdown (reported Oct 11 via figures given to Fox News). Tuesday night, Trump held a 90-minute rally in Wasilla, Alaska for Sen. Dan Sullivan in the toss-up Senate race and endorsed Bernadette Wilson for governor; in Ohio, in-person early voting is outpacing 2022, with Democrats casting 56% of in-person ballots Tue-Fri in southwest Ohio. A CNN fact check found Trump's 'gas cheaper than Biden' claim false (AAA average $4.36/gal, 39% above inauguration day); Texas Democrats clashed with DGA chair Andy Beshear over funding for the Hinojosa gubernatorial bid; and an Emerson/The Hill Iowa poll showed Hinson 47-45 Turek in the Senate race and Sand 49-45 Lahn for governor. Late Tuesday, Kansas Democrat Adam Hamilton raised $10.6M in Q3 (per Politico), underscoring Democratic bullishness on flipping the Kansas Senate seat for the first time since 1932. A Reuters piece published Oct 14 reports midterm betting has surged this year on Polymarket and Kalshi, flagging insider-trading and integrity concerns — Kalshi suspended a handful of candidates for betting on their own races — while a new Reuters/Ipsos poll (published Oct 12) found most Americans oppose using prediction markets to wager on elections. Separate Reuters original reporting from Youngstown/Warren on Oct 14 found Ohio working-class voters 'rethinking' support for Trump — rising prices, the Iran war and his rhetoric chipping at his support — with early voting favoring Democrats (wire-only, single-sourced). Late Wednesday added Texas storylines: the WSJ reported Ken Paxton partied in Dubai on NYE 2024 with two indicted US fugitives (one donated $190k to him), while a WaPo investigation found he issued AG legal opinions benefiting wealthy donors; and fresh Texas polls had Talarico leading Paxton 50-47 (UT/Texas Politics Project) and 47-45 (Marist), with Hinojosa trailing Abbott by 1 point in one and 4 in the other. On Oct 13, three Senate debates played out: in Georgia, Ossoff and Collins traded Epstein-files attacks — Collins over Reid Hoffman donations ('The Epstein class is on stage right now, and it's you'), Ossoff hitting back that Collins voted to 'cover up the evidence' and that Trump is 'named 1,000 times in the Epstein files' — and Ossoff ruled out a 2028 presidential run; in Maine, Collins repeatedly distanced herself from Trump, criticizing his Iran war plan, her own 'One Big Beautiful Bill' vote over Medicaid cuts, and Canada tariffs, with heating oil (up ~80% year over year) and the Iran war dominating the clash with Troy Jackson; in Iowa's final Senate debate, Hinson hammered Turek over missing 58% of Iowa House floor votes while both opposed Trump's Russian diesel deal, with early voting starting Oct 14. Elon Musk was confirmed as the cycle's top GOP donor — at least $276M into the midterms since July ($366M this cycle overall: $158M to the Senate Leadership Fund, $76M to his own GOTV effort, $20M to the Congressional Leadership Fund, $10M for Paxton's Lone Star Liberty PAC, $10M to the RGA, $2M to RAGA). Reuters published a special report (50+ expert interviews) mapping nine ways the Trump administration could test federal authority over the midterms, from ballot seizures to delayed certification. And a catch-up from Oct 2–5: the NAACP sued DOJ Civil Rights Division head Harmeet Dhillon in D.C. federal court over a plan to deploy ~1,000 federal 'election monitors' to midterm polling sites in all 50 states — the largest such deployment ever — a FOIA suit seeking emergency disclosure, not a block. Late Wednesday Oct 14, Politico reported top Republicans privately concede the House is lost — the party now in triage to save seats and salvage the Senate — and the top House GOP super PAC abandoned its bid to beat Rep. Henry Cuellar (D-TX) in a district Republicans redrew for themselves; a new Suffolk poll has Maine's Senate race a coin toss (Jackson 49, Collins 47); and a federal judge heard a challenge to North Carolina's new mail-ballot rules one day before early voting starts there. A new CNN analysis of AdImpact data (Oct 14) found Republicans outspent Democrats $233M to $121M on broadcast TV ads across nine competitive Senate races last month — nearly double — but gained only about 40% more reach; and Stetson University's October Florida poll has Byron Donalds up 52-41 in the governor race and Moody up 11 for Senate. An AP investigation (published Oct 12) found more than three dozen new voting laws passed in GOP-controlled states taking effect this year — tougher voter-ID rules, proof-of-citizenship requirements, stricter mail-ballot deadlines, new voter-roll procedures — many mirroring Trump's stalled federal proposals; the Brennan Center counts nearly 40 such laws across 21 states. Late Wednesday Oct 14, a new Cygnal poll (released Oct 13, fielded Oct 7-10) put Democrats +9 on the generic congressional ballot, and a Civiqs tracker refresh found Trump net-positive in just 10 states with Montana flipping to a 46-46 tie.",
-      "watch_for": [
-        {
-          "event": "Election Day",
-          "date": "2026-11-03"
-        },
-        {
-          "event": "Trump rally in Wichita, Kansas for Sen. Roger Marshall",
-          "date": "2026-10-19"
-        },
-        {
-          "event": "Trump 'Midterm Rally' in Highland Heights, Kentucky (open McConnell Senate seat, KY-4)",
-          "date": "2026-10-17"
-        },
-        {
-          "event": "Trump midterm rally in Greenville, North Carolina",
-          "date": "2026-10-20"
-        },
-        {
-          "event": "Obama Detroit GOTV rally with Abdul El-Sayed and Jocelyn Benson",
-          "date": "2026-10-24"
-        },
-        {
-          "event": "Final pre-election polls and forecast updates",
-          "date": null
-        },
-        {
-          "event": "Archive this tracker",
-          "date": "2026-11-04"
-        },
-        {
-          "event": "Trump rally with Sen. Darline Graham in Greenville, South Carolina",
-          "date": "2026-10-21"
-        },
-        {
-          "event": "Gov. Newsom campaigns across New Hampshire (Exeter rally, Nashua canvassing launch)",
-          "date": "2026-10-17"
-        },
-        {
-          "event": "CNN & Jubilee town hall with James Talarico",
-          "date": "2026-10-14"
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Donald Trump",
-          "role": "President; rally blitz KY (Oct 17), KS (Oct 19), NC (Oct 20); called the midterms a referendum on his presidency"
-        },
-        {
-          "name": "James Talarico",
-          "role": "Democratic Senate candidate, Texas; leads Paxton 50-47 (UT/Texas Politics Project) and 47-45 (Marist) in new October polls"
-        },
-        {
-          "name": "Barack Obama",
-          "role": "Endorsed ME's Troy Jackson; Detroit GOTV rally Oct 24 with El-Sayed/Benson; 24 recorded ads"
-        },
-        {
-          "name": "Roy Cooper",
-          "role": "Democratic NC Senate candidate; leads 54-40 in WRAL/SurveyUSA, his strongest yet"
-        },
-        {
-          "name": "Ilhan Omar",
-          "role": "Rep.; D.C. home raided Oct 12 by DHS/HSI in immigration-fraud probe; calls it political intimidation"
-        },
-        {
-          "name": "Elon Musk",
-          "role": "Confirmed as the cycle's top GOP donor: $276M+ into the midterms since July ($366M overall); $158M to the Senate Leadership Fund, $76M to his own GOTV, $10M for Paxton's Lone Star Liberty PAC"
-        }
-      ],
-      "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-14T19:07:15Z",
-      "started_at_utc": "2026-10-13T22:55:00Z",
-      "trend": "hot",
-      "trend_direction": "rising",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 100,
-        "confirmed": 64,
-        "single-sourced": 36,
-        "unconfirmed": 0,
-        "confirmed_rate": 0.64,
-        "updated_at_utc": "2026-10-14T18:49:01Z"
-      },
-      "trend_updated_at_utc": "2026-10-14T18:49:01Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 100,
-        "sides": {
-          "democrats": {
-            "positive": 50,
-            "negative": 17,
-            "neutral": 10,
-            "overall": "positive"
-          },
-          "republicans": {
-            "positive": 25,
-            "negative": 46,
-            "neutral": 11,
-            "overall": "negative"
-          },
-          "trump": {
-            "positive": 8,
-            "negative": 17,
-            "neutral": 4,
-            "overall": "negative"
-          },
-          "voters": {
-            "positive": 8,
-            "negative": 6,
-            "neutral": 14,
-            "overall": "neutral"
-          }
-        },
-        "updated_at_utc": "2026-10-14T18:49:01Z"
-      }
-    },
-    {
-      "description": "Live coverage of the French protest movement that began with Paris lycée student blockades in September 2026 and escalated into nationwide cost-of-living demonstrations — marches, clashes, arrests and injuries, union and student actions, government response, and the parliamentary budget fight.",
-      "folder": "Paris-Protests-France",
-      "id": "paris-protests-france",
-      "location": "Paris, France (nationwide)",
-      "status": "active",
-      "title": "Paris Protests — France Cost-of-Living Unrest",
-      "map_points": [
-        {
-          "latitude": 48.8566,
-          "longitude": 2.3522,
-          "label": "Paris"
-        },
-        {
-          "latitude": 48.8676,
-          "longitude": 2.3639,
-          "label": "Place de la République, Paris"
-        },
-        {
-          "latitude": 43.2965,
-          "longitude": 5.3698,
-          "label": "Marseille"
-        },
-        {
-          "latitude": 45.764,
-          "longitude": 4.8357,
-          "label": "Lyon"
-        },
-        {
-          "latitude": 45.8336,
-          "longitude": 1.2611,
-          "label": "Limoges"
-        }
-      ],
-      "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T01:43:51Z",
-      "impact_summary": {
-        "window": "7d",
-        "items_in_window": 22,
-        "sides": {
-          "protesters": {
-            "positive": 4,
-            "negative": 12,
-            "neutral": 1,
-            "overall": "negative"
-          },
-          "govt_police": {
-            "positive": 6,
-            "negative": 9,
-            "neutral": 4,
-            "overall": "negative"
-          },
-          "unions": {
-            "positive": 4,
-            "negative": 0,
-            "neutral": 0,
-            "overall": "positive"
-          },
-          "opposition": {
-            "positive": 5,
-            "negative": 1,
-            "neutral": 0,
-            "overall": "positive"
-          }
-        },
-        "updated_at_utc": "2026-10-21T01:43:51Z"
-      },
-      "current_summary": "France's school-born protest movement exploded nationwide on Saturday, Oct 17: 550,000 people (Interior Ministry count; the CGT says 800,000) marched in 140+ towns over living costs, wages and crumbling public services, with 110,000 in Paris. Evening clashes at Place de la République and attacks on town halls in Limoges, Lyon and Marseille left roughly 400 people arrested, about 60 officers injured and a 15-year-old maimed by a police stun grenade. Interior Minister Laurent Nuñez's resignation offer was reportedly refused, and the government heads into a critical parliamentary budget vote with Mélenchon's France Unbowed and Le Pen's National Rally both courting the anger ahead of the 2027 presidential election.",
-      "watch_for": [
-        {
-          "event": "Weekend protest mobilization — whether unions/students call a second nationwide day of action",
-          "date": "2026-10-24"
-        },
-        {
-          "event": "Parliamentary vote on the government budget (expected late October) and any no-confidence motion",
-          "date": "2026-10-31"
-        }
-      ],
-      "key_figures": [
-        {
-          "name": "Emmanuel Macron",
-          "role": "President of France; denounced the Oct 17 violence"
-        },
-        {
-          "name": "Sébastien Lecornu",
-          "role": "Prime Minister; condemned the clashes as 'extremely intense'"
-        },
-        {
-          "name": "Laurent Nuñez",
-          "role": "Interior Minister; offered resignation over the police response — reportedly refused"
-        },
-        {
-          "name": "CGT",
-          "role": "Union confederation backing the protests; claimed 800,000 turnout on Oct 17"
-        },
-        {
-          "name": "Jean-Luc Mélenchon",
-          "role": "France Unbowed leader courting the protest vote"
-        },
-        {
-          "name": "Marine Le Pen",
-          "role": "National Rally leader courting the protest vote"
-        }
-      ],
-      "curation_updated_at_utc": "2026-10-20T21:37:14Z",
-      "started_at_utc": "2026-10-20T21:36:38Z",
-      "trend_direction": "rising",
-      "verification": {
-        "window": "7d",
-        "items_in_window": 22,
-        "confirmed": 19,
-        "single-sourced": 3,
-        "unconfirmed": 0,
-        "confirmed_rate": 0.86,
-        "updated_at_utc": "2026-10-21T01:43:51Z"
-      },
-      "phase": "escalating"
+     "latitude": 28.6139,
+     "longitude": 77.209,
+     "label": "New Delhi"
     }
-  ],
-  "updated_at_utc": "2026-10-21T01:43:51Z"
+   ],
+   "trend": "warm",
+   "trend_updated_at_utc": "2026-10-18T02:00:02Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 304,
+    "sides": {
+     "police_govt": {
+      "positive": 5,
+      "negative": 147,
+      "neutral": 39,
+      "overall": "negative"
+     },
+     "india_bloc": {
+      "positive": 63,
+      "negative": 30,
+      "neutral": 10,
+      "overall": "positive"
+     },
+     "cjp_protesters": {
+      "positive": 117,
+      "negative": 34,
+      "neutral": 9,
+      "overall": "positive"
+     },
+     "courts": {
+      "positive": 12,
+      "negative": 3,
+      "neutral": 53,
+      "overall": "neutral"
+     },
+     "bjp": {
+      "positive": 11,
+      "negative": 53,
+      "neutral": 2,
+      "overall": "negative"
+     }
+    },
+    "updated_at_utc": "2026-10-18T02:00:02Z"
+   },
+   "current_summary": "CJP's 24-hour ultimatum to Delhi Police expired on Oct 13 without protest permission; police registered an FIR against co-conveners Saurav Das and Ashutosh Ranka for alleged trespass at Jantar Mantar and breach of their one-year peace bond, while the INDIA bloc escalated — Rahul Gandhi pledged to challenge Jantar Mantar's de-notification, proposed an early-November Ramlila Maidan rally, and told leaders to be ready to mobilise within 24 hours. Late Tuesday added two flashpoints: Dipke publicly challenged CJI Surya Kant over law-and-order remarks (he's expected in Delhi Oct 14), and a journalist who says she is three months pregnant alleged Gandhi pushed her during the Oct 12 march — amplified by the BJP, denied by Congress. Early Wednesday (~2:30 AM IST), Delhi Police moved the detained leaders out of Jaffarpur Kalan police station; they were brought to Parliament Street police station at ~3 AM, and on Wednesday morning Oct 14 the SEM court at Mandir Marg remanded Das and Ranka to 5 days' judicial custody — Ajinkya Shinde was released on a personal bond, per LiveLaw. Dipke's first response dared Modi to 'declare an Emergency'; the CJP's official handle called Das and Ranka the 'first in their bloodline to be jailed for unfurling the national flag' and warned 'Emergency 2.0' is here. Overnight into Wednesday, Dipke posted an IG reel demanding Ranka and Das's release. Late Tuesday night, Rahul Gandhi publicly backed CJP on X, calling waving the Tricolour 'not a crime' and jailing young protesters 'an act of cowardice'; Wednesday morning, Dipke issued his first video statement after the custody order, charging an 'unofficial Emergency' and rejecting the 'Urban Naxalism' tag. On Wednesday (~10:53 AM IST Oct 14), Delhi Police released an official statement on the arrests — citing alleged repeated attempts to disturb public peace and instigate others through social media, publishing FIR numbers, and revealing that Ajinkya Shinde was bound down for six months (he was released on a personal bond). On Wednesday (~2:10 PM IST Oct 14), AIMIM chief Asaduddin Owaisi moved the Supreme Court challenging the SIR of electoral rolls, opening a second front in the ballot-revision litigation alongside the INDIA bloc's pending writ petition. On Wednesday afternoon Oct 14 (~3:27 PM IST), Dipke arrived in Delhi from Hingoli — fulfilling his Oct-13 pledge — with PTI footage showing him mobbed by reporters at the airport terminal. Later on Wednesday afternoon (~4:37 PM IST Oct 14), in his first Delhi press scrum since arriving from Hingoli, Dipke answered BJP leader Piyush Goyal's charge that Congress bribed former CECs with Padma awards, challenged lawyer Harish Salve and Maharashtra CM Devendra Fadnavis to produce evidence for their foreign-funding claims and hand it to Home Minister Amit Shah, and argued hoisting the Tricolour cannot be treated as a peace-bond violation, invoking the Constitution, Dr. B.R. Ambedkar and voting rights. Late Wednesday, Dipke called a fresh 'Lehra Do Tiranga' protest march at Central Park, Connaught Place, Delhi, for Oct 16 at 5 PM, protesting Das and Ranka's 5-day judicial custody. Late Wednesday (~2:49 PM IST Oct 14), Dipke announced the 11 CJP volunteers detained in Tuesday's Jantar Mantar gate-entry incident had been released — 'Spirits unbroken, waving the tricolour the moment they walked free' — independently corroborated by Livemint citing CJP legal head Ratna Singh. Late Wednesday (~8:02 PM IST Oct 14), Saket Court proceedings targeted YouTuber Dhruv Rathee — fresh dasti summons in the 2018 defamation case (Ct. Cases 5786/2018, issued Oct 12 by JM Rahul Jain citing Rathee's presence in India for the CJP protest), plus a separate civil defamation suit over his Ram-Sita video with the next hearing Nov 5. Late Wednesday (~8:59 PM IST Oct 14), singer Mary Millben alleged US donors were funding CJP and called for youth counter-protests; Dipke rejected the claim on X.",
+   "watch_for": [
+    {
+     "event": "Das and Ranka's 5-day judicial custody ends; next hearing",
+     "date": "2026-10-19"
+    },
+    {
+     "event": "Supreme Court hearing on protest pleas; Delhi HC hears fresh Jantar Mantar PIL",
+     "date": "2026-10-15"
+    },
+    {
+     "event": "Delhi HC metro-stations/Jantar Mantar PILs hearing",
+     "date": "2026-10-16"
+    },
+    {
+     "event": "Delhi HC NSUI outsiders-assault PIL hearing (corrected from November)",
+     "date": "2026-10-16"
+    },
+    {
+     "event": "Supreme Court hearing on INDIA bloc's SIR writ petition",
+     "date": null
+    },
+    {
+     "event": "Lehra Do Tiranga protest march, Central Park, Connaught Place, Delhi (called by Dipke, protesting Das and Ranka's 5-day JC)",
+     "date": "2026-10-16"
+    },
+    {
+     "event": "INDIA-bloc Ramlila Maidan rally with proposed 'impeach the CEC' move",
+     "date": null
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Abhijeet Dipke",
+     "role": "CJP founder; arrived in Delhi Oct 14, fulfilling his Oct-13 pledge; first video statement after custody order charged an 'unofficial Emergency', rejected the 'Urban Naxalism' tag; alleged custodial mistreatment; called a 'Lehra Do Tiranga' march at Connaught Place for Oct 16, 5 PM"
+    },
+    {
+     "name": "Saurav Das",
+     "role": "CJP co-convener; remanded to 5 days' judicial custody Oct 14 (SEM Mandir Marg) in Jantar Mantar trespass case"
+    },
+    {
+     "name": "Ashutosh Ranka",
+     "role": "CJP co-convener; remanded to 5 days' judicial custody Oct 14 (SEM Mandir Marg) in Jantar Mantar trespass case"
+    },
+    {
+     "name": "Rahul Gandhi",
+     "role": "INDIA bloc; publicly backed CJP on X Oct 14 — waving the Tricolour 'not a crime', jailing youth 'an act of cowardice'; told leaders to be ready to mobilise within 24 hours; pledged to challenge de-notification"
+    },
+    {
+     "name": "Ratna Singh",
+     "role": "CJP legal head; confirmed bond-violation charges as Das and Ranka were remanded to 5 days' judicial custody Oct 14"
+    },
+    {
+     "name": "Asaduddin Owaisi",
+     "role": "AIMIM chief; moved the Supreme Court Oct 14 challenging the Election Commission's SIR of electoral rolls — a second front alongside the INDIA bloc's pending writ petition"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-14T19:07:15Z",
+   "started_at_utc": "2026-10-10T04:30:00Z",
+   "trend_direction": "falling",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 300,
+    "confirmed": 153,
+    "single-sourced": 139,
+    "unconfirmed": 8,
+    "confirmed_rate": 0.51,
+    "updated_at_utc": "2026-10-18T02:00:02Z"
+   },
+   "phase": "standoff"
+  },
+  {
+   "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
+   "folder": "Houthi-Riyadh-Escalation",
+   "id": "houthi-riyadh-escalation",
+   "location": "Saudi Arabia / Red Sea region",
+   "status": "active",
+   "title": "Houthi-Riyadh Escalation",
+   "map_points": [
+    {
+     "latitude": 24.7136,
+     "longitude": 46.6753,
+     "label": "Riyadh"
+    },
+    {
+     "latitude": 26.4207,
+     "longitude": 50.0888,
+     "label": "Dammam"
+    }
+   ],
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-14T18:46:08Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 61,
+    "sides": {
+     "civilians": {
+      "positive": 2,
+      "negative": 26,
+      "neutral": 9,
+      "overall": "negative"
+     },
+     "houthis": {
+      "positive": 4,
+      "negative": 44,
+      "neutral": 3,
+      "overall": "negative"
+     },
+     "saudi_govt": {
+      "positive": 18,
+      "negative": 22,
+      "neutral": 10,
+      "overall": "negative"
+     },
+     "us": {
+      "positive": 1,
+      "negative": 1,
+      "neutral": 9,
+      "overall": "neutral"
+     }
+    },
+    "updated_at_utc": "2026-10-14T18:46:08Z"
+   },
+   "current_summary": "Tuesday Oct 13 saw the sharpest escalation yet: Houthis struck Aramco's Dhahran HQ (limited fire in an admin building, no injuries) and fired on Riyadh, where the coalition says it downed three drones over northern Riyadh plus three missiles and two drones aimed at Riyadh and Aramco; the coalition followed its Sanaa fuel-site evacuation order with fresh airstrikes on Sanaa (Houthis claim 2 killed, 2 injured at the fuel hub), while Houthi strikes on Taiz killed 6 and injured 18, and four people in Riyadh were injured by falling debris from the intercepted night volley — the first reported Riyadh injuries. Trump blamed Iran and hinted at US military action after the Nov 3 midterms; Saudi Arabia's Cabinet warned of 'consequences' and launched an inquiry into the air-defence gaps; Egypt pressed Iran to halt the attacks; airlines kept ferrying aircraft out of Riyadh, and King Khalid airport remains closed till Oct 17. Overnight, Saudi Civil Defense said debris from a Houthi cruise missile destroyed over Al-Kharj fell on Riyadh, wounding four (two women, a man and a child) and damaging 15 homes; the Houthi-run health ministry said two people were killed in a coalition strike on a Hodeidah oil facility. Reuters reported Saudi Arabia had stopped issuing public attack warnings days before the deadly airport strikes, and the kingdom plans to hold the FII 'Davos in the Desert' conference later this month as a hybrid event. On the aviation front, British Airways said it will resume one daily Riyadh flight from Nov 3, with the FAA advisory running to Dec 10 and EASA's bulletin to Nov 16; Aegean cancelled Riyadh flights through Oct 24. Turkey's Erdogan called MBS on Tuesday to condemn the Houthi attacks and pledged continued support, while Trump called the Houthis 'behaving very badly' and said he may ask Erdogan to help Saudi Arabia. On Wednesday morning Oct 14, the coalition said it intercepted another Houthi ballistic missile aimed at Riyadh. Late Wednesday Oct 14, the Houthis publicly claimed responsibility for strikes on Aramco's Dhahran facilities, King Khalid International Airport and a Riyadh refinery, pledging their operations against Saudi airports and oil facilities would continue in the coming days. On Wednesday morning, Reuters independently confirmed the coalition intercepted another Houthi ballistic missile toward Riyadh — loud booms heard in the capital — and Saudi authorities issued then lifted an aerial-threat alert for Riyadh. Wednesday afternoon brought further developments: AP reported two regional officials saying Aramco's chief executive's office was among the rooms hit in the Tuesday-night Dhahran strike; senior Houthi official Mohamed al-Bukhaiti told the AP that Oman, Russia and China are pushing for a ceasefire deal; the WSJ reported (citing a Conflict Armament Research report) that the Houthis are attempting to manufacture an advanced medium-range ballistic missile using Chinese-delivered parts — components for a version of Iran's Kheibar Shekan family; and the French embassy advised French citizens to avoid the airports in Riyadh, Jeddah and Dammam. Wednesday afternoon, Reuters reported sources saying Aramco's Dhahran HQ suffered 'extensive damage' in the Tuesday-night strike — staff sent home and some functions shifted abroad — while Brent held ~$106 as traders priced Houthi-Saudi supply risk. On Wednesday evening Oct 14 (~8:43 PM Riyadh time), the Houthis claimed another ballistic-missile strike on King Khalid International Airport; separately, senior Houthi political-bureau member Mohamed al-Bukhaiti told the AP that Oman, Russia and China are pushing both sides toward a ceasefire deal.",
+   "watch_for": [
+    {
+     "event": "Riyadh airport NOTAM expiry; reopening decision",
+     "date": "2026-10-17"
+    },
+    {
+     "event": "Saudi/coalition retaliation strikes in Yemen",
+     "date": null
+    },
+    {
+     "event": "Possible US military action hinted by Trump after midterms",
+     "date": "2026-11-03"
+    },
+    {
+     "event": "FAA advisory for Saudi airspace expires; EASA bulletin expiry",
+     "date": "2026-11-16"
+    },
+    {
+     "event": "British Airways resumes one daily Riyadh flight",
+     "date": "2026-11-03"
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Yahya Saree",
+     "role": "Houthi military spokesman; threatened Riyadh retaliation, warned Aramco staff"
+    },
+    {
+     "name": "Saudi Energy Minister",
+     "role": "Vowed retaliation after airport and Aramco attacks"
+    },
+    {
+     "name": "Mohammed bin Salman",
+     "role": "Reported pressing Trump for US military action against Houthis"
+    },
+    {
+     "name": "Mohamed al-Bukhaiti",
+     "role": "Senior Houthi political-bureau official; told the AP Oct 14 that Oman, Russia and China are pushing for a ceasefire deal"
+    },
+    {
+     "name": "Donald Trump",
+     "role": "Blamed Iran for Houthi attacks; hinted at US military action after midterms"
+    },
+    {
+     "name": "Recep Tayyip Erdogan",
+     "role": "Turkish president; called MBS to condemn the Houthi attacks, pledged support; Trump said he may ask Erdogan to help Saudi Arabia"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-21T03:38:39Z",
+   "started_at_utc": "2026-10-12T18:20:00Z",
+   "trend_direction": "rising",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 61,
+    "confirmed": 40,
+    "single-sourced": 21,
+    "unconfirmed": 0,
+    "confirmed_rate": 0.66,
+    "updated_at_utc": "2026-10-14T18:46:08Z"
+   },
+   "phase": "escalation"
+  },
+  {
+   "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
+   "folder": "Russia-Ukraine-Energy-Ceasefire",
+   "id": "russia-ukraine-energy-ceasefire",
+   "location": "Ukraine / Russia / Eastern Europe",
+   "status": "active",
+   "title": "Russia-Ukraine War & Energy Ceasefire",
+   "map_points": [
+    {
+     "latitude": 50.4501,
+     "longitude": 30.5234,
+     "label": "Kyiv"
+    },
+    {
+     "latitude": 55.7558,
+     "longitude": 37.6173,
+     "label": "Moscow"
+    },
+    {
+     "latitude": 49.9935,
+     "longitude": 36.2304,
+     "label": "Kharkiv"
+    }
+   ],
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-14T18:28:58Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 51,
+    "sides": {
+     "russia": {
+      "positive": 5,
+      "negative": 30,
+      "neutral": 12,
+      "overall": "negative"
+     },
+     "ukraine": {
+      "positive": 12,
+      "negative": 20,
+      "neutral": 8,
+      "overall": "negative"
+     },
+     "us": {
+      "positive": 4,
+      "negative": 8,
+      "neutral": 20,
+      "overall": "neutral"
+     },
+     "civilians": {
+      "positive": 2,
+      "negative": 20,
+      "neutral": 1,
+      "overall": "negative"
+     },
+     "eu": {
+      "positive": 8,
+      "negative": 3,
+      "neutral": 2,
+      "overall": "positive"
+     },
+     "uk": {
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0,
+      "overall": "positive"
+     }
+    },
+    "updated_at_utc": "2026-10-14T18:28:58Z"
+   },
+   "current_summary": "Trump's claimed 'energy ceasefire' is fraying: after Russia's Defence Ministry reported no energy targets hit overnight Oct 12-13, Russian drones sank a cargo ship off Bulgaria with 11 sailors missing, and late Tuesday ballistic missiles hit Kyiv targeting thermal plant No. 4 (Darnytska CHP-4), killing 1 and injuring 13. Zelensky confirmed to NPR that the Trump administration did threaten to cut off intelligence-sharing over Ukraine's refinery strikes — contradicting Trump's same-day denial — and counter-offered a Ukrainian 'diesel deal' to Trump's Russian diesel arrangement; France seized the suspected shadow-fleet tanker DF Peak near Réunion (Moscow called it 'piracy'), while Germany and Canada rejected the US-brokered diesel deal. Late Tuesday, 12 bipartisan senators urged Trump to rescind the Russian diesel deal, and WaPo reported the US and Europe are drafting a joint four-pillar peace plan (reconstruction/compensation, security guarantees, a frontline ceasefire, plus an energy deal). Overnight into Wednesday Oct 14, an overnight Oct 13-14 Russian strike wave on Kyiv-region energy plants (TPP-5, Trypillia TPP) — now confirmed by Kyiv Independent — marks the clearest sign yet the 'energy ceasefire' is not holding. Wednesday morning Oct 14 brought further strikes on both sides: Reuters reported Mayor Vitali Klitschko saying Russian air strikes killed one person and injured one more in Kyiv while hitting energy facilities, and a Ukrainian drone attack killed one person and damaged houses in Balakovo in Russia's Saratov region, per the governor. On Wednesday Oct 14, Zelensky said the overnight Russian attack used 39 ballistic missiles and 120+ attack drones — 'demonstrative disrespect' toward Trump's ceasefire claim — leaving 600,000+ Ukrainians without power; he is meeting UK PM Andy Burnham at Downing Street on Wednesday, with Burnham expected to pledge faster arms deliveries and new sanctions. On Wednesday, Russia's Defence Ministry claimed the overnight wave struck 7 Ukrainian energy facilities plus a Kyiv data centre. By Wednesday morning the overnight strike-wave toll had risen to at least six killed across Ukraine. On Wednesday morning Oct 14, Italy's PM Giorgia Meloni told parliament the US-Russia diesel deal was a 'very risky choice' that undercuts efforts to force Putin to negotiate; Zelensky detailed the overnight wave's toll — equipment damaged at 26 power-system facilities and four oil-and-gas facilities, 600,000+ without power — and urged Trump for stronger sanctions and more Patriots, while Peskov denied any direct link between the diesel deal and Moscow's Ukraine stance. On Wednesday Oct 14, Peskov gave the Kremlin's clearest position yet: the energy ceasefire's provisions are 'not established' and work continues — with no Kremlin confirmation of Trump's Oct 11 claim. The same day, Romania scrambled F-16s after drones were detected near the Ukraine border. Wednesday (Oct 14, reported 7:33 AM PDT), CNN detailed the SpaceX Starshield restriction: the cap targets Ukraine's military-grade Starshield terminals (not consumer Starlink) — terminals lose link above 100 mph, with the 7th Rapid Reaction Corps telling Reuters of 10-20 sec dropouts even at 110-120 km/h, forcing some mission cancellations; Ukraine learned of it via SpaceX customer support only after filing a complaint, with no prior warning, and Kyiv's MOD is now in contact with the US, SpaceX and NATO while testing backup channels; Musk publicly criticized Zelensky over the dispute. CNN also raised the overnight strike-wave toll to at least 10 killed and dozens injured (Kyiv 3/21, Kharkiv 4/41, Dnipropetrovsk 2/6, Zaporizhzhia 1), noting Ukraine downed only 4 of the 39 ballistic missiles — underscoring the interceptor shortage Zelensky has been flagging. In a new clarification (reported Oct 14 by Axios), a White House official said Trump's 'energy ceasefire' proposal covers only oil refineries — 'refinery for refinery' — and does NOT cover power grids, sharply narrowing the scope of the Oct 11 claim. Late Wednesday (Oct 14, DW segment), former Trump special envoy for Ukraine Keith Kellogg told DW that Ukraine should keep striking Russian refineries despite Trump's request to stop — asked how Zelensky should respond, he answered 'Burn all the refineries' — dismissing the US-Russia diesel deal as driven by domestic US needs. Late Wednesday Oct 14, Deputy PM Alexander Novak claimed Ukraine struck two refineries that day — in the Saratov and Ryazan regions — saying Moscow sees no Ukrainian move toward an energy ceasefire (Kyiv called the reports fake); a daytime Russian attack on the western city of Lutsk killed 3 and injured at least 12; and in a Piers Morgan interview aired Wednesday, Zelensky said it was 'painful' when Trump 'chooses one side, not our side' after Trump said Zelensky should be replaced.",
+   "watch_for": [
+    {
+     "event": "Kremlin confirmation or rejection of the energy ceasefire",
+     "date": null
+    },
+    {
+     "event": "EU sanctions package implementation effects",
+     "date": null
+    },
+    {
+     "event": "Fallout from France's shadow-fleet tanker seizure",
+     "date": null
+    },
+    {
+     "event": "Zelensky meets UK PM Burnham at Downing Street; UK faster-arms and new-sanctions pledge",
+     "date": "2026-10-14"
+    },
+    {
+     "event": "Ukraine MOD presses US/SpaceX to resolve Starshield speed restriction on military terminals",
+     "date": null
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Donald Trump",
+     "role": "Claimed the energy ceasefire Oct 11; shrugged off post-truce strikes"
+    },
+    {
+     "name": "Volodymyr Zelensky",
+     "role": "Said Oct 14 overnight Russian energy strike (39 ballistic missiles, 120+ drones) showed 'demonstrative disrespect' toward Trump's ceasefire claim; 600,000+ Ukrainians without power; meets UK PM Burnham at Downing Street Oct 14; confirmed to NPR the US threatened to cut off intel-sharing over refinery strikes"
+    },
+    {
+     "name": "Dmitry Peskov",
+     "role": "Kremlin spokesman; said Oct 14 the energy-ceasefire provisions are 'not established' and work continues — still no Kremlin confirmation of Trump's Oct 11 claim"
+    },
+    {
+     "name": "European Union",
+     "role": "Approved largest sanctions package since 2022"
+    },
+    {
+     "name": "Emmanuel Macron",
+     "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
+    },
+    {
+     "name": "Elon Musk",
+     "role": "SpaceX chief; imposed the 100-mph Starshield speed cap that disrupted Ukrainian drone missions; publicly criticized Zelensky in the dispute"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-21T03:38:39Z",
+   "started_at_utc": "2026-10-12T19:35:00Z",
+   "trend_direction": "steady",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 51,
+    "confirmed": 49,
+    "single-sourced": 2,
+    "unconfirmed": 0,
+    "confirmed_rate": 0.96,
+    "updated_at_utc": "2026-10-14T18:28:58Z"
+   },
+   "phase": "contested-ceasefire"
+  },
+  {
+   "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
+   "folder": "Hurricane-Activity-North-America",
+   "id": "hurricane-activity-north-america",
+   "location": "North America (Atlantic basin, Gulf of Mexico, US Gulf/East coasts, Mexico's Pacific coast)",
+   "status": "archived",
+   "title": "Hurricane Activity Impacting North America",
+   "map_points": [
+    {
+     "latitude": 30.3935,
+     "longitude": -86.4958,
+     "label": "Destin, FL"
+    },
+    {
+     "latitude": 19.052,
+     "longitude": -104.3199,
+     "label": "Manzanillo, Mexico"
+    }
+   ],
+   "trend": "emerging",
+   "trend_updated_at_utc": "2026-10-14T19:56:47Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 82,
+    "sides": {
+     "civilians": {
+      "positive": 14,
+      "negative": 51,
+      "neutral": 10,
+      "overall": "negative"
+     },
+     "mexico_govt": {
+      "positive": 7,
+      "negative": 0,
+      "neutral": 34,
+      "overall": "neutral"
+     },
+     "us_govt": {
+      "positive": 6,
+      "negative": 0,
+      "neutral": 9,
+      "overall": "neutral"
+     },
+     "energy_markets": {
+      "positive": 2,
+      "negative": 1,
+      "neutral": 0,
+      "overall": "positive"
+     }
+    },
+    "updated_at_utc": "2026-10-14T19:56:47Z"
+   },
+   "current_summary": "Tropical Storm Trudy formed off southern Mexico on Oct 13 (40 mph in NHC Advisory 2, ~490 mi SSE of Acapulco) with rapid intensification to a major hurricane forecast by Friday; Hurricane Simon re-strengthened to 110 mph, nearly a major hurricane again, after mainland Mexico watches were lifted (Advisory 26) and Puerto Vallarta airport reopened — NHC's discussion shifted Simon's track to a weekend coast approach with a possible Sunday inland crossing over Sonora; Tropical Storm Trudy (45 mph) had its track nudged east, putting a major-hurricane landfall threat on western Mexico this weekend — while damage tallies keep rising across Guerrero, Colima and Baja California Sur, with Ensenada's death toll from Tropical Cyclone Rachel's remnant flooding reaching 7 on Tuesday Oct 13. The White House approved federal emergency declarations for Florida and Alabama ahead of Isaias's landfall; no active Atlantic cyclones after the Cabo Verde disturbance fizzled. Isaias recovery reached ~95% of impacted-area customers restored as of Tuesday evening (~57,000 still out), Florida rolled out $10M in zero-interest business loans plus farm loans and SNAP aid for the Panhandle, and catastrophe modeler Verisk issued the first industry insured-loss estimate: $1B–$2B for onshore property. DeSantis also raised Florida's storm-related death toll to six; by Wednesday Oct 14 the storm-wide toll reached nine, after the Greenwood County coroner reported 67-year-old Christopher John Miller died Oct 11 when a tree fell on his home in Ninety Six, South Carolina, during Isaias's remnants; by Wednesday morning Oct 14, just over 20,000 customers remained without power — mainly Escambia and Santa Rosa counties — down from 45,000+ Tuesday. Wednesday's NHC updates (Oct 14): Hurricane Simon dipped to 105 mph and drifted southwestward — NHC calls it 'compact' — keeping the weekend coast-approach threat for Sonora; Tropical Storm Trudy strengthened to 50 mph with the track shifted west, and is now expected to reach hurricane strength within 24 hours. Latest NHC advisories (Wed Oct 14, 8-9 AM MST/CST): Hurricane Simon weakened to 90 mph (Category 1), drifting southwestward; Mexico dropped its last coastal watch, leaving no coastal watches or warnings in effect for now, though Baja California Sur watches may be required in the next day or two; Tropical Storm Trudy strengthened to 60 mph and is now expected to become a hurricane tonight and a major hurricane by Friday.",
+   "watch_for": [
+    {
+     "event": "Trudy forecast to become a hurricane tonight, major hurricane by Friday",
+     "date": "2026-10-15"
+    },
+    {
+     "event": "Simon's forecast coast approach this weekend; possible Sunday inland crossing over Sonora",
+     "date": "2026-10-18"
+    },
+    {
+     "event": "Atlantic and Pacific hurricane seasons end",
+     "date": "2026-11-30"
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "National Hurricane Center",
+     "role": "Official advisories and outlooks"
+    },
+    {
+     "name": "Ron DeSantis",
+     "role": "Florida SOE for 25 counties"
+    },
+    {
+     "name": "Kay Ivey",
+     "role": "Alabama SOE for 40 counties"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-20T21:48:35Z",
+   "started_at_utc": "2026-10-12T20:05:00Z",
+   "trend_direction": "falling",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 82,
+    "confirmed": 49,
+    "single-sourced": 33,
+    "unconfirmed": 0,
+    "confirmed_rate": 0.6,
+    "updated_at_utc": "2026-10-14T19:56:47Z"
+   },
+   "phase": "intensifying"
+  },
+  {
+   "id": "us-iran-conflict-strait-of-hormuz",
+   "title": "U.S.–Iran Conflict & Strait of Hormuz",
+   "description": "Live coverage of the U.S.–Iran confrontation — military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
+   "location": "Persian Gulf / Middle East",
+   "folder": "US-Iran-Conflict-Strait-of-Hormuz",
+   "status": "active",
+   "map_points": [
+    {
+     "latitude": 26.5667,
+     "longitude": 56.25,
+     "label": "Strait of Hormuz"
+    },
+    {
+     "latitude": 35.6892,
+     "longitude": 51.389,
+     "label": "Tehran"
+    }
+   ],
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-14T14:54:14Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 60,
+    "sides": {
+     "us": {
+      "positive": 8,
+      "negative": 19,
+      "neutral": 9,
+      "overall": "negative"
+     },
+     "iran": {
+      "positive": 6,
+      "negative": 33,
+      "neutral": 9,
+      "overall": "negative"
+     },
+     "markets": {
+      "positive": 2,
+      "negative": 32,
+      "neutral": 6,
+      "overall": "negative"
+     }
+    },
+    "updated_at_utc": "2026-10-14T14:54:14Z"
+   },
+   "current_summary": "Strait of Hormuz shipping attacks escalated Oct 11-13: UKMTO documented six vessels struck on Oct 11 alone — the war's highest single-day total — and on Tuesday confirmed BOTH a tanker and a container ship hit by unknown projectiles in the strait, with Iran's Army Navy also claiming a 'violating' tanker caught fire east of the strait; UKMTO also back-filled an Oct 7 strike on the chemical/oil tanker Acers off Qatar — the first deep-Gulf attack in nearly a month, with casualties reported. The UK blamed the IRGC for the RAF Fairford drone plot with 29 nations backing the attribution, while Trump claimed all 159 Iranian naval vessels were sunk, said the US 'might have gone too far' targeting Iran's leadership, and said the war 'will end very soon'; Brent holds near $105-106. Reuters reported two senior Iranian officials saying Tehran shifted its attack tactics ~10 days ago to keep oil prices high and sway the US midterms, and Vortexa said the US blockade has kept Iranian seaborne crude exports at zero through all of October. Late Tuesday, ISW assessed Iran is now deliberately targeting ship-to-ship oil transfers in and near Hormuz; the Houthi-controlled foreign ministry warned airlines that Saudi airports are 'unsafe' except Mecca/Medina, spokesman Yahya Saree declared Aramco sites 'legitimate targets' and told workers and civilians to evacuate Aramco compounds and King Khalid International Airport; and the US State Department raised its Saudi travel advisory to Level 3, with Etihad cancelling Riyadh/Dammam/Jeddah flights through Oct 19. CENTCOM publicly rejected claims of Iranian control over the strait, saying the Iranian commander 'has no navy', while Secretary Rubio and UK Foreign Secretary Miliband pledged accountability in a call without announcing new measures. On Tuesday, MI5 chief Ken McCallum said Iran is now targeting British military sites — a 'major shift this year' beyond its usual proxy targets — and that the suspected RAF Fairford drone plot was 'not unique'. Late Tuesday, Trump threatened Iran at a Wasilla, Alaska rally — 'Wait and see what we do to them. We're going to hit them hard' — and Axios reported Trump and Netanyahu discussed a renewed Iran operation before the US elections. Late Tuesday, Trump warned the Houthis he will 'never forget' the Saudi attacks and floated an Erdogan intervention; Brent pushed toward $107 as Morgan Stanley raised its Dated Brent forecast $5 on Hormuz/Houthi supply risk. A WSJ report late Tuesday (Oct 13) said Iran is fortifying nuclear sites and rallying the public in anticipation of renewed US strikes after the Nov 3 midterms, with a third US carrier strike group and a Marine expeditionary unit en route, per the report. Wednesday morning added two incidents: three fishermen were injured when an unidentified drone struck a fishing boat off Sirik in southern Iran's Hormozgan province, and Saudi authorities issued then lifted a mobile aerial-threat alert for Riyadh and the Al-Kharj governorate amid the sharp Houthi-Saudi escalation. On Wednesday Oct 14, Iranian state media shared an IRGC Navy claim that a container ship carrying 2,500+ containers sank south of the strait after striking a naval mine (unverified, date of incident unclear). Late Wednesday Oct 14, Iran lodged a formal protest with the IMO (letter dated Oct 9), accusing US forces of misusing VHF Channel 16 in the Persian Gulf to intimidate seafarers. Also late Wednesday Oct 14, Reuters confirmed the Singapore-flagged container ship GFS Pride (2,824 TEU) SANK after a projectile strike — the second vessel lost since the war began, with MPA Singapore confirming all 21 crew evacuated — and the bulk carrier Cape Dao (hit Sep 23) is also sinking after a failed rescue attempt; AFP separately counted FOUR ship attacks on Tuesday Oct 13, not two (GFS Pride, GFS Giselle with minor damage and 22 crew safe, Al Saadiyat with no significant damage, tanker Alfonso of unclear status), pushing UKMTO's October tally to 24 warnings. On Oct 13, twelve bipartisan senators (Republicans McConnell, Tillis, Collins, Armstrong, Murkowski and Cornyn; Democrats Blumenthal, Shaheen, Durbin, Whitehouse, Reed and Coons) wrote to Trump urging him to rescind OFAC General License No. 135, which temporarily eased sanctions to let Russian diesel into global markets — tying Iran-war-driven fuel prices to the sanctions relief.",
+   "watch_for": [
+    {
+     "event": "US midterm elections; Trump ruled out pre-midterm strikes",
+     "date": "2026-11-03"
+    },
+    {
+     "event": "Iran's formal response to the US reply on seven conditions",
+     "date": null
+    },
+    {
+     "event": "Potential renewed US strikes on Iran after midterms (Tehran fortifying nuclear sites in anticipation)",
+     "date": null
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Donald Trump",
+     "role": "Threatened Iran at Oct 13 Alaska rally — 'We're going to hit them hard'; says war 'will end very soon'"
+    },
+    {
+     "name": "Benjamin Netanyahu",
+     "role": "Israeli PM; discussed a renewed Iran operation with Trump before the US elections, per Axios"
+    },
+    {
+     "name": "Iranian Foreign Minister",
+     "role": "Reviewing US reply; called it 'inadequate' Oct 11"
+    },
+    {
+     "name": "UKMTO",
+     "role": "Confirmed six vessels struck Oct 11; Tuesday projectile strike off Khasab"
+    },
+    {
+     "name": "Andy Burnham",
+     "role": "UK PM; blamed IRGC for RAF Fairford plot, 29 nations backed attribution"
+    },
+    {
+     "name": "Yahya Saree",
+     "role": "Houthi military spokesman; warned airlines Saudi airports 'unsafe', declared Aramco sites legitimate targets, urged evacuations"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-21T03:38:39Z",
+   "started_at_utc": "2026-10-03T12:00:00Z",
+   "trend_direction": "steady",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 60,
+    "confirmed": 50,
+    "single-sourced": 6,
+    "unconfirmed": 4,
+    "confirmed_rate": 0.83,
+    "updated_at_utc": "2026-10-14T14:54:14Z"
+   },
+   "phase": "standoff"
+  },
+  {
+   "id": "us-midterms-2026",
+   "title": "2026 US Midterm Elections",
+   "description": "Polls, early voting, key House/Senate/gubernatorial races, and campaign moves ahead of the Nov 3, 2026 US midterm elections.",
+   "location": "United States",
+   "folder": "US-Midterms-2026",
+   "status": "active",
+   "map_points": [
+    {
+     "latitude": 38.9072,
+     "longitude": -77.0369,
+     "label": "Washington, DC"
+    }
+   ],
+   "current_summary": "Three weeks out from the Nov 3 midterms, Democrats remain strong favorites to retake the House — Fox News' latest Power Rankings moved ~20 races leftward to a 219-198 Dem edge with 18 toss-ups — with an 8-9 point generic-ballot lead (Republican pollster John McLaughlin countered late Tuesday that his firm's generic ballot has Democrats only +5) and a 43-35 Gallup party-image edge; the Senate is tightening — a new Quantus poll has Texas effectively tied (Paxton 47.2%, Talarico 46.7%) and MS NOW moved Kansas to Lean R (Minnesota to Lean D) — as the Texas governor race flipped back to Abbott 48-47 in a ReconMR/Siena poll reversing the Oct 6 YouGov read, Hochul and Blakeman met in NY's only gubernatorial debate, Trump campaigns in Ohio and Kansas ahead of an Oct 19 Wichita rally, and DHS agents raided Rep. Ilhan Omar's D.C. home early Oct 12 in an immigration-fraud probe. Late Tuesday brought fresh polls: North Carolina's Senate race has Cooper +14 in WRAL/SurveyUSA (54-40, his strongest yet), the Texas Senate lead narrowed to Talarico 48, Paxton 44 in ReconMR/Siena, and Rhode Island's governor race tightened to Foulkes 44, Block 35; Trump expanded his rally blitz to Kentucky and North Carolina alongside the Oct 19 Wichita stop. Late Tuesday pinned Trump's North Carolina stop to Greenville on Tue Oct 20, and data showed NC early voting down ~19% vs 2022 with the Democratic share falling; fresh polls put Democrat Troy Jackson ahead of Susan Collins 50-46 in Maine's Senate race (with Obama's endorsement), Deb Haaland up 49-42 in New Mexico's governor race, and Tina Kotek with her first public-poll lead (46-44) in Oregon's governor race — as Obama ramped up involvement with a Detroit GOTV rally on Oct 24 and 24 recorded ads. Georgia set a midterm first-day early-voting record on Tuesday Oct 13 (188,628 ballots — VoteHub breakdown: 50.3% White, 36.6% Black, just 4.7% under-30), and New Mexico's early vote saw Democrats cast more than double the Republican ballots, with 29,786 ballots statewide through Oct 13. A Star Tribune/KARE 11 (Mason-Dixon) poll has Klobuchar leading Demuth 50-41 in Minnesota's governor race; the RGA spent in Vermont for the first time since 2018 ($400K backing Gov. Phil Scott); a pro-Collins super PAC's $25K digital ad buy mistakenly ran in Portland, Oregon instead of Portland, Maine and was pulled; Trump added a Wednesday double-header (Bullhead City, AZ and Kalispell, MT) to his rally schedule; a judge denied restoring 92 Tarrant County, TX polling sites cut by Republican commissioners; and Virginia Gov. Spanberger touted 450,000+ early votes already cast vs ~200,000 at the same point in 2022; a viral claim that Talarico was treated at an Ohio mental-health facility was debunked; and a Quinnipiac poll has Shapiro up 59-34 in the PA governor race with voters favoring Democrats to win House control by 15 points. An Economist/YouGov release Tuesday put Democrats +14 on the generic ballot among likely voters (52-38) — the largest lead of the three-week series — while prediction markets price Democratic Senate control at ~60% (down ~3 pts on the week) and House control steady near 90%. Trump is also finalizing an Oct 21 Greenville, SC rally with Sen. Darline Graham (per MS NOW, Oct 13), and Gov. Gavin Newsom will campaign across New Hampshire on Saturday Oct 17, with an Exeter rally and a Nashua canvassing launch alongside Senate candidate Chris Pappas. Ohio's first statewide early-voting tally showed 228,470 ballots cast; a NewsNation/DDHQ poll found only 46% of voters trust all midterm votes will be counted accurately, and independents lean Democratic but just 35% have made up their minds. A University of Houston/Hobby poll late Tuesday had Talarico up 22 points over Paxton among Harris County voters. The DOJ said 64 foreign nationals were charged with illegal voting across 17 states in a five-week crackdown (reported Oct 11 via figures given to Fox News). Tuesday night, Trump held a 90-minute rally in Wasilla, Alaska for Sen. Dan Sullivan in the toss-up Senate race and endorsed Bernadette Wilson for governor; in Ohio, in-person early voting is outpacing 2022, with Democrats casting 56% of in-person ballots Tue-Fri in southwest Ohio. A CNN fact check found Trump's 'gas cheaper than Biden' claim false (AAA average $4.36/gal, 39% above inauguration day); Texas Democrats clashed with DGA chair Andy Beshear over funding for the Hinojosa gubernatorial bid; and an Emerson/The Hill Iowa poll showed Hinson 47-45 Turek in the Senate race and Sand 49-45 Lahn for governor. Late Tuesday, Kansas Democrat Adam Hamilton raised $10.6M in Q3 (per Politico), underscoring Democratic bullishness on flipping the Kansas Senate seat for the first time since 1932. A Reuters piece published Oct 14 reports midterm betting has surged this year on Polymarket and Kalshi, flagging insider-trading and integrity concerns — Kalshi suspended a handful of candidates for betting on their own races — while a new Reuters/Ipsos poll (published Oct 12) found most Americans oppose using prediction markets to wager on elections. Separate Reuters original reporting from Youngstown/Warren on Oct 14 found Ohio working-class voters 'rethinking' support for Trump — rising prices, the Iran war and his rhetoric chipping at his support — with early voting favoring Democrats (wire-only, single-sourced). Late Wednesday added Texas storylines: the WSJ reported Ken Paxton partied in Dubai on NYE 2024 with two indicted US fugitives (one donated $190k to him), while a WaPo investigation found he issued AG legal opinions benefiting wealthy donors; and fresh Texas polls had Talarico leading Paxton 50-47 (UT/Texas Politics Project) and 47-45 (Marist), with Hinojosa trailing Abbott by 1 point in one and 4 in the other. On Oct 13, three Senate debates played out: in Georgia, Ossoff and Collins traded Epstein-files attacks — Collins over Reid Hoffman donations ('The Epstein class is on stage right now, and it's you'), Ossoff hitting back that Collins voted to 'cover up the evidence' and that Trump is 'named 1,000 times in the Epstein files' — and Ossoff ruled out a 2028 presidential run; in Maine, Collins repeatedly distanced herself from Trump, criticizing his Iran war plan, her own 'One Big Beautiful Bill' vote over Medicaid cuts, and Canada tariffs, with heating oil (up ~80% year over year) and the Iran war dominating the clash with Troy Jackson; in Iowa's final Senate debate, Hinson hammered Turek over missing 58% of Iowa House floor votes while both opposed Trump's Russian diesel deal, with early voting starting Oct 14. Elon Musk was confirmed as the cycle's top GOP donor — at least $276M into the midterms since July ($366M this cycle overall: $158M to the Senate Leadership Fund, $76M to his own GOTV effort, $20M to the Congressional Leadership Fund, $10M for Paxton's Lone Star Liberty PAC, $10M to the RGA, $2M to RAGA). Reuters published a special report (50+ expert interviews) mapping nine ways the Trump administration could test federal authority over the midterms, from ballot seizures to delayed certification. And a catch-up from Oct 2–5: the NAACP sued DOJ Civil Rights Division head Harmeet Dhillon in D.C. federal court over a plan to deploy ~1,000 federal 'election monitors' to midterm polling sites in all 50 states — the largest such deployment ever — a FOIA suit seeking emergency disclosure, not a block. Late Wednesday Oct 14, Politico reported top Republicans privately concede the House is lost — the party now in triage to save seats and salvage the Senate — and the top House GOP super PAC abandoned its bid to beat Rep. Henry Cuellar (D-TX) in a district Republicans redrew for themselves; a new Suffolk poll has Maine's Senate race a coin toss (Jackson 49, Collins 47); and a federal judge heard a challenge to North Carolina's new mail-ballot rules one day before early voting starts there. A new CNN analysis of AdImpact data (Oct 14) found Republicans outspent Democrats $233M to $121M on broadcast TV ads across nine competitive Senate races last month — nearly double — but gained only about 40% more reach; and Stetson University's October Florida poll has Byron Donalds up 52-41 in the governor race and Moody up 11 for Senate. An AP investigation (published Oct 12) found more than three dozen new voting laws passed in GOP-controlled states taking effect this year — tougher voter-ID rules, proof-of-citizenship requirements, stricter mail-ballot deadlines, new voter-roll procedures — many mirroring Trump's stalled federal proposals; the Brennan Center counts nearly 40 such laws across 21 states. Late Wednesday Oct 14, a new Cygnal poll (released Oct 13, fielded Oct 7-10) put Democrats +9 on the generic congressional ballot, and a Civiqs tracker refresh found Trump net-positive in just 10 states with Montana flipping to a 46-46 tie.",
+   "watch_for": [
+    {
+     "event": "Election Day",
+     "date": "2026-11-03"
+    },
+    {
+     "event": "Trump rally in Wichita, Kansas for Sen. Roger Marshall",
+     "date": "2026-10-19"
+    },
+    {
+     "event": "Trump 'Midterm Rally' in Highland Heights, Kentucky (open McConnell Senate seat, KY-4)",
+     "date": "2026-10-17"
+    },
+    {
+     "event": "Trump midterm rally in Greenville, North Carolina",
+     "date": "2026-10-20"
+    },
+    {
+     "event": "Obama Detroit GOTV rally with Abdul El-Sayed and Jocelyn Benson",
+     "date": "2026-10-24"
+    },
+    {
+     "event": "Final pre-election polls and forecast updates",
+     "date": null
+    },
+    {
+     "event": "Archive this tracker",
+     "date": "2026-11-04"
+    },
+    {
+     "event": "Trump rally with Sen. Darline Graham in Greenville, South Carolina",
+     "date": "2026-10-21"
+    },
+    {
+     "event": "Gov. Newsom campaigns across New Hampshire (Exeter rally, Nashua canvassing launch)",
+     "date": "2026-10-17"
+    },
+    {
+     "event": "CNN & Jubilee town hall with James Talarico",
+     "date": "2026-10-14"
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Donald Trump",
+     "role": "President; rally blitz KY (Oct 17), KS (Oct 19), NC (Oct 20); called the midterms a referendum on his presidency"
+    },
+    {
+     "name": "James Talarico",
+     "role": "Democratic Senate candidate, Texas; leads Paxton 50-47 (UT/Texas Politics Project) and 47-45 (Marist) in new October polls"
+    },
+    {
+     "name": "Barack Obama",
+     "role": "Endorsed ME's Troy Jackson; Detroit GOTV rally Oct 24 with El-Sayed/Benson; 24 recorded ads"
+    },
+    {
+     "name": "Roy Cooper",
+     "role": "Democratic NC Senate candidate; leads 54-40 in WRAL/SurveyUSA, his strongest yet"
+    },
+    {
+     "name": "Ilhan Omar",
+     "role": "Rep.; D.C. home raided Oct 12 by DHS/HSI in immigration-fraud probe; calls it political intimidation"
+    },
+    {
+     "name": "Elon Musk",
+     "role": "Confirmed as the cycle's top GOP donor: $276M+ into the midterms since July ($366M overall); $158M to the Senate Leadership Fund, $76M to his own GOTV, $10M for Paxton's Lone Star Liberty PAC"
+    }
+   ],
+   "phase": "final-stretch",
+   "curation_updated_at_utc": "2026-10-21T03:38:39Z",
+   "started_at_utc": "2026-10-13T22:55:00Z",
+   "trend": "hot",
+   "trend_direction": "rising",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 100,
+    "confirmed": 64,
+    "single-sourced": 36,
+    "unconfirmed": 0,
+    "confirmed_rate": 0.64,
+    "updated_at_utc": "2026-10-14T18:49:01Z"
+   },
+   "trend_updated_at_utc": "2026-10-14T18:49:01Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 100,
+    "sides": {
+     "democrats": {
+      "positive": 50,
+      "negative": 17,
+      "neutral": 10,
+      "overall": "positive"
+     },
+     "republicans": {
+      "positive": 25,
+      "negative": 46,
+      "neutral": 11,
+      "overall": "negative"
+     },
+     "trump": {
+      "positive": 8,
+      "negative": 17,
+      "neutral": 4,
+      "overall": "negative"
+     },
+     "voters": {
+      "positive": 8,
+      "negative": 6,
+      "neutral": 14,
+      "overall": "neutral"
+     }
+    },
+    "updated_at_utc": "2026-10-14T18:49:01Z"
+   }
+  },
+  {
+   "description": "Live coverage of the French protest movement that began with Paris lycée student blockades in September 2026 and escalated into nationwide cost-of-living demonstrations — marches, clashes, arrests and injuries, union and student actions, government response, and the parliamentary budget fight.",
+   "folder": "Paris-Protests-France",
+   "id": "paris-protests-france",
+   "location": "Paris, France (nationwide)",
+   "status": "active",
+   "title": "Paris Protests — France Cost-of-Living Unrest",
+   "map_points": [
+    {
+     "latitude": 48.8566,
+     "longitude": 2.3522,
+     "label": "Paris"
+    },
+    {
+     "latitude": 48.8676,
+     "longitude": 2.3639,
+     "label": "Place de la République, Paris"
+    },
+    {
+     "latitude": 43.2965,
+     "longitude": 5.3698,
+     "label": "Marseille"
+    },
+    {
+     "latitude": 45.764,
+     "longitude": 4.8357,
+     "label": "Lyon"
+    },
+    {
+     "latitude": 45.8336,
+     "longitude": 1.2611,
+     "label": "Limoges"
+    }
+   ],
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-21T01:43:51Z",
+   "impact_summary": {
+    "window": "7d",
+    "items_in_window": 22,
+    "sides": {
+     "protesters": {
+      "positive": 4,
+      "negative": 12,
+      "neutral": 1,
+      "overall": "negative"
+     },
+     "govt_police": {
+      "positive": 6,
+      "negative": 9,
+      "neutral": 4,
+      "overall": "negative"
+     },
+     "unions": {
+      "positive": 4,
+      "negative": 0,
+      "neutral": 0,
+      "overall": "positive"
+     },
+     "opposition": {
+      "positive": 5,
+      "negative": 1,
+      "neutral": 0,
+      "overall": "positive"
+     }
+    },
+    "updated_at_utc": "2026-10-21T01:43:51Z"
+   },
+   "current_summary": "France's school-born protest movement exploded nationwide on Saturday, Oct 17: 550,000 people (Interior Ministry count; the CGT says 800,000) marched in 140+ towns over living costs, wages and crumbling public services, with 110,000 in Paris. Evening clashes at Place de la République and attacks on town halls in Limoges, Lyon and Marseille left roughly 400 people arrested, about 60 officers injured and a 15-year-old maimed by a police stun grenade. Interior Minister Laurent Nuñez's resignation offer was reportedly refused, and the government heads into a critical parliamentary budget vote with Mélenchon's France Unbowed and Le Pen's National Rally both courting the anger ahead of the 2027 presidential election.",
+   "watch_for": [
+    {
+     "event": "Weekend protest mobilization — whether unions/students call a second nationwide day of action",
+     "date": "2026-10-24"
+    },
+    {
+     "event": "Parliamentary vote on the government budget (expected late October) and any no-confidence motion",
+     "date": "2026-10-31"
+    }
+   ],
+   "key_figures": [
+    {
+     "name": "Emmanuel Macron",
+     "role": "President of France; denounced the Oct 17 violence"
+    },
+    {
+     "name": "Sébastien Lecornu",
+     "role": "Prime Minister; condemned the clashes as 'extremely intense'"
+    },
+    {
+     "name": "Laurent Nuñez",
+     "role": "Interior Minister; offered resignation over the police response — reportedly refused"
+    },
+    {
+     "name": "CGT",
+     "role": "Union confederation backing the protests; claimed 800,000 turnout on Oct 17"
+    },
+    {
+     "name": "Jean-Luc Mélenchon",
+     "role": "France Unbowed leader courting the protest vote"
+    },
+    {
+     "name": "Marine Le Pen",
+     "role": "National Rally leader courting the protest vote"
+    }
+   ],
+   "curation_updated_at_utc": "2026-10-20T21:37:14Z",
+   "started_at_utc": "2026-10-20T21:36:38Z",
+   "trend_direction": "rising",
+   "verification": {
+    "window": "7d",
+    "items_in_window": 22,
+    "confirmed": 19,
+    "single-sourced": 3,
+    "unconfirmed": 0,
+    "confirmed_rate": 0.86,
+    "updated_at_utc": "2026-10-21T01:43:51Z"
+   },
+   "phase": "escalating"
+  }
+ ],
+ "updated_at_utc": "2026-10-21T03:38:39Z"
 }

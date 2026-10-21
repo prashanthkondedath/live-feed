@@ -264,26 +264,20 @@
         }
       ],
       "trend": "warm",
-      "trend_updated_at_utc": "2026-10-21T03:50:14Z",
+      "trend_updated_at_utc": "2026-10-21T05:47:30Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 23,
+        "items_in_window": 22,
         "sides": {
-          "civilians": {
-            "positive": 0,
-            "negative": 11,
-            "neutral": 0,
-            "overall": "negative"
-          },
           "russia": {
             "positive": 4,
-            "negative": 14,
+            "negative": 13,
             "neutral": 3,
             "overall": "negative"
           },
           "ukraine": {
-            "positive": 6,
-            "negative": 12,
+            "positive": 7,
+            "negative": 10,
             "neutral": 2,
             "overall": "negative"
           },
@@ -293,6 +287,12 @@
             "neutral": 9,
             "overall": "neutral"
           },
+          "civilians": {
+            "positive": 0,
+            "negative": 9,
+            "neutral": 0,
+            "overall": "negative"
+          },
           "eu": {
             "positive": 1,
             "negative": 4,
@@ -300,7 +300,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T03:50:14Z"
+        "updated_at_utc": "2026-10-21T05:47:30Z"
       },
       "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21.",
       "watch_for": [
@@ -360,12 +360,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 23,
-        "confirmed": 23,
+        "items_in_window": 22,
+        "confirmed": 22,
         "single-sourced": 0,
         "unconfirmed": 0,
         "confirmed_rate": 1.0,
-        "updated_at_utc": "2026-10-21T03:50:14Z"
+        "updated_at_utc": "2026-10-21T05:47:30Z"
       },
       "phase": "escalation"
     },
@@ -818,5 +818,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T05:46:03Z"
+  "updated_at_utc": "2026-10-21T05:47:30Z"
 }

@@ -1,1 +1,28 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Tuesday, Oct 20, 2026 (intraday trading)","id":"brent-five-month-high-oct20","image_urls":["https://vested-wordpress-media-prod-in.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/06/06095627/Oil-1024x643.png"],"links":["https://thedailyenergy.com/hormuz-attacks-houthi-yanbu-shaybah/","https://965wtou.com/2026/10/20/oil-rises-on-middle-east-supply-worries/"],"report_time_ist":"12:14 PM IST, Oct 21","report_time_pdt":"11:44 PM PDT, Oct 20","reported_at_utc":"2026-10-21T06:44:53Z","sentiment":{"houthis":"neutral","saudi_govt":"negative"},"source_name":"Reuters","source_url":"https://www.tbsnews.net/worldbiz/usa/brent-hits-five-month-high-attacks-ships-saudi-sites-fuel-supply-worries-1578621","summary":"Brent crude futures surged to $111.75 a barrel intraday Tuesday (highest since May), settled at $108.79, and traded around $109.64 early Wednesday. WTI's nearby contract hit $110 intraday Tuesday, highest since April. Traders are pricing a geopolitical risk premium from Houthi claims of Monday strikes on an Aramco site in Yanbu, the Shaybah oilfield, Riyadh's King Khalid airport and Abha airport (unverified; Saudi authorities did not confirm), plus at least 18 vessels attacked over two weeks (Kpler). ING analysts said the market is pricing a 'significant risk premium' and sees no sign of erosion yet. Separately, Iranian FM Araqchi said on Tuesday TV that Iran has received no response from Saudi Arabia or the Houthis to its offer to broker peace talks.","title":"Brent crude hits five-month high as traders price Houthi-Saudi war risk premium"}],"report_time_ist":"12:14 PM IST, Oct 21","report_time_pdt":"11:44 PM PDT, Oct 20"}
+{
+  "report_time_pdt": "2:45 AM PDT, Oct 21",
+  "report_time_ist": "3:15 PM IST, Oct 21",
+  "items": [
+    {
+      "id": "yemen-govt-offensive-tally-oct21",
+      "event_time_ist": "Tuesday, Oct 20, 2026 (claims for strikes over the prior 24h; reported Oct 21)",
+      "title": "Yemeni military claims 744 strikes, ~200 Houthis 'neutralized' in 24 hours under Operation Dawn of Yemen",
+      "summary": "Colonel Majed al-Nuzaily, spokesman for Yemen's armed forces, said Tuesday that government forces carried out 744 strikes in the previous 24 hours — 'neutralizing' around 200 Houthi fighters and destroying or damaging 90 military vehicles and pieces of equipment. In an X post, he said the strikes used warplanes, drones, field artillery, rocket launchers and snipers against Houthi command-and-control centers, fortified positions, firing sites, troop concentrations, reinforcements and supply routes; in Taiz, he said government troops were pushing Houthis into retreat across eastern, southern and western fronts. On Monday he had claimed 1,164 strikes and 558 fighters neutralized in the preceding 24h. Both are government claims, not independently verified.",
+      "source_name": "Views Bangladesh (citing Al Arabiya)",
+      "source_url": "https://viewsbangladesh.com/yemeni-military-says-200-houthis-neutralized-in-744-strikes-over-24-hours/",
+      "links": [
+        "https://www.youtube.com/watch?v=ddmTpDLymVA"
+      ],
+      "image_urls": [
+        "https://www.yemenwatch.net/uploaded/esimages/thumb/lvl220181129102717.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "2:45 AM PDT, Oct 21",
+      "report_time_ist": "3:15 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T09:45:16Z",
+      "sentiment": {
+        "houthis": "negative",
+        "saudi_govt": "positive"
+      }
+    }
+  ]
+}

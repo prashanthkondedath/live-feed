@@ -718,20 +718,20 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T10:39:57Z",
+      "trend_updated_at_utc": "2026-10-21T12:41:17Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 30,
+        "items_in_window": 33,
         "sides": {
           "protesters": {
             "positive": 6,
-            "negative": 16,
+            "negative": 17,
             "neutral": 2,
             "overall": "negative"
           },
           "govt_police": {
-            "positive": 6,
-            "negative": 12,
+            "positive": 7,
+            "negative": 14,
             "neutral": 8,
             "overall": "negative"
           },
@@ -748,7 +748,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T10:39:57Z"
+        "updated_at_utc": "2026-10-21T12:41:17Z"
       },
       "current_summary": "The Oct 17 national day of action (550k–800k nationwide, 110k in Paris) gave way to a post-crisis standoff: Lecornu imposed partial/localized curfews on Oct 19 (Paris protest bans, République 11pm–6am curfew, minors' curfews in several cities) and met union leaders at Matignon on Wednesday Oct 21 at 10:30 AM, with party leaders due Thursday Oct 22 at 2:30 PM, while the budget revenue-side vote was postponed to Oct 27. France Info confirmed Oct 21 that two people died in Paris during the Oct 17–18 unrest, alongside the Interior Ministry's consolidated toll: 2,397 arrests, 997 security-forces injured (seven seriously). Accountability moves landed Oct 20: Interior Minister Nuñez apologized in the Assembly ('I accept my share of responsibility') as parliament launched an inquiry commission (200 investigators), and the suspected principal arsonist of the Limoges town-hall fire was arrested at dawn by the RAID (SDAT anti-terror co-seized). The Matignon talks opened Oct 21 with CGT chief Sophie Binet demanding 'political answers' and the CGT set to decide Wednesday on joining the Oct 24 demos; the student coordination (CNL, 27 cities) issued a communique Oct 21 calling for a Paris march on Thursday Oct 22 (2 PM, Salpêtrière to Bastille) and announcing a new national coordination. Ahead of Saturday Oct 24's 'Act II' demos — called by yellow-vest groups (Oct 24 + Oct 31) and backed by five unions striking Nov 5 — Nuñez announced Sentinelle troops, BRI/GIGN/RAID, helicopters and possible bans on non-notified demonstrations. On Oct 20 Toulouse became the first city to impose an all-ages nighttime curfew (hypercentre 11:59 PM-5 AM, Oct 22-25), while Marseille extended its hypercentre/shopping-district curfew (minors 10 PM-5 AM) through Oct 23. Unrest spread overseas: two gendarmerie mobile squadrons deployed in La Réunion (Centaure armor, helicopter) with urban violence also reported in Martinique and Guadeloupe. Correction: the OTRE/FAI trucker mobilization planned for Oct 21-22 was suspended Oct 16 after government concessions and is NOT happening. On Wednesday morning Oct 21 the Oct 17 movement's coordination declared the Oct 24 Paris 'Act II' route: Bastille to Opera.",
       "watch_for": [
@@ -812,15 +812,15 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 30,
-        "confirmed": 27,
+        "items_in_window": 33,
+        "confirmed": 30,
         "single-sourced": 3,
         "unconfirmed": 0,
-        "confirmed_rate": 0.9,
-        "updated_at_utc": "2026-10-21T10:39:57Z"
+        "confirmed_rate": 0.91,
+        "updated_at_utc": "2026-10-21T12:41:17Z"
       },
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T12:40:00Z"
+  "updated_at_utc": "2026-10-21T12:41:17Z"
 }

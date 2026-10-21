@@ -1897,8 +1897,55 @@
     "us": "neutral",
     "iran": "neutral"
    }
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "6:30 PM UTC (12:00 AM IST, Oct 21), Oct 20",
+   "id": "ukmto-alfaw-tanker-projectile-oct21",
+   "image_urls": [
+    "https://www.azernews.az/media/2026/10/21/408432.jpg"
+   ],
+   "links": [
+    "https://www.azernews.az/region/265968.html",
+    "https://www.devdiscourse.com/article/international/3995693-tanker-struck-by-projectile-southeast-of-iraqs-alfaw-on-tuesday-ukmto-says"
+   ],
+   "report_time_ist": "8:15 PM IST, Oct 21",
+   "report_time_pdt": "7:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T14:45:00Z",
+   "sentiment": {
+    "iran": "neutral",
+    "markets": "negative",
+    "us": "neutral"
+   },
+   "source_name": "UKMTO (via AzerNEWS)",
+   "source_url": "https://www.azernews.az/region/265968.html",
+   "summary": "UKMTO reported Wednesday Oct 21 that an unidentified projectile struck a tanker about 30 nautical miles southeast of Al Faw, Iraq, in the northern Persian Gulf near the country's main oil export facilities. Per the vessel's captain, the incident occurred Tuesday 6:30 PM UTC. All crew safe; no damage to the vessel and no environmental impact reported. No claim of responsibility. An Iraqi source told Shafaq News there was no confirmation yet within Iraqi territorial waters. Extends the strike geography beyond the Hormuz/Gulf of Oman corridor.",
+   "title": "UKMTO: unidentified projectile struck tanker ~30 nm southeast of Iraq's Al Faw port"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "announced Oct 21 (Reuters reporting from Basra)",
+   "id": "iraq-sheeb-border-closure-oct21",
+   "image_urls": [
+    "https://khabarmaku.ir/wp-content/uploads/2021/01/1-9-1280x845.jpg"
+   ],
+   "links": [
+    "https://krro.com/2026/10/21/iraq-closes-sheeb-border-crossing-with-iran-to-review-security-sources-say/"
+   ],
+   "report_time_ist": "8:15 PM IST, Oct 21",
+   "report_time_pdt": "7:45 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T14:45:00Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "neutral",
+    "us": "positive"
+   },
+   "source_name": "Reuters",
+   "source_url": "https://krro.com/2026/10/21/iraq-closes-sheeb-border-crossing-with-iran-to-review-security-sources-say/",
+   "summary": "Iraq closed the busy Sheeb border crossing with Iran (known in Iran as Chazabeh) to passengers, vehicles and commercial trucks until further notice, for a security review and to install detection equipment to stop smuggling of prohibited materials, an Iraqi border official told Reuters Wednesday. Iranian official Valiollah Hayati (Khuzestan province) confirmed via ILNA that the closure was an Iraqi decision and consultations to resume operations were ongoing. Reuters notes the Shalamcheh crossing was closed temporarily in September after drone attacks on Saudi Arabia that Riyadh said were launched from Iraq.",
+   "title": "Iraq closes busy Sheeb (Chazabeh) border crossing with Iran until further notice"
   }
  ],
- "last_updated_pdt": "5:45 AM PDT, Oct 21, 2026",
- "last_updated_ist": "6:15 PM IST, Oct 21, 2026"
+ "last_updated_pdt": "7:45 AM PDT, Oct 21",
+ "last_updated_ist": "8:15 PM IST, Oct 21"
 }

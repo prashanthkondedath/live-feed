@@ -263,15 +263,15 @@
           "label": "Kharkiv"
         }
       ],
-      "trend": "warm",
-      "trend_updated_at_utc": "2026-10-21T05:47:30Z",
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-21T06:45:40Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 22,
+        "items_in_window": 24,
         "sides": {
           "russia": {
             "positive": 4,
-            "negative": 13,
+            "negative": 15,
             "neutral": 3,
             "overall": "negative"
           },
@@ -283,13 +283,13 @@
           },
           "us": {
             "positive": 1,
-            "negative": 5,
+            "negative": 6,
             "neutral": 9,
             "overall": "neutral"
           },
           "civilians": {
             "positive": 0,
-            "negative": 9,
+            "negative": 10,
             "neutral": 0,
             "overall": "negative"
           },
@@ -300,7 +300,7 @@
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T05:47:30Z"
+        "updated_at_utc": "2026-10-21T06:45:40Z"
       },
       "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov - a Druzhba-network hub - sparking a fire at a fuel tank (Governor Pervyshov confirmed).",
       "watch_for": [
@@ -360,12 +360,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 22,
-        "confirmed": 22,
+        "items_in_window": 24,
+        "confirmed": 24,
         "single-sourced": 0,
         "unconfirmed": 0,
         "confirmed_rate": 1.0,
-        "updated_at_utc": "2026-10-21T05:47:30Z"
+        "updated_at_utc": "2026-10-21T06:45:40Z"
       },
       "phase": "escalation"
     },
@@ -818,5 +818,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T06:45:18Z"
+  "updated_at_utc": "2026-10-21T06:45:40Z"
 }

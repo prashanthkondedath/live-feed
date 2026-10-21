@@ -335,14 +335,15 @@
    "title": "Oct 22: Parties at Matignon Thu 2:30pm — Le Pen and Bardella skip (sending reps); LFI silent"
   },
   {
-   "confidence": "single-sourced",
+   "confidence": "confirmed",
    "event_time_ist": "Announced Oct 20, 2026; deployment for Sat Oct 24, 2026",
    "id": "paris-protests-oct20-oct24-security-massive",
    "image_urls": [
     "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
    ],
    "links": [
-    "https://www.europesays.com/fr/1254689/"
+    "https://www.europesays.com/fr/1254689/",
+    "https://www.rivieraradio.mc/article/marseille-promised-more-police-ahead-of-saturdays-protests-5Hjdk8h_2/"
    ],
    "report_time_ist": "5:17 AM IST, Oct 21",
    "report_time_pdt": "4:47 PM PDT, Oct 20",
@@ -399,8 +400,54 @@
    "source_url": "https://aktualnosci.fr/2026/10/20/premier-lecornu-zaprasza-partie-polityczne-do-matignon-w-czwartek-rn-wysle-przedstawicieli-le-pen-i-bardella-nie-przyjda/",
    "summary": "LFI coordinator Manuel Bompard announced Tuesday he will file a complaint against Interior Minister Laurent Nuñez with the Cour de justice de la République over the handling of the Oct 17 unrest. Single-sourced via a Polish news digest citing French coverage — hedged until a Tier 1/2 outlet carries it.",
    "title": "LFI's Bompard to file CJR complaint against Nuñez over protest policing"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday, Oct 20, 2026, ~9:45 AM IST (~6:15 AM CEST)",
+   "id": "paris-protests-oct20-limoges-arson-suspect-arrest",
+   "image_urls": [
+    "https://benews.fr/wp-content/uploads/2026/10/benews-6692ecdbb7730f2b6bde-1024x682.webp"
+   ],
+   "links": [
+    "https://benews.fr/incendie-de-la-mairie-de-limoges-un-homme-place-en-garde-a-vue/",
+    "https://www.lefigaro.fr/faits-divers/membre-de-l-ultragauche-fiche-s-parents-militants-ce-que-l-on-sait-de-hodei-c-d-le-principal-suspect-de-l-incendie-de-la-mairie-de-limoges-20261020"
+   ],
+   "report_time_ist": "6:12 AM IST, Oct 21",
+   "report_time_pdt": "5:42 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T00:42:40Z",
+   "sentiment": {
+    "govt_police": "positive",
+    "protesters": "negative"
+   },
+   "source_name": "Le Figaro",
+   "source_url": "https://www.lefigaro.fr/faits-divers/incendie-de-la-mairie-de-limoges-le-principal-suspect-un-activiste-d-ultragauche-interpelle-par-le-raid-20261020",
+   "summary": "The 34-year-old suspected of being the principal arsonist in the Oct 17 burning of Limoges's 143-year-old town hall was arrested at dawn Tuesday Oct 20 (~6:15 AM CEST) in Val-d'Issoire, Haute-Vienne, by Bordeaux's RAID elite unit. Police sources describe him as an ultra-left activist on the fiche-S watchlist, already known for violence against public officials (Le Figaro identifies him as Hodei C.D., from the Creuse); Limoges prosecutor Emilie Abrantes confirmed the arrest, and the man is in garde a vue and presumed innocent. France's anti-terror sub-directorate (SDAT) has been co-seized alongside Limoges organized-crime police, while the national anti-terror prosecutor (PNAT) is monitoring without taking over the case. The Oct 17 fire destroyed the roof and collapsed the 43-metre bell tower of the 1883 heritage-listed building. PM Sebastien Lecornu pledged state aid to rebuild the mairie and reportedly plans to visit Limoges on Friday Oct 23.",
+   "title": "Limoges town-hall arson: prime suspect arrested at dawn, anti-terror unit joins probe"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Monday evening, Oct 19, 2026 (article 20 Oct 2026, 08:20 CET)",
+   "id": "paris-protests-oct20-nunez-marseille-meeting-confirmed",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-c59c7c60d677.jpg"
+   ],
+   "links": [
+    "https://www.rivieraradio.mc/article/marseille-promised-more-police-ahead-of-saturdays-protests-5Hjdk8h_2/",
+    "https://www.europesays.com/fr/1254689/"
+   ],
+   "report_time_ist": "6:12 AM IST, Oct 21",
+   "report_time_pdt": "5:42 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T00:42:40Z",
+   "sentiment": {
+    "govt_police": "positive",
+    "protesters": "negative"
+   },
+   "source_name": "Riviera Radio",
+   "source_url": "https://www.rivieraradio.mc/article/marseille-promised-more-police-ahead-of-saturdays-protests-5Hjdk8h_2/",
+   "summary": "Interior Minister Laurent Nunez's Monday-evening Marseille trip, flagged single-sourced last run, is now confirmed by Riviera Radio: Nunez traveled to Marseille Monday evening despite initially cancelling his scheduled afternoon visit, arriving at City Hall after a government crisis meeting in Paris to meet Mayor Benoit Payan for 45+ minutes, described as frank and constructive. Payan had sharply criticized the number of officers deployed for the Oct 17 demos and demanded an explanation; Nunez promised a significantly larger police presence for Saturday Oct 24's demos, which organizers are calling 'Act Two.' Marseille traders say more than 100 shops were targeted in central Marseille, with at least 600 affected businesses in police-administered areas outside Paris; the government announced emergency support for businesses.",
+   "title": "Nuñez's Marseille visit now confirmed: promises much larger police force for Saturday's 'Act Two' demos"
   }
  ],
- "last_updated_pdt": "4:47 PM PDT, Oct 20",
- "last_updated_ist": "5:17 AM IST, Oct 21"
+ "last_updated_pdt": "5:42 PM PDT, Oct 20",
+ "last_updated_ist": "6:12 AM IST, Oct 21"
 }

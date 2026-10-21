@@ -446,8 +446,56 @@
    "source_url": "https://www.rivieraradio.mc/article/marseille-promised-more-police-ahead-of-saturdays-protests-5Hjdk8h_2/",
    "summary": "Interior Minister Laurent Nunez's Monday-evening Marseille trip, flagged single-sourced last run, is now confirmed by Riviera Radio: Nunez traveled to Marseille Monday evening despite initially cancelling his scheduled afternoon visit, arriving at City Hall after a government crisis meeting in Paris to meet Mayor Benoit Payan for 45+ minutes, described as frank and constructive. Payan had sharply criticized the number of officers deployed for the Oct 17 demos and demanded an explanation; Nunez promised a significantly larger police presence for Saturday Oct 24's demos, which organizers are calling 'Act Two.' Marseille traders say more than 100 shops were targeted in central Marseille, with at least 600 affected businesses in police-administered areas outside Paris; the government announced emergency support for businesses.",
    "title": "Nuñez's Marseille visit now confirmed: promises much larger police force for Saturday's 'Act Two' demos"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Announced Tuesday, Oct 20, 2026 (daytime, CEST); troops deploy Saturday, Oct 24, 2026",
+   "id": "paris-protests-oct20-sentinelle-troops-oct24",
+   "image_urls": [
+    "https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"
+   ],
+   "links": [
+    "https://lejdf.fr/nunez-mobilise-sentinelle-gign-et-raid-pour-le-24-octobre-cf385b/",
+    "https://benews.fr/sentinelle-mobilisee-samedi-pour-degager-policiers-et-gendarmes/",
+    "https://lesgiletsjaunesdeforcalquier.fr/2026/10/le-gouvernement-mobilise-larmee/",
+    "https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/"
+   ],
+   "report_time_ist": "7:12 AM IST, Oct 21",
+   "report_time_pdt": "6:42 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T01:42:00Z",
+   "sentiment": {
+    "govt_police": "positive",
+    "protesters": "negative"
+   },
+   "source_name": "Le Journal des Français",
+   "source_url": "https://lejdf.fr/nunez-mobilise-sentinelle-gign-et-raid-pour-le-24-octobre-cf385b/",
+   "summary": "Interior Minister Laurent Nuñez told lawmakers during Tuesday's National Assembly Q&A that Sentinelle soldiers will take over static guard missions for Saturday's 'Act II' protests, freeing police and gendarmes for crowd control. Lecornu promised a 'massive' deployment and admitted the Oct 17 setup had been 'too static and not mobile enough.' Nuñez announced a doctrine shift to 'reactivity and mobility' with BRI, GIGN, RAID, helicopters, Centaure armored vehicles and water cannons — the July 2023 riot scheme, reinforced — and said he is studying bans on non-notified demonstrations judged likely to disrupt public order, and even on declared marches whose organizers look unable to prevent spillover. Soldiers will not man the march lines themselves; they take over sensitive fixed sites.",
+   "title": "Nuñez announces Sentinelle troops + BRI/GIGN/RAID for Saturday's 'Act II'; government weighs bans on non-notified demos"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Tuesday, Oct 20, 2026 (daytime, CEST); inquiry work could start next week",
+   "id": "paris-protests-oct20-accountability-inquiry-200-investigators",
+   "image_urls": [
+    "https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"
+   ],
+   "links": [
+    "https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/",
+    "https://www.jfeed.com/news-world/tn7yae",
+    "https://particle.news/story/assembly-launches-inquiry-into-october-17-urban-violence"
+   ],
+   "report_time_ist": "7:12 AM IST, Oct 21",
+   "report_time_pdt": "6:42 PM PDT, Oct 20",
+   "reported_at_utc": "2026-10-21T01:42:00Z",
+   "sentiment": {
+    "govt_police": "negative"
+   },
+   "source_name": "Cyprus Inform",
+   "source_url": "https://www.kiprinform.com/en/news/france-plans-troop-deployment-and-major-security-operation-for-saturday-protests/",
+   "summary": "Nuñez apologized in the National Assembly on Tuesday: 'I deeply regret what happened. I accept my share of responsibility.' Lecornu acknowledged intelligence failures, deployments that were too static, and the error of not cancelling scheduled police leave. The Assembly's conference of presidents agreed Tuesday to convert the commission des lois (about 70 members) into a full commission of inquiry into the Oct 17 unrest, with powers to compel documents and sworn testimony; a bureau meeting could happen within 24 hours so work starts next week. Authorities have assigned 200 investigators to identify those involved in the street violence. Targeted curfews — credited with a calmer night (Paris's République was emptied and guarded overnight with a helicopter overhead) — were extended through Tuesday night, with Marseille adding minors' curfews around the hardest-hit commercial areas from Tuesday night. Single-sourced (particle.news, unverified elsewhere): the justice minister says 149 people have been jailed so far and prosecutors were instructed to use 'criminalité organisée' to extend custody.",
+   "title": "Nuñez apologizes, accepts responsibility; parliament launches inquiry commission; 200 investigators assigned"
   }
  ],
- "last_updated_pdt": "5:42 PM PDT, Oct 20",
- "last_updated_ist": "6:12 AM IST, Oct 21"
+ "last_updated_pdt": "6:42 PM PDT, Oct 20",
+ "last_updated_ist": "7:12 AM IST, Oct 21"
 }

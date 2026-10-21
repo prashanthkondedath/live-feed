@@ -639,48 +639,48 @@
       "phase": "final-stretch",
       "curation_updated_at_utc": "2026-10-21T05:40:33Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
-      "trend": "warm",
+      "trend": "hot",
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 47,
+        "items_in_window": 45,
         "confirmed": 33,
-        "single-sourced": 14,
+        "single-sourced": 12,
         "unconfirmed": 0,
-        "confirmed_rate": 0.7,
-        "updated_at_utc": "2026-10-21T05:47:42Z"
+        "confirmed_rate": 0.73,
+        "updated_at_utc": "2026-10-21T06:47:22Z"
       },
-      "trend_updated_at_utc": "2026-10-21T05:47:42Z",
+      "trend_updated_at_utc": "2026-10-21T06:47:22Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 47,
+        "items_in_window": 45,
         "sides": {
+          "republicans": {
+            "positive": 12,
+            "negative": 19,
+            "neutral": 5,
+            "overall": "negative"
+          },
           "democrats": {
-            "positive": 23,
+            "positive": 21,
             "negative": 10,
             "neutral": 4,
             "overall": "positive"
           },
-          "republicans": {
-            "positive": 13,
-            "negative": 21,
-            "neutral": 4,
-            "overall": "negative"
-          },
           "trump": {
-            "positive": 6,
-            "negative": 12,
+            "positive": 8,
+            "negative": 11,
             "neutral": 1,
             "overall": "negative"
           },
           "voters": {
             "positive": 3,
             "negative": 2,
-            "neutral": 9,
+            "neutral": 5,
             "overall": "neutral"
           }
         },
-        "updated_at_utc": "2026-10-21T05:47:42Z"
+        "updated_at_utc": "2026-10-21T06:47:22Z"
       }
     },
     {
@@ -818,5 +818,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T06:46:32Z"
+  "updated_at_utc": "2026-10-21T06:47:22Z"
 }

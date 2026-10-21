@@ -2831,6 +2831,93 @@
       "sentiment": {
         "republicans": "positive"
       }
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "published Oct 21, 2026 (morning IST)",
+      "id": "cnn-ssrs-poll-oct21",
+      "image_urls": [
+        "https://media.cnn.com/api/v1/images/stellar/prod/01-gettyimages-2299362323.JPG?c=original&q=w_1041,c_fill"
+      ],
+      "links": [],
+      "report_time_ist": "4:18 PM IST, Oct 21",
+      "report_time_pdt": "3:48 AM PDT, Oct 21",
+      "reported_at_utc": "2026-10-21T10:48:04Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      },
+      "source_name": "CNN",
+      "source_url": "https://www.cnn.com/2026/10/21/politics/cnn-poll-trump-democrats-republicans-midterms?cid=external-feeds_iluminar_meta",
+      "summary": "New CNN poll conducted by SSRS (registered voters): Democrats lead 49-39 (+10) on voters' choice in their own congressional district \u2014 the largest CNN margin since just before the 2020 election. Trump's approval stands at a record low of 32% in CNN polling. More than three-quarters of voters see the election as their chance to change things in Washington. Democratic advantages: Black voters +70, Latino voters +40, women +21, younger adults +31, independents +15, extremely motivated voters +18. CNN cautions mid-decade redistricting and many competitive races in Trump-won territory could limit Democratic gains.",
+      "title": "CNN/SSRS poll: Democrats +10 (49-39) on congressional-district vote; Trump's CNN approval hits record low 32%"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "published Oct 19, 2026",
+      "id": "reuters-ipsos-poll-oct19",
+      "image_urls": [
+        "https://www.freedom969.com/wp-content/uploads/2026/10/1791230749238648edhLcjvHKI.jpg"
+      ],
+      "links": [
+        "https://www.poliwave.com/us/fed/polls"
+      ],
+      "report_time_ist": "4:18 PM IST, Oct 21",
+      "report_time_pdt": "3:48 AM PDT, Oct 21",
+      "reported_at_utc": "2026-10-21T10:48:04Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative",
+        "trump": "negative"
+      },
+      "source_name": "Reuters",
+      "source_url": "https://www.reuters.com/world/us/trump-approval-falls-record-low-31-midterms-near-reutersipsos-poll-finds-2026-10-19/",
+      "summary": "Reuters/Ipsos four-day poll closed Monday Oct 19 (1,679 US adults / 1,279 registered voters; MoE 2-3 pts): Trump approval fell to 31% \u2014 a record low across either of his terms, down a point from two weeks prior. On the generic ballot, 47% of registered voters picked Democrats and 35% Republicans (+12) \u2014 the widest Democratic advantage of the cycle. Americans cite high gas prices and appear ready to punish the GOP on Nov 3. Carried by the Poliwave aggregator's generic-ballot table and analyzed in CNN's Harry Enten segment (Ipsos net -35 is Trump's worst-ever reading; four concurrent polls \u2014 NBC -32, ABC -33, Ipsos -35, Pew -38 \u2014 all worse than Truman's -30 in Oct 1946).",
+      "title": "Reuters/Ipsos: Trump approval sinks to record-low 31%; Democrats +12 (47-35) on generic ballot, widest of cycle"
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "announced Oct 20, 2026 (Tuesday)",
+      "id": "trump-bloomberg-spending-oct20",
+      "image_urls": [
+        "https://digilant.com/wp-content/uploads/2026/02/Political-Advertising-2026-Midterms.jpg"
+      ],
+      "links": [
+        "https://www.livemint.com/global/trump-promises-cash-and-bailouts-to-woo-midterm-voters-worried-about-high-prices/amp-11792545170614.html"
+      ],
+      "report_time_ist": "4:18 PM IST, Oct 21",
+      "report_time_pdt": "3:48 AM PDT, Oct 21",
+      "reported_at_utc": "2026-10-21T10:48:04Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "positive",
+        "trump": "neutral"
+      },
+      "source_name": "Wall Street Journal",
+      "source_url": "https://www.wsj.com/politics/elections/trump-midterm-election-strategy-cash-f5f1e9fc",
+      "summary": "In a social-media post Tuesday Oct 20, Trump said he has spent or will spend 'over 400 Million Dollars by Election Day' on GOP midterm efforts \u2014 'more than 300 Million already spent on Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity.' Campaign filings show his MAGA Inc. super PAC + No Going Back PAC spent $226M+ so far (MAGA Inc. had ~$416M cash on hand end-August). WSJ reports the closing pitch pairs the cash with an $8B farmer bailout and promised $5K dividends. Meanwhile the NYT reports Michael Bloomberg is spending ~$80M for Democrats in Sept-Oct \u2014 at least $50M on House races, including $24M for Everytown for Gun Safety and $16M for House Majority PAC.",
+      "title": "Trump says he'll spend $400M+ on GOP midterms; NYT reports Bloomberg putting $80M behind Democrats"
+    },
+    {
+      "confidence": "single-sourced",
+      "event_time_ist": "reported Oct 20, 2026",
+      "id": "wapo-natsec-states-interference-oct20",
+      "image_urls": [
+        "https://twt-thumbs.washtimes.com/media/image/2026/02/10/Elections_Justice_Department_62667_c0-310-7402-4625_s885x516.jpg?36cf82c276f4ac8a24c59c15781fdccddcceb86e"
+      ],
+      "links": [],
+      "report_time_ist": "4:18 PM IST, Oct 21",
+      "report_time_pdt": "3:48 AM PDT, Oct 21",
+      "reported_at_utc": "2026-10-21T10:48:04Z",
+      "sentiment": {
+        "republicans": "negative",
+        "trump": "negative"
+      },
+      "source_name": "Washington Post (via NPR interview with the reporting journalist)",
+      "source_url": "https://www.nprillinois.org/2026-10-20/how-some-states-are-preparing-for-the-possibility-of-federal-election-interference",
+      "summary": "Washington Post investigation (Oct 20, by Noah Robertson): about 10 current and former national security officials \u2014 many with DoD backgrounds, some with experience countering authoritarianism abroad \u2014 have for months quietly advised governors, election administrators and bipartisan lawmakers in roughly 10 states on preparing for possible Trump-administration election interference. Their warnings rest on personal analysis of the administration's public actions and statements, not classified intelligence. Scenarios include troops, National Guard or immigration agents at polling places, federal access to election systems, and challenges to certified results; at least one state keeps meeting with the advisers, and election officials are rehearsing responses (verifying badges, insisting on judge-signed warrants). The Pentagon and DHS denied plans to deploy troops or immigration agents to monitor polling places; the White House dismissed the concerns and blamed Democrats' refusal to pass the SAVE America Act. Single-sourced: NPR's follow-up interview with the WaPo reporter is the same lean category.",
+      "title": "WaPo: current/former national security officials quietly advising ~10 states on possible Trump election interference"
     }
   ],
   "report_time_pdt": "11:45 AM PDT, Oct 14",

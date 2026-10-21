@@ -1,27 +1,29 @@
 {
- "report_time_pdt": "5:41 AM PDT, Oct 21",
- "report_time_ist": "6:11 PM IST, Oct 21",
+ "report_time_pdt": "6:44 AM PDT, Oct 21",
+ "report_time_ist": "7:14 PM IST, Oct 21",
  "items": [
   {
-   "id": "das-ranka-police-seeks-3-more-days-oct21",
-   "event_time_ist": "~2:00 PM IST, Oct 21 (SEM surety-reconsideration hearing, Mandir Marg)",
-   "title": "Delhi Police seeks 3 more days of judicial custody for Das and Ranka at today's SEM hearing; decision still pending",
-   "summary": "At the 2 PM IST surety-reconsideration hearing before the Special Executive Magistrate at Mandir Marg PS — the hearing the Delhi HC told the duo to await when they withdrew their writ plea this morning — Delhi Police sought THREE more days of judicial custody for CJP co-conveners Saurav Das and Ashutosh Ranka in the Jantar Mantar trespass/peace-bond-breach case (2 FIRs, now with the Crime Branch Inter-State Cell). CJP legal head Ratna Singh was present ahead of proceedings. The IANS report (Oct 21) says the hearing was still underway and the magistrate had not yet pronounced a decision as of ~6 PM IST. No second news outlet is carrying the 3-day request yet; an IG news graphic the same evening corroborates the headline. Also today at the HC: Justice Subramonium Prasad withdrew the duo's plea with the oral remarks 'Then you are not Gen Z' (told Das, 27, and Ranka, 32) and 'Earlier it was a student protest; children were there, but now it's another cause' — color from the same hearing, not re-alerted as a separate arc.",
-   "source_name": "IANS (via hiindia.com)",
-   "source_url": "https://hiindia.com/delhi-police-seeks-3-day-additional-custody-of-cjp-leaders-saurav-das-ashutosh-ranka/",
+   "id": "das-ranka-released-judicial-custody-oct21",
+   "event_time_ist": "~6:37 PM IST, Oct 21",
+   "title": "Delhi SEM court orders release of CJP leaders Saurav Das and Ashutosh Ranka from judicial custody",
+   "summary": "A Special Executive Magistrate court in Delhi on Wednesday evening ordered the release of CJP co-convenors Saurav Das and Ashutosh Ranka from judicial custody, ending the 7-day detention that began Oct 14 after they unfurled the Tricolour at Jantar Mantar in alleged breach of their peace bonds. The order came at the 2 PM IST surety-reconsideration hearing, where Delhi Police had sought three more days of custody; the magistrate declined the extension. Earlier in the day the duo withdrew their Delhi High Court plea challenging the custody after Justice Subramonium Prasad steered them toward the alternative remedy (HC left all contentions open). CJP founder Abhijeet Dipke reacted online with an emotional 'Chak De! India'-clip tribute reel reposting LiveLaw's breaking graphic; commenters framed the Vijayadashami-day release as a symbolic victory of truth.",
+   "source_name": "Live Law",
+   "source_url": "https://www.livelaw.in/news-updates/delhi-court-orders-release-of-cjp-leaders-saurav-das-ashutosh-ranka-555526",
    "links": [
-    "https://hiindia.com/delhi-police-seeks-3-day-additional-custody-of-cjp-leaders-saurav-das-ashutosh-ranka/",
-    "https://www.instagram.com/p/Dewaw2UmyP2/"
+    "https://www.devdiscourse.com/article/headlines/3995799-sem-court-orders-cjps-saurav-das-and-ashutosh-rankas-release-from-judicial-custody",
+    "https://www.instagram.com/p/Dewd5VJTClP/",
+    "https://www.instagram.com/p/Dewg0BUH6Gj/"
    ],
    "image_urls": [
     "https://st1.latestly.com/wp-content/uploads/2026/10/CJP-Jail-784x441.jpg"
    ],
-   "confidence": "single-sourced (wire only)",
-   "report_time_pdt": "5:41 AM PDT, Oct 21",
-   "report_time_ist": "6:11 PM IST, Oct 21",
-   "reported_at_utc": "2026-10-21T12:41:42Z",
+   "confidence": "confirmed",
+   "report_time_pdt": "6:44 AM PDT, Oct 21",
+   "report_time_ist": "7:14 PM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T13:44:42Z",
    "sentiment": {
-    "cjp_protesters": "negative"
+    "cjp_protesters": "positive",
+    "police_govt": "negative"
    }
   }
  ]

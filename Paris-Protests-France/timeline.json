@@ -829,8 +829,52 @@
    "source_url": "https://mavigilance.fr/agenda/",
    "summary": "The intersyndicale of professional firefighters extended their strike — in place since Sept 8 and set to expire Oct 20 — through Dec 4 inclusive, judging the government has not answered their demands. Parallel labor pressure track to the cost-of-living movement.",
    "title": "Oct 21: firefighters' strike extended through Dec 4"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Friday, Oct 23, 2026 (ratings review date)",
+   "id": "paris-oct21-moodys-friday-review",
+   "image_urls": [
+    "https://signalpostnews.com/assets/img-5d974e44f654.jpg"
+   ],
+   "links": [
+    "https://www.lemonde.fr/en/economy/article/2026/10/19/france-s-political-crisis-and-near-insurrectional-image-risk-worsening-budgetary-tensions_6758794_19.html",
+    "https://www.zerohedge.com/political/french-bond-yields-explode-24-year-high-unrest-and-fiscal-crisis-collide"
+   ],
+   "report_time_ist": "8:08 PM IST, Oct 21",
+   "report_time_pdt": "7:38 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T14:38:00Z",
+   "sentiment": {
+    "govt_police": "negative"
+   },
+   "source_name": "Le Monde (Tier 2) + ZeroHedge/Bloomberg-derived wire",
+   "source_url": "https://www.lemonde.fr/en/economy/article/2026/10/19/france-s-political-crisis-and-near-insurrectional-image-risk-worsening-budgetary-tensions_6758794_19.html",
+   "summary": "Moody's has France's Aa3 sovereign rating (negative outlook) under review this Friday, Oct 23 — and the agency weighs institutional strength alongside fiscal fundamentals, so the unrest compounds the budget fight. Comes after the 10-year OAT blew past 5% (first time since 2002) with the France-Germany spread near 160bp, the widest since the euro debt crisis. ABN AMRO flags the review as the bearish-case trigger (downgrade to A1); an FT opinion piece on Oct 21 asked 'Is France spinning out of control?'. S&P follows Nov 27 (currently A+). A downgrade would push yields higher still — feeding the same living costs that sparked the protests.",
+   "title": "Friday Oct 23: Moody's set to review France's Aa3 rating with the unrest now a market factor"
+  },
+  {
+   "confidence": "single-sourced",
+   "event_time_ist": "Wednesday, Oct 21, 2026",
+   "id": "paris-oct21-lepen-lfi-opposition-react",
+   "image_urls": [
+    "https://www.kiprinform.com/wp-content/uploads/2026/10/france-rioti-1-scaled.webp"
+   ],
+   "links": [
+    "https://www.tbsnews.net/worldbiz/europe/frances-macron-vows-no-repeat-riots-yellow-vests-mobilise-1579591"
+   ],
+   "report_time_ist": "8:08 PM IST, Oct 21",
+   "report_time_pdt": "7:38 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T14:38:00Z",
+   "sentiment": {
+    "govt_police": "negative",
+    "opposition": "positive"
+   },
+   "source_name": "Reuters (Tier 1)",
+   "source_url": "https://www.reuters.com/world/europe/french-government-faces-fresh-test-yellow-vests-mobilise-2026-10-21/",
+   "summary": "Far-right leader Marine Le Pen told Franceinfo radio on Oct 21 that 'the government has lost control of everything', with her bloc leading first-round presidential polling by a wide margin. Meanwhile LFI's parliamentary group attacked the planned troop deployment for Oct 24: 'Demonstrators are not enemies within. The French government must not go to war against its own people.' Ministers have accused LFI of fueling the unrest. Neither claim is new policy, but the two blocs vying to succeed Macron (election April-May 2027) are now explicitly framing the security response as their campaign terrain.",
+   "title": "Oct 21: Le Pen declares 'the government has lost control of everything'; LFI rejects troop deployment for Oct 24"
   }
  ],
- "last_updated_pdt": "6:45 AM PDT, Oct 21",
- "last_updated_ist": "7:15 PM IST, Oct 21"
+ "last_updated_pdt": "7:38 AM PDT, Oct 21",
+ "last_updated_ist": "8:08 PM IST, Oct 21"
 }

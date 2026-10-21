@@ -1713,6 +1713,29 @@
         "saudi_govt": "positive",
         "us": "neutral"
       }
+    },
+    {
+      "confidence": "confirmed",
+      "event_time_ist": "Tuesday, Oct 20, 2026 (intraday trading)",
+      "id": "brent-five-month-high-oct20",
+      "image_urls": [
+        "https://vested-wordpress-media-prod-in.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/06/06095627/Oil-1024x643.png"
+      ],
+      "links": [
+        "https://thedailyenergy.com/hormuz-attacks-houthi-yanbu-shaybah/",
+        "https://965wtou.com/2026/10/20/oil-rises-on-middle-east-supply-worries/"
+      ],
+      "report_time_ist": "12:14 PM IST, Oct 21",
+      "report_time_pdt": "11:44 PM PDT, Oct 20",
+      "reported_at_utc": "2026-10-21T06:44:53Z",
+      "sentiment": {
+        "houthis": "neutral",
+        "saudi_govt": "negative"
+      },
+      "source_name": "Reuters",
+      "source_url": "https://www.tbsnews.net/worldbiz/usa/brent-hits-five-month-high-attacks-ships-saudi-sites-fuel-supply-worries-1578621",
+      "summary": "Brent crude futures surged to $111.75 a barrel intraday Tuesday (highest since May), settled at $108.79, and traded around $109.64 early Wednesday. WTI's nearby contract hit $110 intraday Tuesday, highest since April. Traders are pricing a geopolitical risk premium from Houthi claims of Monday strikes on an Aramco site in Yanbu, the Shaybah oilfield, Riyadh's King Khalid airport and Abha airport (unverified; Saudi authorities did not confirm), plus at least 18 vessels attacked over two weeks (Kpler). ING analysts said the market is pricing a 'significant risk premium' and sees no sign of erosion yet. Separately, Iranian FM Araqchi said on Tuesday TV that Iran has received no response from Saudi Arabia or the Houthis to its offer to broker peace talks.",
+      "title": "Brent crude hits five-month high as traders price Houthi-Saudi war risk premium"
     }
   ]
 }

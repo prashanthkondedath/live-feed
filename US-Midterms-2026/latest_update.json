@@ -1,76 +1,27 @@
 {
-  "report_time_pdt": "7:50 AM PDT, Oct 21",
-  "report_time_ist": "8:20 PM IST, Oct 21",
+  "report_time_pdt": "8:47 AM PDT, Oct 21",
+  "report_time_ist": "9:17 PM IST, Oct 21",
   "items": [
     {
-      "id": "marist-ohio-senate-gov-oct20",
-      "event_time_ist": "Poll released Oct 20, 2026 (~9:09 PM IST, Oct 20); fielded Oct 15-18",
-      "title": "Marist: Brown +4, Acton +7 in Ohio (Oct 20 poll)",
-      "summary": "Marist University's October Ohio survey (released Oct 20, 2026; 1,176 registered voters, fielded Oct 15-18) finds Democrat Sherrod Brown leading incumbent Sen. Jon Husted 48%-44% among likely voters in the Senate race, and Democrat Amy Acton leading Vivek Ramaswamy 50%-43% among likely voters in the governor's race. Among registered voters, Brown leads 51%-42% and Acton 51%-43%. A Bowling Green State/YouGov poll released Friday showed Acton +6 (within MoE) and CNN/SSRS had Brown +6 \u2014 second pollsters confirming the pattern. Notable wrinkle: despite her lead, 51% of respondents expect Ramaswamy to WIN the governor's race vs 45% for Acton.",
-      "source_name": "Marist University Poll (pollster release); Newsmax; National Zero",
-      "source_url": "https://maristpoll.marist.edu/latest-polls/?_page=106",
+      "id": "silver-bulletin-upgrade-oct19",
+      "event_time_ist": "Oct 19, 2026 (Silver Bulletin model refresh released Monday; reported Oct 20–21)",
+      "title": "Silver Bulletin sharply upgrades Democrats: 94% House, 75% Senate (up from 81%/50% in early Sept)",
+      "summary": "Nate Silver's Silver Bulletin issued a sharply upgraded 2026 midterm forecast on Monday, Oct 19: Democrats at 94% to win the House (up from 81% in early September) and 75% to win the Senate (up from 50%). Silver argues fellow forecasters are 'boring and risk-averse' for hedging the Senate, saying Dems are better positioned than toss-up treatment suggests: Mary Peltola (AK), James Talarico (TX) and Sherrod Brown (OH) have 'led in the vast majority of polls,' and those three pickups plus North Carolina suffice for a 51-49 Dem map. Silver notes both chambers flipping in one cycle has happened only twice in 70 years (1994, 2006); for comparison, DDHQ puts Dem Senate control at 56% and prediction markets at ~65%.",
+      "source_name": "New York Post",
+      "source_url": "https://nypost.com/2026/10/20/us-news/nate-silver-says-midterm-election-news-is-even-better-for-dems-than-people-think/",
       "links": [
-        "https://www.newsmax.com/politics/ohio-jon-husted-vivek-ramaswamy/2026/10/20/id/1273477",
-        "https://nationalzero.com/2026/10/20/jon-husted-in-better-shape-than-da-vek-in-ohio-marist-poll/",
-        "https://focalnews.org/columbus-oh/politics/acton-and-brown-hold-leads-in-ohio-midterm-poll-but-voters-see-governor-race-differently"
+        "https://internewscast.com/news/nate-silver-forecasts-democrats-chances-in-upcoming-elections/"
       ],
       "image_urls": [
-        "https://cdn.koevoice.com/images/focalnews/branded/b39c4caa18a846269f695dc7cb906552/og.jpg"
+        "https://internewscast.com/wp-content/uploads/2026/10/Election-nostradamus-Nate-Silver-predicts-Democrats-chances-800x430.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "7:50 AM PDT, Oct 21",
-      "report_time_ist": "8:20 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T14:47:57Z",
+      "report_time_pdt": "8:47 AM PDT, Oct 21",
+      "report_time_ist": "9:17 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T15:47:12Z",
       "sentiment": {
         "democrats": "positive",
         "republicans": "negative"
-      }
-    },
-    {
-      "id": "rnc-50m-cash-transfer-oct20",
-      "event_time_ist": "NYT report published Oct 20, 2026 (~5:29 AM PDT / ~5:59 PM IST, Oct 20)",
-      "title": "RNC pushing $50M+ to House and Senate races off SCOTUS ruling",
-      "summary": "The New York Times reported Oct 20 that the RNC is transferring more than $50 million to the party's House and Senate campaign committees \u2014 the largest such late transfer in at least four cycles ($8M-$31M historically). More than $44M moved mid-August to mid-October, split evenly between the NRCC and NRSC, with ~$6M more expected by Election Day. It leverages the June Supreme Court ruling striking down coordinated-spending limits. RNC Chair Joe Gruters told Newsmax the party has 'more money in the bank to spend on elections than ever before' (entered September with $126M, raised $18.5M more). AdImpact: GOP committees have aired/reserved ~$152M in coordinated ads vs ~$102M for Dems; biggest share backs Sen. Jon Husted (R-OH), while Dems' biggest share backs Sherrod Brown. RNC also spent ~$56M on canvassing/turnout, $27M on 'election integrity' efforts through early October.",
-      "source_name": "New York Times (original); Newsmax; Election Law Blog",
-      "source_url": "https://www.newsmax.com/politics/rnc-midterm-elections-campaign-spending/2026/10/20/id/1273359",
-      "links": [
-        "https://politicalwire.com/2026/10/20/rnc-moves-50-million-to-help-midterm-candidates/",
-        "https://electionlawblog.org/2026/rnc-takes-advantage-of-supreme-court-decision-permitting-it-to-coordinate-with-candidates-by-pumping-50-million-into-midterms/",
-        "https://www.newsmax.com/newsmax-tv/rnc-midterms-joe-gruters/2026/10/20/id/1273433"
-      ],
-      "image_urls": [
-        "https://www.palisadesrepublicans.org/wp-content/uploads/2025/10/Logo.jpeg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "7:50 AM PDT, Oct 21",
-      "report_time_ist": "8:20 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T14:47:57Z",
-      "sentiment": {
-        "republicans": "positive",
-        "democrats": "negative"
-      }
-    },
-    {
-      "id": "axios-redistricting-net-one-seat-oct20",
-      "event_time_ist": "Axios report published Oct 20, 2026",
-      "title": "Axios: GOP now fears redistricting nets just one seat nationally",
-      "summary": "Axios reported Oct 20 that House Republicans are 'quietly scaling back hopes for the 10-seat boost they sought from redistricting nationwide' \u2014 top GOP strategists now privately worry 'the great redistricting war of 2026 will net them only one seat nationwide.' Early this summer Republicans believed they'd created 16 more GOP-friendly seats (5 TX, 4 FL, 2 OH, 1 each in AL/LA/MO/NC/TN); since then, courts tossed the Missouri map, the political environment darkened (Dems +8 in WaPo/ABC polling), and GOP support collapsed among Latino voters in TX/FL \u2014 seats mapmakers counted on. Rep. Tom Emmer (R-MN): 'Texas, I'd be surprised if we got all five. Florida, I'd be shocked if we got all four.' Cook Political Report now estimates Republicans net ~4 seats from redistricting (worst case: GOP gains 7, Dems gain 6); Dems are 'supremely confident' of winning all five CA seats. Single-sourced: Axios is the only original outlet; no second outlet in a different lean category has picked up the Oct 20 piece yet.",
-      "source_name": "Axios (original); quoting via Political Wire",
-      "source_url": "",
-      "links": [
-        "https://politicalwire.com/2026/10/20/republicans-see-shrinking-boost-from-redistricting/",
-        "https://www.resetera.com/threads/october-20-2026-axios-republicans-see-shrinking-boost-from-redistricting.1664947/"
-      ],
-      "image_urls": [
-        "https://mapresearch.org/wp-content/uploads/screenshots/22553/state-congressional-redistricting-process-2026-04-17-063056-600x365.png"
-      ],
-      "confidence": "single-sourced",
-      "report_time_pdt": "7:50 AM PDT, Oct 21",
-      "report_time_ist": "8:20 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T14:47:57Z",
-      "sentiment": {
-        "republicans": "negative",
-        "democrats": "positive"
       }
     }
   ]

@@ -1,1 +1,77 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 21, 7 PM ET (Oct 22, 4:30 AM IST); Port Huron rally remarks 3 PM ET, Oct 25 (Oct 26, 12:30 AM IST)","id":"mi-senate-final-debate-oct21","image_urls":["https://fedfront.com/wp-content/uploads/2026/08/Mike-Rogers-Abdul-El-Sayed-640x335-1.png"],"links":["https://foxnews.com/opinion/david-marcus-5-factors-decide-michigans-tight-ugly-senate-race","https://www.thetimesherald.com/story/news/local/2026/10/19/port-huron-michigan-prepares-for-historic-united-states-president-donald-trump-rally-visit/92328601007/"],"report_time_ist":"7:22 PM IST, Oct 21","report_time_pdt":"6:52 AM PDT, Oct 21","reported_at_utc":"2026-10-21T13:52:24Z","sentiment":{"democrats":"neutral","republicans":"neutral"},"source_name":"Detroit Free Press","source_url":"https://www.freep.com/story/news/politics/elections/2026/10/21/el-sayed-rogers-debate-a-second-and-final-time-before-us-senate-election/92350098007/","summary":"Abdul El-Sayed (D) and Mike Rogers (R) meet tonight, Oct 21, at 7 PM ET in the WXYZ-TV Detroit studios for their second and final scheduled debate in the open Michigan Senate seat, after their fiery Oct 8 face-off at WOOD-TV in Grand Rapids; moderated by editorial director Chuck Stokes with anchors Carolyn Clifford and Alicia Smith, livestreamed on freep.com/WXYZ. El-Sayed leads the RCP polling average ~+2.6 (Marist 50-48, Oct 21). Also confirmed: Trump's Oct 25 Port Huron rally for Rogers (McMorran Place Arena, doors 11:30 AM, remarks 3 PM) — the first-ever sitting-president visit to St. Clair County, a day after Obama's Oct 24 Detroit rally with El-Sayed. This feed previously held the Oct 25 rally as unconfirmed; it is now confirmed by the Port Huron Times Herald and the Free Press.","title":"Michigan Senate final debate tonight (7 PM, WXYZ); Trump Oct 25 Port Huron rally confirmed"},{"confidence":"confirmed","event_time_ist":"Rally 7 PM ET, Oct 21 (4:30 AM IST, Oct 22); Graham AP interview Sat, Oct 17; Trafalgar fielded Oct 18-19","id":"clemson-rally-russia-rift-oct21","image_urls":["https://gigantum.net/img/aHR0cHM6Ly90aGVoaWxsLmNvbS93cC1jb250ZW50L3VwbG9hZHMvc2l0ZXMvMi8yMDI2LzA4L01SLVRvcC1EYXJsaW5lLUdyYWhhbS1Bbm5pZS1BbmRyZXdzLnBuZw"],"links":["https://congress.net/sen-darline-graham-signals-disagreement-with-trump-over-russia-sanctions-waiver/","https://www.greenvilleonline.com/story/news/politics/elections/2026/10/21/president-trump-sc-rally-darline-graham--live/92344505007/","https://politicalwire.com/2026/10/19/darline-graham-narrowly-leads-for-south-carolina-senate/"],"report_time_ist":"7:22 PM IST, Oct 21","report_time_pdt":"6:52 AM PDT, Oct 21","reported_at_utc":"2026-10-21T13:52:24Z","sentiment":{"democrats":"positive","republicans":"negative","trump":"negative"},"source_name":"Reuters","source_url":"https://www.reuters.com/world/us/trump-rally-graham-tight-south-carolina-senate-race-amid-russia-rift-2026-10-21/","summary":"Trump rallies at Clemson's T. Ed Garrison Arena tonight, Oct 21 (doors 3:30 PM, remarks ~7 PM ET) for Sen. Darline Graham, who is 'running about even' with Democrat Annie Andrews in a state Trump won by ~18 points; nonpartisan analysts rate SC Likely R or Lean R. The rally lands amid a visible GOP rift: Trump last week waived sanctions under the Lindsey O. Graham Sanctioning Russia and Iran Act (her late brother's bill); Graham told AP on Sat Oct 17 she would 'choose to keep the pressure on Russia... I don't trust Putin, and I don't trust Russia.' Sen. Cornyn: 'Lindsey would be appalled'; Sen. Tillis called the waiver 'beyond irresponsible' (TIME); Zelensky called it 'unfortunate.' Fresh SC polls: Trafalgar (R, Oct 18-19) has Graham 49-46 Andrews; Decision Desk HQ polling average (Oct 18): Graham 46.2-43.9 (+2.3), a statistical tie. Clemson College Democrats are protesting 2:30-5 PM at the venue entrance.","title":"Trump's Clemson rally tonight amid GOP rift over Russia sanctions waiver; SC Senate a statistical tie"},{"confidence":"confirmed","event_time_ist":"Released Oct 21 (fielded Oct 7-15)","id":"ajc-ga-senate-ossoff-48-40-oct21","image_urls":["https://www.ap.org/wp-content/uploads/2026/06/Election_2026_Georgia_26139465535955.jpg"],"links":["https://www.usatoday.com/story/news/state/georgia/2026/10/20/where-do-polls-stand-in-georgia-midterm-races-governor-still-tight/92343236007/","https://www.realclearpolling.com/elections/senate/2026/georgia","https://www.ajc.com/politics/2026/10/ajc-poll-ossoff-leads-collins-in-georgias-us-senate-race/"],"report_time_ist":"7:22 PM IST, Oct 21","report_time_pdt":"6:52 AM PDT, Oct 21","reported_at_utc":"2026-10-21T13:52:24Z","sentiment":{"democrats":"positive","republicans":"negative"},"source_name":"AJC (via FOX 5 Atlanta)","source_url":"https://fox5atlanta.com/news/ajc-poll-gives-ossoff-8-point-lead-over-collins","summary":"AJC/UGA SPIA poll (1,000 likely voters, telephone, Oct 7-15, MoE ±3.1), released Oct 21: Sen. Jon Ossoff (D) 48%, Rep. Mike Collins (R) 40%, 12% undecided — lead outside the margin of error; Ossoff job approval 55%. Ossoff leads among women, Black voters, young voters, and college grads; Collins leads among white voters, voters 65+, and non-college voters. The same poll found the GA governor race tied (Jackson 46, Bottoms 45 — reported Oct 20). Second pollster: Quantus Insights (Oct 15-17): Ossoff 51.8-44.9; RCP average now Ossoff +8.5. Watch GA's 50% runoff threshold — Ossoff sits just under it.","title":"AJC poll: Ossoff leads Collins 48-40 in Georgia Senate race"}],"report_time_ist":"7:22 PM IST, Oct 21","report_time_pdt":"6:52 AM PDT, Oct 21"}
+{
+  "report_time_pdt": "7:50 AM PDT, Oct 21",
+  "report_time_ist": "8:20 PM IST, Oct 21",
+  "items": [
+    {
+      "id": "marist-ohio-senate-gov-oct20",
+      "event_time_ist": "Poll released Oct 20, 2026 (~9:09 PM IST, Oct 20); fielded Oct 15-18",
+      "title": "Marist: Brown +4, Acton +7 in Ohio (Oct 20 poll)",
+      "summary": "Marist University's October Ohio survey (released Oct 20, 2026; 1,176 registered voters, fielded Oct 15-18) finds Democrat Sherrod Brown leading incumbent Sen. Jon Husted 48%-44% among likely voters in the Senate race, and Democrat Amy Acton leading Vivek Ramaswamy 50%-43% among likely voters in the governor's race. Among registered voters, Brown leads 51%-42% and Acton 51%-43%. A Bowling Green State/YouGov poll released Friday showed Acton +6 (within MoE) and CNN/SSRS had Brown +6 \u2014 second pollsters confirming the pattern. Notable wrinkle: despite her lead, 51% of respondents expect Ramaswamy to WIN the governor's race vs 45% for Acton.",
+      "source_name": "Marist University Poll (pollster release); Newsmax; National Zero",
+      "source_url": "https://maristpoll.marist.edu/latest-polls/?_page=106",
+      "links": [
+        "https://www.newsmax.com/politics/ohio-jon-husted-vivek-ramaswamy/2026/10/20/id/1273477",
+        "https://nationalzero.com/2026/10/20/jon-husted-in-better-shape-than-da-vek-in-ohio-marist-poll/",
+        "https://focalnews.org/columbus-oh/politics/acton-and-brown-hold-leads-in-ohio-midterm-poll-but-voters-see-governor-race-differently"
+      ],
+      "image_urls": [
+        "https://cdn.koevoice.com/images/focalnews/branded/b39c4caa18a846269f695dc7cb906552/og.jpg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "7:50 AM PDT, Oct 21",
+      "report_time_ist": "8:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T14:47:57Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "rnc-50m-cash-transfer-oct20",
+      "event_time_ist": "NYT report published Oct 20, 2026 (~5:29 AM PDT / ~5:59 PM IST, Oct 20)",
+      "title": "RNC pushing $50M+ to House and Senate races off SCOTUS ruling",
+      "summary": "The New York Times reported Oct 20 that the RNC is transferring more than $50 million to the party's House and Senate campaign committees \u2014 the largest such late transfer in at least four cycles ($8M-$31M historically). More than $44M moved mid-August to mid-October, split evenly between the NRCC and NRSC, with ~$6M more expected by Election Day. It leverages the June Supreme Court ruling striking down coordinated-spending limits. RNC Chair Joe Gruters told Newsmax the party has 'more money in the bank to spend on elections than ever before' (entered September with $126M, raised $18.5M more). AdImpact: GOP committees have aired/reserved ~$152M in coordinated ads vs ~$102M for Dems; biggest share backs Sen. Jon Husted (R-OH), while Dems' biggest share backs Sherrod Brown. RNC also spent ~$56M on canvassing/turnout, $27M on 'election integrity' efforts through early October.",
+      "source_name": "New York Times (original); Newsmax; Election Law Blog",
+      "source_url": "https://www.newsmax.com/politics/rnc-midterm-elections-campaign-spending/2026/10/20/id/1273359",
+      "links": [
+        "https://politicalwire.com/2026/10/20/rnc-moves-50-million-to-help-midterm-candidates/",
+        "https://electionlawblog.org/2026/rnc-takes-advantage-of-supreme-court-decision-permitting-it-to-coordinate-with-candidates-by-pumping-50-million-into-midterms/",
+        "https://www.newsmax.com/newsmax-tv/rnc-midterms-joe-gruters/2026/10/20/id/1273433"
+      ],
+      "image_urls": [
+        "https://www.palisadesrepublicans.org/wp-content/uploads/2025/10/Logo.jpeg"
+      ],
+      "confidence": "confirmed",
+      "report_time_pdt": "7:50 AM PDT, Oct 21",
+      "report_time_ist": "8:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T14:47:57Z",
+      "sentiment": {
+        "republicans": "positive",
+        "democrats": "negative"
+      }
+    },
+    {
+      "id": "axios-redistricting-net-one-seat-oct20",
+      "event_time_ist": "Axios report published Oct 20, 2026",
+      "title": "Axios: GOP now fears redistricting nets just one seat nationally",
+      "summary": "Axios reported Oct 20 that House Republicans are 'quietly scaling back hopes for the 10-seat boost they sought from redistricting nationwide' \u2014 top GOP strategists now privately worry 'the great redistricting war of 2026 will net them only one seat nationwide.' Early this summer Republicans believed they'd created 16 more GOP-friendly seats (5 TX, 4 FL, 2 OH, 1 each in AL/LA/MO/NC/TN); since then, courts tossed the Missouri map, the political environment darkened (Dems +8 in WaPo/ABC polling), and GOP support collapsed among Latino voters in TX/FL \u2014 seats mapmakers counted on. Rep. Tom Emmer (R-MN): 'Texas, I'd be surprised if we got all five. Florida, I'd be shocked if we got all four.' Cook Political Report now estimates Republicans net ~4 seats from redistricting (worst case: GOP gains 7, Dems gain 6); Dems are 'supremely confident' of winning all five CA seats. Single-sourced: Axios is the only original outlet; no second outlet in a different lean category has picked up the Oct 20 piece yet.",
+      "source_name": "Axios (original); quoting via Political Wire",
+      "source_url": "",
+      "links": [
+        "https://politicalwire.com/2026/10/20/republicans-see-shrinking-boost-from-redistricting/",
+        "https://www.resetera.com/threads/october-20-2026-axios-republicans-see-shrinking-boost-from-redistricting.1664947/"
+      ],
+      "image_urls": [
+        "https://mapresearch.org/wp-content/uploads/screenshots/22553/state-congressional-redistricting-process-2026-04-17-063056-600x365.png"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "7:50 AM PDT, Oct 21",
+      "report_time_ist": "8:20 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T14:47:57Z",
+      "sentiment": {
+        "republicans": "negative",
+        "democrats": "positive"
+      }
+    }
+  ]
+}

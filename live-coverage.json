@@ -15,20 +15,20 @@
         }
       ],
       "trend": "warm",
-      "trend_updated_at_utc": "2026-10-21T12:42:08Z",
+      "trend_updated_at_utc": "2026-10-21T13:46:10Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 101,
+        "items_in_window": 102,
         "sides": {
           "cjp_protesters": {
-            "positive": 51,
+            "positive": 52,
             "negative": 19,
             "neutral": 7,
             "overall": "positive"
           },
           "police_govt": {
             "positive": 1,
-            "negative": 48,
+            "negative": 49,
             "neutral": 19,
             "overall": "negative"
           },
@@ -51,7 +51,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T12:42:08Z"
+        "updated_at_utc": "2026-10-21T13:46:10Z"
       },
       "current_summary": "Das and Ranka's Sunday (Oct 18) SEM hearing ended with no release; on Monday evening a newly-appointed SEM (Ritu Raj) extended their judicial custody two more days till Oct 21 after rejecting their sureties, and Delhi Police transferred both cases (the Oct 13 Jantar Mantar trespass case and the Oct 16 march case) to the Crime Branch's Inter-State Cell. On Wednesday Oct 21 the two withdrew their Delhi High Court plea against the custody extension and were told to await a 2 PM SEM hearing. Dipke's preventive-arrest case ended with his Oct 17 conditional bail (one-year peace bond + Rs 50,000 surety), and on Oct 20 he announced in a video message that CJP will hold no protests at all until Diwali — the day after Diwali (Nov 8) became the resume target. A 30-foot cockroach effigy was burnt alongside Ravana at the Pitampura Dussehra on Oct 20, which Dipke thanked organizers for as 'free publicity.' Rathee's Saturday-noon London rally Oct 17 was ANI-confirmed (polarised turnout), and Saket Court issued a bailable warrant against him in the 2018 defamation case (civil-suit next hearing Nov 5). On Oct 20 former West Bengal CM Mamata Banerjee called the custody extension 'state-sponsored terrorism' and demanded Das and Ranka's immediate release, echoed by BJD's Naveen Patnaik. On Oct 21 Dipke clarified his 'real leaders' remark about jailed Das and Ranka after online trolling accused him of throwing the two 'under the bus' following his Oct 20 Diwali-pause video. At the Oct 21 2 PM SEM hearing Delhi Police sought three more days of judicial custody for Das and Ranka; the decision was still pending at last update.",
       "watch_for": [
@@ -111,12 +111,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 97,
-        "confirmed": 74,
+        "items_in_window": 98,
+        "confirmed": 75,
         "single-sourced": 23,
         "unconfirmed": 0,
-        "confirmed_rate": 0.76,
-        "updated_at_utc": "2026-10-21T12:42:08Z"
+        "confirmed_rate": 0.77,
+        "updated_at_utc": "2026-10-21T13:46:10Z"
       },
       "phase": "standoff"
     },
@@ -826,5 +826,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T13:45:02Z"
+  "updated_at_utc": "2026-10-21T13:46:10Z"
 }

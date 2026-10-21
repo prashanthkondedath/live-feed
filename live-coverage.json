@@ -139,38 +139,38 @@
           "label": "Dammam"
         }
       ],
-      "trend": "warm",
-      "trend_updated_at_utc": "2026-10-21T03:45:02Z",
+      "trend": "hot",
+      "trend_updated_at_utc": "2026-10-21T04:47:52Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 20,
+        "items_in_window": 24,
         "sides": {
           "houthis": {
             "positive": 3,
-            "negative": 16,
+            "negative": 19,
             "neutral": 0,
             "overall": "negative"
           },
           "saudi_govt": {
-            "positive": 6,
-            "negative": 11,
+            "positive": 8,
+            "negative": 12,
             "neutral": 2,
             "overall": "negative"
           },
           "us": {
             "positive": 0,
             "negative": 1,
-            "neutral": 1,
-            "overall": "mixed"
+            "neutral": 3,
+            "overall": "neutral"
           },
           "civilians": {
             "positive": 0,
-            "negative": 6,
+            "negative": 8,
             "neutral": 5,
             "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T03:45:02Z"
+        "updated_at_utc": "2026-10-21T04:47:52Z"
       },
       "current_summary": "King Khalid International Airport reopened Oct 17 after its week-long closure, but recovery has stalled — GACA NOTAM A3650/26 (no expiry) still requires prior permission for every flight, and most carriers remain grounded. The coalition announced interceptions Oct 17–19 (drones over Riyadh, missiles at Khamis Mushait); Oct 19 brought the Houthis' deadliest strike since July — three ballistic missiles on the Shabwa training camp killing 73 and injuring 200+. Saudi Arabia lost an AH-6i reconnaissance helicopter in Najran on Oct 18 (technical malfunction, 2 crew killed) while a hostile projectile injured six in Najran homes; Egypt's Sisi sought emergency parliament authorization to defend Saudi Arabia (vote postponed to next Monday); the kingdom postponed next week's 'Davos in the Desert' FII; and Saree claimed six Houthi operations in 48 hours against targets including Riyadh airport, Yanbu, Shaybah and Abha.",
       "watch_for": [
@@ -230,12 +230,12 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 20,
-        "confirmed": 18,
-        "single-sourced": 2,
+        "items_in_window": 24,
+        "confirmed": 19,
+        "single-sourced": 5,
         "unconfirmed": 0,
-        "confirmed_rate": 0.9,
-        "updated_at_utc": "2026-10-21T03:45:02Z"
+        "confirmed_rate": 0.79,
+        "updated_at_utc": "2026-10-21T04:47:52Z"
       },
       "phase": "escalation"
     },
@@ -814,5 +814,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T03:53:47Z"
+  "updated_at_utc": "2026-10-21T04:47:52Z"
 }

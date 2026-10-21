@@ -1599,6 +1599,29 @@
    "source_url": "https://korabelov.info/en/2026/10/628538/the-kremlin-rejects-an-energy-truce-with-ukraine/",
    "summary": "Kremlin spokesman Dmitry Peskov, at Wednesday's briefing (TASS), said Putin is not considering an energy ceasefire with Ukraine and Moscow's position is unchanged: 'Russia needs peace, not a truce.' He added that a full resolution of the war requires the participation of Ukrainian officials ('Someone there has to make a responsible decision'). Asked about the new peace proposals Finland's President Stubb said were developed at the Norway meeting and would be presented to Russia, Peskov said restating a pan-European position is 'unlikely to make a constructive contribution' to a settlement. (Kyiv Post: 'Kremlin Rejects Energy Ceasefire But Says Full Peace Deal Requires Ukraine's Participation'; The Istanbul Post carried Peskov's Wednesday remarks too.)",
    "title": "Kremlin rejects energy truce: 'Russia needs peace, not a truce'"
+  },
+  {
+   "confidence": "confirmed",
+   "event_time_ist": "Aired Wednesday morning, Oct 21 (US Eastern) — approx 3:30-6:30 PM IST Oct 21",
+   "id": "zelensky-freeze-frontlines-fox-friends-oct21",
+   "image_urls": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg/500px-Volodymyr_Zelensky_Official_portrait_%28cropped%29.jpg"
+   ],
+   "links": [
+    "https://www.devdiscourse.com/article/international/3995741-ukraines-zelenskiy-says-he-supports-ceasefire-trilateral-talks-with-us-and-russia",
+    "https://sfg.media/en/a/zelensky-front-line-freeze-donbas-terms/"
+   ],
+   "report_time_ist": "7:17 PM IST, Oct 21",
+   "report_time_pdt": "6:47 AM PDT, Oct 21",
+   "reported_at_utc": "2026-10-21T13:47:00Z",
+   "sentiment": {
+    "ukraine": "positive",
+    "us": "positive"
+   },
+   "source_name": "New York Post",
+   "source_url": "https://nypost.com/2026/10/21/world-news/ukraines-volodymyr-zelensky-would-accept-russian-peace-deal-that-freezes-front-lines/",
+   "summary": "In a live Fox & Friends interview Wednesday morning, Zelensky said he would stop fighting immediately along the current front lines to end the war diplomatically — 'Yes, right now we have to freeze, and I think this is a real way to end this war' — calling a freeze the minimum ask of Russia, with US/European security guarantees to follow. A reversal of his stance since 2022 against any freeze (WSJ Jul 2022, ITV Feb 2025). He refused to cede Donbas: 'not fair,' saying Russia is 'not winning on the battlefield.' He also backed trilateral Zelensky-Trump-Putin talks (Europe included), called Tuesday's Oslo talks with Witkoff 'productive,' thanked Washington for restoring intel sharing, but said Starlink/Starshield remains 'still limited' — a day after WSJ reported Elon Musk ordered the slowdown; Rubio promised to work on the Starshield issue and said access decisions rest with SpaceX/Musk, not the White House.",
+   "title": "Zelensky says he'd accept a peace deal 'freezing' the front lines — first time since 2022"
   }
  ]
 }

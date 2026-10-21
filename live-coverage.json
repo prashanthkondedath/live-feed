@@ -302,7 +302,7 @@
         },
         "updated_at_utc": "2026-10-21T07:57:45Z"
       },
-      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov - a Druzhba-network hub - sparking a fire at a fuel tank (Governor Pervyshov confirmed). On Oct 19 a Russian drone struck a park in Nova Vodolaha, Kharkiv region, killing six including three children, while 22 bipartisan House lawmakers urged Trump (Oct 15 letter) to revoke the Russian diesel import licence.",
+      "current_summary": "Trump's 'energy ceasefire' is effectively dead: Ukraine resumed refinery strikes Oct 15 — hours after Zelensky told the FT 'the block is out, we're done' — hitting the Rosneft refinery in Ryazan, and on the night of Oct 17–18 launched its largest drone attack of the war on St. Petersburg (~1,000 drones), setting the Petersburg Oil Terminal ablaze. Washington tilted toward Moscow this week: Trump signed an executive order Oct 16 pausing the Graham Act's Russia sanctions (Zelensky called it a 'historic mistake'), and the WSJ reported Putin proposed a Trump–Xi summit on Ukraine — without Kyiv — on the sidelines of the Nov 18–19 APEC summit in Shenzhen (confirmed by the Kremlin Oct 19). On Oct 20, Zelensky met Trump's envoy Steve Witkoff in Oslo, saying US intelligence-sharing 'works now'; Witkoff meets Putin on Wednesday Oct 21. Overnight Oct 19-20, Ukrainian drones struck Transneft's Nikolskoye-1 pumping station in Tambov - a Druzhba-network hub - sparking a fire at a fuel tank (Governor Pervyshov confirmed). On Oct 19 a Russian drone struck a park in Nova Vodolaha, Kharkiv region, killing six including three children, while 22 bipartisan House lawmakers urged Trump (Oct 15 letter) to revoke the Russian diesel import licence. Overnight Oct 20–21, Russian strikes hit energy facilities in Kyiv, Volyn, Odesa and Mykolaiv regions, killing four — hours ahead of Witkoff's Wednesday meeting with Putin.",
       "watch_for": [
         {
           "event": "Witkoff meets Putin (after Oct 20 Oslo talks with Zelensky)",
@@ -355,7 +355,7 @@
           "role": "France seized shadow-fleet tanker DF Peak; Moscow cried 'piracy'"
         }
       ],
-      "curation_updated_at_utc": "2026-10-21T07:40:00Z",
+      "curation_updated_at_utc": "2026-10-21T08:39:30Z",
       "started_at_utc": "2026-10-12T19:35:00Z",
       "trend_direction": "rising",
       "verification": {
@@ -583,7 +583,7 @@
           "label": "Washington, DC"
         }
       ],
-      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20, part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Fort Myers, FL (confirmed for Fri Oct 23, plus a second planned Florida rally), Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots, Michigan hit 780K; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events. Georgia GOP governor nominee Rick Jackson will skip Trump's Macon rally on Sat Oct 24, and Barack Obama will headline a 'United for Georgia' rally in Atlanta on Oct 28 for Ossoff and Bottoms.",
+      "current_summary": "Two weeks out, Sabato's Crystal Ball moved 28 House races toward Democrats on Oct 20 — first post-218 projection: Democrats favoured in 223 races, Republicans 200, 12 toss-ups — while the Senate tightens: a CBS News/YouGov poll (Oct 18) has Talarico 51, Paxton 49 in Texas, and Georgia's governor race is effectively tied (AJC/UGA: Jackson 46, Bottoms 45). Trump held his Wichita, KS rally Oct 19 (announcing $8B in one-time farmer payments to offset Iran-war diesel prices) and Greenville, NC Oct 20, part of a cash-pitch closing strategy — $30K government-fraud tips, $5,000 checks if the GOP wins — with Fort Myers, FL (confirmed for Fri Oct 23, plus a second planned Florida rally), Clemson, Iowa, Macon and Lubbock ahead. Early voting is surging: Texas shattered first-day records Oct 19 (Harris County 104,600+ in-person), Georgia passed 1M ballots, Michigan hit 780K; Sanders and O'Rourke kicked off a Texas early-voting tour Oct 19–20 while Talarico held his own events. Georgia GOP governor nominee Rick Jackson will skip Trump's Macon rally on Sat Oct 24, and Barack Obama will headline a 'United for Georgia' rally in Atlanta on Oct 28 for Ossoff and Bottoms. An Oct 18 Post-ABC News/Ipsos poll put Trump's approval at 33%, a record low, with Democrats +8 on the House ballot (52-44); NBC's Decision Desk poll the same day found 34% approval and 55-45 preferring Democratic congressional control. Trump added Lubbock (2:30 PM) and Waco (6 PM) rallies for Paxton on Oct 27, with Talarico staging a dueling Lubbock rally the same evening.",
       "watch_for": [
         {
           "event": "Election Day",
@@ -637,7 +637,7 @@
         }
       ],
       "phase": "final-stretch",
-      "curation_updated_at_utc": "2026-10-21T07:40:00Z",
+      "curation_updated_at_utc": "2026-10-21T08:39:30Z",
       "started_at_utc": "2026-10-13T22:55:00Z",
       "trend": "hot",
       "trend_direction": "rising",

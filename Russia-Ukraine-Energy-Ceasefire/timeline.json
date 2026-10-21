@@ -1383,6 +1383,54 @@
    "source_url": "https://www.europesays.com/russia/78084/",
    "summary": "Overnight Oct 19–20, Ukrainian drones hit the Nikolskoye-1 linear production and dispatch station near Novonikolskoye/Michurinsk in Russia's Tambov Oblast — a Transneft facility on the Druzhba pipeline network with roughly 300,000 tonnes/day pumping capacity. Video from monitoring channel Exilenova+ showed fire and dark smoke at what residents identified as a diesel fuel tank. Governor Yevgeny Pervyshov confirmed a fire 'on the territory of one of the enterprises' in Michurinsky District, said four drones were shot down overnight, and reported no casualties; independent Russian outlet ASTRA identified the facility as Nikolskoye. Ukraine has not commented. The same station was hit before on Aug. 18, 2025 (Ukraine's General Staff confirmed that strike), and the Druzhba line remains a key route for Russian crude to Hungary and Slovakia under an EU sanctions exemption. The strike continued Ukraine's resumed energy-infrastructure campaign (the Ryazan refinery strike on Oct 15 and the ~1,000-drone St. Petersburg attack Oct 17–18). Catch-up: this event occurred during the Oct 20 evening but was missed by the two Oct 20 evening runs.",
    "title": "Ukrainian drones strike Transneft's Nikolskoye pumping station in Tambov, fire at Druzhba-network hub"
+  },
+  {
+   "id": "kharkiv-park-drone-strike-oct19",
+   "event_time_ist": "Oct 19, 2026, ~7:00 PM IST (16:30 local, Kharkiv)",
+   "title": "Russian drone strike on a Kharkiv-region park killed six, including three children (catch-up, Oct 19)",
+   "summary": "A Russian Geran-3 drone struck the central park of Nova Vodolaha, Kharkiv Oblast, around 16:30 local on Oct 19 while families with children were there. Six killed, including three children; 15 injured including seven children. Zelensky named one victim as Anhelina, just over a year old, killed in her stroller (her mother Inna died in hospital); another killed girl was 11. A cafe near the park was damaged; the Kharkiv Regional Prosecutor opened a war-crimes investigation. Governor Syniehubov and Interior Minister Vyhivskyi reported the figures on Telegram; the event was missed by the Oct 20 resumed-watch catch-up.",
+   "source_name": "Reuters",
+   "source_url": "https://www.reuters.com/world/europe/russian-attack-kills-six-park-kharkiv-region-including-three-children-ukraine-2026-10-19/",
+   "links": [
+    "https://www.reuters.com/world/europe/russian-attack-kills-six-park-kharkiv-region-including-three-children-ukraine-2026-10-19/",
+    "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl?cid=external-feeds_iluminar_meta",
+    "https://zmina.info/en/news-en/russian-drone-strike-on-kharkiv-region-park-kills-six-including-three-children/"
+   ],
+   "image_urls": [
+    "https://cdn.prod.website-files.com/65c35f5de9e48164ef4cee06/6656e7634f9a21f28c3f14a3_%D0%9B%D1%96%D0%B1%D0%B5%D1%80%D0%BE%D0%B2%D0%B8_A9_09153.webp"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:50 PM PDT, Oct 20",
+   "report_time_ist": "12:20 PM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T06:50:00Z",
+   "sentiment": {
+    "russia": "negative",
+    "civilians": "negative"
+   }
+  },
+  {
+   "id": "house-22-letter-gl135-oct15",
+   "event_time_ist": "Oct 15, 2026 (date of letter)",
+   "title": "22 bipartisan House lawmakers urged Trump to revoke the Russian diesel licence (catch-up, Oct 15)",
+   "summary": "A bipartisan group of 22 House lawmakers (five Republicans) wrote to Trump, Rubio and Bessent urging full implementation of the Lindsey O. Graham Sanctioning Russia and Iran Act and revoking Treasury General License 135, the Oct 9 Russian-diesel authorisation. Escalation from the Oct 13 12-senator letter; the White House defended the deal (Newsweek: it would 'increase global supply and lower prices'). Trump issued the Graham-Act waiver EO the following evening, Oct 16. Missed during the watch pause.",
+   "source_name": "YAC News",
+   "source_url": "https://www.yacnews.com/trump-neutralises-us-russia-sanctions-law-waiving-major-penalties-while-reopening-russian-energy-trade/",
+   "links": [
+    "https://www.yacnews.com/trump-neutralises-us-russia-sanctions-law-waiving-major-penalties-while-reopening-russian-energy-trade/",
+    "https://www.europesays.com/russia/76560/",
+    "https://news24.gigglelo.com/blog/menew95-500"
+   ],
+   "image_urls": [
+    "https://vshl.org/wp-content/uploads/2021/09/the-united-states-capitol-washington-d-c-BDZNM2P-1-e1630942293525.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:50 PM PDT, Oct 20",
+   "report_time_ist": "12:20 PM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T06:50:00Z",
+   "sentiment": {
+    "us": "negative",
+    "russia": "negative"
+   }
   }
  ]
 }

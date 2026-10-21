@@ -1,1 +1,32 @@
-{"items":[{"confidence":"single-sourced","event_time_ist":"FT report published ~10:15 AM IST, Oct 21, 2026 (alleged Israeli strike planned for the Oct 10 weekend)","id":"ft-israel-oct10-strike-plan-trump-blocked-oct21","image_urls":["https://gpinews.live/wp-content/uploads/2026/06/2026-06-08T073945Z_1_LOP683408062026RP1_RTRMADP_BASEIMAGE-960X540_IRAN-CRISIS.jpg"],"links":["https://www.newsbeep.com/779046/","https://newsinisrael.co.uk/israel-planned-iran-strikes-in-october-but-was-halted-by-trump-report/","https://unitedwithisrael.org/trump-blocked-major-israeli-attack-on-iran-earlier-this-month-report/","https://www.balkanbusinessnews.ro/netanyahu-was-ready-to-launch-major-strikes-on-iran-before-trump-intervened-ft-reveals/","https://jbiznews.com/idf-was-not-planning-to-strike-iran-on-oct-10-despite-reports-of-attack-blocked-by-trump/"],"report_time_ist":"5:14 PM IST, Oct 21, 2026","report_time_pdt":"4:44 AM PDT, Oct 21, 2026","reported_at_utc":"2026-10-21T11:44:43Z","sentiment":{"iran":"negative","us":"neutral"},"source_name":"Financial Times (carried via NewsBeep, NewsInIsrael, United with Israel, Balkan Business News); Jerusalem Post denial via JBizNews","source_url":"https://www.newsbeep.com/779046/","summary":"The Financial Times reported Wednesday Oct 21 (citing three people familiar) that Netanyahu had instructed the IDF to prepare a multi-day bombing campaign against Iran over the weekend of Oct 10, targeting nuclear facilities, regime targets and energy/civilian infrastructure on a larger scale than February's Operation Roaring Lion. The plan was called off after opposition from Trump, who did not want the war reignited before the Nov 3 US midterms; the Pentagon declined comment. The report adds that renewed Israeli-US strikes in coming weeks remain on the table ('either there will be a deal, or there will be an attack'). Two days earlier (Oct 19), Defense Secretary Hegseth made his unannounced visit to Israel and met Netanyahu. The Jerusalem Post, in its own reporting Wednesday, disputes the FT premise: its sources said the IDF was not planning such a strike and neither Netanyahu nor Defense Minister Katz had ordered it to prepare, speculating the leak was designed to influence Israel's Oct 27 elections by casting Netanyahu as having been stopped by Trump. The underlying claim therefore remains contested between the FT's and JPost's sources. (Thumbnail: verified Reuters Iran-crisis stock image, June 2026.)","title":"FT: Trump blocked planned Israeli multi-day bombing campaign against Iran over Oct 10 weekend; JPost sources deny any such plan existed"}],"report_time_ist":"5:14 PM IST, Oct 21, 2026","report_time_pdt":"4:44 AM PDT, Oct 21, 2026"}
+{
+ "report_time_pdt": "5:45 AM PDT, Oct 21, 2026",
+ "report_time_ist": "6:15 PM IST, Oct 21, 2026",
+ "items": [
+  {
+   "id": "trump-blocked-netanyahu-oct10-plan-oct21",
+   "event_time_ist": "reported Oct 21, 2026; planned op for weekend of Oct 10",
+   "title": "Trump blocked Netanyahu's planned Oct 10 multi-day Iran bombing campaign — FT (denied by JPost sources)",
+   "summary": "Financial Times (Oct 21, three sources): Netanyahu ordered the IDF to prepare a multi-day bombing campaign for the weekend of Oct 10 — nuclear facilities, power plants, other civilian infrastructure and regime-linked sites, planned to be more intense than the Feb campaign — but Trump withheld approval over midterm concerns. Israel handed the US an updated target list incl. civilian infrastructure previously spared; unclear if US was to take part; one source says joint strikes in coming weeks 'not an unreasonable scenario'; another says the prep may have been partly a negotiating tactic ('Either there will be a deal or an attack'). WH spokesperson Anna Kelly reiterated the US will not strike Iran before Nov 3. Twist: Jerusalem Post sources told JBizNews the premise is wrong — the IDF was not ordered to prepare an Oct 10 strike in the way orders were handed down before prior conflicts, so 'Trump could not block an attack that was not planned'; narrative may serve Israeli-election optics (Israel votes Oct 27). Also reported in the same coverage: JPost sources said the Trump admin came 'very close' to approving a strike at least once in recent weeks; Ynet/Reuters: Tehran expects bombing to 'resume, sooner or later'.",
+   "source_name": "Financial Times via JFeed",
+   "source_url": "https://www.jfeed.com/news/trump-blocked-netanyahu-iran-strike-october-10",
+   "links": [
+    "https://www.azernews.az/region/265919.html",
+    "https://unitedwithisrael.org/trump-blocked-major-israeli-attack-on-iran-earlier-this-month-report/",
+    "https://www.balkanbusinessnews.ro/netanyahu-was-ready-to-launch-major-strikes-on-iran-before-trump-intervened-ft-reveals/",
+    "https://www.newsbeep.com/779046/",
+    "https://jbiznews.com/idf-was-not-planning-to-strike-iran-on-oct-10-despite-reports-of-attack-blocked-by-trump/"
+   ],
+   "image_urls": [
+    "https://gpinews.live/wp-content/uploads/2026/06/2026-06-08T073945Z_1_LOP683408062026RP1_RTRMADP_BASEIMAGE-960X540_IRAN-CRISIS.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "5:45 AM PDT, Oct 21, 2026",
+   "report_time_ist": "6:15 PM IST, Oct 21, 2026",
+   "reported_at_utc": "2026-10-21T12:45:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "neutral"
+   }
+  }
+ ]
+}

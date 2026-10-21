@@ -1727,8 +1727,55 @@
     "us": "neutral",
     "iran": "negative"
    }
+  },
+  {
+   "id": "ukmto-bukha-tanker-projectile-oct21",
+   "event_time_ist": "Wednesday morning, Oct 21, 2026 (reported ~2:03 PM IST / 8:33 AM UTC)",
+   "title": "Tanker struck by unknown projectile 11 nm west of Oman's Bukha; fire extinguished, crew safe",
+   "summary": "UKMTO said Wednesday (Oct 21) an unknown projectile struck a tanker 11 nautical miles west of Bukha, Oman, overlooking the Strait of Hormuz. A fire erupted but was extinguished; the vessel is at anchor and all crew are reported safe. UKMTO disclosed no vessel name, flag, cargo or destination; no country or group has claimed responsibility. Al Arabiya English carried the report as breaking news.",
+   "source_name": "Reuters",
+   "source_url": "https://www.devdiscourse.com/article/international/3995610-projectile-strikes-tanker-west-of-omans-bukha-overlooking-hormuz-strait-ukmto-says",
+   "links": [
+    "https://www.devdiscourse.com/article/international/3995610-projectile-strikes-tanker-west-of-omans-bukha-overlooking-hormuz-strait-ukmto-says"
+   ],
+   "image_urls": [
+    "https://storage.googleapis.com/media.mwcradio.com/mimesis/2026-08/28/2026-08-28T035754Z_2_LYNXMPEM7R07K_RTROPTP_3_IRAN-CRISIS.JPG"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "2026-10-21 01:46 AM PDT",
+   "report_time_ist": "2026-10-21 02:16 PM IST",
+   "reported_at_utc": "2026-10-21T08:46:00Z",
+   "sentiment": {
+    "iran": "negative",
+    "markets": "negative",
+    "us": "neutral"
+   }
+  },
+  {
+   "id": "wsj-gulf-exports-prewar-oct21",
+   "event_time_ist": "Reported Oct 21, 2026 (data: week ending Oct 18)",
+   "title": "Gulf oil exports topped prewar levels despite Hormuz attacks, per WSJ/Kpler",
+   "summary": "The Wall Street Journal reports Middle East oil flows (through Hormuz plus alternate routes) averaged over 24 million barrels/day in the week through Oct 18, surpassing prewar levels of 23.3M b/d, per ship tracker Kpler \u2014 as an improvised US-protected shipping system keeps tankers moving. Flows through Hormuz itself (incl. Gulf of Oman offshore transfers) averaged ~14M b/d, about 82% of prewar; ~40% of non-Iranian Gulf crude bypassed the strait via Saudi/UAE pipelines in Sept (vs 17% prewar). Brent held ~$108/bbl Tuesday. Windward counts ~30 vessel attacks in October \u2014 about 20% of all war-to-date ship attacks. WSJ notes Iran's ability to deter transits has faded, weakening Tehran's leverage.",
+   "source_name": "Wall Street Journal",
+   "source_url": "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670",
+   "links": [
+    "https://www.wsj.com/world/middle-east/more-oil-is-now-coming-out-of-the-persian-gulf-than-before-the-iran-war-6a6d1670",
+    "https://edailygraph.com/24-million-barrels-a-day-gulf-oil-flows-surge-past-prewar-levels-despite-us-iran-war/"
+   ],
+   "image_urls": [
+    "https://english.cdn.zeenews.com/sites/default/files/2026/03/13/1917236-mixcollage-13-mar-2026-07-18-am-5224.jpg"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "2026-10-21 01:46 AM PDT",
+   "report_time_ist": "2026-10-21 02:16 PM IST",
+   "reported_at_utc": "2026-10-21T08:46:00Z",
+   "sentiment": {
+    "us": "positive",
+    "iran": "negative",
+    "markets": "positive"
+   }
   }
  ],
- "last_updated_pdt": "11:40 PM PDT, Oct 13, 2026",
- "last_updated_ist": "12:10 PM IST, Oct 14, 2026"
+ "last_updated_pdt": "2026-10-21 01:46 AM PDT",
+ "last_updated_ist": "2026-10-21 02:16 PM IST"
 }

@@ -1,1 +1,30 @@
-{"items":[{"confidence":"confirmed","event_time_ist":"Oct 20, 2026 (date known; exact time not published)","id":"qatar-pakistan-six-billion-compromise-oct20","image_urls":["https://english.capitalnewspoint.com/wp-content/uploads/2026/05/951193_51503184.jpg"],"links":["https://pollar.news/en/event/oil-eases-on-iran-peace-hopes","https://shorty-news.com/world/qatar-confirms-us-iran-mediation-efforts/"],"report_time_ist":"Wed Oct 21, 2026, 11:20 AM IST","report_time_pdt":"Tue Oct 20, 2026, 10:50 PM PDT","reported_at_utc":"2026-10-21T05:50:00Z","sentiment":{"iran":"positive","us":"neutral"},"source_name":"Faultline Brief (via The New Arab)","source_url":"https://faultlinebrief.com/articles/pakistan-qatar-us-iran-compromise-nuclear-inspections","summary":"Qatar and Pakistan proposed that Iran receive the interest earned on ~$6B of Iranian funds frozen in Qatari banks in exchange for a confidential, unannounced IAEA visit to Iranian nuclear facilities — first reported by The New Arab on Tuesday, Oct 20. Pakistan's army chief Field Marshal Asim Munir conveyed the proposal to Iranian officials during his Tehran visit (he also discussed mediation with President Pezeshkian, per Nournews). Sources say Washington and Tehran responded positively, though neither government publicly confirmed. Separately, Qatari foreign ministry spokesman Majed al-Ansari confirmed in Doha on Tuesday that Qatar/Oman/Pakistan mediation remains active with drafts being exchanged between the capitals.","title":"Qatar, Pakistan propose $6B-interest-for-IAEA-inspections compromise deal"},{"confidence":"confirmed","event_time_ist":"Oct 20, 2026 (date known; exact time not published)","id":"araghchi-hormuz-closed-conditions-oct20","image_urls":["https://cdn.prod.website-files.com/66e227a8e3a4dbbdaebff867/6855b49a894624ef77988d76_Abbas%20Araqchi.jpg"],"links":["https://www.devdiscourse.com/article/international/3995429-hormuz-is-closed-until-america-accepts-our-conditions-araghchi-demands-us-to-honour-mou-commitments"],"report_time_ist":"Wed Oct 21, 2026, 11:20 AM IST","report_time_pdt":"Tue Oct 20, 2026, 10:50 PM PDT","reported_at_utc":"2026-10-21T05:50:00Z","sentiment":{"iran":"neutral","us":"negative"},"source_name":"Reuters (via fxstreet) + devdiscourse","source_url":"https://www.fxstreet.com/news/irans-araghchi-says-indirect-negotiations-with-us-are-continuing-through-intermediary-countries-202610202358","summary":"FM Abbas Araghchi said Tuesday that indirect negotiations with the US are continuing via Pakistan and Qatar, but the Strait of Hormuz stays closed until Washington accepts Iran's terms and honours its MoU commitments. Under Iran's Seven-Day Plan, the strait was to be fully reopened on day six; Araghchi said Washington had signalled agreement but then sought to add new conditions. On X he warned final-deal negotiations 'will not commence if threats continue,' invoking MoU paragraph 13. He also asserted the strait lies entirely in Iranian and Omani territorial waters and that only the Iran-Oman agreed route would be used if it reopens.","title":"Araghchi: Hormuz stays closed until America accepts Iran's conditions"}],"report_time_ist":"Wed Oct 21, 2026, 11:20 AM IST","report_time_pdt":"Tue Oct 20, 2026, 10:50 PM PDT"}
+{
+ "report_time_pdt": "11:46 PM PDT, Oct 20",
+ "report_time_ist": "12:16 PM IST, Oct 21",
+ "items": [
+  {
+   "id": "hegseth-ovda-netanyahu-oct19",
+   "event_time_ist": "Oct 19, 2026 (meeting); visit confirmed Oct 20, 2026",
+   "title": "Hegseth made unannounced visit to Israel, discussed Iran with Netanyahu",
+   "summary": "Defense Secretary Pete Hegseth met PM Benjamin Netanyahu and Defense Minister Israel Katz at Ovda Air Base in Israel's Negev desert on Monday, Oct 19, during an unannounced visit \u2014 first reported by Axios (two sources) \u2014 as Washington and Jerusalem discuss potentially resuming large-scale combat operations against Iran. Reuters independently confirmed the meeting via three Israeli officials and a Netanyahu spokesman (Doron Spielman), who said the pair discussed \"the threats in the region\" and the US-Israel partnership in dealing with them \"both offensively and defensively,\" plus Trump's support for Netanyahu. CBS News confirmed via a senior US military official and a second Israeli source. Hegseth acknowledged the trip on Oct 20 while speaking with reporters (\"they've been good partners\") and said US troops are \"preparing and ready to ensure that Iran never has a nuclear weapon.\" Trump, speaking Oct 20, mused: \"We just have to make a final decision of which way do we want to win, do we want to win the nice way or the not nice way.\" The visit came a day after Trump endorsed Netanyahu ahead of Israel's Oct 27 parliamentary election.",
+   "source_name": "Axios / Reuters / USA Today",
+   "source_url": "https://www.reuters.com/world/middle-east/hegseth-meets-netanyahu-unannounced-visit-israel-reports-axios-2026-10-19/",
+   "links": [
+    "https://www.reuters.com/world/middle-east/hegseth-meets-netanyahu-unannounced-visit-israel-reports-axios-2026-10-19/",
+    "https://www.usatoday.com/story/news/world/2026/10/20/pete-hegseth-met-with-netanyahu-during-unannounced-trip-to-israel/92350510007/",
+    "https://www.military.com/hegseth-discussed-iran-war-with-netanyahu-in-a-secret-israel-visit"
+   ],
+   "image_urls": [
+    "https://deepnewz.com/_next/image?url=https%3A%2F%2Fmedia.deepnewz.com%2Fimages%2Fu-s-defense-secretary-hegseth-pledges-more-weapons-to-israel-supporting-s-fight-a2b035e2%2F3b692b0266da72283a5f73c17439f61f2c2554bfff5ed53cb1492f84399e2a90.jpeg&w=2048&q=75"
+   ],
+   "confidence": "confirmed",
+   "report_time_pdt": "11:46 PM PDT, Oct 20",
+   "report_time_ist": "12:16 PM IST, Oct 21",
+   "reported_at_utc": "2026-10-21T06:46:00Z",
+   "sentiment": {
+    "us": "neutral",
+    "iran": "negative"
+   }
+  }
+ ]
+}

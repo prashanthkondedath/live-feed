@@ -1,118 +1,78 @@
 {
-  "report_time_pdt": "12:43 AM PDT, Oct 21",
-  "report_time_ist": "1:13 PM IST, Oct 21",
+  "report_time_pdt": "1:43 AM PDT, Oct 21",
+  "report_time_ist": "2:13 PM IST, Oct 21",
   "items": [
     {
-      "id": "trump-lubbock-waco-rallies-oct27",
-      "event_time_ist": "Rallies scheduled Oct 27, 2026 (announced Oct 19, 2026)",
-      "title": "Trump schedules two Texas rallies for Paxton on Oct 27 \u2014 Lubbock then Waco; Talarico stages dueling Lubbock rally the same evening",
-      "summary": "The RNC announced Oct 19 that Trump will hold a Lubbock rally (remarks 2:30 p.m.) and a Waco rally (6 p.m.) on Tuesday, Oct 27 \u2014 one week before Election Day \u2014 for Republican Senate nominee Ken Paxton. It is Trump's fourth Texas visit of the cycle (Denton Oct 1, San Antonio Oct 7, Dallas convention). Democrat James Talarico will hold his own rally at Texas Tech's Frazier Alumni Pavilion in Lubbock the same evening (doors 6 p.m.), turning the day into a head-to-head showcase of the tightening Senate race. Recent polls show Talarico leading Paxton narrowly (UH 48-46, Marist 47-45, CBS 51-49, all within MoE).",
-      "source_name": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/state/texas/2026/10/20/trump-to-visit-texas-for-ken-paxton-senate-race-against-james-talarico/92343240007/",
+      "id": "tx-day1-early-voting-records",
+      "event_time_ist": "Day 1 of early voting: October 19, 2026; numbers reported October 20-21, 2026",
+      "title": "Texas shatters first-day early voting records in Harris, Dallas and Tarrant counties",
+      "summary": "Harris County: 104,600+ in-person ballots on Oct 19, the first day of early voting \u2014 crushing the 2018 midterm record of 63,188 (plus 24,794 mail ballots received). Dallas County: 76,079 in-person, topping the 2018 record of 59,389 and the 2020 record of 60,573. Tarrant County (largest GOP-held county): 50,409, up from 29,197 on day 1 of 2022 though slightly below 2024. Collin and Denton counties each topped 34,000 (up 15k-17k vs 2022); El Paso County 22,000+ (second-highest ever). Statewide voter registration hit a record 19M+. Both parties see signs: blue urban counties surged for Talarico, but Republican counties also ran ahead of 2022. Rice's Mark Jones cautions day-1 surges often cannibalize later early voting days and to reserve judgment.",
+      "source_name": "Daily Caller + Fox 26 Houston",
+      "source_url": "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
       "links": [
-        "https://www.lubbockonline.com/story/news/politics/2026/10/19/when-is-trump-coming-to-lubbock-rally-details-and-schedule/92337251007/",
-        "https://lubbocklights.com/trump-plans-october-27-lubbock-rally-with-ken-paxton/"
+        "https://dailycaller.com/2026/10/20/texas-first-day-early-voting-record-numbers-blue-counties",
+        "https://fox26houston.com/election/harris-county-breaks-first-day-early-voting-midterm-record-104k-voters",
+        "https://fox7austin.com/news/2026-election-what-does-early-voting-surge-mean-results",
+        "https://www.usatoday.com/story/opinion/columnist/2026/10/21/early-voting-texas-polls-talarico-paxton/92331691007/",
+        "https://electionlawblog.org/2026/first-day-of-early-voting-in-harris-county-tx-is-strong/"
       ],
       "image_urls": [
-        "https://kansasfrw.org/wp-content/uploads/2025/04/20240718_213652-scaled.jpg"
+        "https://westtexastribune.org/wp-content/uploads/2026/02/20241021-Early-Voting-Ft-Bend-AM-09-copy.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "12:43 AM PDT, Oct 21",
-      "report_time_ist": "1:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T07:43:00Z",
-      "sentiment": {
-        "republicans": "positive",
-        "democrats": "negative"
-      }
-    },
-    {
-      "id": "georgia-1m-early-votes-oct20",
-      "event_time_ist": "Oct 20, 2026 (GA Secretary of State announcement; in-person figures as of before noon)",
-      "title": "Georgia crosses 1 million early votes \u2014 12% above the 2022 pace with two weeks to go",
-      "summary": "Georgia Secretary of State Brad Raffensperger's office announced Oct 20 that early voting passed 1 million ballots, with 1,007,015 Georgians casting in-person early votes as of before noon Tuesday \u2014 a 12% increase over the same point in 2022 and roughly 14.3% of active registered voters. Women make up 54.9% of voters so far; 65-69 year-olds are the largest age bloc (140,000+ ballots). Raffensperger: 'We continue to break records each day of early voting.' The state features the Ossoff-Collins Senate race (Cook: Likely D) and the toss-up Jackson-Bottoms governor's race.",
-      "source_name": "Washington Examiner",
-      "source_url": "https://www.washingtonexaminer.com/news/campaigns/state/4772354/georgia-1-million-early-voters-2026-election/",
-      "links": [
-        "https://fox5atlanta.com/news/georgia-midterm-early-voting-over-940000-cast-ballots-first-week",
-        "https://sos.ga.gov/news/division/31"
-      ],
-      "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-762x508,f_auto,q_auto:best/rockcms/2026-04/260407-georgia-voting-gk-b2c114.jpg"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "12:43 AM PDT, Oct 21",
-      "report_time_ist": "1:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T07:43:00Z",
-      "sentiment": {
-        "voters": "positive"
-      }
-    },
-    {
-      "id": "michigan-789k-early-votes-oct20",
-      "event_time_ist": "Oct 20, 2026 (MI Secretary of State release; figures as of 7 a.m.)",
-      "title": "Michigan: 789,572 ballots cast two weeks out; mail-ballot requests up 17% vs 2022",
-      "summary": "The Michigan Secretary of State's office reported Oct 20 that 789,572 voters have cast ballots \u2014 789,476 absentee ballots returned plus 96 in-person early votes \u2014 representing 10.7% of active registered voters. Voters requested 2,121,458 mail ballots (including 2,001,574 on the permanent mail list), a 17% increase from the same point before the 2022 midterms. Officials urged hand-delivery of absentee ballots rather than mailing. Statewide in-person early voting sites open Saturday, Oct 24 through Sunday, Nov 1.",
-      "source_name": "Michigan Secretary of State (michigan.gov)",
-      "source_url": "https://www.michigan.gov/sos/resources/news/2026/10/20/more-than-780000-michigan-voters-have-cast-their-ballot-two-weeks-before-election-day",
-      "links": [
-        "https://www.9and10news.com/2026/10/20/absentee-ballot-requests-hit-21-million-in-michigan-ahead-of-nov-3-election/"
-      ],
-      "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/c_fill,g_auto,w_560,h_374/rockcms/2026-08/260803-michigan-early-voting-vote-polling-station-vl-422p-3351fe.avif"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "12:43 AM PDT, Oct 21",
-      "report_time_ist": "1:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T07:43:00Z",
-      "sentiment": {
-        "voters": "positive"
-      }
-    },
-    {
-      "id": "post-abc-ipsos-poll-oct18",
-      "event_time_ist": "Poll released Oct 18, 2026 (fielded Oct 9-13; n=2,545 adults)",
-      "title": "Post-ABC News-Ipsos: Trump approval falls to 33%, a record low; Democrats +8 on House ballot; 58-39 want a Democratic check on Trump",
-      "summary": "The Washington Post-ABC News-Ipsos poll (released Oct 18) put Trump's approval at 33% with 66% disapproving \u2014 his lowest reading ever in Post-ABC polling, down 4 points since July; 52% strongly disapprove. Democrats lead the generic House ballot by 8 points among registered and likely voters (52-44 among likely voters), up from +3 in July. By 58-39, registered voters prefer a Democratic Congress acting as a check on Trump over a Republican one \u2014 a margin that roughly doubled from a year ago. For the first time since 2014, Democrats lead on trust to handle the economy (40-33). Seventy-two percent say the country is on the wrong track; 65% call the Iran military action a mistake; 48% say their finances worsened since Trump returned to office (highest since 1986).",
-      "source_name": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/politics/2026/10/18/trump-approval-rating-record-low-poll-midterms/92316196007/",
-      "links": [
-        "https://www.cnn.com/2026/10/19/politics/trump-midterms-red-state-travel",
-        "https://statelinedaily.com/trump-approval-rating-record-low-33-washington-post-poll/"
-      ],
-      "image_urls": [
-        "https://intel.morningconsult.com/mc-content/_next/image?url=https%3A%2F%2Fpro-assets.morningconsult.com%2Fwp-uploads%2F2026%2F06%2FMidtermTracker-GenericBallot_260607.png&w=1920&q=100"
-      ],
-      "confidence": "confirmed",
-      "report_time_pdt": "12:43 AM PDT, Oct 21",
-      "report_time_ist": "1:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T07:43:00Z",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
       "sentiment": {
         "democrats": "positive",
-        "republicans": "negative",
-        "trump": "negative"
+        "republicans": "negative"
       }
     },
     {
-      "id": "nbc-ddhq-poll-oct18",
-      "event_time_ist": "Poll released Oct 18, 2026 (fielded Sept 28-Oct 12; n=19,135 adults; SurveyMonkey-powered)",
-      "title": "NBC News Decision Desk poll: Trump at 34% (second-term low); Democrats +10 (55-45) on congressional control; 71% say wrong track",
-      "summary": "The NBC News Decision Desk national poll (released Oct 18) found Trump's approval at 34% with 66% disapproving \u2014 a second-term low, with 51% strongly disapproving (also a term high). Among registered voters, 55% prefer Democrats to control Congress vs 45% for Republicans, and 71% of adults say the country is on the wrong track \u2014 the highest wrong-track reading of Trump's second term. The economy is the top issue (31%); only 27% approve of Trump's handling of inflation/cost of living. Just 14% of adults believe they will ever receive Trump's promised $5,000 'dividend' if Republicans win. Both parties are underwater: Democrats 43% favorable/57% unfavorable, Republicans 37%/63%.",
-      "source_name": "USA Today",
-      "source_url": "https://www.usatoday.com/story/news/politics/2026/10/18/americans-doubt-trump-dividend-poll/92318644007/",
+      "id": "tx-fighting-oligarchy-tour",
+      "event_time_ist": "October 19-20, 2026 (El Paso rally Oct 19; Houston rally Oct 20)",
+      "title": "Sanders, O'Rourke headline Texas rallies as Talarico skips El Paso for his own Fort Worth event",
+      "summary": "Sanders' 'Fighting Oligarchy' tour hit Texas for the first two days of early voting: Oct 19 rally at El Paso's Abraham Chavez Theatre with Sanders, O'Rourke, Reps. Casar and Escobar backing Talarico/Hinojosa and hammering billionaire (Musk) election spending; Oct 20 at Houston's historic Wheeler Baptist Church with Sanders, O'Rourke, Casar, Menefee and Goodwin. O'Rourke claims on-the-ground energy exceeds his 2018 run and cites the Harris County day-1 turnout record. Talarico did NOT appear at the El Paso rally \u2014 he campaigned separately at North Crowley High School in Fort Worth (his 'Clear Eyes, Full Hearts' tour) after a Denton stop; Fox News Digital pressed his campaign for an explanation. Sanders himself did not name Talarico in his remarks, focusing on donor influence.",
+      "source_name": "Washington Examiner + Fox News Digital",
+      "source_url": "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
       "links": [
-        "https://www.newsmax.com/politics/nbc-poll-us-wrong/2026/10/18/id/1273179"
+        "https://www.washingtonexaminer.com/news/campaigns/congressional/4773366/beto-orourke-james-talarico-texas-senate/",
+        "https://texassignal.com/early-voting-starts-in-texas/",
+        "https://letsaddresstexas.substack.com/p/bernie-beto-casar-goodwin-and-menefee"
       ],
       "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-380x380,f_auto,q_auto:best/mpx/2704722219/2026_02/1770824315018_now_mnn_trump_nbc_poll_260211_1920x1080-j9gw4b.jpg"
+        "https://s.hdnux.com/photos/01/10/61/40/19077145/4/640x0.jpg"
       ],
       "confidence": "confirmed",
-      "report_time_pdt": "12:43 AM PDT, Oct 21",
-      "report_time_ist": "1:13 PM IST, Oct 21",
-      "reported_at_utc": "2026-10-21T07:43:00Z",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
       "sentiment": {
         "democrats": "positive",
-        "trump": "negative",
-        "voters": "negative"
+        "republicans": "negative"
+      }
+    },
+    {
+      "id": "fl-early-voting-day1-2.6m-multi-state",
+      "event_time_ist": "Reported October 20-21, 2026 (data as of Oct 19-20, 2026)",
+      "title": "Florida first-day early vote nearly doubles in Orange County; 2.6M ballots back across 4 states + Pima County",
+      "summary": "Orange County, FL: 13,683 in-person votes on day 1 of early voting (Oct 19) vs 7,500 in 2022 \u2014 nearly double (Central Florida Public Media, Oct 20); statewide Florida has at least 1.1M ballots banked (171,015 early in-person + 933,867 mail). Separately, a PoliticsElections Oct 21 roundup of official state data shows 2.66M ballots returned as of Oct 20 across Iowa, North Carolina, Florida, Pennsylvania and Arizona's Pima County, with registered Democrats ahead in returns overall but Republicans narrowly ahead in Florida's early in-person vote. Note: party registration of a returned ballot is not how anyone voted, and unaffiliated voters are a large share in several states.",
+      "source_name": "Central Florida Public Media + PoliticsElections",
+      "source_url": "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
+      "links": [
+        "https://www.cfpublic.org/politics/2026-10-20/orange-county-early-voting-spike",
+        "https://politicselections.com/early-voting-numbers-ballots-returned/"
+      ],
+      "image_urls": [
+        "https://capitolballotdesk.com/wp-content/uploads/2026/09/4cdc1ce0-43db-4d0c-941c-84647b73c593-1100x640.jpg"
+      ],
+      "confidence": "single-sourced",
+      "report_time_pdt": "1:43 AM PDT, Oct 21",
+      "report_time_ist": "2:13 PM IST, Oct 21",
+      "reported_at_utc": "2026-10-21T08:45:00Z",
+      "sentiment": {
+        "democrats": "positive",
+        "republicans": "neutral"
       }
     }
   ]

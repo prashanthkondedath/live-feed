@@ -732,20 +732,20 @@
         }
       ],
       "trend": "hot",
-      "trend_updated_at_utc": "2026-10-21T00:44:08Z",
+      "trend_updated_at_utc": "2026-10-21T01:43:51Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 20,
+        "items_in_window": 22,
         "sides": {
           "protesters": {
             "positive": 4,
-            "negative": 11,
+            "negative": 12,
             "neutral": 1,
             "overall": "negative"
           },
           "govt_police": {
-            "positive": 5,
-            "negative": 8,
+            "positive": 6,
+            "negative": 9,
             "neutral": 4,
             "overall": "negative"
           },
@@ -762,7 +762,7 @@
             "overall": "positive"
           }
         },
-        "updated_at_utc": "2026-10-21T00:44:08Z"
+        "updated_at_utc": "2026-10-21T01:43:51Z"
       },
       "current_summary": "France's school-born protest movement exploded nationwide on Saturday, Oct 17: 550,000 people (Interior Ministry count; the CGT says 800,000) marched in 140+ towns over living costs, wages and crumbling public services, with 110,000 in Paris. Evening clashes at Place de la République and attacks on town halls in Limoges, Lyon and Marseille left roughly 400 people arrested, about 60 officers injured and a 15-year-old maimed by a police stun grenade. Interior Minister Laurent Nuñez's resignation offer was reportedly refused, and the government heads into a critical parliamentary budget vote with Mélenchon's France Unbowed and Le Pen's National Rally both courting the anger ahead of the 2027 presidential election.",
       "watch_for": [
@@ -806,15 +806,15 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 20,
-        "confirmed": 17,
+        "items_in_window": 22,
+        "confirmed": 19,
         "single-sourced": 3,
         "unconfirmed": 0,
-        "confirmed_rate": 0.85,
-        "updated_at_utc": "2026-10-21T00:44:08Z"
+        "confirmed_rate": 0.86,
+        "updated_at_utc": "2026-10-21T01:43:51Z"
       },
       "phase": "escalating"
     }
   ],
-  "updated_at_utc": "2026-10-21T00:44:08Z"
+  "updated_at_utc": "2026-10-21T01:43:51Z"
 }

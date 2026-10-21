@@ -647,44 +647,44 @@
       "trend_direction": "rising",
       "verification": {
         "window": "7d",
-        "items_in_window": 53,
-        "confirmed": 42,
-        "single-sourced": 11,
+        "items_in_window": 48,
+        "confirmed": 38,
+        "single-sourced": 10,
         "unconfirmed": 0,
         "confirmed_rate": 0.79,
-        "updated_at_utc": "2026-10-21T12:44:36Z"
+        "updated_at_utc": "2026-10-21T13:54:15Z"
       },
-      "trend_updated_at_utc": "2026-10-21T12:44:36Z",
+      "trend_updated_at_utc": "2026-10-21T13:54:15Z",
       "impact_summary": {
         "window": "7d",
-        "items_in_window": 53,
+        "items_in_window": 48,
         "sides": {
+          "republicans": {
+            "positive": 12,
+            "negative": 23,
+            "neutral": 4,
+            "overall": "negative"
+          },
           "democrats": {
             "positive": 26,
-            "negative": 10,
-            "neutral": 4,
+            "negative": 9,
+            "neutral": 2,
             "overall": "positive"
-          },
-          "republicans": {
-            "positive": 14,
-            "negative": 22,
-            "neutral": 6,
-            "overall": "negative"
-          },
-          "trump": {
-            "positive": 9,
-            "negative": 13,
-            "neutral": 1,
-            "overall": "negative"
           },
           "voters": {
-            "positive": 4,
-            "negative": 2,
+            "positive": 3,
+            "negative": 1,
             "neutral": 3,
-            "overall": "positive"
+            "overall": "mixed"
+          },
+          "trump": {
+            "positive": 8,
+            "negative": 9,
+            "neutral": 1,
+            "overall": "negative"
           }
         },
-        "updated_at_utc": "2026-10-21T12:44:36Z"
+        "updated_at_utc": "2026-10-21T13:54:15Z"
       }
     },
     {
@@ -826,5 +826,5 @@
       "phase": "standoff"
     }
   ],
-  "updated_at_utc": "2026-10-21T13:48:12Z"
+  "updated_at_utc": "2026-10-21T13:54:15Z"
 }

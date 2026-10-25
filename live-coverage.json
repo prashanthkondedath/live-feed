@@ -832,7 +832,257 @@
     "updated_at_utc": "2026-10-21T14:41:06Z"
    },
    "phase": "standoff"
+  },
+  {
+   "id": "trappes-france-shooting",
+   "title": "Trappes Shooting — France",
+   "description": "Drive-by shooting in Trappes and La Verrière (Yvelines) that Macron called a racist terrorist attack; suspect arrested, anti-terror probe open.",
+   "location": "Trappes, France",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 48.775,
+     "longitude": 1.996,
+     "label": "Trappes"
+    },
+    {
+     "latitude": 48.755,
+     "longitude": 1.957,
+     "label": "La Verrière"
+    }
+   ],
+   "current_summary": "Oct 23-24: a gunman fired from a vehicle in Trappes and La Verrière, killing 1 and wounding 5, including a 12-year-old girl in serious condition. President Macron visited the scene and denounced a 'racist terrorist attack'; the suspect (Kevin T., 39) was arrested ~20 minutes later in Coignières, and the national anti-terrorism prosecutor took over the investigation into whether victims were targeted by race, ethnicity, nationality or religion.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "jordan-karak-church-shooting",
+   "title": "Jordan Church Funeral Shooting",
+   "description": "Gunmen opened fire on a funeral near a Greek Orthodox church in Karak province; 9 dead, 40 injured; king orders an iron-fist response.",
+   "location": "Karak, Jordan",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 31.182,
+     "longitude": 35.701,
+     "label": "Karak"
+    }
+   ],
+   "current_summary": "Oct 23-24: two masked gunmen opened fire during a funeral near a Greek Orthodox church in Karak governorate, southern Jordan. The toll rose to 9 dead and 40 injured as two victims succumbed to injuries; a manhunt is underway and Jordan's king ordered an iron-fist response. An attack of this scale on a place of worship is rare in Jordan.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "ebola-east-central-africa",
+   "title": "Ebola Outbreak — East & Central Africa",
+   "description": "Second Ebola death reported in Kenya; outbreak now spans four African countries; WHO vaccine trial begins in DRC for the Bundibugyo strain.",
+   "location": "Kenya / DR Congo",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": -1.292,
+     "longitude": 36.822,
+     "label": "Nairobi, Kenya"
+    },
+    {
+     "latitude": -2.87,
+     "longitude": 23.66,
+     "label": "DR Congo"
+    }
+   ],
+   "current_summary": "Oct 24: Kenya confirmed a second Ebola death (a 65-year-old close relative of the first victim); authorities say there is no evidence of community transmission in Kenya. The epidemic now affects four African countries, and the WHO announced a clinical trial of vaccines in the DR Congo — no vaccine is yet approved against the Bundibugyo strain.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "tibet-nagqu-earthquake",
+   "title": "Tibet Earthquake — Nagqu",
+   "description": "Magnitude 7.0 earthquake in Tibet's Nagqu city; at least 16 dead, 65 injured, 12,000+ moved to safety; rescue operations underway.",
+   "location": "Nagqu, Tibet, China",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 31.48,
+     "longitude": 92.06,
+     "label": "Nagqu"
+    }
+   ],
+   "current_summary": "Oct 23: a magnitude 7.0 earthquake struck Nagqu city in Tibet, killing at least 16 people and injuring 65, with over 12,000 residents moved to safety as emergency rescue operations continue.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "typhoon-champi-taiwan",
+   "title": "Typhoon Champi — Taiwan",
+   "description": "Typhoon Champi disrupts Taiwan: hundreds of flights grounded, schools and businesses closed.",
+   "location": "Taiwan",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 25.03,
+     "longitude": 121.56,
+     "label": "Taipei"
+    }
+   ],
+   "current_summary": "Oct 23: Typhoon Champi brought widespread disruption to Taiwan, grounding hundreds of flights and closing schools and businesses.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "europe-protests-spread",
+   "title": "Europe Protests Spread",
+   "description": "France's unrest spreads: student protests in Tirana, barricades in Brussels, shops boarding up across Italy, 500 soldiers deployed in Milan.",
+   "location": "Europe (Tirana / Brussels / Milan)",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 41.33,
+     "longitude": 19.82,
+     "label": "Tirana, Albania"
+    },
+    {
+     "latitude": 50.85,
+     "longitude": 4.35,
+     "label": "Brussels, Belgium"
+    },
+    {
+     "latitude": 45.46,
+     "longitude": 9.19,
+     "label": "Milan, Italy"
+    }
+   ],
+   "current_summary": "Oct 24: unrest gripping France spread to neighbours. In Tirana, students rallied outside the Education Ministry demanding lower tuition and PM Rama's resignation; 2,500+ police used water cannons as crowds set fire to dumpsters. In Brussels, police used water cannons and tear gas on student barricades while luxury shops boarded up fearing a repeat of looting. Across Italy, stores in Naples, Rome, Turin, Bologna, Florence and Milan boarded windows; Milan is on high alert with 500 soldiers, drone surveillance and station checks.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "west-bank-crackdown-israel-election",
+   "title": "West Bank Crackdown Ahead of Israel Election",
+   "description": "After a checkpoint attack killed 2 Israeli soldiers, Israel demolishes homes in Hebron and orders a West Bank shutdown days before Tuesday's general election.",
+   "location": "Hebron / West Bank",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 31.53,
+     "longitude": 35.1,
+     "label": "Hebron"
+    }
+   ],
+   "current_summary": "Oct 23-24: two Palestinian gunmen attacked a checkpoint outside a West Bank city, killing two Israeli soldiers and wounding five. Israel then began demolitions in Hebron, raided towns detaining dozens, and PM Netanyahu ordered a shutdown of the occupied West Bank days before Israel's general election on Tuesday, Oct 27.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "storm-boelo-uk",
+   "title": "Storm Boelo — United Kingdom",
+   "description": "Storm Boelo hits the UK with amber warnings, gusts to 80mph, travel disruption and thousands without power.",
+   "location": "United Kingdom",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 55.95,
+     "longitude": -3.19,
+     "label": "Edinburgh, Scotland"
+    },
+    {
+     "latitude": 51.5,
+     "longitude": -0.12,
+     "label": "London"
+    }
+   ],
+   "current_summary": "Oct 24: Storm Boelo brought amber weather warnings to the UK, with gusts up to 80mph, disrupted travel, cancelled events, and thousands remaining without power; a second storm with more wind and rain was expected to follow.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "us-embassy-staffing-middle-east",
+   "title": "US Embassy Staffing Cuts — Middle East",
+   "description": "Washington reduces embassy staffing in Jordan, Lebanon, Qatar and the UAE over increased threats; all four embassies remain open.",
+   "location": "Amman / Beirut / Doha / Abu Dhabi",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 31.95,
+     "longitude": 35.93,
+     "label": "Amman, Jordan"
+    },
+    {
+     "latitude": 33.89,
+     "longitude": 35.5,
+     "label": "Beirut, Lebanon"
+    },
+    {
+     "latitude": 25.29,
+     "longitude": 51.53,
+     "label": "Doha, Qatar"
+    },
+    {
+     "latitude": 24.45,
+     "longitude": 54.38,
+     "label": "Abu Dhabi, UAE"
+    }
+   ],
+   "current_summary": "Oct 24: the US is reducing staffing at embassies in Jordan, Lebanon, Qatar and the UAE, citing intelligence about increased threats against Americans. All four embassies remain open; the reported intelligence has not been independently verified publicly.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+  },
+  {
+   "id": "quebec-election-pq-win",
+   "title": "Quebec Election — Parti Québécois Win",
+   "description": "Separatist Parti Québécois wins Quebec's election, returning to power for the first time since 2014; independence referendum plans ahead, without a clear majority.",
+   "location": "Quebec, Canada",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 46.81,
+     "longitude": -71.21,
+     "label": "Quebec City"
+    }
+   ],
+   "current_summary": "Oct 24: the Parti Québécois clinched victory in Quebec's elections, returning to power since 2014, led by Paul St-Pierre Plamondon. Without a clear majority, the party faces alliance choices while pursuing plans for an independence referendum.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "started_at_utc": "2026-10-25T03:24:01Z",
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
   }
  ],
- "updated_at_utc": "2026-10-21T16:28:52Z"
+ "updated_at_utc": "2026-10-25T03:24:01Z"
 }

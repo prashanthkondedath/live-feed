@@ -838,7 +838,7 @@
    "title": "Trappes Shooting — France",
    "description": "Drive-by shooting in Trappes and La Verrière (Yvelines) that Macron called a racist terrorist attack; suspect arrested, anti-terror probe open.",
    "location": "Trappes, France",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -857,7 +857,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-10-28T06:11:03Z"
   },
   {
    "id": "jordan-karak-church-shooting",
@@ -932,7 +933,7 @@
    "title": "Typhoon Champi — Taiwan",
    "description": "Typhoon Champi disrupts Taiwan: hundreds of flights grounded, schools and businesses closed.",
    "location": "Taiwan",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -946,7 +947,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-10-28T06:11:03Z"
   },
   {
    "id": "europe-protests-spread",
@@ -1005,7 +1007,7 @@
    "title": "Storm Boelo — United Kingdom",
    "description": "Storm Boelo hits the UK with amber warnings, gusts to 80mph, travel disruption and thousands without power.",
    "location": "United Kingdom",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -1024,7 +1026,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-10-28T06:11:03Z"
   },
   {
    "id": "us-embassy-staffing-middle-east",
@@ -1067,7 +1070,7 @@
    "title": "Quebec Election — Parti Québécois Win",
    "description": "Separatist Parti Québécois wins Quebec's election, returning to power for the first time since 2014; independence referendum plans ahead, without a clear majority.",
    "location": "Quebec, Canada",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -1081,8 +1084,9 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-10-28T06:11:03Z"
   }
  ],
- "updated_at_utc": "2026-10-25T03:24:01Z"
+ "updated_at_utc": "2026-10-28T06:11:03Z"
 }

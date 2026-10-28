@@ -875,11 +875,11 @@
      "label": "Karak"
     }
    ],
-   "current_summary": "Oct 23-24: two masked gunmen opened fire during a funeral near a Greek Orthodox church in Karak governorate, southern Jordan. The toll rose to 9 dead and 40 injured as two victims succumbed to injuries; a manhunt is underway and Jordan's king ordered an iron-fist response. An attack of this scale on a place of worship is rare in Jordan.",
+   "current_summary": "Oct 23-27: two masked gunmen opened fire during a funeral near a Greek Orthodox church in Karak governorate, southern Jordan, killing 9 and injuring 40. Jordan arrested three suspects, then on Oct 26 evening launched retaliatory airstrikes on what it called terrorist hideouts in southern Syria, linked to the Karak attack. Syrian authorities reported 7 civilians killed, including three children, and disputed Jordan's claim that the strikes were coordinated; Syria closed the Nassib border crossing on Oct 27, then agreed with Jordan to reopen it on Oct 28 and form a joint security committee to investigate.",
    "trend": "hot",
-   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
   },
   {
    "id": "ebola-east-central-africa",
@@ -983,8 +983,8 @@
   },
   {
    "id": "west-bank-crackdown-israel-election",
-   "title": "West Bank Crackdown Ahead of Israel Election",
-   "description": "After a checkpoint attack killed 2 Israeli soldiers, Israel demolishes homes in Hebron and orders a West Bank shutdown days before Tuesday's general election.",
+   "title": "Israel Election Deadlock & West Bank Crackdown",
+   "description": "Israel votes Oct 27 in its first election since the Oct 7 attacks; exit polls show a deadlock with neither bloc near a majority, while West Bank demolitions and protests continue.",
    "location": "Hebron / West Bank",
    "status": "map-only",
    "map_only": true,
@@ -996,11 +996,11 @@
      "label": "Hebron"
     }
    ],
-   "current_summary": "Oct 23-24: two Palestinian gunmen attacked a checkpoint outside a West Bank city, killing two Israeli soldiers and wounding five. Israel then began demolitions in Hebron, raided towns detaining dozens, and PM Netanyahu ordered a shutdown of the occupied West Bank days before Israel's general election on Tuesday, Oct 27.",
+   "current_summary": "Oct 23-27: two Palestinian gunmen attacked a checkpoint outside a West Bank city, killing two Israeli soldiers and wounding five; Israel then began demolitions in Hebron, raided towns detaining dozens, and ordered a West Bank shutdown ahead of the general election. On Oct 27, Palestinians protested the demolitions in Hebron as Israelis voted; Israeli troops fired a stun grenade to disperse them, and the UN said over 3,000 Palestinians had been displaced by the operation. Exit polls showed a deadlock: neither Netanyahu's bloc nor Gadi Eisenkot's opposition bloc was projected to reach the 61 seats needed for a majority, with Arab parties surging to a projected 17-19 seats and turnout at its highest since 1999.",
    "trend": "hot",
-   "trend_updated_at_utc": "2026-10-25T03:24:01Z",
+   "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
   },
   {
    "id": "storm-boelo-uk",
@@ -1086,7 +1086,75 @@
    "started_at_utc": "2026-10-25T03:24:01Z",
    "curation_updated_at_utc": "2026-10-25T03:24:01Z",
    "archived_at_utc": "2026-10-28T06:11:03Z"
+  },
+  {
+   "id": "cyclone-arnab-andhra-pradesh",
+   "title": "Cyclone Arnab — Andhra Pradesh",
+   "description": "Very severe Cyclone Arnab makes landfall on India's Andhra Pradesh coast, with 180,000+ evacuated and no deaths reported so far.",
+   "location": "Andhra Pradesh, India",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 16.5,
+     "longitude": 81.9,
+     "label": "Yanam / Kakinada coast"
+    },
+    {
+     "latitude": 17.69,
+     "longitude": 83.22,
+     "label": "Visakhapatnam"
+    }
+   ],
+   "current_summary": "Oct 27-28: very severe Cyclone Arnab crossed the Andhra Pradesh–Yanam coast between 2 AM and 8 AM IST on Oct 28, with sustained winds of 125–135 km/h gusting to 150 km/h. More than 180,000 people were evacuated in Andhra Pradesh and Odisha, three airports suspended operations, and trees were uprooted and power disrupted, but no loss of life had been reported as of landfall morning. The storm was weakening as it moved inland, with heavy rain forecast for coastal Andhra Pradesh, southern Odisha, eastern Telangana and southern Chhattisgarh.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-28T06:14:00Z",
+   "started_at_utc": "2026-10-28T06:14:00Z",
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+  },
+  {
+   "id": "serbia-student-election-upset",
+   "title": "Serbia Election Upset — Student Movement Wins",
+   "description": "Serbia's long-serving leader Aleksandar Vucic concedes defeat to a student-led movement in a historic parliamentary election; post-election celebrations and protests follow.",
+   "location": "Belgrade, Serbia",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 44.79,
+     "longitude": 20.45,
+     "label": "Belgrade"
+    }
+   ],
+   "current_summary": "Oct 25-27: Serbia's student-led Student List unseated Aleksandar Vucic in a parliamentary election, ending 14 years in power for the long-serving leader, who conceded defeat on Sunday. Tens of thousands flooded the streets of Belgrade and other cities in celebration for a second night on Oct 26-27, and protesters entered the newsroom of pro-Vucic Informer TV, calling for its editor's arrest. Public broadcaster RTV later apologised on air for 'one-sided' reporting.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-28T06:14:00Z",
+   "started_at_utc": "2026-10-28T06:14:00Z",
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+  },
+  {
+   "id": "phuket-flash-floods",
+   "title": "Phuket Flash Floods — Thailand",
+   "description": "Flash floods and mudslides hit Phuket's Patong district after heavy overnight rain; about 100 households affected, no deaths reported.",
+   "location": "Phuket, Thailand",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 7.88,
+     "longitude": 98.3,
+     "label": "Patong, Phuket"
+    }
+   ],
+   "current_summary": "Oct 26-27: flash floods struck Phuket early Oct 26 after up to 142.8 mm of rain in 24 hours, inundating all three districts of the island. In Patong, runoff carrying rocks, soil and mud poured into the Nanai area around 3 AM, damaging homes, shops, a hotel and vehicles; about 100 households were affected and no casualties were reported. Provisional damage in Patong was estimated at 100 million baht. Heavy rain continued Oct 27, with disaster warnings for flash floods and landslides running through Oct 28.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-10-28T06:14:00Z",
+   "started_at_utc": "2026-10-28T06:14:00Z",
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
   }
  ],
- "updated_at_utc": "2026-10-28T06:11:03Z"
+ "updated_at_utc": "2026-10-28T06:14:00Z"
 }

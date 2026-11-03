@@ -865,7 +865,7 @@
    "title": "Jordan Church Funeral Shooting",
    "description": "Gunmen opened fire on a funeral near a Greek Orthodox church in Karak province; 9 dead, 40 injured; king orders an iron-fist response.",
    "location": "Karak, Jordan",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -879,7 +879,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z",
+   "archived_at_utc": "2026-11-03T07:50:00Z"
   },
   {
    "id": "ebola-east-central-africa",
@@ -912,7 +913,7 @@
    "title": "Tibet Earthquake — Nagqu",
    "description": "Magnitude 7.0 earthquake in Tibet's Nagqu city; at least 16 dead, 65 injured, 12,000+ moved to safety; rescue operations underway.",
    "location": "Nagqu, Tibet, China",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -926,7 +927,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-11-03T07:50:00Z"
   },
   {
    "id": "typhoon-champi-taiwan",
@@ -1092,7 +1094,7 @@
    "title": "Cyclone Arnab — Andhra Pradesh",
    "description": "Very severe Cyclone Arnab makes landfall on India's Andhra Pradesh coast, with 180,000+ evacuated and no deaths reported so far.",
    "location": "Andhra Pradesh, India",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -1111,7 +1113,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-28T06:14:00Z",
-   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z",
+   "archived_at_utc": "2026-11-03T07:50:00Z"
   },
   {
    "id": "serbia-student-election-upset",

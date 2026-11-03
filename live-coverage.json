@@ -1157,6 +1157,69 @@
    "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-28T06:14:00Z",
    "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+  },
+  {
+   "id": "spain-urda-train-crash",
+   "title": "Spain High-Speed Train Crash — Urda",
+   "description": "High-speed train collision near Urda, Toledo province, Spain: Renfe train struck a stationary Iryo train, killing at least 68; second major Spanish rail disaster of 2026.",
+   "location": "Urda, Toledo, Spain",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 39.42,
+     "longitude": -3.72,
+     "label": "Urda"
+    }
+   ],
+   "current_summary": "Oct 28: a Renfe high-speed train carrying ~397 passengers rear-ended a stationary Iryo train (~147 passengers) near Urda, Toledo, at about 8:53 AM, derailing carriages down an embankment. At least 68 people were killed and dozens injured; the government announced three days of national mourning and an investigation. Madrid–Andalusia high-speed services were suspended, and protests followed in Madrid over rail safety — the second major Renfe/Iryo disaster of 2026 after the Jan 18 Adamuz crash (46 dead).",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-11-03T08:20:00Z",
+   "started_at_utc": "2026-10-28T08:53:00Z",
+   "curation_updated_at_utc": "2026-11-03T08:20:00Z"
+  },
+  {
+   "id": "florida-learjet-crash-palm-beach",
+   "title": "Florida Learjet Crash — Palm Beach County",
+   "description": "Learjet 60 crashed near Greenacres, Palm Beach County, Florida, killing all 9 aboard; NTSB investigation underway.",
+   "location": "Greenacres, Palm Beach County, Florida, USA",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 26.63,
+     "longitude": -80.14,
+     "label": "Greenacres"
+    }
+   ],
+   "current_summary": "Nov 1, ~12:50 PM ET: a Learjet 60 flying Austin to North Eleuthera, Bahamas, crashed near Military Trail and 10th Avenue North, between Greenacres and Palm Springs, killing all 9 aboard (7 passengers, 2 crew) and displacing ~600 nearby residents. The NTSB found evidence the aircraft began breaking apart before impact; the crew had reported icing, turbulence and precipitation. Cause remains undetermined.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-11-03T08:20:00Z",
+   "started_at_utc": "2026-11-01T17:50:00Z",
+   "curation_updated_at_utc": "2026-11-03T08:20:00Z"
+  },
+  {
+   "id": "us-strikes-qeshm-island",
+   "title": "US Strikes on Iran's Qeshm Island",
+   "description": "US limited strikes on Qeshm Island in the Strait of Hormuz, described by US officials as defensive; Iran claimed US drones downed.",
+   "location": "Qeshm Island, Strait of Hormuz, Iran",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 26.95,
+     "longitude": 56.27,
+     "label": "Qeshm Island"
+    }
+   ],
+   "current_summary": "Nov 2: the US carried out limited strikes on Qeshm Island, first reported by the Wall Street Journal and confirmed by US officials to Reuters/CNN as a defensive measure against Iranian surface-to-air missile activity threatening US assets, after Iran reportedly fired at a US aircraft. CENTCOM did not publicly announce the strikes. Iran's IRGC claimed it shot down US drones south of the island — a claim CENTCOM disputed and which remains unverified. Targets, damage and casualties are unconfirmed.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-11-03T08:20:00Z",
+   "started_at_utc": "2026-11-02T12:00:00Z",
+   "curation_updated_at_utc": "2026-11-03T08:20:00Z"
   }
  ],
  "updated_at_utc": "2026-10-28T06:14:00Z"

@@ -5,7 +5,7 @@
    "folder": "CJP-Protest-2-India",
    "id": "cjp-protest-2-india",
    "location": "Delhi, India",
-   "status": "paused",
+   "status": "archived",
    "title": "CJP Protest 2.0",
    "map_points": [
     {
@@ -114,14 +114,15 @@
     "confirmed_rate": 0.76,
     "updated_at_utc": "2026-10-21T15:44:51Z"
    },
-   "phase": "resolution"
+   "phase": "resolution",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "description": "Live coverage of the Houthi-Saudi escalation — missile and drone strikes on Riyadh and oil sites, airport and airspace closures, Saudi/coalition retaliation, US moves and diplomatic developments.",
    "folder": "Houthi-Riyadh-Escalation",
    "id": "houthi-riyadh-escalation",
    "location": "Saudi Arabia / Red Sea region",
-   "status": "paused",
+   "status": "archived",
    "title": "Houthi-Riyadh Escalation",
    "map_points": [
     {
@@ -233,14 +234,15 @@
     "confirmed_rate": 0.65,
     "updated_at_utc": "2026-10-21T13:45:02Z"
    },
-   "phase": "escalation"
+   "phase": "escalation",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "description": "Live coverage of the Russia-Ukraine war focused on the 'Energy Ceasefire' — strikes on energy infrastructure by either side, ceasefire claims and violations, Kremlin/White House/Kyiv statements, EU sanctions and oil-market fallout.",
    "folder": "Russia-Ukraine-Energy-Ceasefire",
    "id": "russia-ukraine-energy-ceasefire",
    "location": "Ukraine / Russia / Eastern Europe",
-   "status": "paused",
+   "status": "archived",
    "title": "Russia-Ukraine War & Energy Ceasefire",
    "map_points": [
     {
@@ -363,7 +365,8 @@
     "confirmed_rate": 0.96,
     "updated_at_utc": "2026-10-21T15:06:34Z"
    },
-   "phase": "escalation"
+   "phase": "escalation",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "description": "Live coverage of hurricane and tropical-storm activity impacting North America — NHC advisories, storm formation and intensity changes, watches and warnings, landfalls, casualties, damage and outage numbers, evacuations, closures and recovery.",
@@ -466,7 +469,7 @@
    "description": "Live coverage of the U.S.–Iran confrontation — military posturing, strikes or threats, Strait of Hormuz shipping incidents and closure threats, Iranian statements, US administration moves, oil-market and diplomatic fallout.",
    "location": "Persian Gulf / Middle East",
    "folder": "US-Iran-Conflict-Strait-of-Hormuz",
-   "status": "paused",
+   "status": "archived",
    "map_points": [
     {
      "latitude": 26.5667,
@@ -567,7 +570,8 @@
     "confirmed_rate": 0.81,
     "updated_at_utc": "2026-10-21T14:48:07Z"
    },
-   "phase": "escalation"
+   "phase": "escalation",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "id": "us-midterms-2026",
@@ -575,7 +579,7 @@
    "description": "Polls, early voting, key House/Senate/gubernatorial races, and campaign moves ahead of the Nov 3, 2026 US midterm elections.",
    "location": "United States",
    "folder": "US-Midterms-2026",
-   "status": "paused",
+   "status": "archived",
    "map_points": [
     {
      "latitude": 38.9072,
@@ -689,14 +693,15 @@
      }
     },
     "updated_at_utc": "2026-10-21T15:58:20Z"
-   }
+   },
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "description": "Live coverage of the French protest movement that began with Paris lycée student blockades in September 2026 and escalated into nationwide cost-of-living demonstrations — marches, clashes, arrests and injuries, union and student actions, government response, and the parliamentary budget fight.",
    "folder": "Paris-Protests-France",
    "id": "paris-protests-france",
    "location": "Paris, France (nationwide)",
-   "status": "paused",
+   "status": "archived",
    "title": "Paris Protests — France Cost-of-Living Unrest",
    "map_points": [
     {
@@ -831,7 +836,8 @@
     "confirmed_rate": 0.87,
     "updated_at_utc": "2026-10-21T14:41:06Z"
    },
-   "phase": "standoff"
+   "phase": "standoff",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "id": "trappes-france-shooting",
@@ -887,7 +893,7 @@
    "title": "Ebola Outbreak — East & Central Africa",
    "description": "Second Ebola death reported in Kenya; outbreak now spans four African countries; WHO vaccine trial begins in DRC for the Bundibugyo strain.",
    "location": "Kenya / DR Congo",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -906,7 +912,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-25T03:24:01Z",
    "started_at_utc": "2026-10-25T03:24:01Z",
-   "curation_updated_at_utc": "2026-10-25T03:24:01Z"
+   "curation_updated_at_utc": "2026-10-25T03:24:01Z",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "id": "tibet-nagqu-earthquake",
@@ -1121,7 +1128,7 @@
    "title": "Serbia Election Upset — Student Movement Wins",
    "description": "Serbia's long-serving leader Aleksandar Vucic concedes defeat to a student-led movement in a historic parliamentary election; post-election celebrations and protests follow.",
    "location": "Belgrade, Serbia",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -1135,14 +1142,15 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-28T06:14:00Z",
-   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "id": "phuket-flash-floods",
    "title": "Phuket Flash Floods — Thailand",
    "description": "Flash floods and mudslides hit Phuket's Patong district after heavy overnight rain; about 100 households affected, no deaths reported.",
    "location": "Phuket, Thailand",
-   "status": "map-only",
+   "status": "archived",
    "map_only": true,
    "update_mode": "none",
    "map_points": [
@@ -1156,7 +1164,8 @@
    "trend": "hot",
    "trend_updated_at_utc": "2026-10-28T06:14:00Z",
    "started_at_utc": "2026-10-28T06:14:00Z",
-   "curation_updated_at_utc": "2026-10-28T06:14:00Z"
+   "curation_updated_at_utc": "2026-10-28T06:14:00Z",
+   "archived_at_utc": "2026-11-12T17:30:00Z"
   },
   {
    "id": "spain-urda-train-crash",
@@ -1220,6 +1229,27 @@
    "trend_updated_at_utc": "2026-11-03T08:20:00Z",
    "started_at_utc": "2026-11-02T12:00:00Z",
    "curation_updated_at_utc": "2026-11-03T08:20:00Z"
+  },
+  {
+   "id": "nvidia-ceo-crisis-jensen-huang",
+   "title": "Nvidia CEO Crisis — Jensen Huang",
+   "description": "Nvidia board weighs removing CEO Jensen Huang after reports of two extramarital affairs, a shareholder lawsuit, and a steep stock slide ahead of Nov 17 earnings.",
+   "location": "Santa Clara, California, USA",
+   "status": "map-only",
+   "map_only": true,
+   "update_mode": "none",
+   "map_points": [
+    {
+     "latitude": 37.3707,
+     "longitude": -121.9765,
+     "label": "Santa Clara — Nvidia HQ"
+    }
+   ],
+   "current_summary": "Nov 11-12: Nvidia's board met late Wed Nov 11 to weigh removing co-founder and CEO Jensen Huang, per WSJ/Reuters, and has engaged an outside executive-search firm; Bloomberg reports an interim CEO is being considered while a permanent search runs. The trigger was a second reported relationship — NYT, citing five current/former employees, reported Huang had a relationship with Kimberly Powell, Nvidia VP of healthcare, who reports directly to him. That followed his Nov 8 staff memo acknowledging infidelity tied to Alice Huang, a former Megaspeed executive US officials identified as a suspected Chinese intelligence asset; the board opened an independent investigation (Wachtell Lipton, led by Joon Kim) on Nov 8. A proposed shareholder class action was filed Mon Nov 9 in San Jose federal court. Shares fell ~8% in after-hours trading Wed Nov 11 (close $173.73) and were down further in Thu premarket; Nvidia has shed roughly $600B in market value since the start of the week. As of Thu morning Nov 12, no decision has been announced, no successor named, and Huang remains CEO. Next fixed date: Q3 earnings Tue Nov 17.",
+   "trend": "hot",
+   "trend_updated_at_utc": "2026-11-12T17:30:00Z",
+   "started_at_utc": "2026-11-12T17:30:00Z",
+   "curation_updated_at_utc": "2026-11-12T17:30:00Z"
   }
  ],
  "updated_at_utc": "2026-10-28T06:14:00Z"
